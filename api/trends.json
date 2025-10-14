@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-14T17:26:26.406389+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2025-10-14T18:24:51.071623+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
           "url": "https://v.ifeng.com/c/8nRLZYpIezc",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时38分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[14时38分 ~ 18时24分]"
         },
         {
           "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
@@ -70,11 +71,12 @@
             28,
             7,
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时52分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 18时24分]"
         },
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -119,8 +121,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 17时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 18时24分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -137,8 +139,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 17时26分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 18时24分]"
         },
         {
           "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
@@ -340,6 +342,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
+          "url": "https://news.ifeng.com/c/8nRppITbDH3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普：活着的人质已按时获释。",
           "url": "https://flash.jin10.com/detail/20251014001940246800",
           "source": "金十数据",
@@ -533,6 +546,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "特朗普抱怨：这张照片实在太烂了(图)",
+          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普：（谈加沙协议）文件将明确规则和条例，文件是非常全面的。",
           "url": "https://flash.jin10.com/detail/20251014001922385800",
           "source": "金十数据",
@@ -588,6 +612,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "克里姆林宫：希望美国能在乌克兰的和平进程中发挥影响力。欢迎特朗普希望在加沙局势取得进展后，将注意力集中于寻求解决乌克兰冲突的意愿。",
+          "url": "https://flash.jin10.com/detail/20251014175027679800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普：美国与伊朗的接触\"相当频繁\"",
           "url": "https://flash.jin10.com/detail/20251014040935651800",
           "source": "金十数据",
@@ -632,15 +667,37 @@
           "time_info": "00时34分"
         },
         {
+          "title": "特朗普指着阿联酋副总统：钱多得没边",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%9D%80%E9%98%BF%E8%81%94%E9%85%8B%E5%89%AF%E6%80%BB%E7%BB%9F%EF%BC%9A%E9%92%B1%E5%A4%9A%E5%BE%97%E6%B2%A1%E8%BE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普将卡尼误称为总统",
           "url": "https://www.douyin.com/hot/2269224",
           "source": "抖音",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "特朗普扬言对华加关税后为何立即改口",
+          "url": "https://www.toutiao.com/trending/7560995682748747302/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普分享了关于乌克兰所需“战斧”导弹数量的“愿景”，并将于周五讨论具体细节。",
@@ -762,12 +819,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "特朗普抱怨美媒用他最差照片当封面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -780,8 +848,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 17时26分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 18时24分]"
         },
         {
           "title": "高盛大幅上调阿里未来三年资本开支预测至4600亿：云业务国际化被低估，AI支出转化正重塑增长！",
@@ -819,8 +887,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 18时24分]"
         },
         {
           "title": "苹果 CEO 库克宣布 iPhone Air 国行版 10 月 17 日开启预定，你会入手吗？",
@@ -1039,7 +1107,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -1132,6 +1200,28 @@
           "time_info": "07时21分"
         },
         {
+          "title": "阿斯麦财报前景面临考验 AI订单与2026指引成焦点",
+          "url": "https://flash.jin10.com/detail/20251014173604100800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "人工智能（AI）图片生成器Black Forest Labs Inc.洽谈按32.5亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/2986987",
           "source": "华尔街见闻-快讯",
@@ -1157,7 +1247,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -1169,8 +1259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时52分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[09时52分 ~ 18时24分]"
         },
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -1378,9 +1468,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "华尔街警告：美股估值高企与不确定性恐引发新一轮波动",
+          "url": "https://flash.jin10.com/detail/20251014175234213800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
