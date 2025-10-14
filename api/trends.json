@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T03:20:18.689394+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-10-15T04:23:50.778297+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -27,8 +27,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
+        },
+        {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
+        },
+        {
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
@@ -59,44 +84,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
-          "url": "https://wallstreetcn.com/livenews/2987675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
-        },
-        {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
         },
         {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
@@ -116,7 +106,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -138,18 +128,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普赞赏当前的石油和汽油价格。",
-          "url": "https://wallstreetcn.com/livenews/2987673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -171,7 +150,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -193,9 +172,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
+          "url": "https://wallstreetcn.com/livenews/2987675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时23分]"
         },
         {
           "title": "鲍威尔：仅仅开始看到（美国总统特朗普大肆驱赶）移民政策的范围而已。 还没有看到移民政策对薪资的影响。",
@@ -211,6 +202,18 @@
           "time_info": "[01时19分 ~ 03时20分]"
         },
         {
+          "title": "美国总统特朗普赞赏当前的石油和汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/2987673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时23分]"
+        },
+        {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
           "url": "https://wallstreetcn.com/livenews/2987645",
           "source": "华尔街见闻-快讯",
@@ -222,6 +225,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普：我对“两国方案”还没有表态",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 04时23分]"
         },
         {
           "title": "提醒：美国总统特朗普会见阿根廷总统米莱，财长贝森特在场。",
@@ -271,16 +287,16 @@
           "time_info": "[01时19分 ~ 02时32分]"
         },
         {
-          "title": "特朗普：我对“两国方案”还没有表态",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
+          "title": "特朗普100%关税威胁是虚晃一枪吗",
+          "url": "https://www.toutiao.com/trending/7560969100101422601/",
+          "source": "今日头条",
           "ranks": [
-            29,
-            26
+            27,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时23分]"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基将于周五来访。",
@@ -289,9 +305,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "富国银行收涨7.1%，创特朗普赢得2024年大选以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2987697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京就是不想结束冲突。",
@@ -300,7 +327,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -311,7 +338,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -333,7 +360,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -344,7 +371,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -366,7 +393,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -377,7 +404,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -399,7 +426,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -410,7 +437,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -454,7 +481,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -492,13 +519,24 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美国总统特朗普：周五将掌握一份关于被关闭政府部门的清单。",
+          "url": "https://wallstreetcn.com/livenews/2987676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "美国总统特朗普：他们告诉我他们会解除武装。",
           "url": "https://flash.jin10.com/detail/20251015022810629800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -520,7 +558,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -531,18 +569,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普100%关税威胁是虚晃一枪吗",
-          "url": "https://www.toutiao.com/trending/7560969100101422601/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -564,7 +591,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -586,7 +613,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -608,7 +635,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
@@ -627,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -638,8 +665,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
+        },
+        {
+          "title": "大雁塔玄奘铜像长满青苔系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -653,29 +703,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "大雁塔玄奘铜像长满青苔系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
-        },
-        {
-          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
-        },
-        {
           "title": "iPhone Air开启无SIM卡时代",
           "url": "https://www.douyin.com/hot/2269405",
           "source": "抖音",
@@ -685,8 +712,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时23分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
@@ -741,7 +768,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -751,8 +778,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -762,8 +789,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -774,8 +801,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时23分]"
         },
         {
           "title": "澳股美股稀土板块持续飙涨",
@@ -789,6 +816,50 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
+          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251015040522568800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251015040516317800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "标普500指数美股尾盘转跌，一度跌0.2%",
+          "url": "https://wallstreetcn.com/livenews/2987689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英伟达跌超4%",
+          "url": "https://flash.jin10.com/detail/20251015040050861800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
+        },
+        {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251015012805608800",
           "source": "金十数据",
@@ -798,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "受消息面影响，美股三大股指短线小幅下挫。",
+          "url": "https://flash.jin10.com/detail/20251015033901545800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     }
