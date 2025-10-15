@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T07:20:08.259510+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-10-15T09:41:54.248925+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时41分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -55,8 +55,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时41分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -212,7 +212,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -400,6 +400,17 @@
           "time_info": "[04时23分 ~ 05时19分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰总统泽连斯基将于周五来访。",
           "url": "https://flash.jin10.com/detail/20251015024412153800",
           "source": "金十数据",
@@ -420,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京就是不想结束冲突。",
@@ -453,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         },
         {
           "title": "美国总统特朗普：我非常想访问阿根廷。",
@@ -767,8 +800,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时41分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -778,8 +811,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
@@ -806,6 +839,19 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
+          "url": "https://www.cls.cn/detail/2169304",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 09时41分]"
+        },
+        {
           "title": "标普500指数美股尾盘转跌，一度跌0.2%",
           "url": "https://wallstreetcn.com/livenews/2987689",
           "source": "华尔街见闻-快讯",
@@ -817,18 +863,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 06时22分]"
-        },
-        {
-          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
-          "url": "https://www.cls.cn/detail/2169304",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "航空业ETF收涨将近3.2%，和银行ETF领跑美股行业ETF，半导体ETF则跌超1.8%",
@@ -927,7 +961,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -938,8 +972,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时41分]"
         },
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -962,8 +996,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时41分]"
         },
         {
           "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
@@ -985,11 +1019,12 @@
             23,
             22,
             20,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时41分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -1061,6 +1096,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时20分]"
+        },
+        {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "甲骨文官宣明年部署5万枚AMD芯片 或预示AI硬件格局生变",
+          "url": "https://www.cls.cn/detail/2169443",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     }
