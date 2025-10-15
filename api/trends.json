@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T20:46:54.198678+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-10-15T21:34:18.022490+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -71,6 +71,20 @@
           "time_info": "[01时18分 ~ 11时06分]"
         },
         {
+          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
+          "url": "https://www.cls.cn/detail/2169939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 21时34分]"
+        },
+        {
           "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
           "url": "https://www.cls.cn/detail/2169533",
           "source": "财联社热门",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 14时33分]"
-        },
-        {
-          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
-          "url": "https://www.cls.cn/detail/2169939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时46分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -317,7 +318,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -355,6 +356,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "华为发布以AI-Centric全面升级的AI WAN解决方案",
+          "url": "https://wallstreetcn.com/livenews/2988266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "百度蒸汽机再进化：AI长视频可边生成边改 发布互动数字人与开放世界",
           "url": "https://wallstreetcn.com/livenews/2988168",
           "source": "华尔街见闻-快讯",
@@ -372,7 +384,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
@@ -380,7 +392,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -430,6 +442,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 11时06分]"
+        },
+        {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。美国银行涨逾2%，第三季度业绩超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -589,6 +612,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2988270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "美国银行第三季交易收入（不含DVA）为53.5亿美元，预估为50.1亿美元。 第三季每股收益1.06美元。 第三季净利息收入152.3亿美元，预估150.3亿美元。 美国银行美股盘前涨逾2%。",
           "url": "https://wallstreetcn.com/livenews/2988183",
           "source": "华尔街见闻-快讯",
@@ -664,6 +698,32 @@
           "time_info": "[09时41分 ~ 17时24分]"
         },
         {
+          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
+          "url": "https://www.cls.cn/detail/2170153",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时31分 ~ 21时34分]"
+        },
+        {
+          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
+          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 21时34分]"
+        },
+        {
           "title": "自扇耳光?特朗普关税战求和中国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
@@ -675,31 +735,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时29分 ~ 12时26分]"
-        },
-        {
-          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
-          "url": "https://www.cls.cn/detail/2170153",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时46分]"
-        },
-        {
-          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
-          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 20时46分]"
         },
         {
           "title": "特朗普抱怨称中国故意不买美国大豆",
