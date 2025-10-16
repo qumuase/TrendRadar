@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T20:45:24.993803+08:00",
-  "total_titles_processed": 1931,
+  "generated_at": "2025-10-16T21:35:39.589414+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -22,8 +22,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时25分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 21时35分]"
         },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -61,11 +61,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时35分]"
         },
         {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
@@ -181,7 +182,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -219,13 +220,24 @@
           "time_info": "06时20分"
         },
         {
+          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "影目科技发布新款AI眼镜INMO GO3 聚焦原生内容生态建设",
           "url": "https://wallstreetcn.com/livenews/2988997",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -307,6 +319,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "到2030年，OpenAI在甲骨文服务器上的支出可能会超过在微软服务器上的支出。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2989034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
           "url": "https://wallstreetcn.com/livenews/2988757",
           "source": "华尔街见闻-快讯",
@@ -324,7 +347,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -346,7 +369,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -357,7 +380,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -376,7 +399,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -403,6 +426,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时20分 ~ 13时22分]"
+        },
+        {
+          "title": "美股三大股指开盘走高，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电涨超1%，Q3净利润创历史新高；美光科技、阿斯麦涨超3%，博通涨超2%，英伟达涨超1%；美股稀土概念股Critical Metals涨超14%；蔚来跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/2989055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -531,6 +565,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2989026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
           "url": "https://wallstreetcn.com/livenews/2988706",
           "source": "华尔街见闻-快讯",
@@ -545,7 +590,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -605,6 +650,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "京东物流与小鹏汽车深化战略合作",
+          "url": "https://wallstreetcn.com/livenews/2989040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
           "url": "https://wallstreetcn.com/livenews/2988409",
           "source": "华尔街见闻-快讯",
@@ -630,7 +686,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -667,6 +723,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时20分 ~ 07时20分]"
+        },
+        {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.toutiao.com/trending/7561368482139373610/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "【中国购买俄油问题是中美贸易谈判一部分？外交部：坚决反对美方动辄拿中方说事】法新社记者提问，美国总统特朗普昨天表示，他已收到印度总理莫迪的保证，印度将停止从俄罗斯购买石油。特朗普在讲话中补充说，现在是时候让中国也采取同样的行动了。请问，中国购买俄罗斯石油是否属于正在进行的中美贸易谈判的一部分？中方对此持何立场？ 林剑表示，中方已多次就该问题表明立场，中国同包括俄罗斯在内的世界各国开展正常的经贸能源合作，正当合法。美方的做法是典型的单边霸凌和经济胁迫，严重破坏国际经贸规则，威胁全球产业链供应链的安全稳定。 林剑强调，中方在乌克兰危机问题上，一贯秉持客观公正立场，光明磊落，有目共睹。“我们坚决反对美方动辄拿中方说事，坚决反对对中方滥施非法单边制裁和长臂管辖。如果中方的正当权益受到损害，中方必将坚决反制，坚定维护自身的主权发展和安全利益。”（澎湃新闻）",
