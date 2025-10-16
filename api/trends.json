@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:24:34.771174+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2025-10-16T16:31:12.717526+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 15时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 16时31分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -37,6 +37,21 @@
           "time_info": "[09时39分 ~ 15时24分]"
         },
         {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时25分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
           "url": "https://www.cls.cn/detail/2170822",
           "source": "财联社热门",
@@ -51,18 +66,15 @@
           "time_info": "[09时39分 ~ 13时22分]"
         },
         {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
+          "title": "6款淘宝AI导购落地天猫双11",
+          "url": "https://wallstreetcn.com/livenews/2988848",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            13,
-            11,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时25分 ~ 15时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "AI是否会取代人类？凯文·凯利：AI没有责任感，不会替代人类工作",
@@ -174,7 +186,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -223,13 +235,24 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
           "url": "https://wallstreetcn.com/livenews/2988757",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -240,7 +263,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -248,7 +271,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -381,6 +404,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美股盘前，科技股走高，台积电涨超2%，公司Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元，阿斯麦涨1.5%，英伟达、博通均涨超1%。Salesforce盘前涨超4%，此前公司预测营收将超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "台积电第三季度净利润4,523亿元台币，同比增长39%，预估4,054.7亿元台币。 第三季度毛利率59.5％，上一季度为58.6%，预估57.1％。 第三季度营业利润5006.9亿新台币，同比增长39%，预估4586亿新台币。 第三季度营业利润率为50.6%，上一季度为49.6%，预估47.3%。 第三季度销售收入9899.2亿新台币，同比增长30%，预估9677亿新台币。 2025年前9个月资本支出总计293.9亿美元。 台积电美股夜盘直线拉升，现涨3.4%。",
           "url": "https://wallstreetcn.com/livenews/2988706",
           "source": "华尔街见闻-快讯",
@@ -395,7 +429,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -419,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2988836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨约10%，文远知行、小鹏、台积电、百胜中国、网易、百度、京东至多涨超4%。",
@@ -457,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -494,6 +539,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时20分 ~ 07时20分]"
+        },
+        {
+          "title": "【中国购买俄油问题是中美贸易谈判一部分？外交部：坚决反对美方动辄拿中方说事】法新社记者提问，美国总统特朗普昨天表示，他已收到印度总理莫迪的保证，印度将停止从俄罗斯购买石油。特朗普在讲话中补充说，现在是时候让中国也采取同样的行动了。请问，中国购买俄罗斯石油是否属于正在进行的中美贸易谈判的一部分？中方对此持何立场？ 林剑表示，中方已多次就该问题表明立场，中国同包括俄罗斯在内的世界各国开展正常的经贸能源合作，正当合法。美方的做法是典型的单边霸凌和经济胁迫，严重破坏国际经贸规则，威胁全球产业链供应链的安全稳定。 林剑强调，中方在乌克兰危机问题上，一贯秉持客观公正立场，光明磊落，有目共睹。“我们坚决反对美方动辄拿中方说事，坚决反对对中方滥施非法单边制裁和长臂管辖。如果中方的正当权益受到损害，中方必将坚决反制，坚定维护自身的主权发展和安全利益。”（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/2988797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     }
