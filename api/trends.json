@@ -1,12 +1,30 @@
 {
-  "generated_at": "2025-10-16T19:20:35.713215+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2025-10-16T20:45:24.993803+08:00",
+  "total_titles_processed": 1931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            10,
+            8,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时25分 ~ 20时45分]"
+        },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
           "url": "https://wallstreetcn.com/articles/3757228",
@@ -20,23 +38,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时39分 ~ 19时20分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11,
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时25分 ~ 19时20分]"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
@@ -59,11 +60,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时45分]"
         },
         {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
@@ -173,6 +175,17 @@
           "time_info": "[13时21分 ~ 13时22分]"
         },
         {
+          "title": "三星与美国生命科学公司Grail宣布达成战略合作，将Grail的Galleri®多癌早筛检测引入亚洲。三星物产和三星电子将向Grail投资1.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2989001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
           "url": "https://flash.jin10.com/detail/20251016165953170800",
           "source": "金十数据",
@@ -204,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "影目科技发布新款AI眼镜INMO GO3 聚焦原生内容生态建设",
+          "url": "https://wallstreetcn.com/livenews/2988997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "网络热门AI诈骗鉴定",
@@ -294,6 +318,17 @@
           "time_info": "15时24分"
         },
         {
+          "title": "雷军：AI大模型将给智能网联汽车无限的想象空间",
+          "url": "https://wallstreetcn.com/livenews/2988978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "百度搜索上线AI短剧平台，今日开启公测",
           "url": "https://wallstreetcn.com/livenews/2988859",
           "source": "华尔街见闻-快讯",
@@ -303,6 +338,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "美联储理事沃勒：目前通胀率估计在2.5%左右，似乎没有什么迹象表明通胀会大幅上升。 褐皮书并未显示经济形势乐观和繁荣。 年底GDP可能走弱。 我认为关税问题最终会平息，不会有大碍。 对AI的担忧在于它是否会导致劳动力需求的结构性变化，而美联储的周期性工具无法解决这个问题。",
+          "url": "https://wallstreetcn.com/livenews/2988976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "美联储理事沃勒：关税不确定性以及对AI对生产力可能影响的疑问，使得企业CEO招聘意愿不强。 企业投资主要集中在AI领域，并未广泛分布。 一旦扣掉AI，企业固定投资是下降的。 大量AI相关支出实际上是行业间的资源重新分配。 美国抵押贷款和汽车贷款利率很高，条件并不宽松。 如果美联储继续下调政策利率，抵押贷款应会面临下行压力。 如果宽松的金融环境将引发景气繁荣，那么劳动力市场应该会出现这种现象。 但目前为止，情况并非如此。",
+          "url": "https://wallstreetcn.com/livenews/2988974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "台积电：关于CoWoS封装产能，仍努力在2026年提升产能。 AI相关产能非常紧张。",
@@ -469,7 +526,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
