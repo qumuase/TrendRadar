@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T22:23:00.157580+08:00",
-  "total_titles_processed": 2073,
+  "generated_at": "2025-10-17T23:23:02.627245+08:00",
+  "total_titles_processed": 2158,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时38分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时38分 ~ 23时23分]"
         },
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[22时22分 ~ 23时23分]"
         },
         {
           "title": "贸易担忧缓解，美股三大期指短线拉升，富时中国A50涨超0.6%，美股区域银行股盘前走高，美债、金银强势",
@@ -103,17 +103,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2989788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "金十图示：2025年10月16日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251017040514550800",
           "source": "金十数据",
@@ -136,15 +125,16 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
-          "url": "https://wallstreetcn.com/livenews/2989785",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2173194",
+          "source": "财联社热门",
           "ranks": [
-            5
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时32分 ~ 23时23分]"
         },
         {
           "title": "美股区域银行股盘前走高，Zions抹去此前跌幅，现涨超4%；阿莱恩斯西部银行现涨超3%。",
@@ -172,6 +162,18 @@
           "time_info": "[21时32分 ~ 22时23分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨约0.9%，半导体ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2989788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时23分]"
+        },
+        {
           "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
           "url": "https://wallstreetcn.com/livenews/2989185",
           "source": "华尔街见闻-快讯",
@@ -184,15 +186,16 @@
           "time_info": "[04时25分 ~ 05时19分]"
         },
         {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
+          "title": "美股三大股指开盘涨跌不一，道指涨0.05%，标普500指数跌0.18%，纳指跌0.38%。银行股小幅走高，阿莱恩斯西部银行涨近2%，Zions涨近3%。礼来跌超3%，诺和诺德跌超4%，特朗普称“司美格鲁肽药价将大跌”。",
+          "url": "https://wallstreetcn.com/livenews/2989785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时23分]"
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时23分]"
         },
         {
           "title": "美股三大股指齐收跌 金龙指数跌近1%",
@@ -217,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时18分]"
+        },
+        {
+          "title": "美股股指短线拉升，道指涨0.5%，标普500指数涨0.23%，纳指涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20251017215650480800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时23分]"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售，投资者对银行业不良贷款产生恐慌情绪",
@@ -322,17 +337,6 @@
           "time_info": "05时19分"
         },
         {
-          "title": "美股股指短线拉升，道指涨0.5%，标普500指数涨0.23%，纳指涨0.18%。",
-          "url": "https://flash.jin10.com/detail/20251017215650480800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "美股盘前，美股三大股指期货均跌超1%。科技股普跌，甲骨文跌超3%，英伟达跌超2%，银行股走低，花旗跌近1.7%，美国银行跌超3%。诺和诺德、礼来盘前跌约3.7%。",
           "url": "https://wallstreetcn.com/livenews/2989575",
           "source": "华尔街见闻-快讯",
@@ -405,7 +409,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -446,7 +450,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
@@ -487,8 +491,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时03分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 23时23分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -509,6 +513,19 @@
           "time_info": "[00时28分 ~ 09时38分]"
         },
         {
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时30分 ~ 23时23分]"
+        },
+        {
           "title": "国行iPhone Air测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
@@ -521,11 +538,12 @@
             21,
             20,
             25,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时03分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 23时23分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -540,24 +558,12 @@
             19,
             29,
             22,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时27分 ~ 22时23分]"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时30分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[12时27分 ~ 23时23分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -705,6 +711,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2989806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "华侨银行：地方银行危机记忆犹新 AI热潮推高估值令投资者保持警惕",
           "url": "https://flash.jin10.com/detail/20251017182441102800",
           "source": "金十数据",
@@ -714,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
+          "url": "https://flash.jin10.com/detail/20251017223547959800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "京东：iPhone Air 成交额1秒钟破亿",
@@ -758,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "阅文升级三大AI能力覆盖IP全流程",
+          "url": "https://wallstreetcn.com/livenews/2989797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "AI for Science 行业目前进展如何？未来在哪些领域会有发展潜力？",
