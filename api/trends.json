@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T20:40:22.001076+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-10-18T21:26:42.460166+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 21时26分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时20分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[07时20分 ~ 21时26分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -85,6 +85,29 @@
           "time_info": "[09时28分 ~ 14时30分]"
         },
         {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 21时26分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 21时26分]"
+        },
+        {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
           "url": "https://wallstreetcn.com/livenews/2989895",
           "source": "华尔街见闻-快讯",
@@ -116,29 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 20时40分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -239,6 +239,21 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 21时26分]"
+        },
+        {
           "title": "国行iPhone Air上手体验",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
@@ -285,21 +300,6 @@
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时20分 ~ 20时40分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://wallstreetcn.com/livenews/2990011",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -322,8 +322,23 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 21时26分]"
+        },
+        {
+          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
+          "url": "https://wallstreetcn.com/livenews/2990046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            17,
+            23,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时21分 ~ 20时40分]"
+          "time_info": "[17时22分 ~ 21时26分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -345,11 +360,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时26分]"
         },
         {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
@@ -363,20 +379,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 03时19分]"
-        },
-        {
-          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
-          "url": "https://wallstreetcn.com/livenews/2990046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时40分]"
         },
         {
           "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
@@ -475,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时28分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 21时26分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -486,19 +488,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时26分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
           "url": "https://www.toutiao.com/trending/7562460355021619227/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 21时26分]"
         },
         {
           "title": "特朗普回应与中国贸易战",
