@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T10:58:59.203576+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-10-18T11:32:32.675625+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 10时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时32分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时32分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -68,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时32分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -149,8 +149,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时32分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
@@ -256,8 +256,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 10时58分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 11时32分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -345,8 +345,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时32分]"
         }
       ]
     },
