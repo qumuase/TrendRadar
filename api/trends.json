@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:17:12.427632+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2025-10-18T20:40:22.001076+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[07时20分 ~ 20时40分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -122,11 +122,12 @@
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -136,8 +137,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -290,11 +291,12 @@
             17,
             14,
             11,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时40分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -311,15 +313,17 @@
           "time_info": "[13时20分 ~ 16时26分]"
         },
         {
-          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
-          "url": "https://wallstreetcn.com/livenews/2990065",
-          "source": "华尔街见闻-快讯",
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -336,6 +340,18 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
+          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
+          "url": "https://wallstreetcn.com/livenews/2990065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时40分]"
+        },
+        {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
           "url": "https://www.zhihu.com/question/1957708491813783087",
           "source": "知乎",
@@ -349,29 +365,18 @@
           "time_info": "[00时26分 ~ 03时19分]"
         },
         {
-          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
-          "url": "https://www.cls.cn/detail/2172757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
           "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
           "url": "https://wallstreetcn.com/livenews/2990046",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时40分]"
         },
         {
           "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
@@ -470,8 +475,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时28分 ~ 20时40分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -481,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时40分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
