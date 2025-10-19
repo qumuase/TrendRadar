@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T15:20:00.614856+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2025-10-19T16:25:28.065417+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时25分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 16时25分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -74,6 +74,18 @@
           "time_info": "[00时26分 ~ 09时49分]"
         },
         {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 16时25分]"
+        },
+        {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://wallstreetcn.com/articles/3757427",
           "source": "华尔街见闻",
@@ -87,18 +99,6 @@
           "time_info": "[09时49分 ~ 13时23分]"
         },
         {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 15时20分]"
-        },
-        {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
@@ -108,8 +108,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            19,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时25分]"
         },
         {
           "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
@@ -138,20 +153,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时19分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普发AI视频挑衅抗议者",
-          "url": "https://flash.jin10.com/detail/20251019112407399800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时20分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -207,8 +208,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 16时25分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
