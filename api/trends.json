@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T20:38:59.047298+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-10-19T21:26:12.000150+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时25分 ~ 20时38分]"
+          "appearance_count": 27,
+          "time_info": "[00时25分 ~ 21时26分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 20时38分]"
+          "appearance_count": 14,
+          "time_info": "[13时22分 ~ 21时26分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时25分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时26分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -85,19 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 20时38分]"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时38分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 21时26分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -134,8 +134,21 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时20分 ~ 20时38分]"
+          "time_info": "[18时20分 ~ 21时26分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
@@ -208,17 +221,15 @@
           "time_info": "[02时27分 ~ 06时20分]"
         },
         {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            13,
-            12
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时26分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -230,17 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         }
       ]
     },
@@ -308,8 +308,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时26分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
