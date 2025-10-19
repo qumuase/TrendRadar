@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T14:30:33.633240+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-10-19T15:20:00.614856+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 15时20分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时25分 ~ 13时23分]"
+        },
+        {
+          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
+          "url": "https://v.ifeng.com/c/8nZizwGdefr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 15时20分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -63,17 +74,6 @@
           "time_info": "[00时26分 ~ 09时49分]"
         },
         {
-          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
-          "url": "https://v.ifeng.com/c/8nZizwGdefr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时30分]"
-        },
-        {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://wallstreetcn.com/articles/3757427",
           "source": "华尔街见闻",
@@ -95,8 +95,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时20分]"
+        },
+        {
+          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
+          "url": "https://www.cls.cn/detail/2173607",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 15时20分]"
         },
         {
           "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
@@ -112,17 +125,33 @@
           "time_info": "[11时19分 ~ 14时30分]"
         },
         {
-          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
-          "url": "https://www.cls.cn/detail/2173607",
-          "source": "财联社热门",
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
           "ranks": [
-            13,
+            6,
             11,
-            10
+            17,
+            25,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时30分]"
+          "time_info": "[11时19分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时20分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -152,33 +181,6 @@
           "time_info": "[02时27分 ~ 06时20分]"
         },
         {
-          "title": "特朗普发AI视频挑衅抗议者",
-          "url": "https://flash.jin10.com/detail/20251019112407399800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时30分]"
-        },
-        {
-          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
-          "url": "https://flash.jin10.com/detail/20251019102338888800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 14时30分]"
-        },
-        {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
           "url": "https://www.toutiao.com/trending/7562416129633701419/",
           "source": "今日头条",
@@ -205,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 15时20分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -306,11 +308,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时30分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 15时20分]"
         }
       ]
     }
