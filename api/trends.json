@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T11:19:41.309613+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-10-19T12:27:53.023107+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时27分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -27,11 +27,12 @@
             4,
             7,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时27分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -62,6 +63,41 @@
           "time_info": "[00时26分 ~ 09时49分]"
         },
         {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://wallstreetcn.com/articles/3757427",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 12时27分]"
+        },
+        {
+          "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
+          "url": "https://v.ifeng.com/c/8nZizwGdefr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
           "url": "https://wallstreetcn.com/livenews/2990065",
           "source": "华尔街见闻-快讯",
@@ -89,16 +125,40 @@
           "time_info": "[02时27分 ~ 06时20分]"
         },
         {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/articles/3757427",
-          "source": "华尔街见闻",
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            4
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时49分 ~ 11时19分]"
+          "time_info": "[11时19分 ~ 12时27分]"
+        },
+        {
+          "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
+          "url": "https://wallstreetcn.com/articles/3757428",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时27分]"
+        },
+        {
+          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
+          "url": "https://www.cls.cn/detail/2173607",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时27分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -110,39 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
-          "url": "https://flash.jin10.com/detail/20251019102338888800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
-          "url": "https://wallstreetcn.com/articles/3757428",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
-          "url": "https://www.cls.cn/detail/2173607",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         }
       ]
     },
@@ -156,11 +183,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时27分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -205,17 +233,18 @@
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 12时27分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
@@ -251,6 +280,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普极限施压为何总在中国面前熄火",
+          "url": "https://www.toutiao.com/trending/7562720619259760178/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     }
