@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T13:22:25.241646+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-10-20T14:35:35.121552+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 13时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 14时35分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -67,11 +67,12 @@
             16,
             17,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 14时35分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -92,7 +93,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
