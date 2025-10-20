@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T07:21:01.435104+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-10-20T09:47:49.773789+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -36,11 +36,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -58,11 +59,12 @@
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -76,8 +78,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -103,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
+          "url": "https://www.cls.cn/detail/2173698",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -116,11 +129,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 09时47分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
