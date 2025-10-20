@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:33:44.029298+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-10-21T03:20:48.983965+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -26,8 +26,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -35,11 +35,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -51,8 +52,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
@@ -61,11 +62,12 @@
           "ranks": [
             18,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -92,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -103,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -142,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时20分]"
         }
       ]
     }
