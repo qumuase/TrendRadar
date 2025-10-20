@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T09:47:49.773789+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-10-20T11:22:05.808804+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -48,23 +48,12 @@
           "url": "https://wallstreetcn.com/articles/3757451",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时21分]"
-        },
-        {
-          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
-          "url": "https://www.cls.cn/detail/2173607",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 11时22分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -75,7 +64,20 @@
             14,
             15,
             16,
-            17
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时22分]"
+        },
+        {
+          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
+          "url": "https://www.cls.cn/detail/2173607",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -96,6 +98,29 @@
           "time_info": "[00时26分 ~ 03时18分]"
         },
         {
+          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
+          "url": "https://www.cls.cn/detail/2173698",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 11时22分]"
+        },
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
           "title": "特朗普发布辣眼AI视频引争议",
           "url": "https://www.douyin.com/hot/2275568",
           "source": "抖音",
@@ -105,17 +130,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
-          "url": "https://www.cls.cn/detail/2173698",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         }
       ]
     },
@@ -133,8 +147,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时22分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
