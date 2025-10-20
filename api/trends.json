@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-10-21T06:24:18.400249+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-10-21T07:21:25.909823+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2174932",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -79,6 +81,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
+          "url": "https://wallstreetcn.com/livenews/2990843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
           "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/2990831",
           "source": "华尔街见闻-快讯",
@@ -115,15 +129,15 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
-          "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
-          "url": "https://wallstreetcn.com/livenews/2990843",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时21分"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -161,19 +175,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
+        },
+        {
+          "title": "JKAI锐评王力宏单依纯爱错",
+          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            24,
+            20,
+            17,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -190,33 +221,6 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
-          "title": "JKAI锐评王力宏单依纯爱错",
-          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            24,
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时24分]"
-        },
-        {
-          "title": "谷歌云任命Narain为首席产品兼商业官。",
-          "url": "https://wallstreetcn.com/livenews/2990842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
           "title": "“今年双11 我的AI比我还忙”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
           "source": "百度热搜",
@@ -224,11 +228,25 @@
             18,
             20,
             24,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时21分]"
+        },
+        {
+          "title": "谷歌云任命Narain为首席产品兼商业官。",
+          "url": "https://wallstreetcn.com/livenews/2990842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时21分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -255,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时21分]"
         }
       ]
     }
