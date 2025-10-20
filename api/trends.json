@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T11:22:05.808804+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2025-10-20T12:29:31.031620+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 11时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时29分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -68,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 11时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 12时29分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -147,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 11时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 12时29分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
