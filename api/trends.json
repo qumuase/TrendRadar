@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T11:09:56.599259+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-10-21T12:27:01.081935+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 12时27分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -167,7 +168,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
@@ -178,8 +179,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时27分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -189,11 +190,12 @@
             12,
             13,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时27分]"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
@@ -228,6 +230,30 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
+          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2991014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 12时27分]"
+        },
+        {
           "title": "“今年双11 我的AI比我还忙”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
           "source": "百度热搜",
@@ -256,16 +282,15 @@
           "time_info": "[05时21分 ~ 07时21分]"
         },
         {
-          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
-          "url": "https://www.cls.cn/detail/2175118",
-          "source": "财联社热门",
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 11时09分]"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
