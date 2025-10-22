@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T09:45:04.199917+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2025-10-22T11:13:13.126331+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -31,11 +31,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 09时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 11时13分]"
         },
         {
           "title": "AI时代需要什么样的程序员",
@@ -75,8 +76,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 09时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 11时13分]"
         },
         {
           "title": "iPhone Air评测",
@@ -91,8 +92,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 09时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 11时13分]"
+        },
+        {
+          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
+          "url": "https://wallstreetcn.com/articles/3757538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 11时13分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -117,16 +131,27 @@
           "time_info": "01时22分"
         },
         {
-          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
-          "url": "https://wallstreetcn.com/articles/3757538",
-          "source": "华尔街见闻",
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时20分 ~ 09时45分]"
+          "time_info": "[09时44分 ~ 11时13分]"
+        },
+        {
+          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
+          "url": "https://www.cls.cn/detail/2176367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时13分]"
         },
         {
           "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
@@ -142,15 +167,15 @@
           "time_info": "[02时32分 ~ 04时30分]"
         },
         {
-          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
-          "url": "https://www.cls.cn/detail/2176315",
-          "source": "财联社热门",
+          "title": "OpenAI首个AI浏览器发布",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%A6%96%E4%B8%AAAI%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "time_info": "[11时12分 ~ 11时13分]"
         },
         {
           "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
@@ -165,22 +190,22 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
+        },
+        {
           "title": "达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果”",
           "url": "https://wallstreetcn.com/articles/3757536",
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
-          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
-          "url": "https://www.cls.cn/detail/2176367",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -211,6 +236,28 @@
           "time_info": "[05时21分 ~ 06时20分]"
         },
         {
+          "title": "曝iPhoneAir暂停生产",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D23%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26c_type%3D31%26realpos%3D23%26pos%3D23%26cate%3D5001%26dgr%3D0%26display_time%3D1761102609%26pre_seqid%3D17611026089880230780803",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
+        },
+        {
+          "title": "“用AI流浪汉骗家人”走红 民警提醒",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%94%A8AI%E6%B5%81%E6%B5%AA%E6%B1%89%E9%AA%97%E5%AE%B6%E4%BA%BA%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%B0%91%E8%AD%A6%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
+        },
+        {
           "title": "英伟达最强AI芯片“美国造”背后",
           "url": "https://www.toutiao.com/trending/7562742844079882276/",
           "source": "今日头条",
@@ -220,6 +267,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 04时30分]"
+        },
+        {
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
+        },
+        {
+          "title": "软银寻求发行约20亿美元债券以押注AI发展",
+          "url": "https://flash.jin10.com/detail/20251022105911124800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
@@ -258,7 +327,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -272,17 +341,6 @@
           "time_info": "[00时29分 ~ 06时20分]"
         },
         {
-          "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
@@ -290,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时13分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -302,8 +360,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 11时13分]"
+        },
+        {
+          "title": "美股涨跌互现，道指历史新高，黄金跳水，白银重挫，比特币一度受捧",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -431,6 +500,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "现货黄金高位暴跌险守4000美元，多头情绪仍浓；美股股指再创新高，道指买进信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251022104029255800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
           "title": "“每日被狠狠打脸，痛苦且沮丧”，高盛指数显示美股做空者经历逼空重创",
           "url": "https://wallstreetcn.com/livenews/2991320",
           "source": "华尔街见闻-快讯",
@@ -488,8 +568,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时13分]"
         }
       ]
     },
