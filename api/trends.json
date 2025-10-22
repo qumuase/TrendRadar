@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T06:18:07.946516+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-10-23T07:20:09.719305+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI写文狂,原创路变凉",
@@ -15,19 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时18分]"
-        },
-        {
-          "title": "马斯克澄清：三星和台积电都将参与设计特斯拉AI 5芯片，不会取代英伟达",
-          "url": "https://wallstreetcn.com/livenews/2992107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时20分]"
         },
         {
           "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
@@ -54,6 +43,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时17分]"
+        },
+        {
+          "title": "马斯克澄清：三星和台积电都将参与设计特斯拉AI 5芯片，不会取代英伟达",
+          "url": "https://wallstreetcn.com/livenews/2992107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时20分]"
         },
         {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
@@ -141,6 +142,17 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
+          "title": "马斯克：初期将同时专注于台积电(TSM.N)和三星的AI 5芯片。",
+          "url": "https://flash.jin10.com/detail/20251023060410516800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
           "url": "https://wallstreetcn.com/livenews/2992057",
           "source": "华尔街见闻-快讯",
@@ -169,7 +181,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -199,7 +211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -213,6 +225,20 @@
           "time_info": "[00时29分 ~ 06时18分]"
         },
         {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时20分]"
+        },
+        {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -224,19 +250,6 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
-          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
-          "url": "https://wallstreetcn.com/articles/3757661",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时18分]"
-        },
-        {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -246,6 +259,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 06时18分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
