@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T15:22:59.466334+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2025-10-22T16:34:46.832279+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -91,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时20分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 16时34分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -137,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时12分 ~ 16时34分]"
         },
         {
           "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
@@ -172,7 +172,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -199,6 +199,20 @@
           "time_info": "01时22分"
         },
         {
+          "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
+          "url": "https://www.zhihu.com/question/1963713236953203912",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时34分]"
+        },
+        {
           "title": "国内首款AI辅助新药MTS-004完成三期临床",
           "url": "https://wallstreetcn.com/livenews/2991669",
           "source": "华尔街见闻-快讯",
@@ -209,19 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
-          "url": "https://www.zhihu.com/question/1963713236953203912",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时22分]"
         },
         {
           "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
@@ -373,6 +374,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
           "url": "https://flash.jin10.com/detail/20251022012656788800",
           "source": "金十数据",
@@ -398,7 +410,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -419,8 +431,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时44分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -560,6 +572,28 @@
           "time_info": "04时30分"
         },
         {
+          "title": "美股盘前，贵金属概念股小幅回暖，泛美白银(PAAS.O)涨超1.6%，金罗斯黄金(KGC.N)、金田(GFI.N)涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20251022160653226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
+          "url": "https://wallstreetcn.com/livenews/2991788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
           "url": "https://flash.jin10.com/detail/20251021233843377800",
           "source": "金十数据",
@@ -618,7 +652,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应",
@@ -641,6 +675,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
+          "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
+          "url": "https://www.cls.cn/detail/2176974",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
