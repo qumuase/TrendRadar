@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T04:26:25.980583+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-10-23T05:17:30.202542+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI写文狂,原创路变凉",
@@ -15,19 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "Astera Labs将收购Aixscale Photonics。",
-          "url": "https://wallstreetcn.com/livenews/2992071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
@@ -44,6 +33,18 @@
           "time_info": "[00时29分 ~ 03时19分]"
         },
         {
+          "title": "Astera Labs将收购Aixscale Photonics。",
+          "url": "https://wallstreetcn.com/livenews/2992071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时17分]"
+        },
+        {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
           "url": "https://www.cls.cn/detail/2177003",
           "source": "财联社热门",
@@ -57,6 +58,19 @@
           "time_info": "[00时29分 ~ 02时34分]"
         },
         {
+          "title": "OpenAI发首款AI浏览器",
+          "url": "https://www.douyin.com/hot/2278309",
+          "source": "抖音",
+          "ranks": [
+            19,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时17分]"
+        },
+        {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
           "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
@@ -66,18 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时26分]"
         },
         {
           "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
@@ -134,7 +136,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -159,12 +161,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
+          "url": "https://flash.jin10.com/detail/20251023040848407800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -174,8 +187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -198,8 +211,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 05时17分]"
+        },
+        {
+          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时17分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
@@ -208,7 +232,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -219,18 +243,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -255,9 +268,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "小盘股指ETF收跌约1.5%，领跌美股大类资产类ETF，布油基金则涨3.1%",
+          "url": "https://wallstreetcn.com/livenews/2992080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/2992078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "拉斯维加斯金沙三季度净营收33.3亿美元，分析师预期30.4亿美元。 三季度中国澳门净营收19.1亿美元，分析师预期18.4亿美元。 拉斯维加斯金沙（LVS）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/2992074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -295,6 +341,34 @@
       ]
     },
     {
+      "keyword_group": "小鹏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.93%，报8202.71点。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.23%，中国科技指数ETF（CQQQ）收跌0.73%，追踪富时25中国股指数ETF-iShares（FXI）收跌0.50%。 XtrackersHarvest中证50（ASHS）收跌0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.09%。 富时中国3倍做多ETF（YINN）收跌1.50%，富时中国3倍做空ETF（YANG）收涨1.74%。",
+          "url": "https://wallstreetcn.com/livenews/2992061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 1,
       "titles": [
@@ -308,23 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小鹏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2992061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     }
