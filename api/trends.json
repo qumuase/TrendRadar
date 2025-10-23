@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T14:33:57.358796+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2025-10-23T15:22:21.584735+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             13,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时22分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -32,8 +33,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 15时22分]"
+        },
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 15时22分]"
         },
         {
           "title": "金融监管总局肖远企：在金融领域人才始终是最有价值的资产，目前AI作用是辅助性的",
@@ -42,7 +55,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -84,18 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时17分]"
-        },
-        {
-          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
-          "url": "https://wallstreetcn.com/articles/3757698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 14时33分]"
         },
         {
           "title": "马斯克澄清：三星和台积电都将参与设计特斯拉AI 5芯片，不会取代英伟达",
@@ -301,6 +302,18 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时19分 ~ 15时22分]"
+        },
+        {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
@@ -312,18 +325,6 @@
           "time_info": "[00时29分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时19分 ~ 14时33分]"
-        },
-        {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
           "url": "https://wallstreetcn.com/articles/3757644",
           "source": "华尔街见闻",
@@ -331,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 15时22分]"
         },
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
@@ -346,8 +347,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时22分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -512,7 +513,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，小马智行初步收跌7.3%，网易跌4.7%，台积电、百度、京东、小鹏跌超1%，拼多多和阿里至多跌约0.5%，百胜中国、小米、美团、蔚来则至多涨约0.3%。",
@@ -535,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "何小鹏带队全球路测新款X9",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%B8%A6%E9%98%9F%E5%85%A8%E7%90%83%E8%B7%AF%E6%B5%8B%E6%96%B0%E6%AC%BEX9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D30%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26realpos%3D30%26lcate%3D5001%26q%3D%2523%25E4%25BD%2595%25E5%25B0%258F%25E9%25B9%258F%25E5%25B8%25A6%25E9%2598%259F%25E5%2585%25A8%25E7%2590%2583%25E8%25B7%25AF%25E6%25B5%258B%25E6%2596%25B0%25E6%25AC%25BEX9%2523%26band_rank%3D30%26display_time%3D1761204068%26pre_seqid%3D176120406831501181320157",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     },
