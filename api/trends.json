@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:32:00.439320+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-10-24T03:20:33.628796+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -49,8 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
         },
         {
           "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
@@ -101,8 +102,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
+        },
+        {
+          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2178825",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 03时20分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -114,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2178825",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -144,7 +145,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -155,7 +156,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
