@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T16:29:16.641184+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-10-24T17:25:59.102218+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -20,21 +20,6 @@
           "time_info": "[00时28分 ~ 09时28分]"
         },
         {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            10,
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时03分 ~ 16时29分]"
-        },
-        {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
           "url": "https://www.cls.cn/detail/2179066",
           "source": "财联社热门",
@@ -46,6 +31,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时28分 ~ 15时22分]"
+        },
+        {
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            10,
+            16,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时03分 ~ 17时25分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -104,7 +105,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -138,11 +139,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
@@ -189,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "AirPods Pro3值得买吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%20Pro3%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "夸克AI眼镜开售，最低3329元，上线仅7个小时便成双11智能眼镜行业top2",
@@ -262,8 +275,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 16时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时19分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -309,7 +322,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -343,7 +356,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
