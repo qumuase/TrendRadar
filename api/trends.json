@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T07:19:22.707213+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-10-24T09:28:41.622629+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时28分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -41,6 +42,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 09时28分]"
         },
         {
           "title": "周四（10月23日）纽约尾盘，现货黄金涨0.44%，报4116.53美元/盎司。 COMEX黄金期货涨1.62%，报4131.20美元/盎司。 费城金银指数收涨0.85%，报288.00点。 纽约证交所ARCA金矿开采商指数收涨1.31%，报2070.16点，美股开盘时“跳空”上涨。",
@@ -55,6 +68,18 @@
           "time_info": "[05时18分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
+          "url": "https://www.cls.cn/detail/2179010",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 09时28分]"
+        },
+        {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251024003023348800",
           "source": "金十数据",
@@ -64,28 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
-          "url": "https://www.cls.cn/detail/2179010",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -116,7 +119,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -168,18 +171,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
           "url": "https://wallstreetcn.com/articles/3757698",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时28分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -190,11 +194,12 @@
             12,
             10,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时28分]"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -216,8 +221,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时28分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -226,7 +231,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -237,7 +242,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -279,6 +284,17 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
+          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
+          "url": "https://www.cls.cn/detail/2179066",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "据知情人士透露，沙特主权财富基金PIF考虑在NEOM试点人工智能（AI）和高科技（项目）。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2992671",
           "source": "华尔街见闻-快讯",
@@ -288,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "华泰证券：大促周期拉长，闪购与AI+电商或成为新变量",
+          "url": "https://wallstreetcn.com/livenews/2992847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
