@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T14:31:18.732278+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-10-24T15:22:03.661181+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -20,17 +20,31 @@
           "time_info": "[00时28分 ~ 09时28分]"
         },
         {
+          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
+          "url": "https://www.cls.cn/detail/2179066",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时28分 ~ 15时22分]"
+        },
+        {
           "title": "AI续写你的名字",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
           "source": "bilibili 热搜",
           "ranks": [
             3,
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时03分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时03分 ~ 15时22分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -70,19 +84,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 09时28分]"
-        },
-        {
-          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
-          "url": "https://www.cls.cn/detail/2179066",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 14时31分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -144,6 +145,17 @@
           "time_info": "[00时28分 ~ 01时21分]"
         },
         {
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "韩国防务企业现代罗特姆（Hyundai Rotem）表示，已与美国人工智能解决方案提供商Shield AI签署谅解备忘录，以开发基于人工智能的国防技术。",
           "url": "https://flash.jin10.com/detail/20251024103324178800",
           "source": "金十数据",
@@ -161,7 +173,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -237,8 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
