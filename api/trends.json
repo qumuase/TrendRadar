@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:21:19.564599+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-10-25T16:25:09.040349+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时37分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时19分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 16时25分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -57,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 16时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -170,8 +170,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 15时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 16时25分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -225,8 +225,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 16时25分]"
+        },
+        {
+          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
+          "url": "https://www.cls.cn/detail/2180505",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时21分]"
+          "time_info": "[14时30分 ~ 16时25分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
@@ -239,18 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 11时05分]"
-        },
-        {
-          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
-          "url": "https://www.cls.cn/detail/2180505",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时21分]"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
