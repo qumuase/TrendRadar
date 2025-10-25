@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T12:26:38.675702+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2025-10-25T13:20:47.757331+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -43,19 +43,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 12时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 13时20分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 13时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -166,8 +167,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 13时20分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -202,11 +203,12 @@
             3,
             12,
             15,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 13时20分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
@@ -225,11 +227,12 @@
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时20分]"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
@@ -249,7 +252,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
