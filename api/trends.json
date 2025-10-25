@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T01:21:43.690255+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2025-10-26T02:28:25.255438+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时28分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时28分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -39,19 +39,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时28分]"
         },
         {
           "title": "美股为何一直在上涨",
           "url": "https://www.toutiao.com/trending/7564074588235317290/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时28分]"
         }
       ]
     },
@@ -67,8 +68,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时28分]"
+        },
+        {
+          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
+          "url": "https://wallstreetcn.com/livenews/2993677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "time_info": "[00时26分 ~ 02时28分]"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
-          "url": "https://wallstreetcn.com/livenews/2993677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时21分]"
         }
       ]
     }
