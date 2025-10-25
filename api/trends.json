@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T11:05:20.837546+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2025-10-25T12:26:38.675702+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 11时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 12时26分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -42,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 11时05分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 12时26分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -53,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 11时05分]"
+          "appearance_count": 4,
+          "time_info": "[09时37分 ~ 12时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -153,7 +154,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
@@ -165,8 +166,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时26分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -200,11 +201,12 @@
             2,
             3,
             12,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 11时05分]"
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 12时26分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
@@ -219,6 +221,17 @@
           "time_info": "[09时38分 ~ 11时05分]"
         },
         {
+          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
+          "url": "https://wallstreetcn.com/articles/3757873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
           "url": "https://www.cls.cn/detail/2180012",
           "source": "财联社热门",
@@ -228,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "AI时代的国际教育选择",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%BD%E9%99%85%E6%95%99%E8%82%B2%E9%80%89%E6%8B%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D21%26q%3D%2523AI%25E6%2597%25B6%25E4%25BB%25A3%25E7%259A%2584%25E5%259B%25BD%25E9%2599%2585%25E6%2595%2599%25E8%2582%25B2%25E9%2580%2589%25E6%258B%25A9%2523%26flag%3D1%26band_rank%3D20%26realpos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26dgr%3D0%26display_time%3D1761365392%26pre_seqid%3D17613653928330323782114",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
