@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T04:23:17.676549+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-10-27T05:20:38.591445+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
@@ -51,19 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时23分]"
-        },
-        {
-          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
-          "url": "https://www.cls.cn/detail/2180802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -73,11 +62,23 @@
             14,
             17,
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
+        },
+        {
+          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
+          "url": "https://www.cls.cn/detail/2180802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 05时20分]"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
