@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-10-26T14:31:46.144458+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-10-26T15:19:08.399698+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 9,
       "titles": [
+        {
+          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
+          "url": "https://wallstreetcn.com/articles/3757907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 15时19分]"
+        },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
           "url": "https://www.cls.cn/detail/2180505",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
-          "url": "https://wallstreetcn.com/articles/3757907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时31分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -56,6 +57,29 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
+          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
+          "url": "https://wallstreetcn.com/articles/3757909",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 15时19分]"
+        },
+        {
+          "title": "iPhone Air刚上市就卖不动了",
+          "url": "https://www.toutiao.com/trending/7565363497312194084/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时19分]"
+        },
+        {
           "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
           "url": "https://wallstreetcn.com/articles/3757825",
           "source": "华尔街见闻",
@@ -67,34 +91,12 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
-          "title": "Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？",
-          "url": "https://wallstreetcn.com/articles/3757909",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 12时24分]"
-        },
-        {
           "title": "华为Mate 70 Air超薄设计曝光",
           "url": "https://www.toutiao.com/trending/7564629715139543094/",
           "source": "今日头条",
           "ranks": [
             13,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时31分]"
-        },
-        {
-          "title": "iPhone Air刚上市就卖不动了",
-          "url": "https://www.toutiao.com/trending/7565363497312194084/",
-          "source": "今日头条",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -140,8 +142,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时25分 ~ 15时19分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
