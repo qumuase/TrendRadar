@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T09:49:55.619085+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-10-26T11:14:04.959436+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
@@ -47,11 +47,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时14分]"
+        },
+        {
+          "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
+          "url": "https://wallstreetcn.com/articles/3757825",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时49分]"
+          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "iPhone Air开售遇冷",
@@ -60,7 +72,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -92,8 +104,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时14分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -102,11 +114,12 @@
           "ranks": [
             12,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时14分]"
         },
         {
           "title": "美股为何一直在上涨",
