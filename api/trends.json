@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T20:48:07.865224+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2025-10-27T21:34:28.392467+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时22分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[11时22分 ~ 21时34分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -112,11 +112,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 20时48分]"
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 21时34分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -130,6 +131,18 @@
           "time_info": "15时21分"
         },
         {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时34分]"
+        },
+        {
           "title": "报告：2025年上半年，百度智能云市场份额位居中国AI云市场第二",
           "url": "https://wallstreetcn.com/livenews/2994000",
           "source": "华尔街见闻-快讯",
@@ -140,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时37分]"
-        },
-        {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 20时48分]"
         },
         {
           "title": "王鹤棣帅成AI了",
@@ -244,7 +246,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -255,8 +257,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 20时48分]"
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 21时34分]"
         },
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -339,6 +341,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
