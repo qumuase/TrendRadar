@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:22:08.158921+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-10-27T20:48:07.865224+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -45,11 +45,12 @@
             19,
             21,
             24,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 20时48分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -106,6 +107,18 @@
           "time_info": "[00时24分 ~ 06时21分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 20时48分]"
+        },
+        {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
           "url": "https://flash.jin10.com/detail/20251027145436636800",
           "source": "金十数据",
@@ -115,18 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 19时22分]"
         },
         {
           "title": "报告：2025年上半年，百度智能云市场份额位居中国AI云市场第二",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
         },
         {
           "title": "王鹤棣帅成AI了",
@@ -213,7 +225,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -243,8 +255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 20时48分]"
         },
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -266,7 +278,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -324,7 +336,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
