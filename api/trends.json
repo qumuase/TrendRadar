@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-28T04:53:05.856200+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-10-28T05:21:48.018122+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -30,8 +31,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
@@ -58,6 +70,18 @@
           "time_info": "[02时33分 ~ 03时18分]"
         },
         {
+          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251028034031282800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
+        },
+        {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
           "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
@@ -70,15 +94,27 @@
           "time_info": "[01时21分 ~ 02时33分]"
         },
         {
-          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
-          "url": "https://flash.jin10.com/detail/20251028034031282800",
-          "source": "金十数据",
+          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/2994508",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
+        },
+        {
+          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时21分"
         },
         {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
@@ -90,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/2994508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         },
         {
           "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
@@ -127,19 +152,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
           "url": "https://wallstreetcn.com/livenews/2994531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
         },
         {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
@@ -152,6 +178,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时21分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
+          "url": "https://flash.jin10.com/detail/20251028040154573800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -176,39 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时33分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
-          "url": "https://flash.jin10.com/detail/20251028040154573800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         }
       ]
     },
@@ -221,11 +250,12 @@
           "url": "https://wallstreetcn.com/livenews/2994517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时21分]"
         }
       ]
     }
