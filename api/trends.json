@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-29T03:18:41.569364+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-10-29T04:26:08.593406+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时26分]"
+        },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
           "url": "https://wallstreetcn.com/articles/3758015",
@@ -15,19 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时18分]"
-        },
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时26分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -61,17 +62,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
-          "url": "https://wallstreetcn.com/livenews/2995333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         },
         {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
@@ -118,6 +108,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "Wayfair收涨23%，创2022年4月份以来收盘新高。",
+          "url": "https://wallstreetcn.com/livenews/2995353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
           "url": "https://wallstreetcn.com/livenews/2995302",
           "source": "华尔街见闻-快讯",
@@ -127,6 +128,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
+          "url": "https://wallstreetcn.com/livenews/2995333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时26分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我将讨论人工智能（AI）、6G、量子计算、机器人技术。",
@@ -151,6 +164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时34分]"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
+          "url": "https://wallstreetcn.com/livenews/2995318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时26分]"
         },
         {
           "title": "英伟达(NVDA.O)：位于弗吉尼亚州的AI工厂研究中心将部署首套Vera Rubin基础设施，并为英伟达Omniverse DSX奠定基础。",
@@ -181,7 +206,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -192,7 +217,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -230,17 +255,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
-          "url": "https://wallstreetcn.com/livenews/2995318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
           "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
           "url": "https://wallstreetcn.com/livenews/2995260",
           "source": "华尔街见闻-快讯",
@@ -252,13 +266,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "黄仁勋驳斥AI泡沫论 新芯片将创造五千亿美元收入",
+          "url": "https://flash.jin10.com/detail/20251029031435879800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "礼来制药与英伟达合作，将针对药品发现与研发打造AI超算、AI工厂。",
           "url": "https://wallstreetcn.com/livenews/2995315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -335,7 +360,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
@@ -343,7 +368,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -353,8 +378,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时26分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
@@ -364,8 +389,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时26分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
+          "url": "https://flash.jin10.com/detail/20251029040108535800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
+          "url": "https://wallstreetcn.com/articles/3758056",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 04时26分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
@@ -379,17 +426,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
           "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251029005055544800",
           "source": "金十数据",
@@ -399,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
+          "url": "https://flash.jin10.com/detail/20251029030928567800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
@@ -414,8 +461,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，新东方跌2.9%，百胜中国、美团、百度、阿里巴巴、腾讯、理想、小米跌超1%，台积电和小鹏涨超1%，文远知行涨5.1%，小马智行涨11%。 ETF中，KWEB初步收跌0.8%，CQQQ涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/2995347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
