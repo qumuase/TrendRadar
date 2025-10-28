@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T18:24:48.694200+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2025-10-28T19:18:47.226207+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时18分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -97,6 +97,19 @@
           "time_info": "[07时19分 ~ 13时22分]"
         },
         {
+          "title": "AI大战冠军教练竞猜S15",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时18分]"
+        },
+        {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
           "url": "https://flash.jin10.com/detail/20251028124839536800",
           "source": "金十数据",
@@ -106,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：我们与谷歌达成了合作关系，你们很快会听到我们与亚马逊云服务(AWS)的重大消息，而且我们已经与OpenAI会面了。",
+          "url": "https://flash.jin10.com/detail/20251028190928466800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -155,18 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 15时23分]"
-        },
-        {
-          "title": "AI大战冠军教练竞猜S15",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
@@ -253,6 +265,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "沙特人工智能公司Humain首席执行官：沙特将设立一项基础设施基金，并将有一家大型企业集团参与其中，而Humain公司本身不会单独为数据中心提供资金。",
+          "url": "https://flash.jin10.com/detail/20251028190712271800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
           "url": "https://flash.jin10.com/detail/20251028145207778800",
           "source": "金十数据",
@@ -264,6 +287,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "据华尔街日报：人工智能公司Fireworks AI在最新一轮融资中的估值达到40亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028190415748800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
           "url": "https://wallstreetcn.com/livenews/2994570",
           "source": "华尔街见闻-快讯",
@@ -273,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：今年12月，我们将通过“Humain Chat”进入除沙特以外的五个新增国家。",
+          "url": "https://flash.jin10.com/detail/20251028190335922800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
@@ -292,9 +337,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：我们希望它不仅能在沙特上市，也能在纳斯达克上市。",
+          "url": "https://flash.jin10.com/detail/20251028190015887800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "沙特人工智能公司Humain首席执行官：Humain One目前已在沙特政府及三家公共投资基金实体中投入使用并开展试点，但我们希望将其推广至“各个角落”。",
+          "url": "https://flash.jin10.com/detail/20251028185802647800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "亚马逊宣布裁员1.4万人 将资源投入AI",
+          "url": "https://flash.jin10.com/detail/20251028185134663800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
@@ -355,8 +444,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时39分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时39分 ~ 19时18分]"
         },
         {
           "title": "贸易缓和提振美股新高，科技股领涨，人民币创两个月最大涨幅，黄金大跌破4000美元",
@@ -376,7 +465,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -524,7 +613,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
