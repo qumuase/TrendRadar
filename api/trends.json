@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-10-29T06:22:36.439387+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-10-29T07:20:36.610356+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时22分]"
-        },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
           "url": "https://wallstreetcn.com/articles/3758015",
@@ -27,8 +15,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时20分]"
+        },
+        {
+          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
+          "url": "https://www.cls.cn/detail/2183967",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时20分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -40,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
-          "url": "https://wallstreetcn.com/livenews/2995394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
@@ -141,6 +131,31 @@
           "time_info": "02时34分"
         },
         {
+          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
+          "url": "https://www.cls.cn/detail/2184071",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时20分]"
+        },
+        {
+          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
+          "url": "https://wallstreetcn.com/livenews/2995394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：我不相信我们处于AI泡沫。",
           "url": "https://wallstreetcn.com/livenews/2995333",
           "source": "华尔街见闻-快讯",
@@ -189,16 +204,28 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
-          "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
-          "url": "https://www.cls.cn/detail/2184071",
-          "source": "财联社热门",
+          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
+          "url": "https://wallstreetcn.com/livenews/2995385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时22分]"
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
+          "url": "https://flash.jin10.com/detail/20251029050455312800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -236,15 +263,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
-          "url": "https://wallstreetcn.com/livenews/2995385",
+          "title": "SK海力士利润创纪录，AI繁荣提振芯片需求，准备供应HBM4",
+          "url": "https://wallstreetcn.com/livenews/2995404",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时20分"
         },
         {
           "title": "英伟达(NVDA.O)将与三星、现代公司达成AI合作。",
@@ -267,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
-          "url": "https://flash.jin10.com/detail/20251029050455312800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
@@ -447,19 +463,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时20分]"
         },
         {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时20分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -468,11 +485,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时18分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 07时20分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -488,6 +506,18 @@
           "time_info": "[04时26分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
           "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
           "url": "https://wallstreetcn.com/livenews/2995368",
           "source": "华尔街见闻-快讯",
@@ -498,6 +528,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时22分]"
+        },
+        {
+          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/2995384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时20分]"
         },
         {
           "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
@@ -547,17 +589,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251029005055544800",
           "source": "金十数据",
@@ -567,17 +598,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
@@ -643,8 +663,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时20分]"
         }
       ]
     }
