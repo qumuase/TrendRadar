@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:22:17.642622+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2025-10-29T14:35:04.992514+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -43,8 +43,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时22分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[05时22分 ~ 14时35分]"
+        },
+        {
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时35分]"
+        },
+        {
+          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
+          "url": "https://www.cls.cn/detail/2184178",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时35分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -146,16 +172,29 @@
           "time_info": "02时34分"
         },
         {
-          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
-          "url": "https://wallstreetcn.com/articles/3758074",
+          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
+          "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时35分]"
+        },
+        {
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时35分]"
         },
         {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
@@ -180,45 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时26分]"
-        },
-        {
-          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
-          "url": "https://www.cls.cn/detail/2184178",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时22分]"
-        },
-        {
-          "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
-          "url": "https://wallstreetcn.com/articles/3758104",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时22分]"
-        },
-        {
-          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
-          "url": "https://www.cls.cn/detail/2184173",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时22分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -267,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
+          "url": "https://www.zhihu.com/question/1961814182115632287",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
@@ -531,6 +542,19 @@
           "time_info": "[00时42分 ~ 07时20分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时22分 ~ 14时35分]"
+        },
+        {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
@@ -541,19 +565,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 09时47分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 13时22分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
