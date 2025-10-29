@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T21:35:49.856857+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2025-10-29T22:23:25.098370+08:00",
+  "total_titles_processed": 2080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -76,6 +76,19 @@
           "time_info": "[09时47分 ~ 17时23分]"
         },
         {
+          "title": "外交部回应黄仁勋AI芯片言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 22时23分]"
+        },
+        {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
@@ -87,18 +100,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时19分 ~ 20时48分]"
-        },
-        {
-          "title": "外交部回应黄仁勋AI芯片言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 21时35分]"
         },
         {
           "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
@@ -240,6 +241,19 @@
           "time_info": "02时34分"
         },
         {
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时23分]"
+        },
+        {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
           "url": "https://wallstreetcn.com/livenews/2995394",
           "source": "华尔街见闻-快讯",
@@ -264,17 +278,15 @@
           "time_info": "[03时18分 ~ 04时26分]"
         },
         {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
+          "title": "网民用AI编造散播谣言被处罚",
+          "url": "https://www.douyin.com/hot/2287291",
+          "source": "抖音",
           "ranks": [
-            18,
-            9,
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时35分]"
+          "time_info": "[19时21分 ~ 22时23分]"
         },
         {
           "title": "拿什么管住狂奔的AI？ “十五五”规划下，AI安全千亿级市场正在开启",
@@ -287,17 +299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时26分 ~ 20时48分]"
-        },
-        {
-          "title": "网民用AI编造散播谣言被处罚",
-          "url": "https://www.douyin.com/hot/2287291",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时35分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -346,6 +347,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
+        },
+        {
+          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
+          "url": "https://wallstreetcn.com/articles/3758110",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时23分]"
         },
         {
           "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
@@ -426,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
-          "url": "https://wallstreetcn.com/articles/3758110",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "英伟达(NVDA.O)将与三星、现代公司达成AI合作。",
@@ -681,6 +682,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "证监会：探索开展“AI+资本市场”金融科技创新专项试点",
+          "url": "https://wallstreetcn.com/livenews/2996021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "OpenAI首席财务官：我们希望与世界各国政府合作，推广我们的技术，这种技术也能为美国带来一种软实力。",
           "url": "https://flash.jin10.com/detail/20251029144659448800",
           "source": "金十数据",
@@ -698,7 +710,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -706,7 +718,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -896,7 +908,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -934,6 +946,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
+          "url": "https://wallstreetcn.com/livenews/2996031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
           "url": "https://flash.jin10.com/detail/20251029030928567800",
           "source": "金十数据",
@@ -943,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251029215338456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨将近5%，获得其股权投资的诺基亚ADR涨约23%",
