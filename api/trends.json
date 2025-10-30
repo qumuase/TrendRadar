@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T20:46:30.275038+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2025-10-30T21:33:18.196815+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时22分 ~ 20时46分]"
+          "appearance_count": 15,
+          "time_info": "[07时22分 ~ 21时33分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时45分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 21时33分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时33分]"
         },
         {
           "title": "微软(MSFT.O)美股盘前下跌3.1%，此前公司警告称成本将上升。",
@@ -119,15 +130,15 @@
           "time_info": "[04时33分 ~ 06时24分]"
         },
         {
-          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时46分]"
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
@@ -239,7 +250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -310,13 +321,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2996947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "Roblox三季度营收14亿美元。 Roblox预计四季度营收13.5亿美元-14亿美元。 Roblox预计全财年预订额为65.7亿美元至66.2亿美，此前预计58.7亿美元-59.7亿美元。 Roblox美股盘前涨逾10%。",
           "url": "https://wallstreetcn.com/livenews/2996909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -368,7 +390,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -427,6 +449,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时33分 ~ 09时45分]"
+        },
+        {
+          "title": "UP主自制的AI眼镜发布了",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时33分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -574,6 +608,17 @@
           "time_info": "[13时23分 ~ 14时34分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落终结7连阳，AI硬件端遭重挫，锂矿股逆势爆发",
+          "url": "https://www.cls.cn/detail/2186433",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
           "url": "https://flash.jin10.com/detail/20251030055159688800",
           "source": "金十数据",
@@ -596,6 +641,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
+        },
+        {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -638,18 +694,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "UP主自制的AI眼镜发布了",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
