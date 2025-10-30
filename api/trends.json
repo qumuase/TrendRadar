@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T12:27:40.290845+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-10-30T13:23:30.807899+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时33分 ~ 12时27分]"
+          "appearance_count": 9,
+          "time_info": "[04时33分 ~ 13时23分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -95,6 +95,20 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
+          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
+          "url": "https://www.cls.cn/detail/2185393",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时23分]"
+        },
+        {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
           "url": "https://wallstreetcn.com/livenews/2996239",
           "source": "华尔街见闻-快讯",
@@ -119,29 +133,17 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
-          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
-          "url": "https://www.cls.cn/detail/2185393",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时27分]"
-        },
-        {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -151,8 +153,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
@@ -179,6 +181,18 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时23分]"
+        },
+        {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
           "url": "https://wallstreetcn.com/livenews/2996211",
           "source": "华尔街见闻-快讯",
@@ -191,17 +205,6 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "Alphabet的CEO Pichai：谷歌将在2025年年底发布“显著改善的”Gemini。",
           "url": "https://wallstreetcn.com/livenews/2996256",
           "source": "华尔街见闻-快讯",
@@ -211,6 +214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
+          "url": "https://www.zhihu.com/question/1966652250177893275",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/1963343251323969618",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
@@ -249,7 +274,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -261,8 +286,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时23分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[06时23分 ~ 13时23分]"
         },
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -274,8 +299,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时23分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -346,8 +371,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -372,6 +397,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时24分]"
+        },
+        {
+          "title": "美股期货、数字货币全线跳水，现货黄金拉升",
+          "url": "https://wallstreetcn.com/livenews/2996476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "美股股指期货跌幅收窄，标普500指数期货和纳斯达克指数期货再次转为持平。",
+          "url": "https://flash.jin10.com/detail/20251030125122056800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "微软美股盘后跌幅收窄至3.4%。",
