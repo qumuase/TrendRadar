@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:22:50.576521+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-10-31T14:32:59.925308+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -65,11 +65,12 @@
           "url": "https://wallstreetcn.com/articles/3758276",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 14时32分]"
         },
         {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
@@ -134,6 +135,18 @@
           "time_info": "[09时44分 ~ 13时22分]"
         },
         {
+          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时32分]"
+        },
+        {
           "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
           "url": "https://flash.jin10.com/detail/20251031043733799800",
           "source": "金十数据",
@@ -192,18 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时20分]"
-        },
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时22分]"
         },
         {
           "title": "Alight和IBM将成立一个虚拟AI创新实验室。",
@@ -449,8 +450,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 14时32分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
