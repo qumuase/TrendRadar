@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:25:48.351578+08:00",
-  "total_titles_processed": 2011,
+  "generated_at": "2025-10-31T23:24:59.104217+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 22时25分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 23时24分]"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -91,6 +91,17 @@
           "time_info": "[07时19分 ~ 16时30分]"
         },
         {
+          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
+          "url": "https://wallstreetcn.com/livenews/2997796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
           "url": "https://wallstreetcn.com/articles/3758417",
           "source": "华尔街见闻",
@@ -99,8 +110,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时24分]"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时24分]"
         },
         {
           "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
@@ -152,17 +185,6 @@
           "time_info": "[03时18分 ~ 04时26分]"
         },
         {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时25分]"
-        },
-        {
           "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
           "url": "https://www.cls.cn/detail/2187024",
           "source": "财联社热门",
@@ -174,6 +196,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时44分 ~ 13时22分]"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时24分]"
         },
         {
           "title": "OpenAI：该项目将使“星门”（Stargate）计划的规划产能提升至超过8吉瓦，并在未来三年内带来逾4500亿美元的投资。",
@@ -330,17 +364,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
-          "url": "https://wallstreetcn.com/livenews/2997776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "欧洲央行行长拉加德：如果意大利批准ESM（欧洲稳定机制），将表示欢迎。 意大利经济形势让人印象深刻。（RAI1）",
           "url": "https://wallstreetcn.com/livenews/2997104",
           "source": "华尔街见闻-快讯",
@@ -350,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "现代汽车与英伟达将为了机动车解决方案而打造AI工厂",
+          "url": "https://wallstreetcn.com/livenews/2997787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "欧洲央行调查：欧元区商业状况改善，AI成亮点",
@@ -394,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "英伟达一度上涨大约2.5%，报207.97美元。 据FactSet，高盛在其业绩报告披露前上调未来12个月股价目标至240美元（之前为210美元）、重申评级为买入。 分析师James Schneider认为，在大型科技公司和云公司的AI基础设施需求的助推之下，英伟达业绩将继续表现强劲。",
+          "url": "https://wallstreetcn.com/livenews/2997800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "英伟达拟向AI初创公司Poolside投资至多10亿美元",
@@ -498,7 +543,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -509,8 +554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 23时24分]"
         },
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -595,6 +640,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
+          "url": "https://wallstreetcn.com/livenews/2997795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251031040546902800",
           "source": "金十数据",
@@ -643,6 +699,19 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时24分]"
+        },
+        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2997747",
           "source": "华尔街见闻-快讯",
@@ -679,18 +748,6 @@
           "time_info": "[16时30分 ~ 17时25分]"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时25分]"
-        },
-        {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
           "url": "https://flash.jin10.com/detail/20251031040124209800",
           "source": "金十数据",
@@ -713,6 +770,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时45分 ~ 21时32分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时24分]"
         },
         {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
@@ -781,17 +850,6 @@
           "time_info": "19时20分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
           "title": "美股收盘：三大指数集体下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -809,7 +867,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -820,9 +878,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
+        },
+        {
+          "title": "房地美股价下跌7%，跌至当日低点。",
+          "url": "https://flash.jin10.com/detail/20251031222848337800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "房利美股价跌超10%，跌至8月11日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251031222759471800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "小马智行美股盘前涨超5%。",
