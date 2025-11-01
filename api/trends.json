@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T02:27:56.721319+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-11-02T03:17:07.558757+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -27,21 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
-          "url": "https://www.zhihu.com/question/1967273703189480617",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -50,9 +51,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 03时17分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -82,19 +83,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
         }
       ]
     },
@@ -110,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时17分]"
         }
       ]
     }
