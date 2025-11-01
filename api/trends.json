@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:19:02.041711+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2025-11-01T23:20:09.642202+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 23时20分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[07时21分 ~ 23时20分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -89,6 +89,18 @@
           "time_info": "[04时27分 ~ 09时46分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时40分 ~ 23时20分]"
+        },
+        {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
           "url": "https://flash.jin10.com/detail/20251101040612568800",
           "source": "金十数据",
@@ -112,18 +124,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时27分 ~ 07时21分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -224,8 +224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 22时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 23时20分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -251,8 +251,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时19分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[15时19分 ~ 23时20分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -288,11 +288,12 @@
           "ranks": [
             17,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[19时16分 ~ 23时20分]"
         },
         {
           "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
@@ -317,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
+          "title": "中美在AI治理路径上的分歧成焦点",
+          "url": "https://www.toutiao.com/trending/7567396544937705510/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -443,8 +455,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时25分 ~ 23时20分]"
         }
       ]
     }
