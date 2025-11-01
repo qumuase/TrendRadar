@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T06:19:08.803876+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-11-02T07:21:19.742970+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时22分 ~ 07时21分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时27分 ~ 07时21分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -27,19 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时19分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时27分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -55,18 +69,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 06时19分]"
-        },
-        {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时22分 ~ 06时19分]"
         }
       ]
     },
@@ -74,19 +76,6 @@
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时19分]"
-        },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
           "url": "https://wallstreetcn.com/articles/3758463",
@@ -97,8 +86,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -109,8 +112,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         }
       ]
     },
@@ -126,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 07时21分]"
         }
       ]
     },
