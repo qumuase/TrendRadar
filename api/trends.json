@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T03:17:07.558757+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-02T04:23:13.375860+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -41,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -52,8 +52,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 04时23分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时23分]"
         }
       ]
     },
@@ -67,11 +78,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -83,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -95,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
         }
       ]
     },
@@ -112,8 +124,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 04时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
+          "url": "https://www.cls.cn/detail/2188647",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时23分]"
         }
       ]
     }
