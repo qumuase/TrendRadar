@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:18:13.545120+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-11-03T06:19:18.247173+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 06时19分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -49,11 +49,12 @@
             24,
             20,
             26,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时19分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -99,11 +100,12 @@
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时19分]"
         }
       ]
     },
@@ -120,11 +122,12 @@
             13,
             15,
             17,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时19分]"
         }
       ]
     }
