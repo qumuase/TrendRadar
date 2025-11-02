@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T02:27:10.421581+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2025-11-03T03:15:41.424025+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时15分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,8 +27,33 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时15分]"
+        },
+        {
+          "title": "马斯克：AI在2026年超越单个人类智商",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时15分]"
+        },
+        {
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时27分]"
+          "time_info": "[01时19分 ~ 03时15分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -41,30 +66,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 02时27分]"
-        },
-        {
-          "title": "马斯克：AI在2026年超越单个人类智商",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时27分]"
-        },
-        {
-          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
-          "url": "https://wallstreetcn.com/articles/3758501",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 02时27分]"
         }
       ]
     },
@@ -78,11 +79,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时15分]"
         }
       ]
     },
@@ -97,11 +99,12 @@
           "ranks": [
             5,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时15分]"
         }
       ]
     }
