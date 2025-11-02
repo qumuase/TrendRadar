@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T12:26:17.937928+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2025-11-02T13:21:16.070203+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时27分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[02时27分 ~ 13时21分]"
         },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时21分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -85,9 +85,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时21分]"
         },
         {
           "title": "AI革命美国企业疯狂裁员背后",
@@ -173,19 +173,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 13时21分]"
         },
         {
           "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/1968007806016819893",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 13时21分]"
         }
       ]
     },
