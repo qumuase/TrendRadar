@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T18:20:41.745633+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2025-11-02T19:16:55.066317+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 19时16分]"
         },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -104,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
@@ -241,6 +241,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 19时16分]"
+        },
+        {
           "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
           "url": "https://wallstreetcn.com/articles/3758477",
           "source": "华尔街见闻",
@@ -253,20 +268,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时19分 ~ 17时21分]"
-        },
-        {
-          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/1968007806016819893",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时26分 ~ 18时20分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
@@ -301,11 +302,12 @@
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 19时16分]"
         }
       ]
     }
