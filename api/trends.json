@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T04:21:40.536188+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-03T05:18:13.545120+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 05时18分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -81,11 +81,12 @@
             11,
             12,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     },
@@ -100,7 +101,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         }
@@ -118,11 +119,12 @@
             5,
             13,
             15,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     }
