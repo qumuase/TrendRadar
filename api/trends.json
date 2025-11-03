@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-03T09:57:32.318002+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-03T11:20:27.811077+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时20分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -28,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时20分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 09时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 11时20分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -71,13 +72,24 @@
           "time_info": "[00时25分 ~ 02时27分]"
         },
         {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
           "url": "https://wallstreetcn.com/livenews/2998233",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
@@ -155,7 +167,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
