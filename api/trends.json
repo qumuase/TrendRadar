@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T14:37:11.595012+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-11-03T15:23:27.642956+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时19分 ~ 14时37分]"
+          "appearance_count": 19,
+          "time_info": "[01时19分 ~ 15时23分]"
         },
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -56,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时23分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -67,11 +68,12 @@
             11,
             10,
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时19分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 15时23分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
