@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T12:26:24.042975+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2025-11-05T13:23:02.890842+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -59,11 +59,12 @@
             6,
             11,
             24,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -72,11 +73,12 @@
           "ranks": [
             12,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -117,6 +119,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 13时23分]"
+        },
+        {
+          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
+          "url": "https://www.cls.cn/detail/2191195",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "标普500指数初步收跌约1.2%，科技板块跌2.2%，可选消费与电信板块跌1.7%。 纳斯达克100指数初步收跌约2.1%，成分股中，Palantir跌8.6%，CDW跌8.1%，美光科技跌7.1%，MSTR跌6.9%，新思科技与英特尔跌超6%，特斯拉跌4.6%，万豪国际则涨3.1%。 卡特彼勒初步收跌4.1%，英伟达跌4%，思科、波音、Salesforce、亚马逊至少跌1.8%，领跌道指成分股，家得宝则涨1.2%，Merck涨1.5%，Travelers Companies Inc.涨3.6%。 AI概念股中，SoundHound跌12%，Serve Robotics跌9.9%，Palantir跌8.6%，C3.ai跌7.6%，CoreWeave跌7.4%，英特尔跌6.1%。 半导体指数跌3.99%。",
@@ -203,30 +231,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 07时20分]"
-        },
-        {
-          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
-          "url": "https://www.cls.cn/detail/2191195",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时26分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时26分]"
         },
         {
           "title": "澳大利亚10月AIG建筑业表现指数 -7.1，前值12.3。",
@@ -343,6 +347,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "香港财政司司长陈茂波：将以双引擎战略发展AI",
+          "url": "https://wallstreetcn.com/livenews/2999628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
           "source": "知乎",
@@ -457,8 +472,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时23分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -468,8 +483,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时26分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
@@ -480,8 +495,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 13时23分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -682,7 +697,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
