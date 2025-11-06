@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T14:33:34.756512+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-06T15:22:09.488495+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -34,6 +34,19 @@
           "time_info": "[00时31分 ~ 11时18分]"
         },
         {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 15时22分]"
+        },
+        {
           "title": "美ICU宰客19万,AI揭底秒修复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
           "source": "贴吧",
@@ -43,11 +56,25 @@
             23,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 15时22分]"
+        },
+        {
+          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2192480",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时22分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -61,29 +88,26 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
           "ranks": [
-            8,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
-          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2192480",
-          "source": "财联社热门",
+          "title": "华为Mate 70 Air开启预售",
+          "url": "https://www.toutiao.com/trending/7569394262991929363/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            9,
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "深度解析OpenAI产业链布局",
@@ -208,6 +232,18 @@
           "time_info": "[04时25分 ~ 06时26分]"
         },
         {
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时22分]"
+        },
+        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -242,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
+        },
+        {
+          "title": "小鹏科技日：AI成为关键词",
+          "url": "https://www.toutiao.com/trending/7569046807020503091/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "AI的风吹到了电网 电网ETF持续走强",
@@ -297,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
-        },
-        {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         }
       ]
     },
@@ -315,6 +351,17 @@
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时22分]"
+        },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
           "url": "https://wallstreetcn.com/articles/3758628",
@@ -338,15 +385,18 @@
           "time_info": "[00时31分 ~ 06时26分]"
         },
         {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            5,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -362,18 +412,16 @@
           "time_info": "[07时22分 ~ 14时33分]"
         },
         {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            5,
-            4,
-            6
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时22分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -387,18 +435,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时33分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -577,8 +613,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 15时22分]"
         },
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
@@ -590,8 +626,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 15时22分]"
+        },
+        {
+          "title": "何小鹏一镜到底回应网友质疑",
+          "url": "https://www.douyin.com/hot/2296266",
+          "source": "抖音",
+          "ranks": [
+            19,
+            9,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时33分]"
+          "time_info": "[12时30分 ~ 15时22分]"
         },
         {
           "title": "小鹏机器人走猫步太像人了",
@@ -630,16 +679,43 @@
           "time_info": "09时44分"
         },
         {
-          "title": "何小鹏一镜到底回应网友质疑",
-          "url": "https://www.douyin.com/hot/2296266",
-          "source": "抖音",
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            9
+            16,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时33分]"
+          "time_info": "[13时22分 ~ 15时22分]"
+        },
+        {
+          "title": "小鹏女机器人里藏真人？何小鹏回应",
+          "url": "https://www.cls.cn/detail/2192721",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时22分]"
+        },
+        {
+          "title": "小鹏机器人里藏了真人？何小鹏澄清",
+          "url": "https://www.toutiao.com/trending/7569436659226250758/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时22分]"
         },
         {
           "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
@@ -654,40 +730,15 @@
           "time_info": "[13时23分 ~ 14时33分]"
         },
         {
-          "title": "小鹏机器人里藏了真人？何小鹏澄清",
-          "url": "https://www.toutiao.com/trending/7569436659226250758/",
-          "source": "今日头条",
+          "title": "小鹏机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D9%26stream_entry_id%3D31%26dgr%3D0%26pos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D9%26flag%3D1%26lcate%3D5001%26q%3D%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26display_time%3D1762410720%26pre_seqid%3D17624107201280343773208&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "小鹏女机器人里藏真人？何小鹏回应",
-          "url": "https://www.cls.cn/detail/2192721",
-          "source": "财联社热门",
-          "ranks": [
-            11,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时33分]"
+          "time_info": "[14时33分 ~ 15时22分]"
         },
         {
           "title": "小鹏科技日",
@@ -710,17 +761,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "小鹏机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D9%26stream_entry_id%3D31%26dgr%3D0%26pos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D9%26flag%3D1%26lcate%3D5001%26q%3D%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26display_time%3D1762410720%26pre_seqid%3D17624107201280343773208&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "小鹏汽车“更名”后多项成果“涌现” 涉智能驾驶、Robotaxi、机器人及低空飞行领域",
@@ -748,7 +788,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -758,8 +798,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时30分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 15时22分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         }
       ]
     }
