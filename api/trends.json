@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:22:09.488495+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-11-06T16:32:02.804655+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 16时32分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -34,19 +48,6 @@
           "time_info": "[00时31分 ~ 11时18分]"
         },
         {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 15时22分]"
-        },
-        {
           "title": "美ICU宰客19万,AI揭底秒修复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
           "source": "贴吧",
@@ -57,11 +58,12 @@
             26,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时32分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -92,22 +94,12 @@
           "url": "https://www.douyin.com/hot/2296483",
           "source": "抖音",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "华为Mate 70 Air开启预售",
-          "url": "https://www.toutiao.com/trending/7569394262991929363/",
-          "source": "今日头条",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时32分]"
         },
         {
           "title": "深度解析OpenAI产业链布局",
@@ -120,6 +112,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时30分 ~ 13时23分]"
+        },
+        {
+          "title": "华为Mate 70 Air开启预售",
+          "url": "https://www.toutiao.com/trending/7569394262991929363/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时32分]"
+        },
+        {
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 16时32分]"
         },
         {
           "title": "OpenAI尚未为上市做准备",
@@ -232,18 +248,6 @@
           "time_info": "[04时25分 ~ 06时26分]"
         },
         {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时22分]"
-        },
-        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -280,6 +284,17 @@
           "time_info": "[04时25分 ~ 05时21分]"
         },
         {
+          "title": "AI算力大战打到太空",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E5%A4%A7%E6%88%98%E6%89%93%E5%88%B0%E5%A4%AA%E7%A9%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "小鹏科技日：AI成为关键词",
           "url": "https://www.toutiao.com/trending/7569046807020503091/",
           "source": "今日头条",
@@ -300,6 +315,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "黄仁勋直白表态：中国AI将击败美国",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "新闻女王2AI取代真人",
+          "url": "https://www.douyin.com/hot/2296420",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
@@ -359,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 16时32分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -395,8 +432,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -420,8 +457,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 16时32分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -603,7 +640,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -613,8 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 16时32分]"
         },
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
@@ -626,8 +663,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时44分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 16时32分]"
         },
         {
           "title": "何小鹏一镜到底回应网友质疑",
@@ -639,8 +676,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 16时32分]"
         },
         {
           "title": "小鹏机器人走猫步太像人了",
@@ -649,11 +686,62 @@
           "ranks": [
             19,
             15,
-            17
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 16时32分]"
+        },
+        {
+          "title": "女性人形机器人里藏真人？何小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时44分 ~ 14时33分]"
+          "time_info": "[13时22分 ~ 16时32分]"
+        },
+        {
+          "title": "小鹏女机器人里藏真人？何小鹏回应",
+          "url": "https://www.cls.cn/detail/2192721",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 16时32分]"
+        },
+        {
+          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1969734521176941617",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -677,32 +765,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "女性人形机器人里藏真人？何小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 15时22分]"
-        },
-        {
-          "title": "小鹏女机器人里藏真人？何小鹏回应",
-          "url": "https://www.cls.cn/detail/2192721",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时22分 ~ 15时22分]"
         },
         {
           "title": "小鹏机器人里藏了真人？何小鹏澄清",
@@ -741,6 +803,17 @@
           "time_info": "[14时33分 ~ 15时22分]"
         },
         {
+          "title": "小鹏的人形机器人为啥让网友吵疯了",
+          "url": "https://www.toutiao.com/trending/7569493216051858987/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "小鹏科技日",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B0%8F%E9%B9%8F%E7%A7%91%E6%8A%80%E6%97%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D10%26flag%3D1%26realpos%3D10%26q%3D%2523%25E5%25B0%258F%25E9%25B9%258F%25E7%25A7%2591%25E6%258A%2580%25E6%2597%25A5%2523%26pos%3D10%26display_time%3D1762406460%26pre_seqid%3D1762406460035012921823&launchid=10000360-page_H5",
           "source": "微博",
@@ -761,6 +834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "去掉蒙皮的小鹏机器人什么样",
+          "url": "https://www.douyin.com/hot/2296258",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "小鹏汽车“更名”后多项成果“涌现” 涉智能驾驶、Robotaxi、机器人及低空飞行领域",
@@ -795,11 +879,12 @@
           "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 16时32分]"
         },
         {
           "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
@@ -809,8 +894,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时32分]"
         }
       ]
     }
