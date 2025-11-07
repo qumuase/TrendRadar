@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T01:21:54.340730+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-11-08T02:31:51.444691+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "美股延续跌势，纳指日内跌幅扩大至2%。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -35,22 +35,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时31分]"
+        },
+        {
+          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时21分]"
+          "time_info": "[01时21分 ~ 02时31分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -64,15 +78,26 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251108013150953800",
+          "source": "金十数据",
           "ranks": [
-            6
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "02时31分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251108013139801800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "行业ETF美股盘初普跌，半导体ETF跌1.3%",
@@ -96,11 +121,12 @@
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -110,8 +136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         }
       ]
     },
@@ -127,8 +153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -138,8 +164,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         }
       ]
     },
@@ -155,8 +181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         }
       ]
     }
