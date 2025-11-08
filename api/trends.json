@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T14:30:14.773596+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-11-08T15:20:08.740823+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 14时30分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 15时20分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 15时20分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -214,6 +215,31 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "“六小龙”乌镇对话思考AI和未来",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 15时20分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 15时20分]"
+        },
+        {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
@@ -226,17 +252,6 @@
           "time_info": "[00时24分 ~ 04时23分]"
         },
         {
-          "title": "“六小龙”乌镇对话思考AI和未来",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 14时30分]"
-        },
-        {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
           "source": "澎湃新闻",
@@ -246,19 +261,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时21分]"
-        },
-        {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 14时30分]"
         },
         {
           "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
@@ -281,8 +283,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 15时20分]"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -302,11 +304,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时20分]"
         },
         {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
@@ -380,7 +383,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -392,22 +395,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 14时30分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 15时20分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -420,8 +409,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[11时04分 ~ 15时20分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 15时20分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -461,6 +465,17 @@
           "time_info": "[11时04分 ~ 12时25分]"
         },
         {
+          "title": "小鹏机器人火了 前景乐观吗",
+          "url": "https://www.toutiao.com/trending/7570178447754923570/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
           "url": "https://wallstreetcn.com/livenews/3001397",
           "source": "华尔街见闻-快讯",
@@ -470,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "小鹏机器人火了但也不能太乐观",
+          "url": "https://www.toutiao.com/trending/7570178447754923570/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "李娜李小鹏世纪同框",
