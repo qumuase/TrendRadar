@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T16:25:26.144421+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-11-09T17:20:15.927558+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时18分 ~ 16时25分]"
+          "appearance_count": 17,
+          "time_info": "[03时18分 ~ 17时20分]"
         },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -45,6 +45,18 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
+          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时16分 ~ 17时20分]"
+        },
+        {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
           "url": "https://www.cls.cn/detail/2193939",
           "source": "财联社热门",
@@ -56,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 17时20分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -79,6 +91,20 @@
           "time_info": "[00时26分 ~ 15时21分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年11月8日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 17时20分]"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
           "url": "https://wallstreetcn.com/livenews/3001608",
           "source": "华尔街见闻-快讯",
@@ -96,32 +122,6 @@
           "time_info": "[05时17分 ~ 14时30分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年11月8日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 16时25分]"
-        },
-        {
-          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
-          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 16时25分]"
-        },
-        {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
           "url": "https://wallstreetcn.com/livenews/3001588",
           "source": "华尔街见闻-快讯",
@@ -137,17 +137,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
-          "url": "https://flash.jin10.com/detail/20251109154126817800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "AI一键格桑花儿开转场",
           "url": "https://www.douyin.com/hot/2299288",
           "source": "抖音",
@@ -157,8 +146,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 17时20分]"
         },
         {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
@@ -169,8 +158,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时30分 ~ 17时20分]"
+        },
+        {
+          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
+          "url": "https://flash.jin10.com/detail/20251109154126817800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时20分]"
+        },
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "14岁男生回应作文被质疑借助AI",
@@ -248,6 +260,23 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时26分 ~ 16时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         }
       ]
     }
