@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T02:29:17.040601+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-11-10T03:17:38.333191+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -49,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -60,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -69,11 +70,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时17分]"
         }
       ]
     },
@@ -87,11 +89,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         }
       ]
     },
@@ -107,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         }
       ]
     }
