@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T04:23:11.489378+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-11-10T05:18:31.188648+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -36,11 +36,12 @@
           "ranks": [
             22,
             25,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -65,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时18分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -97,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     },
@@ -114,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 05时18分]"
         }
       ]
     }
