@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-11T06:22:29.180654+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-11T07:21:22.521382+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
+          "url": "https://wallstreetcn.com/articles/3759030",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
+        },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
           "url": "https://www.baidu.com/s?wd=12%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%81%9A%E4%B8%80%E5%BC%A0AI%E5%9B%BE%E5%90%93%E5%9D%8F%E6%95%B4%E4%B8%AA%E5%B0%8F%E5%8C%BA",
@@ -15,19 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
-        },
-        {
-          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
-          "url": "https://wallstreetcn.com/articles/3759030",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -51,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "每天一个奇吧—novelai吧",
@@ -74,8 +75,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时32分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时32分 ~ 07时21分]"
+        },
+        {
+          "title": "现在的 AI 能够给黑白漫画上色了吗？",
+          "url": "https://www.zhihu.com/question/1450725457",
+          "source": "知乎",
+          "ranks": [
+            20,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 07时21分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -88,18 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时18分]"
-        },
-        {
-          "title": "现在的 AI 能够给黑白漫画上色了吗？",
-          "url": "https://www.zhihu.com/question/1450725457",
-          "source": "知乎",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 06时22分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -148,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时20分]"
+        },
+        {
+          "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
+          "url": "https://wallstreetcn.com/livenews/3002355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美民主党参议员要求白宫回应AI数据中心推高电费的问题",
@@ -205,6 +218,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "钢琴奶奶给AI打分评歌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%92%A2%E7%90%B4%E5%A5%B6%E5%A5%B6%E7%BB%99AI%E6%89%93%E5%88%86%E8%AF%84%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "C3 AI在创始人辞职后探索出售及其他选项",
           "url": "https://flash.jin10.com/detail/20251111045017406800",
           "source": "金十数据",
@@ -219,18 +243,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
           "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
+        },
+        {
+          "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
+          "url": "https://wallstreetcn.com/livenews/3002343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股收盘）",
@@ -245,6 +293,18 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "费城金银指数收涨4.65%，报291.48点，美股开盘后急剧拉升，随后高位震荡。 纽约证交所ARCA金矿开采商指数收涨4.81%，报2125.04点；北京时间22:30美股开盘之前维持微幅上涨状态、持稳于2040点一线，跟随美股“跳空高开”之后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251111050517730800",
           "source": "金十数据",
@@ -255,6 +315,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
+        },
+        {
+          "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
+          "url": "https://wallstreetcn.com/livenews/3002339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "普拉格动力（PLUG）美股盘后上涨4%，该公司净营收超过市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3002336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -269,48 +353,37 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
-          "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
-          "url": "https://wallstreetcn.com/livenews/3002343",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
+          "url": "https://www.cls.cn/detail/2196552",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
-          "title": "费城金银指数收涨4.65%，报291.48点，美股开盘后急剧拉升，随后高位震荡。 纽约证交所ARCA金矿开采商指数收涨4.81%，报2125.04点；北京时间22:30美股开盘之前维持微幅上涨状态、持稳于2040点一线，跟随美股“跳空高开”之后继续扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3002342",
+          "title": "CoreWeave美股盘后跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3002358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
-          "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
-          "url": "https://wallstreetcn.com/livenews/3002339",
+          "title": "Beyond Meat美股盘后跌8%，该公司四季度销售指引逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3002353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "普拉格动力（PLUG）美股盘后上涨4%，该公司净营收超过市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3002336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -370,8 +443,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨2.3%。 热门中概股里，小鹏初步收涨15.6%，阿特斯太阳能涨13.8%，华住涨8.8%，大全新能源涨7.1%，唯品会、名创优品、百度涨超5%，携程、晶科能源涨超4.8%，亚朵、贝壳、老虎证券、微博涨超3%。 ETF中，KWEB涨2.2%，CQQQ涨1.5%。",
@@ -391,7 +464,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
