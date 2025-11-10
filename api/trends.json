@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T20:46:36.976990+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-11-10T21:33:42.327632+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 21时33分]"
         },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
@@ -65,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时19分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[07时19分 ~ 21时33分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -197,18 +197,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
-          "url": "https://flash.jin10.com/detail/20251110202419439800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -223,6 +212,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时23分]"
+        },
+        {
+          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
+          "url": "https://flash.jin10.com/detail/20251110202419439800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时33分]"
         },
         {
           "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
@@ -312,7 +313,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -337,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年11月9日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
@@ -418,6 +430,18 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时33分]"
+        },
+        {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
@@ -450,17 +474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
-        },
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         }
       ]
     },
@@ -506,8 +519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时35分 ~ 20时46分]"
+          "appearance_count": 9,
+          "time_info": "[14时35分 ~ 21时33分]"
         }
       ]
     }
