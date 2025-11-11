@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T20:46:33.610804+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2025-11-11T21:32:53.815180+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 20时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 21时32分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -120,6 +120,20 @@
           "time_info": "[12时27分 ~ 17时25分]"
         },
         {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时32分]"
+        },
+        {
           "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
           "url": "https://www.cls.cn/detail/2196710",
           "source": "财联社热门",
@@ -149,7 +163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -163,20 +177,6 @@
             9,
             11,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时46分]"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15,
-            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -244,6 +244,19 @@
           "time_info": "[07时21分 ~ 12时27分]"
         },
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时32分]"
+        },
+        {
           "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
           "url": "https://wallstreetcn.com/articles/3759084",
           "source": "华尔街见闻",
@@ -253,18 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时27分 ~ 20时46分]"
-        },
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时46分]"
         },
         {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
@@ -423,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "欧盟坚称将强制执行AI和数据隐私规则 拒绝受美国影响",
+          "url": "https://flash.jin10.com/detail/20251111205124420800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
@@ -749,7 +761,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -771,7 +783,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -820,8 +832,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 20时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 21时32分]"
         },
         {
           "title": "港股小鹏汽车盘初一度涨超13%，目前涨幅11.6%。",
