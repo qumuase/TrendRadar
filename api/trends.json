@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T19:20:21.007577+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2025-11-11T20:46:33.610804+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时46分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -143,6 +143,46 @@
           "time_info": "[09时44分 ~ 14时34分]"
         },
         {
+          "title": "AI基础设施需求引爆Nebius业绩 产能售罄显示市场信心",
+          "url": "https://flash.jin10.com/detail/20251111203518591800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 20时46分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 20时46分]"
+        },
+        {
           "title": "华为Mate 70 Air今日开售",
           "url": "https://wallstreetcn.com/livenews/3002430",
           "source": "华尔街见闻-快讯",
@@ -165,33 +205,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 07时21分]"
-        },
-        {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 19时20分]"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "AI制药商英矽智能冲刺港股IPO，核心产品已获中国CDE确认可开展III期临床试验",
@@ -231,6 +244,29 @@
           "time_info": "[07时21分 ~ 12时27分]"
         },
         {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时46分]"
+        },
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时46分]"
+        },
+        {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
           "url": "https://wallstreetcn.com/livenews/3002262",
           "source": "华尔街见闻-快讯",
@@ -253,17 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
-          "url": "https://wallstreetcn.com/articles/3759084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时20分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -312,24 +337,13 @@
           "time_info": "18时27分"
         },
         {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "AI投资热潮遭遇资本支出“反噬” 苹果因保守策略意外成为避风港",
           "url": "https://flash.jin10.com/detail/20251111190155430800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -428,7 +442,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -502,7 +516,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -724,9 +738,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "CoreWeave美股盘前跌超10%，公司三季度营收13.6亿美元超预期，建设缓慢导致下调全年营收指引。瑞穗证券将CoreWeave目标价从150美元下调至120美元。",
+          "url": "https://wallstreetcn.com/livenews/3002786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股盘中）",
@@ -738,6 +763,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "Meta美股盘前扩大跌幅，一度跌1.7%。据英国金融时报，Meta Platforms首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
+          "url": "https://wallstreetcn.com/livenews/3002781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）热门中概股行情一览（美股盘中）",
@@ -784,8 +820,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时46分]"
         },
         {
           "title": "港股小鹏汽车盘初一度涨超13%，目前涨幅11.6%。",
