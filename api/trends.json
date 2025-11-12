@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T01:22:21.499119+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2025-11-13T02:31:30.048744+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
@@ -84,11 +84,12 @@
           "url": "https://wallstreetcn.com/articles/3759214",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         }
       ]
     }
