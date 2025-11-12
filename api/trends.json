@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:34:40.044906+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-11-12T15:22:01.215760+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 15时22分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -50,6 +50,20 @@
           "time_info": "[00时28分 ~ 11时14分]"
         },
         {
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 15时22分]"
+        },
+        {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
           "url": "https://www.cls.cn/detail/2197694",
           "source": "财联社热门",
@@ -72,32 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时34分]"
-        },
-        {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 14时34分]"
-        },
-        {
-          "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
-          "url": "https://wallstreetcn.com/livenews/3003214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时22分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -109,8 +99,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时22分]"
+        },
+        {
+          "title": "机构：维持对软银的“持有”评级 公司债或面临AI估值波动风险",
+          "url": "https://flash.jin10.com/detail/20251112151616915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -161,6 +162,42 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
+          "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
+          "url": "https://wallstreetcn.com/livenews/3003214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时22分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时22分]"
+        },
+        {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时22分]"
+        },
+        {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
           "url": "https://wallstreetcn.com/articles/3759111",
           "source": "华尔街见闻",
@@ -199,17 +236,6 @@
           "time_info": "[06时25分 ~ 07时20分]"
         },
         {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时34分]"
-        },
-        {
           "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
           "url": "https://flash.jin10.com/detail/20251112024020124800",
           "source": "金十数据",
@@ -232,17 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时25分]"
-        },
-        {
-          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
-          "url": "https://www.cls.cn/detail/2197833",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时34分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -298,7 +313,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -318,8 +333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 15时22分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -509,6 +524,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时22分]"
+        },
+        {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E9%A9%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D11%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26realpos%3D11%26c_type%3D31%26q%3D%2523%25E7%25BE%258E%25E4%25B8%25BB%25E6%2592%25AD%25E9%2598%25B4%25E9%2598%25B3%25E6%2580%25AA%25E6%25B0%2594%25E4%25B8%25AD%25E5%259B%25BD%25E4%25BA%25BA%25E9%2581%25AD%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%258D%25E9%25A9%25B3%2523%26dgr%3D0%26pos%3D12%26display_time%3D1762878246%26pre_seqid%3D176287824648503042033&launchid=10000360-page_H5",
           "source": "微博",
@@ -522,19 +551,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 07时20分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时34分]"
         }
       ]
     }
