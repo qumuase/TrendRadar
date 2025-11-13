@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:20:50.548068+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2025-11-13T20:47:43.624651+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -97,6 +97,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "新加坡金管局提案 金融机构需明确AI风险管理责任",
+          "url": "https://flash.jin10.com/detail/20251113204011304800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "深度思维正式推出“数学做题家AI”，其在奥赛中取得相当于银牌的成绩",
           "url": "https://wallstreetcn.com/livenews/3003674",
           "source": "华尔街见闻-快讯",
@@ -119,6 +130,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时17分 ~ 13时23分]"
+        },
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "AI教母”李飞飞发布首款商用世界模型",
@@ -294,6 +316,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "新加坡考虑明确金融机构高管对AI风险负责",
           "url": "https://flash.jin10.com/detail/20251113160349426800",
           "source": "金十数据",
@@ -314,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -358,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
@@ -473,7 +528,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -533,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
+          "url": "https://flash.jin10.com/detail/20251113202452131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
@@ -638,6 +704,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时45分 ~ 11时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "何小鹏感谢吴敬琏鼓励机器人创新",
+          "url": "https://wallstreetcn.com/livenews/3004195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     }
