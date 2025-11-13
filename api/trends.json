@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T15:22:14.378797+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2025-11-13T16:30:27.477085+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 16时30分]"
         },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -78,11 +78,12 @@
           "ranks": [
             12,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 16时30分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -258,6 +259,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "新加坡考虑明确金融机构高管对AI风险负责",
+          "url": "https://flash.jin10.com/detail/20251113160349426800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
           "url": "https://flash.jin10.com/detail/20251113031402005800",
           "source": "金十数据",
@@ -289,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
+          "url": "https://www.zhihu.com/question/1971870297541043616",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
