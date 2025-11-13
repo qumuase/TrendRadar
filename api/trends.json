@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T01:21:52.767415+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-11-14T02:31:54.167632+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "马斯克：媒体关于xAI融资的报道“不实”。",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -62,8 +63,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
@@ -72,17 +84,6 @@
           "ranks": [
             9,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,11 +122,12 @@
           "url": "https://wallstreetcn.com/articles/3759298",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         },
         {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
@@ -172,11 +174,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时31分]"
         }
       ]
     }
