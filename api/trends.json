@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T11:15:54.916217+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-14T12:26:56.981698+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时26分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -28,11 +28,12 @@
             5,
             4,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时26分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -59,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时26分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -70,11 +71,12 @@
             18,
             17,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时26分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -82,11 +84,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时26分]"
+        },
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         },
         {
           "title": "马斯克：媒体关于xAI融资的报道“不实”。",
@@ -166,7 +180,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -177,7 +191,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -277,8 +291,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时21分 ~ 11时15分]"
+          "appearance_count": 6,
+          "time_info": "[06时21分 ~ 12时26分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -286,11 +300,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 12时26分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
@@ -412,7 +427,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -487,7 +502,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }
