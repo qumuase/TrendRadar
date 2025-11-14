@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T04:25:34.430644+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-11-15T05:21:05.085933+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 04时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 05时21分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -49,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "美股三大股指集体低开 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时21分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -134,19 +145,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时25分]"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3005022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -156,8 +156,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 05时21分]"
+        },
+        {
+          "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3005022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时21分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
