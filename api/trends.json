@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T16:29:50.742337+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-11-14T17:25:01.481129+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 16时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 17时25分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
@@ -49,8 +49,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 16时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 17时25分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -77,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 16时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 17时25分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -180,6 +180,17 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
+          "title": "AI泡沫警告声四起！继华尔街之后，相关企业高管们也承认了……",
+          "url": "https://www.cls.cn/detail/2200800",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
           "title": "IDC最新的全球宏观经济预测显示，到2030年，AI会累积带来近22.3万亿美元的经济收入，这将占到全球GDP的3.7%。",
           "url": "https://wallstreetcn.com/livenews/3004589",
           "source": "华尔街见闻-快讯",
@@ -190,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时34分]"
+        },
+        {
+          "title": "小伙高铁上用AI眼镜玩游戏",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%A8AI%E7%9C%BC%E9%95%9C%E7%8E%A9%E6%B8%B8%E6%88%8F",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
@@ -231,7 +253,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -576,7 +598,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
