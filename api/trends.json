@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:34:21.958014+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2025-11-14T15:21:56.864907+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -29,11 +30,12 @@
             4,
             6,
             9,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -60,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -89,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 15时21分]"
         },
         {
           "title": "亚洲AI热潮面临降温，外资抛售潮持续加剧",
@@ -216,7 +218,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -260,7 +262,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
