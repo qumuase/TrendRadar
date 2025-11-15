@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T14:30:43.581322+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2025-11-15T15:19:18.820672+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时19分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -69,8 +69,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时19分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 15时19分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -93,18 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时30分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -245,8 +245,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时31分 ~ 14时30分]"
+          "appearance_count": 16,
+          "time_info": "[02时31分 ~ 15时19分]"
+        },
+        {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 15时19分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -261,17 +272,6 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
-          "title": "AI爆梗王?串子罗伯特炸翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时30分]"
-        },
-        {
           "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
           "url": "https://wallstreetcn.com/articles/3759419",
           "source": "华尔街见闻",
@@ -280,8 +280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时19分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
