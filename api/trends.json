@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:17:53.525070+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2025-11-16T02:28:26.356390+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -49,8 +49,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     },
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -77,19 +77,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2201293",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -99,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     }
