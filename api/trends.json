@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T20:40:00.261163+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2025-11-15T21:26:41.477722+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时28分 ~ 20时40分]"
+          "appearance_count": 28,
+          "time_info": "[00时28分 ~ 21时26分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时20分 ~ 20时40分]"
+          "appearance_count": 18,
+          "time_info": "[07时20分 ~ 21时26分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -68,11 +68,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 21时26分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -247,8 +248,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时09分 ~ 20时40分]"
+          "appearance_count": 15,
+          "time_info": "[11时09分 ~ 21时26分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -274,8 +275,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时41分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[09时41分 ~ 21时26分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -298,11 +299,12 @@
             6,
             12,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 20时40分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 21时26分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
