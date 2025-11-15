@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T19:17:01.947626+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2025-11-15T20:40:00.261163+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 19时17分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时20分 ~ 19时17分]"
+          "appearance_count": 17,
+          "time_info": "[07时20分 ~ 20时40分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时09分 ~ 20时40分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -243,24 +243,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 19时17分]"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时41分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时09分 ~ 20时40分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -274,6 +262,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[02时31分 ~ 15时19分]"
+        },
+        {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时41分 ~ 20时40分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -295,11 +297,25 @@
             1,
             6,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 20时40分]"
+        },
+        {
+          "title": "FURIA战胜paiN晋级BLAST决赛",
+          "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -312,18 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
-        },
-        {
-          "title": "FURIA战胜paiN晋级BLAST决赛",
-          "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "BLAST香港FURIA vs paiN",
