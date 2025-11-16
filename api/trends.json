@@ -1,320 +1,94 @@
 {
-  "generated_at": "2025-11-16T23:20:11.721571+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-11-17T00:25:09.244858+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
           "url": "https://www.cls.cn/detail/2201789",
           "source": "财联社热门",
           "ranks": [
-            13,
-            7,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时20分 ~ 23时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
           "url": "https://www.cls.cn/detail/2201554",
           "source": "财联社热门",
           "ranks": [
-            9,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时27分 ~ 23时20分]"
-        },
-        {
-          "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
-          "url": "https://wallstreetcn.com/livenews/3005195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时49分]"
-        },
-        {
-          "title": "AI爆梗王?串子罗伯特炸翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            18,
-            19,
-            20,
-            21,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 23时20分]"
-        },
-        {
-          "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
-          "url": "https://wallstreetcn.com/livenews/3005171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时20分]"
-        },
-        {
-          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
-          "url": "https://wallstreetcn.com/livenews/3005341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时20分]"
-        },
-        {
-          "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
-          "url": "https://wallstreetcn.com/livenews/3005235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时20分]"
-        },
-        {
-          "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
-          "url": "https://wallstreetcn.com/livenews/3005267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时21分]"
-        },
-        {
-          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3005332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 23时20分]"
-        },
-        {
-          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
-          "url": "https://wallstreetcn.com/livenews/3005279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时17分]"
-        },
-        {
-          "title": "华为，AI突破将发布",
-          "url": "https://wallstreetcn.com/articles/3759477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 19时17分]"
-        },
-        {
-          "title": "易点天下与阿里云达成AI漫剧出海框架合作协议，共同打造首个AI漫剧出海加速增长引擎",
-          "url": "https://wallstreetcn.com/livenews/3005243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时20分]"
-        },
-        {
-          "title": "FURIA战胜paiN晋级BLAST决赛",
-          "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
-          "url": "https://wallstreetcn.com/livenews/3005329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
-        },
-        {
-          "title": "CDS复兴？“AI发债潮”重燃了市场的“次贷回忆”",
-          "url": "https://wallstreetcn.com/articles/3759478",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "央视起底AI仿冒名人营销乱象",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95AI%E4%BB%BF%E5%86%92%E5%90%8D%E4%BA%BA%E8%90%A5%E9%94%80%E4%B9%B1%E8%B1%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25A4%25AE%25E8%25A7%2586%25E8%25B5%25B7%25E5%25BA%2595AI%25E4%25BB%25BF%25E5%2586%2592%25E5%2590%258D%25E4%25BA%25BA%25E8%2590%25A5%25E9%2594%2580%25E4%25B9%25B1%25E8%25B1%25A1%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D22%26band_rank%3D22%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26pos%3D21%26flag%3D1%26display_time%3D1763296456%26pre_seqid%3D17632964563690330467023&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "男子称iPhone Air把始祖鸟冲锋衣划破",
-          "url": "https://www.toutiao.com/trending/7572867707574878249/",
-          "source": "今日头条",
+          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
+          "url": "https://wallstreetcn.com/livenews/3005341",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
-        },
-        {
-          "title": "谁最终为AI狂潮“买单”？美国险资",
-          "url": "https://wallstreetcn.com/articles/3759444",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3005332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 18时21分]"
-        },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            9,
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时24分 ~ 23时20分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 16时27分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时17分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     }
