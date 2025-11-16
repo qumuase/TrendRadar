@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T22:19:05.013639+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-11-16T23:20:11.721571+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -15,11 +15,12 @@
             13,
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时20分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[17时20分 ~ 23时20分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -31,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时27分 ~ 22时19分]"
+          "appearance_count": 20,
+          "time_info": "[12时27分 ~ 23时20分]"
         },
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -62,8 +63,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 22时19分]"
+          "appearance_count": 33,
+          "time_info": "[00时24分 ~ 23时20分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -83,11 +84,12 @@
           "ranks": [
             1,
             3,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
         },
         {
           "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
@@ -116,6 +118,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时20分 ~ 17时21分]"
+        },
+        {
+          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3005332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 23时20分]"
         },
         {
           "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
@@ -158,19 +174,6 @@
           "time_info": "[12时27分 ~ 15时20分]"
         },
         {
-          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3005332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时19分]"
-        },
-        {
           "title": "FURIA战胜paiN晋级BLAST决赛",
           "url": "https://search.bilibili.com/all?keyword=FURIA%20paiN",
           "source": "bilibili 热搜",
@@ -205,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "央视起底AI仿冒名人营销乱象",
@@ -271,8 +285,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时24分 ~ 22时19分]"
+          "appearance_count": 33,
+          "time_info": "[00时24分 ~ 23时20分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
