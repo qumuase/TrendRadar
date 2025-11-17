@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T02:32:22.313723+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2025-11-18T03:18:14.500526+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -26,30 +26,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251118013150496800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 03时18分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251118013112350800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 03时18分]"
         },
         {
           "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
@@ -109,19 +111,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
           "url": "https://www.cls.cn/detail/2202608",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -132,8 +135,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
@@ -144,8 +147,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 03时18分]"
         },
         {
           "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
@@ -172,8 +175,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         }
       ]
     }
