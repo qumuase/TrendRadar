@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T21:34:21.665000+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-11-17T22:23:00.627009+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[14时34分 ~ 22时23分]"
         },
         {
           "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
@@ -92,6 +92,32 @@
           "time_info": "[00时24分 ~ 14时35分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 22时23分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 22时23分]"
+        },
+        {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
           "url": "https://www.cls.cn/detail/2201993",
           "source": "财联社热门",
@@ -103,18 +129,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时28分 ~ 16时32分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 21时34分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -144,20 +158,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时19分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时34分]"
         },
         {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
@@ -308,7 +308,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -333,6 +333,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -392,6 +403,18 @@
           "time_info": "[18时26分 ~ 19时20分]"
         },
         {
+          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3005902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时23分]"
+        },
+        {
           "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3005756",
           "source": "华尔街见闻-快讯",
@@ -426,15 +449,15 @@
           "time_info": "20时46分"
         },
         {
-          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3005902",
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3005923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "22时23分"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
@@ -465,7 +488,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -509,7 +532,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         }
@@ -600,8 +623,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 21时34分]"
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 22时23分]"
         }
       ]
     }
