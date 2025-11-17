@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:22:56.510201+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-11-17T16:32:41.695007+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -54,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 16时32分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -71,6 +71,19 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时24分 ~ 14时35分]"
+        },
+        {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 16时32分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -116,18 +129,6 @@
           "time_info": "[00时25分 ~ 05时19分]"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时22分]"
-        },
-        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
@@ -139,6 +140,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时18分 ~ 14时35分]"
+        },
+        {
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://www.toutiao.com/trending/7573506510103691273/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 16时32分]"
         },
         {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
@@ -154,16 +168,16 @@
           "time_info": "[04时23分 ~ 07时19分]"
         },
         {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://www.toutiao.com/trending/7573506510103691273/",
-          "source": "今日头条",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            12
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "time_info": "[14时34分 ~ 16时32分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -180,16 +194,37 @@
           "time_info": "[13时23分 ~ 15时22分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
           "ranks": [
-            9,
-            7
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 15时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "华为将发布AI领域突破性技术 国产算力投资机遇凸显",
+          "url": "https://www.cls.cn/detail/2201963",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "阿里国际站推出AI Mode",
@@ -228,7 +263,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -252,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美股三大股指期货周一开盘微跌。",
@@ -285,6 +331,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
