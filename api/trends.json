@@ -1,260 +1,88 @@
 {
-  "generated_at": "2025-11-18T23:26:20.183758+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2025-11-19T00:31:15.721045+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 17,
       "titles": [
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 11时14分]"
-        },
-        {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
+          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
+          "url": "https://www.cls.cn/detail/2203967",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时14分 ~ 17时25分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6,
-            7,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 23时26分]"
-        },
-        {
-          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
-          "url": "https://www.zhihu.com/question/1972861967086666313",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14,
-            13,
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时21分 ~ 12时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
           "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16,
-            14,
-            12,
-            9,
-            8,
-            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时43分 ~ 23时26分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 20时49分]"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时20分 ~ 23时26分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时21分]"
-        },
-        {
-          "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
-          "url": "https://www.cls.cn/detail/2203967",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 23时26分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时26分]"
-        },
-        {
-          "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3006622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
           "url": "https://www.cls.cn/detail/2203937",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 23时26分]"
-        },
-        {
-          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
-          "url": "https://www.zhihu.com/question/1970226468920471782",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时22分]"
-        },
-        {
-          "title": "摩根大通副董事长警告 AI估值可能迎来“修正”",
-          "url": "https://flash.jin10.com/detail/20251118180714384800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "摩根大通副董事长警告称：AI估值可能出现“调整”",
-          "url": "https://wallstreetcn.com/livenews/3006619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
-          "url": "https://wallstreetcn.com/livenews/3006401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时26分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
-          "url": "https://wallstreetcn.com/articles/3759546",
-          "source": "华尔街见闻",
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时30分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
+          "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
+          "url": "https://wallstreetcn.com/livenews/3006652",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
+          "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
+          "url": "https://flash.jin10.com/detail/20251119001718357800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            22
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 23时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -265,674 +93,156 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759633",
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
-          "url": "https://wallstreetcn.com/livenews/3006232",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时22分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
           "url": "https://www.zhihu.com/question/1966326160255344700",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
-        },
-        {
-          "title": "百度Q3总营收312亿元：首次披露AI业务收入增速50%超预期",
-          "url": "https://flash.jin10.com/detail/20251118170632791800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在Google VIDS中扩大了Gemini的使用范围。拥有Gmail账号的任何人都可使用Google VIDS中的Gemini功能。（注：Google Vids是一款AI赋能的视频制作应用）",
-          "url": "https://flash.jin10.com/detail/20251118065706358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "沪指跌0.81%录得3连阴，AI应用方向逆势爆发",
-          "url": "https://wallstreetcn.com/livenews/3006322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
-          "url": "https://wallstreetcn.com/articles/3759594",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
-          "url": "https://wallstreetcn.com/livenews/3006092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "蚂蚁旗下OceanBase发布首款AI数据库，IPO“正常准备中”",
-          "url": "https://wallstreetcn.com/livenews/3006469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "蚂蚁推出全模态通用AI助手“灵光”",
-          "url": "https://wallstreetcn.com/livenews/3006157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "英伟达：微软Azure AI Foundry的客户将能够访问Anthropic的Frontier Claude模型。",
-          "url": "https://flash.jin10.com/detail/20251118230322722800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
-          "url": "https://wallstreetcn.com/livenews/3006420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "OpenAI状态页面：部分用户无法访问ChatGPT和平台官网。",
-          "url": "https://flash.jin10.com/detail/20251118202012120800",
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
+          "url": "https://flash.jin10.com/detail/20251119000659140800",
           "source": "金十数据",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
-          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
-          "url": "https://wallstreetcn.com/livenews/3006418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
-          "url": "https://wallstreetcn.com/livenews/3005945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时31分"
         },
         {
-          "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
-          "url": "https://wallstreetcn.com/livenews/3006131",
+          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
+          "url": "https://wallstreetcn.com/livenews/3006643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时43分"
+          "time_info": "00时31分"
+        },
+        {
+          "title": "百度美股短线拉升涨超2%，盘初一度跌近5%。 百度CFO何海建在Q3财报电话会上披露，自2023年3月发布文心一言以来，百度在AI领域的投入已超过1000亿元。未来，百度将持续加大AI投入。",
+          "url": "https://wallstreetcn.com/livenews/3006629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3006622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
+          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时43分 ~ 23时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
           "url": "https://wallstreetcn.com/articles/3759576",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时43分 ~ 23时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时43分 ~ 18时26分]"
-        },
-        {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 16时30分]"
-        },
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
-        },
-        {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时27分]"
-        },
-        {
-          "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时21分]"
-        },
-        {
-          "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
-        },
-        {
-          "title": "拼多多美股盘前跌超4%，此前一度涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3006480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "家得宝第三季度同店销售增长0.2％，预估增长1.36％。 第三季度销售净额413.5亿美元，同比增长2.8%，预估409.7亿美元。 第三季度调整后每股收益3.74美元，上年同期3.78美元，预估3.84美元。 第三季度每股收益3.62美元，上年同期3.67美元。 家得宝预计2026年营收变动大约增长3％，此前预计大约增长2.8％ 家得宝预计2026营业利益率大约12.6％，此前预计大约13％，市场预估13.3％。 家得宝美股盘前跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3006479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "微博第三季度调整后每股收益0.42美元，上年同期0.53美元，预估0.41美元。 第三季度月活跃用户5.8亿，同比下降1.5%，预估5.9亿。 第三季度净营收4.423亿美元，同比下降4.8%，预估4.409亿美元。 第三季度广告和营销营收3.754亿美元，同比下降5.8%，预估3.757亿美元。 微博美股盘前涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3006403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时26分]"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251118013150496800",
+          "title": "房地美股价触及盘中高点，上涨2.2%。",
+          "url": "https://flash.jin10.com/detail/20251118235722721800",
           "source": "金十数据",
           "ranks": [
-            9,
-            22,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 23时26分]"
-        },
-        {
-          "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
-          "url": "https://wallstreetcn.com/livenews/3006080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
             21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3006250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时33分]"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251118013112350800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 03时18分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.68%，报289.48点。 纽约证交所ARCA金矿开采商指数收跌1.58%，报2124.04点，北京时间22:59涨至2170.10点刷新日高，01:33出现一波显著的下跌行情，04:03跌至2109.73点刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3006077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
-          "url": "https://www.cls.cn/detail/2202782",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
-          "url": "https://wallstreetcn.com/livenews/3006074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "区域银行ETF收跌超3.7%，和银行业ETF领跌美股行业ETF，标普电信板块涨超1.1%",
-          "url": "https://wallstreetcn.com/livenews/3006071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "美股三大指数期货短线跳水，纳斯达克100指数期货跌幅扩大至1%，道指期货跌0.5%，标普500指数跌0.7%。",
-          "url": "https://flash.jin10.com/detail/20251118122309720800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "美股科技股七巨头指数大跌2.5%，超大市值科技股指数跌2.6%，双双刷新日低。 亚马逊跌3.6%，特斯拉跌3.4%，英伟达跌3.4%，Meta跌2.7%，微软跌2.3%，谷歌A跌1.5%，苹果跌0.2%。 费城半导体指数跌超3%。 此外，AMD跌6%，台积电跌2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3006614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251118050536496800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251118050534385800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "拼多多美股盘前转跌，此前一度涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3006456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
-          "url": "https://flash.jin10.com/detail/20251118154840821800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
-          "url": "https://flash.jin10.com/detail/20251118034734318800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 小鹏跌超10%",
-          "url": "https://flash.jin10.com/detail/20251118050045422800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美股三大股指均跌超1%。英伟达(NVDA.O)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20251118225641959800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "美股存储芯片股美光科技涨超5％，再创历史新高；西部数据涨近4％，闪迪涨近8％。",
-          "url": "https://wallstreetcn.com/livenews/3005939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "美股锂矿股集体上涨，投资者关注需求增长迹象",
-          "url": "https://wallstreetcn.com/livenews/3005938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "行业ETF美股盘初普跌，半导体ETF跌超1.4%，全球科技股指数ETF跌超1.2%，可选消费ETF跌超1.1%，科技行业ETF跌超0.9%，网络股指数ETF跌超0.7%。 在标普500指数的11个板块中，可选消费板块盘初跌0.95%，科技板块跌0.56%，能源板块跌0.38%，电信板块目前涨0.17%。",
-          "url": "https://wallstreetcn.com/livenews/3006592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "行业ETF美股盘初多数下跌，全球科技股指数ETF跌1.03%，科技行业ETF跌0.9%，能源业ETF跌0.73%，半导体ETF跌0.63%，银行业ETF跌0.51%，网络股指数ETF则涨0.22%。 标普科技板块跌0.88%，能源板块跌0.7%，电信板块则涨2.06%。",
-          "url": "https://wallstreetcn.com/livenews/3005934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3005936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小鹏",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，KWEB跌0.6%，CQQQ跌0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3006054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3006370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时25分]"
-        },
-        {
-          "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
-          "url": "https://wallstreetcn.com/livenews/3006275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "花旗小幅下调小鹏汽车目标价，仍看好公司明年多元化增长的潜力",
-          "url": "https://wallstreetcn.com/livenews/3006153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
-          "url": "https://wallstreetcn.com/livenews/3006268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.21%，报7760.02点。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，中概互联网指数ETF（KWEB）收跌0.81%，中国科技指数ETF（CQQQ）收跌1.02%。 中国ETF-iShares MSCI（MCHI）收跌1.13%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3006054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
-          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时21分]"
         }
       ]
     }
