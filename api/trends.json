@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:22:14.140630+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-11-18T16:30:39.110384+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时22分]"
-        },
-        {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时20分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时43分 ~ 16时30分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -40,8 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时43分 ~ 16时30分]"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 16时30分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时43分 ~ 16时30分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -231,6 +231,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
           "url": "https://flash.jin10.com/detail/20251118034734318800",
           "source": "金十数据",
@@ -332,6 +343,19 @@
           "time_info": "[01时21分 ~ 12时27分]"
         },
         {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时14分 ~ 16时30分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
           "url": "https://wallstreetcn.com/articles/3759559",
           "source": "华尔街见闻",
@@ -342,8 +366,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时20分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 16时30分]"
+        },
+        {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时43分 ~ 16时30分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -359,34 +398,6 @@
           "time_info": "[00时30分 ~ 07时21分]"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 15时22分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时22分]"
-        },
-        {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
           "url": "https://www.cls.cn/detail/2202608",
           "source": "财联社热门",
@@ -397,6 +408,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
@@ -412,16 +436,16 @@
           "time_info": "[11时14分 ~ 13时22分]"
         },
         {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
           "ranks": [
-            9,
+            11,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时22分]"
+          "time_info": "[15时21分 ~ 16时30分]"
         },
         {
           "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
@@ -431,19 +455,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时30分]"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -475,7 +488,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -527,7 +540,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，KWEB跌0.6%，CQQQ跌0.9%。",
@@ -539,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3006370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
