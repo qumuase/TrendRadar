@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-18T13:22:12.734993+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2025-11-18T14:33:35.852804+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 25,
       "titles": [
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时18分]"
-        },
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -38,8 +27,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时33分]"
+        },
+        {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -125,6 +125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3006250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时33分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
@@ -192,18 +204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "市场风险情绪恶化，日韩股市、美股期货、加密资产跌幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3006250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -299,7 +300,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -354,8 +355,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时33分]"
+        },
+        {
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 14时33分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -370,19 +384,6 @@
           "time_info": "[00时30分 ~ 04时26分]"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 13时22分]"
-        },
-        {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
           "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
           "source": "澎湃新闻",
@@ -393,8 +394,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时43分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
@@ -431,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "英伟达：与Riken利用AI和量子计算的新超算来推进日本的科学发展。 两套新的超算将于2026年春季投入运营，Fugakunext计划到2030年投入应用。 Riken的AI和量子系统将配置2140块英伟达Blackwell GPUs。",
@@ -480,7 +492,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，KWEB跌0.6%，CQQQ跌0.9%。",
@@ -494,6 +506,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
+          "url": "https://wallstreetcn.com/livenews/3006275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "花旗小幅下调小鹏汽车目标价，仍看好公司明年多元化增长的潜力",
           "url": "https://wallstreetcn.com/livenews/3006153",
           "source": "华尔街见闻-快讯",
@@ -503,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "恒生科技指数跌2%，恒生指数跌1.72%。小鹏汽车跌约10%，赣锋锂业跌约8%，天齐锂业跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3006268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.21%，报7760.02点。 热门中概股里，逸仙电商初步收跌20%，阿特斯太阳能跌15%，小鹏跌10%，小马智行跌6%，理想跌超4%，再鼎医药跌超3%，百胜中国、京东、文远知行至少涨超0.5%，阿里巴巴涨2.8%，金山云涨9.1%，晶科能源涨13%。 ETF中，中概互联网指数ETF（KWEB）收跌0.81%，中国科技指数ETF（CQQQ）收跌1.02%。 中国ETF-iShares MSCI（MCHI）收跌1.13%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
