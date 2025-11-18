@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T03:19:13.519767+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-19T04:26:56.263730+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -62,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -73,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -96,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -107,11 +108,23 @@
             23,
             24,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
+          "url": "https://flash.jin10.com/detail/20251119040743481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由AI生成的？",
@@ -134,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "知情人士：沙特获准采购大量美国AI芯片",
+          "url": "https://flash.jin10.com/detail/20251119040550958800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -217,6 +241,28 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国计划批准向沙特AI公司Humain出售芯片。",
+          "url": "https://wallstreetcn.com/livenews/3006708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "市场消息：美国计划批准向沙特阿拉伯人工智能企业Humain出售芯片。",
+          "url": "https://flash.jin10.com/detail/20251119034535713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "沙特Humain、贝佐斯旗下亚马逊、AMD、马斯克旗下xAI将打造多个数据中心。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3006653",
           "source": "华尔街见闻-快讯",
@@ -275,7 +321,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -285,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -296,8 +342,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
@@ -307,8 +353,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "房地美股价触及盘中高点，上涨2.2%。",
@@ -320,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
