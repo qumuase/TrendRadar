@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T02:33:31.799750+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-11-20T03:18:54.847544+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -50,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
-          "url": "https://wallstreetcn.com/livenews/3007373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         },
         {
           "title": "AMD、思科联手沙特Humain成立AI数据中心合资企业",
@@ -80,18 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3007372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -102,7 +80,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -113,20 +91,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
         {
-          "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
-          "url": "https://wallstreetcn.com/livenews/3007369",
+          "title": "OpenAI：面向教师群体推出ChatGPT，他们可在2027年月份之前免费享用。 在那之后，可能会调整价格，但目标是让教师在ChatGPT使用上成为可以负担的教育工作者。",
+          "url": "https://wallstreetcn.com/livenews/3007373",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时18分]"
+        },
+        {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "AMD、思科成立合资公司，得到沙特Humain的支持，将修建总体100 MW的数据中心。",
@@ -141,6 +132,29 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
+          "title": "微软CEO就AI经济接触其顾问。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3007372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时18分]"
+        },
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
+        },
+        {
           "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
           "url": "https://wallstreetcn.com/livenews/3007319",
           "source": "华尔街见闻-快讯",
@@ -153,27 +167,16 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "沙特公司Humain与Adobe宣布全球战略合作伙伴关系，将打造AI模型和基于AI技术的应用。 Humain与马斯克旗下xAI构建合作伙伴关系，将在沙特打造下一代AI算力、部署Grok，从而支持“最赋能AI国家”目标。",
+          "url": "https://wallstreetcn.com/livenews/3007369",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
-        },
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时18分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -184,8 +187,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
+        },
+        {
+          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
+          "url": "https://www.cls.cn/detail/2205150",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时18分]"
         },
         {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
@@ -216,7 +231,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -227,18 +242,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
-          "url": "https://www.cls.cn/detail/2205150",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -249,7 +253,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -271,9 +275,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "AI股飙升为加州带来110亿美元意外收入 仍难抵180亿美元赤字缺口",
+          "url": "https://flash.jin10.com/detail/20251120024632428800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -300,8 +315,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -310,7 +325,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -320,11 +335,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 03时18分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
