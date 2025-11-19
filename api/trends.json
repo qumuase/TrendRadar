@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T21:34:17.147635+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2025-11-19T22:22:45.925090+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -52,8 +52,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时43分 ~ 21时34分]"
+          "appearance_count": 18,
+          "time_info": "[09时43分 ~ 22时22分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 22时22分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -66,20 +81,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时43分 ~ 13时23分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时13分 ~ 21时34分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -122,8 +123,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时26分 ~ 21时34分]"
+          "appearance_count": 14,
+          "time_info": "[12时26分 ~ 22时22分]"
         },
         {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
@@ -162,6 +163,20 @@
           "time_info": "[09时43分 ~ 21时34分]"
         },
         {
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时22分]"
+        },
+        {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
@@ -171,8 +186,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时43分 ~ 21时34分]"
+          "appearance_count": 17,
+          "time_info": "[09时43分 ~ 22时22分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -198,11 +213,28 @@
             13,
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 21时34分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 22时22分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            24,
+            21,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 22时22分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -234,35 +266,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时30分 ~ 17时25分]"
-        },
-        {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时34分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            24,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 21时34分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -298,8 +301,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时34分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时22分]"
+        },
+        {
+          "title": "AI音乐平台Suno按24.5亿美元估值融资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3007269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -393,6 +407,19 @@
           "time_info": "01时21分"
         },
         {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 22时22分]"
+        },
+        {
           "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
           "url": "https://wallstreetcn.com/livenews/3006939",
           "source": "华尔街见闻-快讯",
@@ -441,18 +468,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时27分 ~ 14时33分]"
-        },
-        {
-          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
-          "url": "https://wallstreetcn.com/livenews/3007227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 21时34分]"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
@@ -661,6 +676,17 @@
           "time_info": "20时46分"
         },
         {
+          "title": "市场消息：Informatica深化与微软的合作，以可信数据加速企业生成式Ai的发展。",
+          "url": "https://flash.jin10.com/detail/20251119220939812800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国计划批准向沙特AI公司Humain出售芯片。",
           "url": "https://wallstreetcn.com/livenews/3006708",
           "source": "华尔街见闻-快讯",
@@ -799,7 +825,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -813,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "美国总务管理局（GSA）和PERPLEXITY达成了AI协议。",
+          "url": "https://flash.jin10.com/detail/20251119215008470800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
@@ -851,7 +888,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -967,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
