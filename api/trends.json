@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T13:23:09.647542+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-11-19T14:33:33.091394+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -91,11 +91,26 @@
             1,
             4,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 14时33分]"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -108,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时27分 ~ 13时23分]"
+          "appearance_count": 12,
+          "time_info": "[06时27分 ~ 14时33分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -139,22 +154,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 13时23分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 14时33分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -164,20 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 13时23分]"
-        },
-        {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -188,8 +177,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时43分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时43分 ~ 14时33分]"
+        },
+        {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 14时33分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -222,8 +224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "AI泡沫担忧加剧之际 微软、英伟达与Anthropic宣布达成合作",
@@ -294,6 +296,30 @@
           "time_info": "01时21分"
         },
         {
+          "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
+          "url": "https://www.cls.cn/detail/2204415",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时33分]"
+        },
+        {
+          "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
+          "url": "https://wallstreetcn.com/livenews/3006939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时33分]"
+        },
+        {
           "title": "华尔街日报：xAI正就融资150亿美元深入谈判 估值显著提升",
           "url": "https://flash.jin10.com/detail/20251119121305471800",
           "source": "金十数据",
@@ -318,24 +344,25 @@
           "time_info": "[00时31分 ~ 01时21分]"
         },
         {
+          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
+          "url": "https://wallstreetcn.com/livenews/3006936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时33分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
           "url": "https://flash.jin10.com/detail/20251119120532267800",
           "source": "金十数据",
           "ranks": [
             3,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时23分]"
-        },
-        {
-          "title": "蚂蚁旗下AI产品“灵光”首日下载破20万",
-          "url": "https://wallstreetcn.com/livenews/3006939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -354,18 +381,6 @@
           "time_info": "[00时31分 ~ 01时21分]"
         },
         {
-          "title": "报道：xAI正就融资150亿美元深入谈判 估值显著提升",
-          "url": "https://wallstreetcn.com/livenews/3006936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时23分]"
-        },
-        {
           "title": "华为明年初或发布AI Data Platform产品",
           "url": "https://wallstreetcn.com/livenews/3006902",
           "source": "华尔街见闻-快讯",
@@ -378,15 +393,16 @@
           "time_info": "[11时14分 ~ 12时27分]"
         },
         {
-          "title": "千问APP有望被打造成超级入口 阿里AI生态链企业或全面受益",
-          "url": "https://www.cls.cn/detail/2204415",
-          "source": "财联社热门",
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 14时33分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -446,17 +462,6 @@
           "time_info": "[13时22分 ~ 13时23分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
-        },
-        {
           "title": "AI 时代，提出好问题更重要还是知道真答案更重要？",
           "url": "https://www.zhihu.com/question/1966326160255344700",
           "source": "知乎",
@@ -499,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "美国计划批准向沙特AI公司Humain出售芯片。",
@@ -554,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "如果 AI 能完美模拟已故亲友的思维和记忆，你会选择「复活」他们吗？",
+          "url": "https://www.zhihu.com/question/1920764981328221242",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "Meta领导层大洗牌 首席营收官与商业AI部门高管离职",
@@ -670,8 +697,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时27分 ~ 13时23分]"
+          "appearance_count": 12,
+          "time_info": "[06时27分 ~ 14时33分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -834,7 +861,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
@@ -858,6 +885,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时23分]"
+        },
+        {
+          "title": "大和证券：将小鹏汽车评级从“持有”上调至“买入”。",
+          "url": "https://flash.jin10.com/detail/20251119133755940800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     }
