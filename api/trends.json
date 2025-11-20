@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T03:19:00.111533+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2025-11-21T04:26:17.835863+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "UP主翻唱AI歌曲美猴亡",
@@ -15,11 +15,12 @@
             20,
             19,
             18,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
@@ -30,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -41,8 +42,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
+          "url": "https://flash.jin10.com/detail/20251121041605243800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -50,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时26分]"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
@@ -67,6 +80,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时33分]"
+        },
+        {
+          "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
+          "url": "https://wallstreetcn.com/articles/3759784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。 美国三大股指悉数转跌，标普跌0.2%、道指跌0.1%、纳指跌0.4%，纳斯达克100指数跌超0.5%，半导体指数跌超1.4%。",
@@ -128,8 +152,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
           "url": "https://wallstreetcn.com/articles/3759753",
@@ -139,18 +175,6 @@
             4,
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -179,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
+          "url": "https://flash.jin10.com/detail/20251121032845526800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
