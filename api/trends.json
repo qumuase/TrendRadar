@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T22:23:24.300024+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2025-11-20T23:24:48.180097+08:00",
+  "total_titles_processed": 2083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时11分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时11分 ~ 23时24分]"
         },
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -103,11 +103,12 @@
             25,
             24,
             7,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 22时23分]"
+          "appearance_count": 13,
+          "time_info": "[14时32分 ~ 23时24分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -123,11 +124,12 @@
             22,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 22时23分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 23时24分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -472,7 +474,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -541,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "谷歌A(GOOGL.O)：在Gemini应用中推出一项功能，可验证图片是否由谷歌AI生成或编辑。",
+          "url": "https://flash.jin10.com/detail/20251120230904713800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "有哪些物种看起来像 AI 生成的，但在自然界真实存在？",
@@ -675,6 +688,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "AMD美股盘初一度涨约4%，沙特AI公司Humain宣布将与AMD、思科系统公司成立合资企业，计划于2030年前在沙特阿拉伯建设并运营高达1吉瓦（GW）的AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3008041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
           "url": "https://flash.jin10.com/detail/20251120064243930800",
           "source": "金十数据",
@@ -692,7 +716,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -719,13 +743,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "普京：要求俄总统办公厅和政府考虑设立一个领导部门，管理俄所有AI事务",
+          "url": "https://wallstreetcn.com/livenews/3008038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "软银将向OpenAI数据中心工厂投资高达30亿美元。",
           "url": "https://flash.jin10.com/detail/20251120220240882800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -739,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美联储理事Barr：人工智能（AI）给美国GDP带来重大的增长。 AI还没有带来生产力增长的效应。 AI可能整体偏正面，短期内却存在错配问题。",
+          "url": "https://wallstreetcn.com/livenews/3008036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
@@ -785,6 +831,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "英伟达涨5.1%，创11月10日以来最大盘中涨幅。 英伟达第三财季营收达570亿美元，同比增长62%，超出市场预期；预计第四财季营收约为650亿美元，市场预期620亿美元。 英伟达CFO科莱特·克雷斯在财报电话会上表示，英伟达正在朝着今明两年核心AI芯片收入5000亿美元的预测目标前进，未来几个季度有望突破这一目标。 马斯克黄仁勋对谈：“AI会让你更忙，人形机器人将成为有史以来最大的产业”。",
+          "url": "https://wallstreetcn.com/livenews/3008029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：英伟达正与OpenAI合作，建设并部署超过10吉瓦的AI数据中心。",
           "url": "https://flash.jin10.com/detail/20251120062209378800",
           "source": "金十数据",
@@ -810,7 +867,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -822,8 +879,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时20分 ~ 22时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时20分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -941,7 +998,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -966,6 +1023,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美光科技回吐美股盘初超过1%的涨幅，并转而下跌3.6%。 瑞银将美光科技的股价目标从245美元上调至275美元，同时维持买入评级，理由是内存供应紧张状况将延续至2026年底。",
+          "url": "https://wallstreetcn.com/livenews/3008042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "美股开盘集体上涨 英伟达大涨5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -1012,6 +1091,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨2.49%，科技行业ETF涨2.19%，全球科技股指数ETF涨2.17%，银行业ETF涨1.89%，可选消费ETF、网络股指数ETF涨超1.50%，能源业ETF涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3008032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
           "url": "https://flash.jin10.com/detail/20251120004043816800",
           "source": "金十数据",
@@ -1034,6 +1124,28 @@
           "time_info": "06时21分"
         },
         {
+          "title": "谷歌涨3.2%总市值达到3.65万亿美元，略超过微软公司，进入美股总市值前三。",
+          "url": "https://wallstreetcn.com/livenews/3008034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "美股存储芯片股短线下挫，闪迪跌超7%，美光科技跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251120225037418800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251120050546994800",
           "source": "金十数据",
@@ -1051,9 +1163,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251120225020053800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
@@ -1159,7 +1282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
