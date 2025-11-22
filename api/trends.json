@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:19:28.212170+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-22T23:20:33.356594+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时39分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时39分 ~ 23时20分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -155,8 +155,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时20分]"
         },
         {
           "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
@@ -211,15 +211,29 @@
           "time_info": "[06时21分 ~ 12时25分]"
         },
         {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时38分 ~ 23时20分]"
+        },
+        {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
           "url": "https://www.zhihu.com/question/1975471032841232421",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
@@ -247,18 +261,6 @@
           "time_info": "[09时39分 ~ 12时25分]"
         },
         {
-          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时38分 ~ 22时19分]"
-        },
-        {
           "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
           "url": "https://www.zhihu.com/question/1971908267061019658",
           "source": "知乎",
@@ -283,6 +285,19 @@
           "time_info": "[00时27分 ~ 05时20分]"
         },
         {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时25分 ~ 23时20分]"
+        },
+        {
           "title": "华为AI突破性技术揭晓！",
           "url": "https://wallstreetcn.com/articles/3759882",
           "source": "华尔街见闻",
@@ -292,18 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时20分 ~ 18时21分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时19分]"
         },
         {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
@@ -400,6 +403,18 @@
           "time_info": "[04时24分 ~ 04时25分]"
         },
         {
+          "title": "AI产业为何成为烧钱竞赛",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "哪些令你惊艳的 AI 大语言模型提示词（prompt）？",
           "url": "https://www.zhihu.com/question/5415393695",
           "source": "知乎",
@@ -431,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
-        },
-        {
-          "title": "AI产业为何成为烧钱竞赛",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
@@ -514,8 +518,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时19分 ~ 22时19分]"
+          "appearance_count": 21,
+          "time_info": "[07时19分 ~ 23时20分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -578,11 +582,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时20分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -742,8 +747,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 23时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
