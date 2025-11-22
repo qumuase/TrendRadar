@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T19:16:46.895784+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-22T20:39:08.339500+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时39分 ~ 19时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时39分 ~ 20时39分]"
         },
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时39分 ~ 19时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时39分 ~ 20时39分]"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -259,6 +259,17 @@
           "time_info": "[17时20分 ~ 18时21分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
           "url": "https://wallstreetcn.com/livenews/3008804",
           "source": "华尔街见闻-快讯",
@@ -328,6 +339,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "诺基亚计划在美国进行40亿美元AI投资",
@@ -455,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 19时16分]"
+          "appearance_count": 18,
+          "time_info": "[07时19分 ~ 20时39分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -543,6 +565,17 @@
           "time_info": "[06时21分 ~ 11时06分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时39分]"
+        },
+        {
           "title": "美股深夜反弹 中国资产爆发",
           "url": "https://www.toutiao.com/trending/7575388560119827987/",
           "source": "今日头条",
@@ -577,17 +610,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时29分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -681,8 +703,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时39分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
