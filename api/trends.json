@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T05:19:18.235501+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-11-23T06:20:43.666631+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -53,19 +54,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 06时20分]"
         }
       ]
     },
@@ -82,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -94,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     },
