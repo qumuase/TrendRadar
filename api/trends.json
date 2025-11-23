@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T22:19:07.689214+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-23T23:20:17.168385+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时27分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[16时27分 ~ 23时20分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -98,6 +98,18 @@
           "time_info": "[00时25分 ~ 20时38分]"
         },
         {
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时20分]"
+        },
+        {
           "title": "AI又团灭一个行业",
           "url": "https://wallstreetcn.com/articles/3759933",
           "source": "华尔街见闻",
@@ -112,18 +124,6 @@
           "time_info": "[11时38分 ~ 16时27分]"
         },
         {
-          "title": "英伟达AI爆雷!334亿账款收不回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时19分]"
-        },
-        {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
           "url": "https://wallstreetcn.com/articles/3759948",
           "source": "华尔街见闻",
@@ -134,8 +134,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时21分 ~ 23时20分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。我们的目标是每12个月将一种新的人工智能芯片设计投入批量生产。我们预计最终生产的芯片数量将超过所有其他人工智能芯片的总和。",
@@ -150,6 +150,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 19时17分]"
+        },
+        {
+          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
+          "url": "https://www.cls.cn/detail/2208142",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 23时20分]"
         },
         {
           "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
@@ -176,18 +188,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 15时20分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 22时19分]"
         },
         {
           "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
@@ -303,11 +303,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时25分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时20分]"
         }
       ]
     }
