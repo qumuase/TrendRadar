@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T13:21:05.221864+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-11-23T14:31:56.315775+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -60,8 +60,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
@@ -70,11 +70,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 14时31分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -82,22 +83,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 14时31分]"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
           "url": "https://wallstreetcn.com/articles/3759935",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 14时31分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -138,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
