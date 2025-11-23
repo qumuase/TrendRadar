@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T17:21:11.772972+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2025-11-23T18:22:03.688490+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时56分 ~ 18时22分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -57,11 +57,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -78,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -101,11 +102,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时22分]"
+        },
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
@@ -125,23 +139,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
-        },
-        {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时21分]"
+          "time_info": "[16时27分 ~ 18时22分]"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
+          "url": "https://www.zhihu.com/question/1974446156558910121",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -193,8 +218,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时25分 ~ 17时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
