@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T11:38:51.810233+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-11-23T12:34:59.412484+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -55,11 +55,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
@@ -67,11 +68,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时34分]"
+        },
+        {
+          "title": "AI又团灭一个行业",
+          "url": "https://wallstreetcn.com/articles/3759933",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时38分]"
+          "time_info": "[11时38分 ~ 12时34分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -86,26 +100,26 @@
           "time_info": "[02时29分 ~ 06时20分]"
         },
         {
-          "title": "AI又团灭一个行业",
-          "url": "https://wallstreetcn.com/articles/3759933",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
           "url": "https://wallstreetcn.com/articles/3759924",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
+          "url": "https://wallstreetcn.com/articles/3759935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
@@ -122,8 +136,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时34分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
