@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T13:24:12.710413+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-11-24T14:35:05.380798+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -20,6 +20,18 @@
           "time_info": "[00时25分 ~ 13时24分]"
         },
         {
+          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
+          "url": "https://www.cls.cn/detail/2208386",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 14时35分]"
+        },
+        {
           "title": "英伟达财报背后的未来AI密码",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
           "source": "bilibili 热搜",
@@ -29,23 +41,12 @@
             4,
             9,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时24分]"
-        },
-        {
-          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
-          "url": "https://www.cls.cn/detail/2208386",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时35分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -72,8 +73,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时35分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -97,8 +98,45 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时35分]"
+        },
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "英伟达救不了AI股，市场想看到什么？",
+          "url": "https://wallstreetcn.com/articles/3759961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时35分]"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 14时35分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -115,30 +153,6 @@
           "time_info": "[04时24分 ~ 07时20分]"
         },
         {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 13时24分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时24分]"
-        },
-        {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
           "url": "https://wallstreetcn.com/livenews/3009336",
           "source": "华尔街见闻-快讯",
@@ -151,6 +165,28 @@
           "time_info": "[12时36分 ~ 13时24分]"
         },
         {
+          "title": "A股三大指数翻红，创业板涨近1%，AI应用领涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3009381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
           "url": "https://wallstreetcn.com/livenews/3009194",
           "source": "华尔街见闻-快讯",
@@ -160,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3009370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -219,6 +266,20 @@
       "titles": [
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%A4%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 14时35分]"
+        },
+        {
+          "title": "小鹏脚夹门事件员工被顶格处理",
           "url": "https://www.toutiao.com/trending/7575508362550509594/",
           "source": "今日头条",
           "ranks": [
@@ -233,20 +294,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "小鹏脚夹门事件员工被顶格处理",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%A4%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时24分]"
         }
       ]
     }
