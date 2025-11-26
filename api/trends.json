@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T18:26:46.559739+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2025-11-26T19:20:22.598893+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 19时20分]"
         },
         {
           "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 18时26分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -98,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时45分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[09时45分 ~ 19时20分]"
         },
         {
           "title": "马斯克将用AI挑战顶尖LOL战队",
@@ -131,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时17分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 19时20分]"
         },
         {
           "title": "马斯克下战书!AI对决LOL冠军",
@@ -145,11 +145,12 @@
             10,
             12,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 18时26分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -172,8 +173,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时17分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时17分 ~ 19时20分]"
+        },
+        {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            13,
+            12,
+            15,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 19时20分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -201,33 +219,6 @@
           "time_info": "[09时45分 ~ 15时22分]"
         },
         {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            13,
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 18时26分]"
-        },
-        {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时26分]"
-        },
-        {
           "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
           "url": "https://www.cls.cn/detail/2211188",
           "source": "财联社热门",
@@ -239,8 +230,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时34分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[14时34分 ~ 19时20分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
@@ -263,6 +265,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 19时20分]"
+        },
+        {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 19时20分]"
         },
         {
           "title": "00后谈恋爱用AI当“僚机”",
@@ -296,11 +320,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时20分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -316,6 +341,18 @@
           "time_info": "[04时26分 ~ 06时23分]"
         },
         {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时20分]"
+        },
+        {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
           "url": "https://wallstreetcn.com/livenews/3010363",
           "source": "华尔街见闻-快讯",
@@ -327,17 +364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时20分]"
-        },
-        {
-          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
-          "url": "https://wallstreetcn.com/articles/3760129",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，是真的吗？你能否接受教材用 AI 生成的图片？",
@@ -376,17 +402,6 @@
           "time_info": "[03时20分 ~ 04时26分]"
         },
         {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时26分]"
-        },
-        {
           "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3010785",
           "source": "华尔街见闻-快讯",
@@ -422,15 +437,15 @@
           "time_info": "[17时26分 ~ 17时27分]"
         },
         {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
+          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
+          "url": "https://www.cls.cn/detail/2211624",
           "source": "财联社热门",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "19时20分"
         },
         {
           "title": "AI应用推升存储芯片需求，业内称行业高景气度或持续至明年年中",
@@ -450,7 +465,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -461,7 +476,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -568,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -760,6 +775,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "理想汽车美股盘前跌幅收窄至不足1%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3010820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
           "url": "https://wallstreetcn.com/livenews/3010287",
           "source": "华尔街见闻-快讯",
@@ -774,7 +800,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.5%。",
@@ -808,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "据港交所公告，11月21日，高盛对小鹏汽车(09868.HK)的多头持仓由4.57%增至5.15%。",
+          "url": "https://flash.jin10.com/detail/20251126180730221800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     }
