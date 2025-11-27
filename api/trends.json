@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T14:35:33.102229+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-27T15:25:14.476967+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时25分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -139,11 +139,12 @@
             21,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时25分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -183,6 +184,17 @@
           "time_info": "[11时13分 ~ 14时35分]"
         },
         {
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时25分]"
+        },
+        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -208,15 +220,29 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
-          "url": "https://www.cls.cn/detail/2212151",
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时25分]"
+        },
+        {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
           "ranks": [
-            13
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时35分]"
+          "time_info": "[14时35分 ~ 15时25分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -242,25 +268,13 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "多家手机厂商取消Air机型",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时35分]"
-        },
-        {
           "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3011311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -276,15 +290,26 @@
           "time_info": "13时23分"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
+          "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
+          "url": "https://wallstreetcn.com/livenews/3011353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "15时25分"
+        },
+        {
+          "title": "阿里巴巴发布夸克AI眼镜，将内置千问助手",
+          "url": "https://wallstreetcn.com/livenews/3011350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -315,8 +340,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时25分]"
+        },
+        {
+          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
+          "url": "https://www.cls.cn/detail/2212138",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 15时25分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -332,18 +369,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 11时13分]"
-        },
-        {
-          "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
-          "url": "https://www.cls.cn/detail/2212138",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 14时35分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
