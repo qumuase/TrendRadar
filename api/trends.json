@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T13:23:38.823991+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-27T14:35:33.102229+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -111,8 +111,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -138,11 +138,12 @@
           "ranks": [
             21,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -166,6 +167,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
+          "url": "https://www.cls.cn/detail/2212089",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时35分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -193,17 +208,27 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
-          "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
-          "url": "https://www.cls.cn/detail/2212089",
+          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
+          "url": "https://www.cls.cn/detail/2212151",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时35分]"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时35分]"
         },
         {
           "title": "AI硬件为何大涨",
@@ -217,26 +242,27 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "华为推出首款陪聊机器人“智能憨憨” AI玩具市场有望酝酿下一个超级单品",
-          "url": "https://www.cls.cn/detail/2212151",
-          "source": "财联社热门",
+          "title": "多家手机厂商取消Air机型",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
+          "source": "百度热搜",
           "ranks": [
-            13
+            29,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "time_info": "[13时23分 ~ 14时35分]"
         },
         {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时35分"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -245,20 +271,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
         {
-          "title": "多家手机厂商取消Air机型",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
-          "source": "百度热搜",
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
           "ranks": [
-            29
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "14时35分"
         }
       ]
     },
@@ -279,6 +305,20 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时35分]"
+        },
+        {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2212003",
           "source": "财联社热门",
@@ -294,19 +334,6 @@
           "time_info": "[00时29分 ~ 11时13分]"
         },
         {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时23分]"
-        },
-        {
           "title": "【早报】美股斩获四连阳；事关促消费，利好来了",
           "url": "https://www.cls.cn/detail/2212138",
           "source": "财联社热门",
@@ -315,8 +342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时35分]"
         },
         {
           "title": "Tilray Brands Inc.美股盘后跌20%。",
