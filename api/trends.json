@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T18:25:17.433955+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-11-28T19:20:14.430986+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时20分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[07时20分 ~ 19时20分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -101,11 +101,12 @@
             8,
             22,
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 19时20分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -161,6 +162,18 @@
           "time_info": "[01时18分 ~ 11时13分]"
         },
         {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
           "url": "https://wallstreetcn.com/articles/3760202",
           "source": "华尔街见闻",
@@ -172,17 +185,6 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
           "title": "夸克AI眼镜持续霸榜第一",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -191,8 +193,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
@@ -233,6 +235,18 @@
           "time_info": "[13时23分 ~ 14时35分]"
         },
         {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
           "url": "https://www.cls.cn/detail/2213547",
           "source": "财联社热门",
@@ -255,17 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
@@ -372,8 +375,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 19时20分]"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
@@ -405,7 +408,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -437,8 +440,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时43分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时43分 ~ 19时20分]"
         }
       ]
     }
