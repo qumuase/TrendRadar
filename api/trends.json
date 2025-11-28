@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T17:24:11.241598+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-11-28T18:25:17.433955+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -27,11 +27,12 @@
           "ranks": [
             10,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时20分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 18时25分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -99,11 +100,12 @@
             7,
             8,
             22,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 17时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 18时25分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -170,6 +172,29 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "夸克AI眼镜持续霸榜第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时25分]"
+        },
+        {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
           "url": "https://wallstreetcn.com/livenews/3011659",
           "source": "华尔街见闻-快讯",
@@ -208,6 +233,19 @@
           "time_info": "[13时23分 ~ 14时35分]"
         },
         {
+          "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
+          "url": "https://www.cls.cn/detail/2213547",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 18时25分]"
+        },
+        {
           "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
           "url": "https://wallstreetcn.com/articles/3760220",
           "source": "华尔街见闻",
@@ -217,6 +255,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "雷军：所有产业都值得AI再做一遍，未来5年，人形机器人将大面积在小米工厂上岗",
@@ -229,18 +278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 15时22分]"
-        },
-        {
-          "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
-          "url": "https://www.cls.cn/detail/2213547",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "一批银行正在洽谈为甲骨文和数据中心建设商Vantage再贷款380亿美元，为OpenAI的更多站点提供资金。（英国金融时报）",
@@ -299,17 +336,6 @@
           "time_info": "15时22分"
         },
         {
-          "title": "夸克AI眼镜持续霸榜第一",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "野村证券：启动与OpenAI的战略合作。",
           "url": "https://flash.jin10.com/detail/20251128144813905800",
           "source": "金十数据",
@@ -335,7 +361,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -346,19 +372,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 18时25分]"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
           "url": "https://wallstreetcn.com/livenews/3012094",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
+          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
+          "url": "https://www.cls.cn/detail/2213450",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
+          "url": "https://flash.jin10.com/detail/20251128174843998800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "18时25分"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -388,8 +437,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 18时25分]"
         }
       ]
     }
