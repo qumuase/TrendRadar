@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T22:20:06.306203+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2025-11-29T23:20:51.228935+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -227,7 +227,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
@@ -277,8 +277,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 22时20分]"
+          "appearance_count": 8,
+          "time_info": "[18时21分 ~ 23时20分]"
         },
         {
           "title": "北京AI产业规模今年将超4500亿元",
@@ -348,6 +348,18 @@
           "time_info": "[17时22分 ~ 19时17分]"
         },
         {
+          "title": "浪潮已至，传媒行业如何以AI“弄潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "JDG官宣Xiaobai加入",
           "url": "https://search.bilibili.com/all?keyword=JDG%E5%AE%98%E5%AE%A3Xiaobai%E5%8A%A0%E5%85%A5",
           "source": "bilibili 热搜",
@@ -360,17 +372,6 @@
           "time_info": "[15时20分 ~ 17时22分]"
         },
         {
-          "title": "浪潮已至，传媒行业如何以AI“弄潮”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 22时20分]"
-        },
-        {
           "title": "AI幻觉如何防范和治理？这场圆桌沙龙谈到人防、技防等措施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32063719",
           "source": "澎湃新闻",
@@ -380,6 +381,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时41分 ~ 21时28分]"
+        },
+        {
+          "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
+          "url": "https://wallstreetcn.com/articles/3760379",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
