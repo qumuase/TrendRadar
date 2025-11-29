@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-29T13:22:07.623060+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-11-29T14:32:06.865972+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时20分 ~ 14时32分]"
+        },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
           "url": "https://www.cls.cn/detail/2214556",
@@ -16,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 13时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时22分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -245,11 +245,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 13时22分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 14时32分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -259,8 +260,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 14时32分]"
+        },
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时32分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -274,18 +287,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
-          "url": "https://wallstreetcn.com/articles/3760323",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时14分]"
         }
       ]
     },
