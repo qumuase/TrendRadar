@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T17:21:01.604045+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-30T18:22:08.932958+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,24 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 18时22分]"
+        },
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[11时38分 ~ 17时21分]"
+          "time_info": "[11时38分 ~ 18时22分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -62,40 +75,17 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
-          "url": "https://wallstreetcn.com/articles/3760382",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时38分 ~ 17时21分]"
-        },
-        {
-          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
-          "url": "https://flash.jin10.com/detail/20251130160826101800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时21分]"
-        },
-        {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 18时22分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -103,11 +93,25 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 17时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 18时22分]"
+        },
+        {
+          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
+          "url": "https://flash.jin10.com/detail/20251130160826101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
