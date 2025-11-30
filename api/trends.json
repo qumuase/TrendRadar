@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T04:24:48.586976+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-12-01T05:20:12.229473+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时20分]"
         }
       ]
     }
