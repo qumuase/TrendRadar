@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T18:22:08.932958+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-11-30T19:18:05.300397+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时38分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时38分 ~ 19时18分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -75,19 +88,6 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 18时22分]"
-        },
-        {
           "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
           "url": "https://www.cls.cn/detail/2215028",
           "source": "财联社热门",
@@ -97,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 19时18分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -107,11 +107,12 @@
           "ranks": [
             1,
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
