@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:26:09.904010+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-12-01T16:35:19.683997+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时30分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时30分 ~ 16时35分]"
         },
         {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
@@ -80,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 16时35分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -89,11 +89,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时30分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时30分 ~ 16时35分]"
+        },
+        {
+          "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
+          "url": "https://wallstreetcn.com/livenews/3012910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -103,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 16时35分]"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
