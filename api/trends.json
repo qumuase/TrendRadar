@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:37:35.334562+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-01T15:26:09.904010+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 15时26分]"
         },
         {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
@@ -79,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 15时26分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -91,8 +92,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 15时26分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
