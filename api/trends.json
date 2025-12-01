@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T22:25:15.330047+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-12-01T23:25:54.915142+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时30分 ~ 22时25分]"
+          "appearance_count": 14,
+          "time_info": "[13时30分 ~ 23时25分]"
         },
         {
           "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
@@ -137,6 +137,20 @@
           "time_info": "[12时11分 ~ 17时31分]"
         },
         {
+          "title": "顾客买鞋子仅退款发AI图",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            23,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时48分 ~ 23时25分]"
+        },
+        {
           "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
           "url": "https://flash.jin10.com/detail/20251201212133290800",
           "source": "金十数据",
@@ -186,17 +200,27 @@
           "time_info": "[18时27分 ~ 21时37分]"
         },
         {
-          "title": "顾客买鞋子仅退款发AI图",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
+          "url": "https://www.cls.cn/detail/2216291",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            23,
-            18
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时48分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时25分]"
+        },
+        {
+          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
+          "url": "https://www.cls.cn/detail/2216065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时25分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -211,17 +235,6 @@
           "time_info": "[21时37分 ~ 22时25分]"
         },
         {
-          "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
-          "url": "https://www.cls.cn/detail/2216291",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
           "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3013078",
           "source": "华尔街见闻-快讯",
@@ -232,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时37分 ~ 22时25分]"
-        },
-        {
-          "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
-          "url": "https://www.cls.cn/detail/2216065",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
@@ -300,6 +302,17 @@
           "time_info": "21时37分"
         },
         {
+          "title": "郑恺上戏合影 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
           "url": "https://flash.jin10.com/detail/20251201205933747800",
           "source": "金十数据",
@@ -309,12 +322,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "惠与（HPE）通过HPE Portfolio拓展英伟达AI计算。 双方将在法国Grenoble（格勒诺布尔）成立人工智能工厂实验室（AI Factory Lab）。",
+          "url": "https://wallstreetcn.com/livenews/3013101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -322,11 +346,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时25分]"
+        },
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时25分]"
+          "time_info": "[22时24分 ~ 23时25分]"
         },
         {
           "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
@@ -339,17 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时21分 ~ 20时48分]"
-        },
-        {
-          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
@@ -405,7 +431,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -441,13 +467,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，全球航空业ETF跌1.25%，全球科技股指数ETF跌1.02%，科技行业ETF跌1%，能源业ETF则涨0.64%。",
+          "url": "https://wallstreetcn.com/livenews/3013112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3013102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251201223717279800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美股加密货币股下跌，Coinbase(COIN.O)跌5.2%，Proshares比特币策略ETF下跌5%，iShares比特币信托下跌5%。",
+          "url": "https://flash.jin10.com/detail/20251201223624377800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数盘初涨约0.9%。 热门中概股里，新东方涨5%，网易涨3.8%，阿特斯太阳能涨3.6%，文远知行涨3.3%，百胜中国、阿里巴巴、亚朵、小马智行等涨超1%。 小鹏则跌2.5%，理想跌3.4%，蔚来跌3.5%，金山云跌5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3013110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
         {
           "title": "小鹏汽车：2025年11月交付智能电动汽车36,728辆，同比增长19%。 2025年1月至11月，累计交付量达391,937辆，同比增长156%。",
           "url": "https://wallstreetcn.com/livenews/3012957",
