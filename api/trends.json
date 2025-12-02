@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T18:26:55.356451+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-02T19:22:04.068533+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -18,6 +18,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时52分]"
+        },
+        {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时32分 ~ 19时22分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -56,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 19时22分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -67,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 19时22分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -78,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 19时22分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -103,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 18时26分]"
+          "appearance_count": 12,
+          "time_info": "[11时20分 ~ 19时22分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -134,21 +150,6 @@
           "time_info": "[00时31分 ~ 11时21分]"
         },
         {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时32分 ~ 18时26分]"
-        },
-        {
           "title": "网警破获AI换脸非法侵入系统案",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
           "source": "bilibili 热搜",
@@ -158,6 +159,52 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时20分 ~ 17时29分]"
+        },
+        {
+          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
+          "url": "https://www.cls.cn/detail/2216759",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 19时22分]"
+        },
+        {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 19时22分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16,
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 19时22分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -173,22 +220,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时24分 ~ 07时21分]"
-        },
-        {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 18时26分]"
         },
         {
           "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
@@ -238,20 +269,15 @@
           "time_info": "09时52分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
+          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
+          "url": "https://wallstreetcn.com/articles/3760465",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            15,
-            16,
-            14,
-            12,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时22分 ~ 18时26分]"
+          "time_info": "[15时24分 ~ 19时22分]"
         },
         {
           "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
@@ -263,18 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        },
-        {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时26分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
@@ -291,17 +305,6 @@
           "time_info": "[02时37分 ~ 05时19分]"
         },
         {
-          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
-          "url": "https://wallstreetcn.com/articles/3760465",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时26分]"
-        },
-        {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
           "url": "https://wallstreetcn.com/livenews/3013184",
           "source": "华尔街见闻-快讯",
@@ -313,6 +316,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时19分]"
+        },
+        {
+          "title": "AI什么邪门CP都嗑得下",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E4%BB%80%E4%B9%88%E9%82%AA%E9%97%A8CP%E9%83%BD%E5%97%91%E5%BE%97%E4%B8%8B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "顾客买鞋子仅退款发AI图",
@@ -372,13 +387,35 @@
           "time_info": "05时19分"
         },
         {
+          "title": "法巴银行：2026年全球经济将保持稳健 宽松政策与AI投资等形成合力",
+          "url": "https://flash.jin10.com/detail/20251202185104084800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "福蓉科技：公司产品本身不具有AI功能，具体产品情况详见公司披露的定期报告。公司生产的高强度铝制结构件材料已用于MR、VR眼镜，主要有三星、vivo等品牌，但占公司营业收入比重极其有限。",
+          "url": "https://wallstreetcn.com/livenews/3013662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "道明光学：公司目前不存在AI手机相关业务",
           "url": "https://wallstreetcn.com/livenews/3013624",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -422,7 +459,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -436,17 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "AI什么邪门CP都嗑得下",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E4%BB%80%E4%B9%88%E9%82%AA%E9%97%A8CP%E9%83%BD%E5%97%91%E5%BE%97%E4%B8%8B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         }
       ]
     },
