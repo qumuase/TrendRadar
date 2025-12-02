@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:22:04.068533+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-12-02T20:50:18.153127+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 20时50分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 20时50分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -94,8 +94,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 20时50分]"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时20分 ~ 20时50分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -109,18 +122,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时20分 ~ 19时22分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -187,8 +188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -200,11 +201,12 @@
             16,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 20时50分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -365,6 +367,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
+          "url": "https://wallstreetcn.com/articles/3760476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "苹果任命AI业务副总裁",
           "url": "https://flash.jin10.com/detail/20251202061819637800",
           "source": "金十数据",
@@ -374,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -393,7 +417,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -404,7 +428,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -478,7 +502,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -657,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
