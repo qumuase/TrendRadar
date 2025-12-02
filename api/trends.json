@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T20:50:18.153127+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-12-02T21:38:53.039017+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时20分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 21时38分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时20分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 21时38分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时20分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 21时38分]"
         },
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -107,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时20分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[11时20分 ~ 21时38分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -124,6 +124,19 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 21时38分]"
+        },
+        {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
           "url": "https://www.cls.cn/detail/2216065",
           "source": "财联社热门",
@@ -135,6 +148,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时21分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16,
+            14,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 21时38分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -177,36 +207,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时22分 ~ 19时22分]"
-        },
-        {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时50分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            16,
-            14,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 20时50分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -293,6 +293,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "英国央行对依托债务的AI热潮提出警告 并称部分企业CDS表现令人警觉",
+          "url": "https://wallstreetcn.com/livenews/3013758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
           "url": "https://wallstreetcn.com/livenews/3013172",
           "source": "华尔街见闻-快讯",
@@ -344,6 +355,29 @@
           "time_info": "[00时31分 ~ 01时24分]"
         },
         {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时38分]"
+        },
+        {
+          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
+          "url": "https://wallstreetcn.com/articles/3760476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时38分]"
+        },
+        {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
           "url": "https://wallstreetcn.com/livenews/3013139",
           "source": "华尔街见闻-快讯",
@@ -367,17 +401,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
-          "url": "https://wallstreetcn.com/articles/3760476",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
           "title": "苹果任命AI业务副总裁",
           "url": "https://flash.jin10.com/detail/20251202061819637800",
           "source": "金十数据",
@@ -387,17 +410,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
-          "url": "https://www.zhihu.com/question/1978921952010794441",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -420,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
+          "url": "https://www.cls.cn/detail/2217493",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "福蓉科技：公司产品本身不具有AI功能，具体产品情况详见公司披露的定期报告。公司生产的高强度铝制结构件材料已用于MR、VR眼镜，主要有三星、vivo等品牌，但占公司营业收入比重极其有限。",
@@ -502,7 +525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -540,6 +563,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时21分 ~ 14时36分]"
+        },
+        {
+          "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将延续至2026年",
+          "url": "https://wallstreetcn.com/livenews/3013762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "Credo Technology美股盘前涨15.6%，因第二季度利润和营收均超预期。",
@@ -599,6 +633,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时38分]"
         },
         {
           "title": "（美股）费城金银指数大致收平，报324.58点。 纽约证交所ARCA金矿开采商指数收涨0.26%，报2323.69点；北京时间22:30之前维持微幅上涨状态——持稳于2320点附近，（开盘时）达到2350.23点，随后快速转而跌至2308.78点刷新日低。",
@@ -681,17 +727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        },
-        {
-          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
-          "url": "https://flash.jin10.com/detail/20251202202834556800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
