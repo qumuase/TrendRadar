@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T22:26:11.765323+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-12-02T23:26:48.710859+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时52分]"
+        },
+        {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 23时26分]"
         },
         {
           "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
@@ -36,19 +49,6 @@
           "time_info": "[12时32分 ~ 19时22分]"
         },
         {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 22时26分]"
-        },
-        {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
           "url": "https://wallstreetcn.com/articles/3760479",
           "source": "华尔街见闻",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 23时26分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -92,6 +92,17 @@
           "time_info": "[09时52分 ~ 16时33分]"
         },
         {
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 23时26分]"
+        },
+        {
           "title": "网警破获通过AI换脸非法侵入系统案",
           "url": "https://www.toutiao.com/trending/7578802867742461503/",
           "source": "今日头条",
@@ -106,17 +117,6 @@
           "title": "网警破获“AI换脸”侵入计算机案",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
           "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 22时26分]"
-        },
-        {
-          "title": "网警破获AI换脸非法侵入案",
-          "url": "https://www.douyin.com/hot/2323802",
-          "source": "抖音",
           "ranks": [
             6
           ],
@@ -152,8 +152,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时22分 ~ 22时26分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 23时26分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -239,6 +239,19 @@
           "time_info": "[11时20分 ~ 15时24分]"
         },
         {
+          "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
+          "url": "https://www.cls.cn/detail/2217493",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时26分]"
+        },
+        {
           "title": "网警侦破AI换脸侵入计算机案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4AI%E6%8D%A2%E8%84%B8%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -262,6 +275,20 @@
           "time_info": "[12时33分 ~ 13时22分]"
         },
         {
+          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
+          "url": "https://www.zhihu.com/question/1978921952010794441",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时26分]"
+        },
+        {
           "title": "三星推出首款三折叠智能手机 搭载全套Galaxy AI",
           "url": "https://flash.jin10.com/detail/20251202092714055800",
           "source": "金十数据",
@@ -271,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        },
-        {
-          "title": "英伟达投资的视频生成初创公司Luma AI在英国伦敦启动一轮招聘，考虑到2027年年初招聘大约200人。 该公司宣布一轮9亿美元融资，由沙特Humain领投——对其估值40亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3013786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
@@ -306,31 +322,6 @@
           "time_info": "14时36分"
         },
         {
-          "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
-          "url": "https://www.zhihu.com/question/1978921952010794441",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 22时26分]"
-        },
-        {
-          "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
-          "url": "https://www.cls.cn/detail/2217493",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 22时26分]"
-        },
-        {
           "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
           "url": "https://wallstreetcn.com/articles/3760476",
           "source": "华尔街见闻",
@@ -339,8 +330,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时26分]"
+        },
+        {
+          "title": "英伟达投资的视频生成初创公司Luma AI在英国伦敦启动一轮招聘，考虑到2027年年初招聘大约200人。 该公司宣布一轮9亿美元融资，由沙特Humain领投——对其估值40亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3013786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时26分]"
         },
         {
           "title": "英国央行对依托债务的AI热潮提出警告 并称部分企业CDS表现令人警觉",
@@ -369,6 +372,18 @@
           "time_info": "[02时37分 ~ 05时19分]"
         },
         {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时26分]"
+        },
+        {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
           "url": "https://wallstreetcn.com/livenews/3013184",
           "source": "华尔街见闻-快讯",
@@ -380,6 +395,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 05时19分]"
+        },
+        {
+          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
+          "url": "https://wallstreetcn.com/articles/3760517",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时26分]"
         },
         {
           "title": "AI什么邪门CP都嗑得下",
@@ -417,28 +443,6 @@
           "time_info": "[22时25分 ~ 22时26分]"
         },
         {
-          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
-          "url": "https://wallstreetcn.com/articles/3760517",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
-          "url": "https://www.cls.cn/detail/2217435",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
           "url": "https://wallstreetcn.com/livenews/3013139",
           "source": "华尔街见闻-快讯",
@@ -462,6 +466,28 @@
           "time_info": "09时52分"
         },
         {
+          "title": "OpenAI正开发大语言模型“Garlic”。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3013807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
+          "url": "https://wallstreetcn.com/livenews/3013805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "苹果任命AI业务副总裁",
           "url": "https://flash.jin10.com/detail/20251202061819637800",
           "source": "金十数据",
@@ -471,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "Upwind将与英伟达锁定下一代AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3013804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -517,6 +554,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "MongoDB股价上涨25%，今年迄今已上涨超过40%。 该公司超越了第三季度的预期并上调了业绩预测，这得益于其从 人工智能（AI） 中获益，以及其Atlas平台越来越受欢迎。 首席执行官Chirantan “CJ” Desai表示，随着人工智能达到一个转折点（inflection），公司正在迎来一个“千载难逢”（once in a lifetime）的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3013797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
           "url": "https://wallstreetcn.com/livenews/3013239",
           "source": "华尔街见闻-快讯",
@@ -561,6 +609,28 @@
           "time_info": "18时26分"
         },
         {
+          "title": "英伟达(NVDA.O)CFO：截至2026年，英伟达在Blackwell和Rubin AI芯片上的订单总额达5000亿美元，但这“并不包括我们目前与OpenAI协议下的下一阶段正在进行的任何工作”。",
+          "url": "https://flash.jin10.com/detail/20251202225631707800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：目前仍未与OpenAI达成最终协议。",
+          "url": "https://flash.jin10.com/detail/20251202225350484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
           "url": "https://wallstreetcn.com/livenews/3013130",
           "source": "华尔街见闻-快讯",
@@ -570,12 +640,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：目前出货的大多数英伟达AI芯片都是用于构建新的数据中心基础设施，而不是替换现有设备。",
+          "url": "https://flash.jin10.com/detail/20251202225250866800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -671,6 +752,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时21分]"
+        },
+        {
+          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
+          "url": "https://wallstreetcn.com/livenews/3013776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时26分]"
         },
         {
           "title": "周一（12月1日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌4.78%，报86595美元，日内大部分时间交投于57000美元下方。 CME以太币期货DCR主力合约跌8.35%，报2794美元， 美股加密货币与加密货币关联指数跌3.96%，报68.48点。 最近24小时，MarketVector数字资产100小盘指数跌6.00%，暂报17764.31点。",
@@ -779,26 +872,26 @@
           "time_info": "17时29分"
         },
         {
-          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
-          "url": "https://wallstreetcn.com/livenews/3013776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3013774",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将推迟至2026年",
@@ -807,7 +900,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -818,7 +911,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -845,6 +938,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "半导体ETF涨超1%，在美股盘初领跑一众行业ETF，科技行业ETF涨超0.9%，全球科技股指数ETF涨超0.6%，网络股指数ETF涨约0.5%，能源业ETF跌超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251202050552225800",
           "source": "金十数据",
@@ -862,15 +966,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "美股三大指数小幅高开 英伟达涨超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "恒生指数收盘涨0.24%，恒生科技指数跌0.37%。万科企业涨约4%，小鹏汽车跌约6%，中兴通讯跌约6%，蔚来跌约7%。",
@@ -906,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "热门中概股小马智行盘初涨3.3%，文远知行涨超1.7%，百胜中国涨超0.7%。 阿里巴巴跌1.69%，网易跌1.7%，万国数据跌2.07%，B站跌2.54%，大全新能源跌2.65%，小鹏汽车跌4.33%。",
+          "url": "https://wallstreetcn.com/livenews/3013792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
