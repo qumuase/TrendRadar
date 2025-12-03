@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:20:06.464482+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2025-12-03T12:31:35.952289+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 12时31分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -77,6 +77,18 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时31分]"
+        },
+        {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
           "url": "https://wallstreetcn.com/articles/3760479",
           "source": "华尔街见闻",
@@ -87,17 +99,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时22分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 11时20分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -124,6 +125,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
+          "url": "https://www.cls.cn/detail/2217771",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时31分]"
+        },
+        {
+          "title": "阿里千问App位列全球AI应用增速榜第一",
+          "url": "https://wallstreetcn.com/livenews/3014157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
@@ -211,16 +236,16 @@
           "time_info": "[02时36分 ~ 05时22分]"
         },
         {
-          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
-          "url": "https://www.cls.cn/detail/2217771",
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时46分 ~ 11时20分]"
+          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "美国财长贝森特：2026年一季度将实施大规模退税。 明年将是Main Street（普罗大众，相对于华尔街精英而言）的一年。",
@@ -272,17 +297,6 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
-          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
-          "url": "https://www.cls.cn/detail/2217832",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        },
-        {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
           "url": "https://wallstreetcn.com/articles/3760498",
           "source": "华尔街见闻",
@@ -329,6 +343,28 @@
           "time_info": "[03时21分 ~ 04时28分]"
         },
         {
+          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
+          "url": "https://wallstreetcn.com/articles/3760522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "Git3.0 默认主分支从「master」改为「main」，这一调整是出于哪些考量？",
           "url": "https://www.zhihu.com/question/1977117773466452175",
           "source": "知乎",
@@ -340,13 +376,24 @@
           "time_info": "09时46分"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251203103110984800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -390,7 +437,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -501,6 +548,31 @@
           "time_info": "[00时32分 ~ 06时20分]"
         },
         {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时31分]"
+        },
+        {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
           "url": "https://www.cls.cn/detail/2217558",
           "source": "财联社热门",
@@ -513,17 +585,6 @@
           "time_info": "[02时36分 ~ 09时46分]"
         },
         {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 11时20分]"
-        },
-        {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
@@ -533,19 +594,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 06时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时20分]"
         },
         {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
@@ -729,7 +777,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         }
