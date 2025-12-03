@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:27:58.681903+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2025-12-03T18:27:50.521096+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 18时27分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -116,6 +116,20 @@
           "time_info": "[00时32分 ~ 05时22分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 18时27分]"
+        },
+        {
           "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
           "url": "https://www.cls.cn/detail/2217832",
           "source": "财联社热门",
@@ -129,20 +143,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时19分 ~ 17时27分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 17时27分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -207,6 +207,19 @@
           "time_info": "[01时24分 ~ 04时28分]"
         },
         {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 18时27分]"
+        },
+        {
           "title": "投资者对冲AI项目失败的担忧，甲骨文和软银的CDS成本飙升",
           "url": "https://wallstreetcn.com/livenews/3013828",
           "source": "华尔街见闻-快讯",
@@ -267,19 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时22分]"
-        },
-        {
-          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
-          "url": "https://wallstreetcn.com/articles/3760553",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 17时27分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -591,8 +591,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时46分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
