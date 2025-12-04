@@ -1,8 +1,233 @@
 {
-  "generated_at": "2025-12-04T11:22:13.692425+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-04T12:32:56.068532+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时27分]"
+        },
+        {
+          "title": "理想AI眼镜Livis首发开箱",
+          "url": "https://www.douyin.com/hot/2325492",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时19分 ~ 11时22分]"
+        },
+        {
+          "title": "OpenAI的CEO Sam Altman此前探讨收购或合作一家火箭公司的相关谈判已不再推进。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3014777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "OpenAI拟与SpaceX竞争 探讨与火箭公司进行交易",
+          "url": "https://flash.jin10.com/detail/20251204093928191800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3014768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 12时32分]"
+        },
+        {
+          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
+          "url": "https://wallstreetcn.com/livenews/3014555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时25分]"
+        },
+        {
+          "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
+          "url": "https://wallstreetcn.com/articles/3760612",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 11时22分]"
+        },
+        {
+          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
+          "url": "https://flash.jin10.com/detail/20251204005558678800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://wallstreetcn.com/livenews/3014617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时23分]"
+        },
+        {
+          "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
+          "url": "https://www.zhihu.com/question/1979482353974916229",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3014638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时20分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
+          "url": "https://flash.jin10.com/detail/20251204042941294800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3014632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "卢伟冰：小米在AI大模型和应用方面的进展远超预期",
+          "url": "https://wallstreetcn.com/livenews/3014827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "云数据服务公司Snowflake与Anthropic宣布达成2亿美元合作，旨在将代理AI引入全球企业。",
+          "url": "https://flash.jin10.com/detail/20251204051202803800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
+          "url": "https://wallstreetcn.com/livenews/3014565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 19,
@@ -34,6 +259,19 @@
           "time_info": "[00时32分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 12时32分]"
+        },
+        {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2218814",
           "source": "财联社热门",
@@ -50,23 +288,12 @@
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 11时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 11时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 12时32分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -231,219 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时27分]"
-        },
-        {
-          "title": "理想AI眼镜Livis首发开箱",
-          "url": "https://www.douyin.com/hot/2325492",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时19分 ~ 11时22分]"
-        },
-        {
-          "title": "OpenAI的CEO Sam Altman此前探讨收购或合作一家火箭公司的相关谈判已不再推进。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3014777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "OpenAI拟与SpaceX竞争 探讨与火箭公司进行交易",
-          "url": "https://flash.jin10.com/detail/20251204093928191800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3014768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
-          "url": "https://wallstreetcn.com/livenews/3014555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时25分]"
-        },
-        {
-          "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
-          "url": "https://wallstreetcn.com/articles/3760612",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 11时22分]"
-        },
-        {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 11时22分]"
-        },
-        {
-          "title": "OpenAI基金会将向美国非营利组织捐赠4050万美元",
-          "url": "https://flash.jin10.com/detail/20251204005558678800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时19分]"
-        },
-        {
-          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
-          "url": "https://wallstreetcn.com/livenews/3014617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时23分]"
-        },
-        {
-          "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
-          "url": "https://www.zhihu.com/question/1979482353974916229",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3014638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时20分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
-          "url": "https://wallstreetcn.com/livenews/3014561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时36分]"
-        },
-        {
-          "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
-          "url": "https://flash.jin10.com/detail/20251204042941294800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3014632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "卢伟冰：小米在AI大模型和应用方面的进展远超预期",
-          "url": "https://wallstreetcn.com/livenews/3014827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "云数据服务公司Snowflake与Anthropic宣布达成2亿美元合作，旨在将代理AI引入全球企业。",
-          "url": "https://flash.jin10.com/detail/20251204051202803800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
-          "url": "https://wallstreetcn.com/livenews/3014565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         }
       ]
     },
