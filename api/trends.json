@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-05T03:20:58.130372+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2025-12-05T04:27:35.865412+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 7,
       "titles": [
-        {
-          "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
-          "url": "https://wallstreetcn.com/livenews/3015329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
           "url": "https://www.cls.cn/detail/2220060",
@@ -27,19 +16,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -48,11 +38,12 @@
           "ranks": [
             1,
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时27分]"
         },
         {
           "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
@@ -61,11 +52,24 @@
           "ranks": [
             3,
             18,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时27分]"
+        },
+        {
+          "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
+          "url": "https://wallstreetcn.com/livenews/3015329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时27分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -103,11 +107,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -115,11 +120,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时27分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股盘中）",
@@ -127,11 +133,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
