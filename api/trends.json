@@ -1,269 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:21:16.829260+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2025-12-05T20:46:48.443398+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
-          "url": "https://www.cls.cn/detail/2220060",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时48分]"
-        },
-        {
-          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
-          "url": "https://wallstreetcn.com/articles/3760706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 19时21分]"
-        },
-        {
-          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3760723",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 19时21分]"
-        },
-        {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
-          "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
-          "url": "https://flash.jin10.com/detail/20251205011030498800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 04时27分]"
-        },
-        {
-          "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
-          "url": "https://wallstreetcn.com/livenews/3015296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 04时27分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 19时21分]"
-        },
-        {
-          "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
-          "url": "https://wallstreetcn.com/livenews/3015329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时22分]"
-        },
-        {
-          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
-          "url": "https://www.cls.cn/detail/2220406",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时25分]"
-        },
-        {
-          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
-          "url": "https://www.cls.cn/detail/2220480",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时25分]"
-        },
-        {
-          "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
-          "url": "https://wallstreetcn.com/livenews/3015608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时36分]"
-        },
-        {
-          "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
-          "url": "https://wallstreetcn.com/livenews/3015288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时36分]"
-        },
-        {
-          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2220115",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
-        },
-        {
-          "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
-          "url": "https://flash.jin10.com/detail/20251205065532013800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3015386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "AI服务器需求“狂飙” 鸿海营收劲增26%",
-          "url": "https://flash.jin10.com/detail/20251205155316808800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
-          "url": "https://wallstreetcn.com/livenews/3015520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "豆包手机发布关于调整AI操作手机能力的说明",
-          "url": "https://wallstreetcn.com/livenews/3015512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "朱啸虎称豆包在大厂AI中领先",
-          "url": "https://wallstreetcn.com/livenews/3015771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
-          "url": "https://wallstreetcn.com/livenews/3015505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
-        },
-        {
-          "title": "鸿海：AI机柜出货持续放量，ICT产品进入旺季，对于第四季的能见度优于前月。",
-          "url": "https://wallstreetcn.com/livenews/3015716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -274,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时47分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 20时46分]"
         },
         {
           "title": "美股收盘：小盘股指数再创历史新高",
@@ -307,6 +49,17 @@
           "time_info": "[00时33分 ~ 06时20分]"
         },
         {
+          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3015951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
@@ -316,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "奈飞(NFLX.O)美股盘前跌幅扩大至3%，此前该公司宣布将以720亿美元收购华纳兄弟探索公司(WBD.O)。",
+          "url": "https://flash.jin10.com/detail/20251205201927250800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
@@ -454,6 +218,39 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
+          "title": "华纳兄弟探索公司(WBD.O)美股将于纽约时间上午7:20（北京时间晚上8:20）恢复交易。",
+          "url": "https://flash.jin10.com/detail/20251205201134563800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "华纳兄弟探索公司(WBD.O)美股盘前下跌1.1%。奈飞(NFLX.O)跌0.8%。",
+          "url": "https://flash.jin10.com/detail/20251205200438676800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美银策略师：警惕美联储鸽派降息危及美股圣诞行情",
+          "url": "https://wallstreetcn.com/livenews/3015933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "Cloudflare(NET.N)美股盘前跌超3%，公司称正在调查Cloudflare仪表板及相关API的问题。",
           "url": "https://flash.jin10.com/detail/20251205170428227800",
           "source": "金十数据",
@@ -476,6 +273,17 @@
           "time_info": "18时25分"
         },
         {
+          "title": "西南航空美股盘前跌超2%，公司将年度息税前利润(EBIT)预期下调至约5亿美元，此前预计6-8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3015927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
           "url": "https://wallstreetcn.com/livenews/3015241",
           "source": "华尔街见闻-快讯",
@@ -496,6 +304,277 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
+          "url": "https://www.cls.cn/detail/2220060",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时48分]"
+        },
+        {
+          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
+          "url": "https://wallstreetcn.com/articles/3760706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 20时46分]"
+        },
+        {
+          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3760723",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时47分 ~ 19时21分]"
+        },
+        {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时22分]"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 20时46分]"
+        },
+        {
+          "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
+          "url": "https://flash.jin10.com/detail/20251205011030498800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时27分]"
+        },
+        {
+          "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
+          "url": "https://wallstreetcn.com/livenews/3015296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时27分]"
+        },
+        {
+          "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
+          "url": "https://wallstreetcn.com/livenews/3015329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时22分]"
+        },
+        {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时25分]"
+        },
+        {
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
+          "url": "https://wallstreetcn.com/livenews/3015608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时36分]"
+        },
+        {
+          "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
+          "url": "https://wallstreetcn.com/livenews/3015288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 02时36分]"
+        },
+        {
+          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2220115",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 00时34分]"
+        },
+        {
+          "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
+          "url": "https://flash.jin10.com/detail/20251205065532013800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "OpenAI与NextDC计划在澳大利亚悉尼修建大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3015386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "AI服务器需求“狂飙” 鸿海营收劲增26%",
+          "url": "https://flash.jin10.com/detail/20251205155316808800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
+          "url": "https://wallstreetcn.com/livenews/3015520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "豆包手机发布关于调整AI操作手机能力的说明",
+          "url": "https://wallstreetcn.com/livenews/3015512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "朱啸虎称豆包在大厂AI中领先",
+          "url": "https://wallstreetcn.com/livenews/3015771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
+          "url": "https://wallstreetcn.com/livenews/3015505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "鸿海：AI机柜出货持续放量，ICT产品进入旺季，对于第四季的能见度优于前月。",
+          "url": "https://wallstreetcn.com/livenews/3015716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
