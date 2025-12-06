@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:29:17.963638+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-12-06T22:20:28.057418+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时41分 ~ 21时29分]"
+          "appearance_count": 18,
+          "time_info": "[09时41分 ~ 22时20分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -45,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时20分 ~ 21时29分]"
+          "appearance_count": 20,
+          "time_info": "[07时20分 ~ 22时20分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -246,6 +246,21 @@
           "time_info": "[07时20分 ~ 20时42分]"
         },
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时25分 ~ 22时20分]"
+        },
+        {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
@@ -257,22 +272,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时21分 ~ 21时29分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
           "appearance_count": 14,
-          "time_info": "[12时25分 ~ 21时29分]"
+          "time_info": "[13时21分 ~ 22时20分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -308,11 +309,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 21时29分]"
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 22时20分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -354,6 +356,18 @@
           "time_info": "[01时22分 ~ 02时31分]"
         },
         {
+          "title": "豆包AI手机深度体验",
+          "url": "https://www.douyin.com/hot/2328540",
+          "source": "抖音",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
           "url": "https://wallstreetcn.com/livenews/3016097",
           "source": "华尔街见闻-快讯",
@@ -367,16 +381,17 @@
           "time_info": "[03时19分 ~ 05时21分]"
         },
         {
-          "title": "豆包AI手机深度体验",
-          "url": "https://www.douyin.com/hot/2328540",
-          "source": "抖音",
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
             10,
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时29分]"
+          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -390,18 +405,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时26分]"
-        },
-        {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时29分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
