@@ -1,474 +1,105 @@
 {
-  "generated_at": "2025-12-06T23:21:02.764580+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-12-07T00:26:26.648742+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 18,
+      "keyword_group": "AI",
+      "match_count": 6,
       "titles": [
         {
-          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时41分 ~ 23时21分]"
-        },
-        {
-          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
-          "url": "https://wallstreetcn.com/articles/3760711",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            13,
-            6,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时20分 ~ 23时21分]"
-        },
-        {
-          "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 02时31分]"
-        },
-        {
-          "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时22分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
-          "url": "https://wallstreetcn.com/livenews/3016140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "周五（12月5日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.68%，报89425美元，本周累计下跌1.80%。 CME以太币期货DCR主力合约跌4.09%，报3023美元，本周累跌0.71%。 美股加密货币与加密货币关联指数跌3.99%，报69.08点，本周累跌3.12%。 最近24小时，MarketVector数字资产100小盘指数跌5.31%，暂报4051.02点。",
-          "url": "https://wallstreetcn.com/livenews/3016154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时42分]"
-        },
-        {
-          "title": "瑞银(UBS.N)美股跳涨2.8%，因波动性较大暂停交易。",
-          "url": "https://flash.jin10.com/detail/20251205235821569800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌",
-          "url": "https://wallstreetcn.com/livenews/3016134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "美股行业ETF涨跌各异",
-          "url": "https://wallstreetcn.com/livenews/3016133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251206013133471800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251206013131784800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时19分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜Meta收涨1.8%，英伟达与苹果则至多跌约0.7%",
-          "url": "https://wallstreetcn.com/livenews/3016127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "美股三大指数小幅收涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 09时42分]"
-        },
-        {
-          "title": "美股开盘：百度涨超4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251206090540434800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251206090522263800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时20分 ~ 20时42分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时25分 ~ 23时21分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时21分 ~ 23时21分]"
-        },
-        {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时11分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            15,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时25分 ~ 21时29分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
           "ranks": [
-            10,
-            20,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时41分 ~ 23时21分]"
-        },
-        {
-          "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
-          "url": "https://flash.jin10.com/detail/20251206104148777800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            14,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 15时20分]"
-        },
-        {
-          "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
-          "url": "https://wallstreetcn.com/livenews/3016155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时42分]"
-        },
-        {
-          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时31分]"
-        },
-        {
-          "title": "C罗入股美国AI初创公司",
-          "url": "https://wallstreetcn.com/livenews/3016306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 23时21分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时21分]"
-        },
-        {
-          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3016071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 04时26分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
           "url": "https://www.zhihu.com/question/1979858915077404344",
           "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "OpenAI最快将于下周发布GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251206082425729800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 11时11分]"
-        },
-        {
-          "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
-          "url": "https://wallstreetcn.com/livenews/3016035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "00时26分"
         },
         {
-          "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32113562",
-          "source": "澎湃新闻",
+          "title": "C罗入股美国AI初创公司",
+          "url": "https://wallstreetcn.com/livenews/3016306",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
-      "keyword_group": "小鹏",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数初步收涨1.3%，本周累涨约0.5%、实现V形反转。 热门中概股里，百度初步收涨5.8%，万国数据涨4.5%，小鹏涨2.7%，新东方涨2.5%，小马智行则跌2.8%，阿特斯太阳能跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3016120",
-          "source": "华尔街见闻-快讯",
+          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
+          "url": "https://www.cls.cn/detail/2221625",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     }
