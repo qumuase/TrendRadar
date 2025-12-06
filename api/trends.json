@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T06:21:38.117373+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-07T07:20:34.545961+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -51,11 +52,12 @@
             7,
             6,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -65,8 +67,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -76,8 +78,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 07时20分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -95,7 +97,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
@@ -105,19 +107,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "美股三大指数小幅收涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     }
