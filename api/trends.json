@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T05:19:58.975143+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-07T06:21:38.117373+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
@@ -32,29 +44,18 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 05时19分]"
-        },
-        {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
           "ranks": [
             7,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -64,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -75,8 +76,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时17分 ~ 06时21分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -104,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -115,8 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时21分]"
         }
       ]
     }
