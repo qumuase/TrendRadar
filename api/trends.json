@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:19:07.012688+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-07T02:30:07.339968+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -12,44 +12,48 @@
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -71,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         }
       ]
     },
@@ -88,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -99,8 +103,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时30分]"
         }
       ]
     }
