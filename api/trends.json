@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:27:58.350700+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2025-12-07T17:21:20.533672+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 17时21分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时21分]"
         },
         {
           "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
@@ -129,7 +129,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
