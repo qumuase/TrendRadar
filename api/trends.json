@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:32:05.435841+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-12-07T15:21:02.121261+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 15时21分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 15时21分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -77,11 +77,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 15时21分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -101,11 +102,12 @@
           "ranks": [
             1,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时21分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -147,8 +149,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 15时21分]"
         },
         {
           "title": "美股三大指数小幅收涨",
