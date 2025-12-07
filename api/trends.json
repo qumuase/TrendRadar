@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:21:29.193418+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-12-07T19:17:43.960433+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 18时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 19时17分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -45,6 +45,20 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时17分]"
+        },
+        {
           "title": "豆包AI手机深度体验",
           "url": "https://www.douyin.com/hot/2328540",
           "source": "抖音",
@@ -59,19 +73,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时26分 ~ 15时21分]"
-        },
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
