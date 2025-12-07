@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T15:21:02.121261+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-12-07T16:27:58.350700+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -81,8 +81,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 16时27分]"
+        },
+        {
+          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
+          "url": "https://flash.jin10.com/detail/20251207115626169800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            16,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 16时27分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -96,20 +111,6 @@
           "time_info": "[03时17分 ~ 07时20分]"
         },
         {
-          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
-          "url": "https://flash.jin10.com/detail/20251207115626169800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 15时21分]"
-        },
-        {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
           "url": "https://www.zhihu.com/question/1979858915077404344",
           "source": "知乎",
@@ -120,6 +121,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "用AI还原无限流小说名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%BF%98%E5%8E%9F%E6%97%A0%E9%99%90%E6%B5%81%E5%B0%8F%E8%AF%B4%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
