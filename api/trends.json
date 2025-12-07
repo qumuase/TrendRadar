@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T11:38:30.818355+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-12-07T12:34:41.191183+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -71,6 +71,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时55分]"
+        },
+        {
+          "title": "12月5日，国内领先的功率系统芯片设计企业芯朋微电子在深圳发布12款面向AI服务器和工业控制领域的电源芯片。",
+          "url": "https://flash.jin10.com/detail/20251207115626169800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -119,11 +130,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时34分]"
         },
         {
           "title": "美股三大指数小幅收涨",
