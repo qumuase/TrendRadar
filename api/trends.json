@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T21:37:01.149788+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2025-12-08T22:26:06.632992+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
@@ -75,11 +75,23 @@
           "source": "知乎",
           "ranks": [
             18,
-            11
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时48分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时48分 ~ 22时26分]"
+        },
+        {
+          "title": "市场消息：卡塔尔成立新公司QAI，旨在建设和投资人工智能。",
+          "url": "https://flash.jin10.com/detail/20251208215109691800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
@@ -94,6 +106,18 @@
           "time_info": "[20时48分 ~ 21时37分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：AI让经济运行得更加火热一些。",
+          "url": "https://flash.jin10.com/detail/20251208212102903800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时26分]"
+        },
+        {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
           "url": "https://www.cls.cn/detail/2222180",
           "source": "财联社热门",
@@ -103,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：AI让经济运行得更加火热一些。",
-          "url": "https://flash.jin10.com/detail/20251208212102903800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
@@ -136,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的人工智能单一规则）该规则应有助于AI企业明确规则内容。",
+          "url": "https://flash.jin10.com/detail/20251208212910525800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "万字拆解影视飓风AI高能片段",
@@ -163,8 +187,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3017028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
         {
           "title": "最乐观美股预测者：美股明年将再涨近20%",
           "url": "https://flash.jin10.com/detail/20251208190058290800",
@@ -175,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-08）",
+          "url": "https://flash.jin10.com/detail/20251208214838050800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
@@ -211,6 +257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时27分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2223257",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
@@ -261,6 +318,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李小鹏回应女儿花滑天赋",
+          "url": "https://www.toutiao.com/trending/7581313236591706138/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         }
       ]
     }
