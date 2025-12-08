@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T03:19:52.145943+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2025-12-09T04:27:15.511357+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -92,11 +92,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -106,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
