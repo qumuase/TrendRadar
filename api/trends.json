@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:24:33.757993+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-12-10T14:36:34.808384+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -108,6 +108,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
+          "url": "https://wallstreetcn.com/livenews/3018230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
           "url": "https://flash.jin10.com/detail/20251210011028672800",
           "source": "金十数据",
@@ -119,15 +130,15 @@
           "time_info": "01时23分"
         },
         {
-          "title": "报道：小米拟涉足AI教育",
-          "url": "https://wallstreetcn.com/livenews/3018174",
+          "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
+          "url": "https://wallstreetcn.com/livenews/3018228",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "14时36分"
         },
         {
           "title": "智谱开源“会操作手机的AI”",
@@ -165,6 +176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时17分]"
+        },
+        {
+          "title": "报道：小米拟涉足AI教育",
+          "url": "https://wallstreetcn.com/livenews/3018174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时36分]"
         },
         {
           "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
@@ -297,6 +320,17 @@
           "time_info": "[00时30分 ~ 07时22分]"
         },
         {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时36分]"
+        },
+        {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2224567",
           "source": "财联社热门",
@@ -321,17 +355,6 @@
           "time_info": "[00时30分 ~ 04时23分]"
         },
         {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 13时24分]"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
           "url": "https://www.cls.cn/detail/2224722",
           "source": "财联社热门",
@@ -341,8 +364,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时36分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
