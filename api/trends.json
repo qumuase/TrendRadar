@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T01:37:04.183793+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-12-11T02:34:29.427433+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -53,12 +54,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时37分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
+          "url": "https://flash.jin10.com/detail/20251211012928783800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -69,8 +81,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -80,8 +92,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 02时34分]"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251211013428018800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251211013034126800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     },
@@ -98,8 +132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
