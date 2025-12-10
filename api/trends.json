@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T03:20:34.185093+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-12-11T04:28:13.760980+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -62,9 +62,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
@@ -92,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -103,8 +114,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时28分]"
         },
         {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
@@ -113,7 +124,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -154,8 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
