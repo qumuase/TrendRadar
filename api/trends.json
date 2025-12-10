@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:25:12.912340+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-12-10T12:35:50.548511+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             8,
             7,
             28,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时35分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -59,17 +60,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
@@ -126,6 +116,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
@@ -314,8 +316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时35分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -327,8 +329,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
