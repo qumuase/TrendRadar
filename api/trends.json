@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T15:25:35.760065+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-12-10T16:33:13.170090+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -106,6 +106,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时33分]"
         },
         {
           "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
@@ -239,6 +251,17 @@
           "time_info": "[03时17分 ~ 04时23分]"
         },
         {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
           "url": "https://flash.jin10.com/detail/20251210010957028800",
           "source": "金十数据",
@@ -270,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
@@ -322,6 +334,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时33分]"
+        },
+        {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -331,17 +354,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 07时22分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时25分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
