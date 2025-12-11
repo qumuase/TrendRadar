@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T12:37:31.637591+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2025-12-11T13:25:54.989980+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -61,17 +61,6 @@
           "time_info": "[00时31分 ~ 11时27分]"
         },
         {
-          "title": "TCL2025年AI应用创造综合效益超10亿元",
-          "url": "https://wallstreetcn.com/livenews/3018926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
           "title": "网警：男子AI生成车展低俗视频被拘",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
           "source": "百度热搜",
@@ -79,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
         },
         {
           "title": "男子AI生成车展虚假低俗视频被拘",
@@ -90,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
         },
         {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
@@ -103,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时37分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
         },
         {
           "title": "网警：男子AI生成车展低俗视频被拘",
@@ -116,6 +105,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时50分 ~ 11时27分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时25分]"
+        },
+        {
+          "title": "TCL2025年AI应用创造综合效益超10亿元",
+          "url": "https://wallstreetcn.com/livenews/3018926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时25分]"
         },
         {
           "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
@@ -130,15 +142,27 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时37分]"
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时25分]"
+        },
+        {
+          "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
+          "url": "https://wallstreetcn.com/livenews/3018915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时25分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -151,28 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时37分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
-          "url": "https://wallstreetcn.com/livenews/3018915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         },
         {
           "title": "AIDC储能2030年出货量或达今年20倍",
@@ -208,6 +210,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3018650",
           "source": "华尔街见闻-快讯",
@@ -217,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3018935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
@@ -303,6 +327,17 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时25分]"
+        },
+        {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2225788",
           "source": "财联社热门",
@@ -315,17 +350,6 @@
           "time_info": "[01时36分 ~ 07时20分]"
         },
         {
-          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
-          "url": "https://wallstreetcn.com/articles/3761091",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时37分]"
-        },
-        {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
           "url": "https://www.cls.cn/detail/2225967",
           "source": "财联社热门",
@@ -334,8 +358,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时37分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时25分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -550,6 +574,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
+          "url": "https://wallstreetcn.com/livenews/3018939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     }
