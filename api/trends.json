@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T00:34:51.392606+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-12T01:28:15.174915+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -15,52 +15,78 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
-          "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
-          "url": "https://wallstreetcn.com/livenews/3019321",
+          "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
+          "url": "https://wallstreetcn.com/livenews/3019345",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3019319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
-          "url": "https://wallstreetcn.com/livenews/3019318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时28分"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
+          "url": "https://wallstreetcn.com/livenews/3019321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3019319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
+          "url": "https://wallstreetcn.com/livenews/3019318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
+        },
+        {
+          "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
+          "url": "https://flash.jin10.com/detail/20251212010202568800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时28分"
         },
         {
           "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
@@ -142,8 +168,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
