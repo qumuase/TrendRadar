@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-12T01:28:15.174915+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-12-12T02:34:08.315542+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
           "url": "https://www.zhihu.com/question/1982385153180394991",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
@@ -25,9 +26,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
+          "url": "https://wallstreetcn.com/livenews/3019365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -38,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -78,15 +90,92 @@
           "time_info": "[00时34分 ~ 01时28分]"
         },
         {
+          "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
+          "url": "https://flash.jin10.com/detail/20251212020607458800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
           "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
           "url": "https://flash.jin10.com/detail/20251212010202568800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
+          "url": "https://flash.jin10.com/detail/20251212020557609800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT中，GPT-5.2即时版、思考版和专业版将于今日开始推出，首先面向付费用户。",
+          "url": "https://flash.jin10.com/detail/20251212020525246800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
+          "url": "https://flash.jin10.com/detail/20251212020239589800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
+          "url": "https://flash.jin10.com/detail/20251212020128439800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "OpenAI：正式推出GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251212020101906800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "Rivian开发AI芯片，用于取代英伟达的车规级产品",
+          "url": "https://wallstreetcn.com/livenews/3019345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
@@ -111,6 +200,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
+          "url": "https://wallstreetcn.com/livenews/3019349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
           "url": "https://flash.jin10.com/detail/20251211235011876800",
           "source": "金十数据",
@@ -131,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian推出AI芯片，以在未来车型中取代英伟达产品",
+          "url": "https://flash.jin10.com/detail/20251212014224258800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
@@ -158,7 +269,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -168,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时34分]"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
@@ -194,6 +305,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013328350800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
           "title": "甲骨文美股盘初重挫16%，创2001年3月以来最大单日跌幅，市值蒸发1020亿美元。",
           "url": "https://wallstreetcn.com/livenews/3019296",
           "source": "华尔街见闻-快讯",
@@ -203,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251212013102151800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时34分"
         }
       ]
     }
