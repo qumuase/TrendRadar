@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:28:28.854654+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2025-12-12T18:26:49.823952+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 17时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 18时26分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时49分 ~ 15时26分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时25分 ~ 18时26分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -47,30 +61,18 @@
           "time_info": "[00时34分 ~ 07时22分]"
         },
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 17时28分]"
-        },
-        {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3761222",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时49分 ~ 17时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时49分 ~ 18时26分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -85,11 +87,12 @@
             25,
             24,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 17时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时34分 ~ 18时26分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -541,6 +544,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "对 AI 从业者和创业者来说，2026 会是一个好年吗？",
+          "url": "https://www.zhihu.com/question/1977067972511097434",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
           "url": "https://flash.jin10.com/detail/20251211235112934800",
           "source": "金十数据",
@@ -876,8 +890,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时26分]"
         }
       ]
     }
