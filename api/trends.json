@@ -1,55 +1,45 @@
 {
-  "generated_at": "2025-12-13T01:22:29.536098+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-12-13T02:35:56.944728+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
           "url": "https://wallstreetcn.com/articles/3761175",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3020088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            2,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         },
         {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3020086",
-          "source": "华尔街见闻-快讯",
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "02时35分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
+          "url": "https://flash.jin10.com/detail/20251213021313071800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -76,26 +66,64 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
+          "url": "https://wallstreetcn.com/livenews/3020088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时35分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
+          "url": "https://wallstreetcn.com/livenews/3020087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时35分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3020086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时35分]"
+        },
+        {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3761222",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2228432",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -106,8 +134,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
+        },
+        {
+          "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
+          "url": "https://www.cls.cn/detail/2227944",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         },
         {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
@@ -122,17 +162,6 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
-          "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
-          "url": "https://www.cls.cn/detail/2227944",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
           "url": "https://wallstreetcn.com/articles/3761241",
           "source": "华尔街见闻",
@@ -140,8 +169,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 02时35分]"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
@@ -158,7 +187,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -170,6 +199,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251213014501940800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251213013053755800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览",
@@ -207,8 +258,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         }
       ]
     }
