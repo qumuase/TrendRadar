@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T19:22:34.832726+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2025-12-12T20:49:30.475626+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 20时49分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 20时49分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时49分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时49分 ~ 20时49分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -289,6 +289,18 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时49分]"
+        },
+        {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
           "url": "https://flash.jin10.com/detail/20251212025521319800",
           "source": "金十数据",
@@ -345,6 +357,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时49分]"
         },
         {
           "title": "你的手机也能秒变AI手机",
@@ -435,17 +459,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "台积电日本第二工厂或转向4纳米芯片生产 以应对AI需求",
           "url": "https://wallstreetcn.com/livenews/3019647",
           "source": "华尔街见闻-快讯",
@@ -479,6 +492,17 @@
           "time_info": "07时22分"
         },
         {
+          "title": "李东生：今年TCL研发费用预计将达到150亿元，“AI应用”将成为未来企业竞争的“胜负手”",
+          "url": "https://wallstreetcn.com/livenews/3019949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
           "url": "https://flash.jin10.com/detail/20251212020239589800",
           "source": "金十数据",
@@ -499,17 +523,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -565,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "芬兰国防部：芬兰国防军将从美国采购AIM-120先进中距空对空导弹。",
+          "url": "https://flash.jin10.com/detail/20251212193351490800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "对 AI 从业者和创业者来说，2026 会是一个好年吗？",
@@ -913,8 +937,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 20时49分]"
         }
       ]
     }
