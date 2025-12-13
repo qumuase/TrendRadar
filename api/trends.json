@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T05:20:04.125117+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-12-14T06:21:03.618786+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,16 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -27,15 +28,15 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -49,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -61,11 +62,12 @@
             10,
             5,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -73,11 +75,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -89,8 +92,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -100,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -110,11 +113,29 @@
           "ranks": [
             6,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普说中国团结一心干大事",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%9B%A2%E7%BB%93%E4%B8%80%E5%BF%83%E5%B9%B2%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
         }
       ]
     }
