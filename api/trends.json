@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:22:07.509044+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-12-13T18:22:39.395555+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时22分 ~ 17时22分]"
+          "appearance_count": 15,
+          "time_info": "[06时22分 ~ 18时22分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -52,11 +52,12 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时22分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 17时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 18时22分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -110,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 18时22分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -278,6 +279,19 @@
           "time_info": "[00时29分 ~ 01时22分]"
         },
         {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时22分]"
+        },
+        {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
           "url": "https://flash.jin10.com/detail/20251213031516659800",
           "source": "金十数据",
@@ -287,18 +301,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时22分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时22分]"
         },
         {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
