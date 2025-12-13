@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T12:28:50.465704+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2025-12-13T13:23:54.868702+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 12时28分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 13时23分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -62,11 +62,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时23分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -82,6 +83,18 @@
           "time_info": "[00时29分 ~ 12时28分]"
         },
         {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时23分]"
+        },
+        {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
           "url": "https://wallstreetcn.com/articles/3761241",
           "source": "华尔街见闻",
@@ -94,15 +107,17 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
           "ranks": [
-            4
+            11,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 13时23分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -115,19 +130,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 12时28分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -154,6 +156,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时23分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -255,19 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 12时28分]"
         },
         {
           "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
