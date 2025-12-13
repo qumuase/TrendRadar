@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T19:18:32.611445+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-12-13T20:43:12.600988+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时44分 ~ 20时43分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时22分 ~ 19时18分]"
+          "appearance_count": 18,
+          "time_info": "[06时22分 ~ 20时43分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -53,11 +54,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时44分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时44分 ~ 20时43分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -83,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 20时43分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -99,22 +101,6 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8,
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 19时18分]"
-        },
-        {
           "title": "UP主解读OpenAI和谷歌的AI大战",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
           "source": "bilibili 热搜",
@@ -126,6 +112,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 12时28分]"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9,
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 20时43分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -150,6 +153,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "交警新装备：AI眼镜一眼看透车辆信息",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时43分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -200,20 +218,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时44分 ~ 12时28分]"
-        },
-        {
-          "title": "交警新装备：AI眼镜一眼看透车辆信息",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%A4%E8%AD%A6%E6%96%B0%E8%A3%85%E5%A4%87%EF%BC%9AAI%E7%9C%BC%E9%95%9C%E4%B8%80%E7%9C%BC%E7%9C%8B%E9%80%8F%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时18分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
