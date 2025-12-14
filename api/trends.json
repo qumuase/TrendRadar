@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:38:39.169572+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2025-12-14T13:23:26.099945+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -52,8 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -68,11 +68,12 @@
             6,
             2,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -101,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时23分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -137,19 +138,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
         },
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时23分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
