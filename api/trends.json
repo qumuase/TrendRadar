@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:43:22.601247+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-12-14T21:29:30.821065+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时38分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[12时38分 ~ 21时29分]"
         },
         {
           "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
@@ -169,11 +169,12 @@
           "ranks": [
             8,
             12,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时29分]"
         },
         {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
@@ -216,7 +217,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
