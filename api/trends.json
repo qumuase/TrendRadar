@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:33:41.478521+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-12-14T15:21:15.908131+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 14时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -104,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 14时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -127,8 +127,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 15时21分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -150,11 +150,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 15时21分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
