@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T15:27:31.606755+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-12-15T16:36:01.518211+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -34,6 +34,31 @@
           "time_info": "[11时44分 ~ 15时27分]"
         },
         {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时36分]"
+        },
+        {
+          "title": "短剧女演员都快美成AI了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时36分]"
+        },
+        {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
           "url": "https://www.cls.cn/detail/2229051",
           "source": "财联社热门",
@@ -59,27 +84,15 @@
           "time_info": "[00时27分 ~ 02时31分]"
         },
         {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时27分]"
-        },
-        {
-          "title": "短剧女演员都快美成AI了",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "title": "蚂蚁集团推出AI健康应用阿福",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BAAI%E5%81%A5%E5%BA%B7%E5%BA%94%E7%94%A8%E9%98%BF%E7%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            29,
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时27分]"
+          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
@@ -131,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 16时36分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -160,7 +173,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
