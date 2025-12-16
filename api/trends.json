@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:25:59.794654+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-12-16T16:34:04.213121+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 16时34分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -54,11 +54,12 @@
           "ranks": [
             10,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时26分 ~ 16时34分]"
         },
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -70,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 16时34分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -507,7 +508,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -518,7 +519,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
