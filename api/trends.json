@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:29:42.835702+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-12-16T18:29:02.503785+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -21,6 +21,19 @@
           "time_info": "[06时23分 ~ 15时25分]"
         },
         {
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时25分 ~ 18时29分]"
+        },
+        {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
           "url": "https://www.zhihu.com/question/1982854147905691963",
           "source": "知乎",
@@ -29,11 +42,12 @@
             11,
             6,
             7,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 18时29分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -45,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 18时29分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -61,19 +75,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时23分]"
-        },
-        {
-          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
-          "url": "https://wallstreetcn.com/articles/3761466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时25分 ~ 17时29分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -170,6 +171,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时27分]"
+        },
+        {
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "华尔街传来预警：AI繁荣将在明年“衰落”，标普500料大跌超20%！",
+          "url": "https://www.cls.cn/detail/2230952",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "美国纽约联储主席威廉姆斯：并没有看到AI领域之外的投资繁荣。 预计未来5-10年的生产力将高于均值水平。",
