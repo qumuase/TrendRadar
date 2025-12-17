@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:26:06.063458+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2025-12-17T23:28:07.436801+08:00",
+  "total_titles_processed": 2139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -96,15 +96,15 @@
           "time_info": "[17时31分 ~ 20时51分]"
         },
         {
-          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
-          "url": "https://wallstreetcn.com/livenews/3022466",
-          "source": "华尔街见闻-快讯",
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时28分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -144,6 +144,30 @@
           "time_info": "[17时31分 ~ 18时27分]"
         },
         {
+          "title": "Nebius发布搭载英伟达Blackwell Ultra芯片新一代AI云平台",
+          "url": "https://wallstreetcn.com/livenews/3022466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时28分]"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时28分]"
+        },
+        {
           "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
           "url": "https://www.cls.cn/detail/2231043",
           "source": "财联社热门",
@@ -153,17 +177,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时35分 ~ 22时26分]"
         },
         {
           "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
@@ -176,17 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时28分]"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
@@ -259,6 +261,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -287,7 +300,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -347,6 +360,17 @@
           "time_info": "20时51分"
         },
         {
+          "title": "谷歌拟提升TPU芯片与PyTorch的兼容性 以抢占AI计算市场",
+          "url": "https://flash.jin10.com/detail/20251217230625618800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "何小鹏：当前没有AI泡沫，未来AI的市场有着巨大机遇",
           "url": "https://wallstreetcn.com/livenews/3022172",
           "source": "华尔街见闻-快讯",
@@ -391,6 +415,28 @@
           "time_info": "19时23分"
         },
         {
+          "title": "消息人士：谷歌(GOOG.O)和Meta Platforms(META.O)项目旨在让TPU在AI程序构建工具PyTorch上良好运行，作为英伟达(NVDA.O)的替代方案。",
+          "url": "https://flash.jin10.com/detail/20251217230212240800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)正与Meta Platforms(META.O)合作，扩大对AI芯片的软件支持。",
+          "url": "https://flash.jin10.com/detail/20251217230125955800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
           "url": "https://flash.jin10.com/detail/20251217013746986800",
           "source": "金十数据",
@@ -416,7 +462,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -522,7 +568,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -533,7 +579,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -549,6 +595,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "英伟达美股盘初下跌1.58%。 甲骨文下跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3021906",
           "source": "华尔街见闻-快讯",
@@ -558,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "英伟达美股盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3022475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -577,7 +645,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -607,7 +675,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。",
@@ -619,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨1.13%，刷新日高，逼近7643点。 中概股小马智行涨5.7%，文远知行涨3.13%，房多多涨2.94%，百度涨2.4%，阿里巴巴涨0.9%，新东方涨1.7%，京东、百胜中国、小鹏至多涨超0.8%，蔚来、理想则至多跌超0.9%，拼多多跌1.3%。 ETF中，CQQQ涨1.71%，KWEB涨0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3022479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "何小鹏：人形机器人将是巨头的竞争，机会非常多",
