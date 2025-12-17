@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:22:40.018975+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-12-17T12:35:51.818117+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 11时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 12时35分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
+          "url": "https://www.zhihu.com/question/1984358783053422759",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时35分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -150,17 +162,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
-          "url": "https://www.zhihu.com/question/1984358783053422759",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -178,7 +179,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -211,7 +212,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -233,7 +234,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -265,8 +266,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
