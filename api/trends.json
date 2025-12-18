@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:27:13.334296+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2025-12-18T19:22:11.952537+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,37 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时22分 ~ 18时27分]"
+          "appearance_count": 17,
+          "time_info": "[06时22分 ~ 19时22分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 19时22分]"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时25分 ~ 19时22分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -34,19 +63,18 @@
           "time_info": "[09时46分 ~ 16时33分]"
         },
         {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            7,
-            6,
-            5
+            9,
+            3,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -64,18 +92,6 @@
           "time_info": "[00时32分 ~ 13时25分]"
         },
         {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时37分 ~ 18时27分]"
-        },
-        {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
           "url": "https://www.cls.cn/detail/2232894",
           "source": "财联社热门",
@@ -89,19 +105,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时46分 ~ 15时25分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -175,6 +178,17 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时22分]"
+        },
+        {
           "title": "ThaiSweet樱花舞MV",
           "url": "https://s.weibo.com/weibo?q=%23ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -209,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 18时27分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
@@ -274,7 +277,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -384,7 +387,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -395,7 +398,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
