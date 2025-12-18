@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:22:11.952537+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2025-12-18T20:49:03.752946+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -17,8 +17,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时22分 ~ 19时22分]"
+          "appearance_count": 19,
+          "time_info": "[06时22分 ~ 20时49分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 20时49分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -30,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时37分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 20时49分]"
         },
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -61,20 +75,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时46分 ~ 16时33分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -131,6 +131,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时49分]"
+        },
+        {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20251218010322438800",
           "source": "金十数据",
@@ -176,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时22分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时22分]"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -235,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时25分]"
+        },
+        {
+          "title": "从夯到夯评2025AI五大进展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E5%A4%AF%E8%AF%842025AI%E4%BA%94%E5%A4%A7%E8%BF%9B%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
@@ -643,6 +654,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         }
       ]
     }
