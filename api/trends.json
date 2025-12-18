@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T20:49:03.752946+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2025-12-18T21:38:49.637801+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时22分 ~ 20时49分]"
+          "appearance_count": 20,
+          "time_info": "[06时22分 ~ 21时38分]"
         },
         {
           "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时33分 ~ 20时49分]"
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 21时38分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时37分 ~ 20时49分]"
+          "appearance_count": 13,
+          "time_info": "[14时37分 ~ 21时38分]"
         },
         {
           "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
@@ -140,6 +140,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时29分 ~ 20时49分]"
+        },
+        {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
@@ -423,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         }
       ]
     },
@@ -669,8 +691,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 21时38分]"
         }
       ]
     }
