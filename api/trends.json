@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T02:33:35.256172+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-20T03:19:26.007056+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -49,7 +50,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -78,8 +79,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -89,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 03时19分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -119,8 +120,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时19分]"
         }
       ]
     }
