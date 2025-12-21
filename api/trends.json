@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T19:19:21.933970+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-12-21T20:43:18.826441+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -61,6 +61,22 @@
           "time_info": "[00时26分 ~ 13时23分]"
         },
         {
+          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761783",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 20时43分]"
+        },
+        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
@@ -92,22 +108,6 @@
           "time_info": "[09时56分 ~ 18时23分]"
         },
         {
-          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761783",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 19时19分]"
-        },
-        {
           "title": "中信建投：继续看好AI算力板块",
           "url": "https://wallstreetcn.com/livenews/3024316",
           "source": "华尔街见闻-快讯",
@@ -117,11 +117,12 @@
             20,
             11,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 20时43分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -191,8 +192,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 19时19分]"
+          "appearance_count": 11,
+          "time_info": "[09时56分 ~ 20时43分]"
         },
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -209,6 +210,20 @@
           "time_info": "[11时41分 ~ 17时23分]"
         },
         {
+          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
+          "url": "https://wallstreetcn.com/articles/3761246",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 20时43分]"
+        },
+        {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -221,20 +236,6 @@
           "time_info": "[09时56分 ~ 18时23分]"
         },
         {
-          "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
-          "url": "https://wallstreetcn.com/articles/3761246",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 19时19分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2025年12月20日",
           "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
           "source": "澎湃新闻",
@@ -244,8 +245,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 20时43分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -259,6 +260,30 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时43分]"
+        },
+        {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
           "url": "https://wallstreetcn.com/livenews/3024347",
           "source": "华尔街见闻-快讯",
@@ -270,29 +295,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 12时39分]"
-        },
-        {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时19分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -339,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
@@ -392,8 +405,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 19时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 20时43分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -423,8 +436,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时34分 ~ 20时43分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
