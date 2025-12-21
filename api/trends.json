@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T21:30:10.839144+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-21T22:21:14.185544+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 21时30分]"
+          "appearance_count": 14,
+          "time_info": "[11时41分 ~ 22时21分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -118,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时23分 ~ 21时30分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 22时21分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -133,11 +133,12 @@
             16,
             21,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 21时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 22时21分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -196,8 +197,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时29分 ~ 19时19分]"
+          "appearance_count": 20,
+          "time_info": "[02时29分 ~ 22时21分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -207,8 +208,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 21时30分]"
+          "appearance_count": 15,
+          "time_info": "[09时56分 ~ 22时21分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -257,8 +258,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 21时30分]"
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 22时21分]"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时21分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -283,17 +306,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时29分 ~ 20时43分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 21时30分]"
         },
         {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
@@ -431,8 +443,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时34分 ~ 21时30分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 22时21分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
