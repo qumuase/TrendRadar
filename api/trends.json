@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T15:22:21.823728+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2025-12-21T16:29:50.179797+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -84,8 +84,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时29分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -100,6 +100,22 @@
           "time_info": "[00时26分 ~ 09时56分]"
         },
         {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时29分]"
+        },
+        {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
           "url": "https://wallstreetcn.com/articles/3761689",
           "source": "华尔街见闻",
@@ -110,21 +126,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 15时22分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -142,8 +143,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时29分 ~ 15时22分]"
+          "appearance_count": 15,
+          "time_info": "[02时29分 ~ 16时29分]"
         },
         {
           "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
@@ -154,11 +155,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时29分]"
         },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -169,11 +171,12 @@
             8,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时29分]"
         },
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -182,11 +185,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时29分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
@@ -197,8 +201,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时29分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -208,8 +212,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 16时29分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -231,8 +235,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时29分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时29分]"
         },
         {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
@@ -258,18 +275,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 12时39分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2025年12月20日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时23分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -317,6 +322,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
           "url": "https://www.zhihu.com/question/1984641612912030144",
           "source": "知乎",
@@ -352,11 +368,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 15时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时29分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -365,11 +382,12 @@
           "ranks": [
             4,
             9,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 16时29分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -388,11 +406,12 @@
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时29分]"
         }
       ]
     }
