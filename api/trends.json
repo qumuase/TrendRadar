@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T11:41:25.484679+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-21T12:39:24.167048+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时39分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时39分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时39分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -121,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时39分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -135,11 +135,12 @@
             23,
             22,
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时29分 ~ 11时41分]"
+          "appearance_count": 12,
+          "time_info": "[02时29分 ~ 12时39分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -151,6 +152,67 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时23分]"
+        },
+        {
+          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
+          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时39分]"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时39分]"
+        },
+        {
+          "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
+          "url": "https://wallstreetcn.com/livenews/3024347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时39分]"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
+          "url": "https://www.toutiao.com/trending/7585558853728190474/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时39分]"
+        },
+        {
+          "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
+          "url": "https://www.zhihu.com/question/1983889355362820808",
+          "source": "知乎",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时39分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -165,85 +227,62 @@
           "time_info": "[09时56分 ~ 11时41分]"
         },
         {
-          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
-          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时41分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时41分]"
-        },
-        {
-          "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
-          "url": "https://wallstreetcn.com/livenews/3024347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时41分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
-          "url": "https://www.toutiao.com/trending/7585558853728190474/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时41分]"
-        },
-        {
-          "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
-          "url": "https://www.zhihu.com/question/1983889355362820808",
-          "source": "知乎",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时41分]"
-        },
-        {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时39分]"
         },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
           "url": "https://wallstreetcn.com/articles/3761783",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时39分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 12时39分]"
+        },
+        {
+          "title": "Andrej Karpathy年度复盘：AI大模型正在演变成一种新型智能，今年出现6个关键拐点",
+          "url": "https://wallstreetcn.com/articles/3761768",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "豆包狂飙，字节AI再亮剑",
+          "url": "https://wallstreetcn.com/articles/3761770",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时39分"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
@@ -266,17 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2025年12月20日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         }
       ]
     },
@@ -302,11 +330,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时39分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
