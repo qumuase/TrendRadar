@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T22:21:14.185544+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-21T23:21:53.835611+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时41分 ~ 22时21分]"
+          "appearance_count": 15,
+          "time_info": "[11时41分 ~ 23时21分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -115,11 +115,12 @@
             10,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 23时21分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -208,8 +209,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时56分 ~ 22时21分]"
+          "appearance_count": 16,
+          "time_info": "[09时56分 ~ 23时21分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -258,8 +259,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 23时21分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -269,8 +270,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -280,8 +281,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时43分 ~ 23时21分]"
+        },
+        {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11,
+            20,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时43分 ~ 22时21分]"
+          "time_info": "[16时29分 ~ 23时21分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -293,19 +308,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时23分]"
-        },
-        {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
@@ -365,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "豆包狂飙，字节AI再亮剑",
@@ -443,8 +456,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时34分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[14时34分 ~ 23时21分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
