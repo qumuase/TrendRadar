@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T16:34:22.773920+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2025-12-22T17:31:45.635527+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -67,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时31分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -108,8 +108,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时19分 ~ 16时34分]"
+          "appearance_count": 18,
+          "time_info": "[01时19分 ~ 17时31分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -177,6 +177,42 @@
           "time_info": "09时55分"
         },
         {
+          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3024853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时31分]"
+        },
+        {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时31分]"
+        },
+        {
           "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
           "url": "https://wallstreetcn.com/livenews/3024776",
           "source": "华尔街见闻-快讯",
@@ -190,18 +226,6 @@
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时34分]"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://wallstreetcn.com/livenews/3024707",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -211,18 +235,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时34分]"
         },
         {
           "title": "让AI成为你的情绪垃圾桶",
@@ -245,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "夸克AI眼镜G1开启预售，最低1999元",
+          "url": "https://wallstreetcn.com/livenews/3024838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
@@ -305,8 +328,23 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 17时31分]"
+        },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
@@ -321,30 +359,15 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 16时34分]"
-        },
-        {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时31分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -356,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
+          "url": "https://wallstreetcn.com/livenews/3024841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
