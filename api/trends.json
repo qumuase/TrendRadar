@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:26:37.318548+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2025-12-24T16:33:04.421435+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -242,6 +242,17 @@
           "time_info": "[13时26分 ~ 14时38分]"
         },
         {
+          "title": "博主用AI将古画中的小孩“复活”了",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E5%B0%86%E5%8F%A4%E7%94%BB%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%AD%A9%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "英媒：科技企业将高额AI支出债务移出资产负债表 引发市场担忧",
           "url": "https://flash.jin10.com/detail/20251224133230351800",
           "source": "金十数据",
@@ -270,7 +281,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
