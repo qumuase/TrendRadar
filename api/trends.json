@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T12:38:14.567495+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2025-12-24T13:26:58.042177+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 13时26分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.51%，报360.47点，美股早盘出现V形反转。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.23%，报2555.31点，美股（早盘）时段出现V形反转。",
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "UP主用AI改写三体名场面",
@@ -230,6 +230,17 @@
           "time_info": "[01时22分 ~ 02时34分]"
         },
         {
+          "title": "如何看待微软 Galen Hunt 宣称要用 AI+ 算法对所有 C/C++ 程序重新为 Rust 程序？",
+          "url": "https://www.zhihu.com/question/1986826913436680279",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
           "url": "https://flash.jin10.com/detail/20251224103822372800",
           "source": "金十数据",
@@ -264,11 +275,12 @@
           "url": "https://www.toutiao.com/trending/7586746209667239443/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 13时26分]"
         }
       ]
     },
