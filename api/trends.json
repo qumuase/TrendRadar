@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:47:02.884278+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-12-26T21:35:14.540446+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
@@ -133,6 +133,18 @@
           "time_info": "[12时37分 ~ 15时24分]"
         },
         {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 21时35分]"
+        },
+        {
           "title": "UP主用AI挑战肉鸽游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -144,17 +156,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 18时25分]"
-        },
-        {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "博士与AI联手造出千度阻燃新型材料",
@@ -247,6 +248,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
           "url": "https://news.ifeng.com/c/8pOSTawSWI3",
           "source": "凤凰网",
@@ -256,17 +268,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时27分 ~ 16时31分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时26分 ~ 20时47分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
