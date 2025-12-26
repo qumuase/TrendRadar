@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T07:22:33.797421+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-12-26T09:50:47.589169+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -27,8 +27,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -37,7 +59,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -72,7 +94,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
