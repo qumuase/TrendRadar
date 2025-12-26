@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T01:20:42.538985+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-27T02:33:42.739425+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -80,7 +80,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -102,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
@@ -171,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时33分]"
         }
       ]
     }
