@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:21:11.660047+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2025-12-27T23:22:01.336331+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时48分 ~ 22时21分]"
+          "appearance_count": 20,
+          "time_info": "[09时48分 ~ 23时22分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -205,7 +205,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
@@ -217,11 +217,12 @@
             7,
             4,
             3,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 23时22分]"
         },
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -306,11 +307,12 @@
             1,
             8,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时22分]"
         },
         {
           "title": "2025年度AI好用工具",
@@ -338,6 +340,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时48分]"
+        },
+        {
+          "title": "AI医疗前景如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "华为悬赏300万元求解AI难题",
