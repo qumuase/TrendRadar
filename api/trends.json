@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T20:44:00.340015+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2025-12-27T21:31:19.645074+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时48分 ~ 20时44分]"
+          "appearance_count": 16,
+          "time_info": "[09时48分 ~ 21时31分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -260,11 +260,12 @@
             16,
             15,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时31分]"
         },
         {
           "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
@@ -317,11 +318,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
