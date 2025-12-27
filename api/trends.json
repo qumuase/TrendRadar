@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T06:22:30.828078+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-28T07:21:32.517202+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -16,8 +16,30 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
+          "url": "https://wallstreetcn.com/articles/3762183",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
+          "url": "https://www.cls.cn/detail/2241925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     },
@@ -33,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时21分]"
         }
       ]
     }
