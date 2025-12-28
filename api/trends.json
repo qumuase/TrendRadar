@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:44:21.090449+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-12-28T21:31:32.041956+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时26分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[13时26分 ~ 21时31分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -81,11 +81,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
