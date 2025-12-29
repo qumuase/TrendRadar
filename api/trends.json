@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T03:18:56.430642+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-12-30T04:27:45.963607+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             13,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -53,8 +54,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 04时27分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -63,22 +64,24 @@
           "ranks": [
             27,
             21,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 04时27分]"
         },
         {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时27分]"
         },
         {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
@@ -105,8 +108,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时27分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股盘中）",
