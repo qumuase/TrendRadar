@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:31:37.706971+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-12-29T14:39:52.203242+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             10,
             16,
             23,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 14时39分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -67,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 14时39分]"
         },
         {
           "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
