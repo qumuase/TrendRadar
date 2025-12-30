@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-30T22:24:42.074326+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-12-30T23:26:11.432462+08:00",
+  "total_titles_processed": 1914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 23时26分]"
+        },
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
@@ -19,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时26分 ~ 22时24分]"
+          "appearance_count": 15,
+          "time_info": "[13时26分 ~ 23时26分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -34,11 +47,12 @@
             9,
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时39分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[11时39分 ~ 23时26分]"
         },
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -51,19 +65,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时24分]"
         },
         {
           "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
@@ -106,8 +107,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时26分 ~ 22时24分]"
+          "appearance_count": 15,
+          "time_info": "[13时26分 ~ 23时26分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -156,6 +157,19 @@
           "time_info": "[01时20分 ~ 09时51分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时27分 ~ 23时26分]"
+        },
+        {
           "title": "用一个字证明自己不是AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
@@ -169,19 +183,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 22时24分]"
         },
         {
           "title": "12月30日午间收评：沪指半日跌0.1%，数字货币、AI智能体概念走强",
@@ -327,6 +328,28 @@
           "time_info": "07时22分"
         },
         {
+          "title": "顶级投资人段永平看好AI医疗",
+          "url": "https://wallstreetcn.com/livenews/3028830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
+          "url": "https://wallstreetcn.com/livenews/3028826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "独居女生深夜肠胃炎靠AI自救脱险",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E8%82%A0%E8%83%83%E7%82%8E%E9%9D%A0AI%E8%87%AA%E6%95%91%E8%84%B1%E9%99%A9%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -349,6 +372,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "消息人士：软银已完成对OpenAI 400亿美元的投资承诺",
+          "url": "https://flash.jin10.com/detail/20251230222113988800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
           "url": "https://wallstreetcn.com/livenews/3028222",
           "source": "华尔街见闻-快讯",
@@ -363,7 +397,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -373,8 +407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时51分 ~ 22时24分]"
+          "appearance_count": 19,
+          "time_info": "[09时51分 ~ 23时26分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -436,6 +470,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
@@ -446,6 +491,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3028816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
@@ -460,26 +517,48 @@
           "time_info": "[06时22分 ~ 07时22分]"
         },
         {
+          "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2244587",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "静待美联储会议纪要，美股指期货持平，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3028816",
+          "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3028834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美股三大股指相继转涨。",
+          "url": "https://flash.jin10.com/detail/20251230225658830800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美股热门中概股盘前多数走高，百度(BIDU.O)涨超5%，小鹏汽车(XPEV.N)涨3%，唯品会(VIPS.N)、网易(NTES.O)涨超2%，台积电(TSM.N)、阿里巴巴(BABA.N)涨0.3%。",
@@ -526,6 +605,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251230223703332800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251230013239462800",
           "source": "金十数据",
@@ -537,6 +627,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "美股热门中概股多数高开，百度(BIDU.O)涨5.6%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)涨超3%，网易(NTES.O)涨超2%，台积电(TSM.N)、哔哩哔哩(BILI.O)、阿里巴巴(BABA.N)涨超0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230223250434800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "金十图示：2025年12月29日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251230013105062800",
           "source": "金十数据",
@@ -546,12 +647,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "美股开盘，道指跌0.06%，标普500指数跌0.05%，纳指跌0.04%。矿业股普涨，金田(GFI.N)、泛美白银(PAAS.O)、哈莫尼黄金(HMY.N)涨约3%，科尔黛伦矿业(CDE.N)、纽蒙特矿业(NEM.N)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20251230223027479800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "1704公里超长续航SUV小鹏G7来了",
@@ -575,6 +687,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨超1.1%，报7724.54点。 中概股百度涨5.9%，蔚来涨4.4%，文远知行、小鹏、小马智行至少涨约3.4%，网易涨约2.3%。 美国网约车平台Uber和Lyft宣布，已与百度达成合作，计划于2026年在英国推出无人驾驶出租车(Robotaxi)试点项目。",
+          "url": "https://wallstreetcn.com/livenews/3028835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
@@ -601,8 +724,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时32分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[16时32分 ~ 23时26分]"
         }
       ]
     }
