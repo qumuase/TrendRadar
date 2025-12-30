@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T05:23:14.369416+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-12-31T06:22:22.530611+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -27,11 +27,12 @@
             3,
             11,
             22,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
@@ -42,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -54,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -65,19 +66,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
-        },
-        {
-          "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
-          "url": "https://wallstreetcn.com/livenews/3028923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
@@ -86,11 +76,23 @@
           "ranks": [
             11,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[02时35分 ~ 06时22分]"
+        },
+        {
+          "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
+          "url": "https://wallstreetcn.com/livenews/3028923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -132,6 +134,18 @@
           "time_info": "[02时35分 ~ 04时27分]"
         },
         {
+          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
+          "url": "https://wallstreetcn.com/livenews/3028914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
           "url": "https://flash.jin10.com/detail/20251231015607378800",
           "source": "金十数据",
@@ -143,15 +157,26 @@
           "time_info": "02时35分"
         },
         {
-          "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
-          "url": "https://wallstreetcn.com/livenews/3028914",
+          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3028930",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时22分"
+        },
+        {
+          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20251231052550783800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -185,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
+          "url": "https://wallstreetcn.com/livenews/3028923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "Meta收购Manus AI的交易价值可能高达25亿美元",
@@ -223,7 +259,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -235,8 +271,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -250,37 +286,51 @@
           "time_info": "[00时31分 ~ 05时23分]"
         },
         {
+          "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251231050526825800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251231050523953800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
           "url": "https://flash.jin10.com/detail/20251231050133467800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -298,11 +348,23 @@
           "url": "https://wallstreetcn.com/livenews/3028922",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
+          "url": "https://wallstreetcn.com/livenews/3028934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时22分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
@@ -325,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -359,11 +432,12 @@
           "url": "https://wallstreetcn.com/livenews/3028919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数盘初涨超1.1%，报7724.54点。 中概股百度涨5.9%，蔚来涨4.4%，文远知行、小鹏、小马智行至少涨约3.4%，网易涨约2.3%。 美国网约车平台Uber和Lyft宣布，已与百度达成合作，计划于2026年在英国推出无人驾驶出租车(Robotaxi)试点项目。",
@@ -390,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时22分]"
         }
       ]
     }
