@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T20:48:26.871981+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-31T21:35:13.426110+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -78,11 +78,12 @@
             14,
             13,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时38分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 21时35分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -112,6 +113,20 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时35分]"
+        },
+        {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
           "url": "https://wallstreetcn.com/livenews/3028923",
           "source": "华尔街见闻-快讯",
@@ -121,6 +136,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 21时35分]"
         },
         {
           "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
@@ -163,19 +192,6 @@
           "time_info": "[03时19分 ~ 05时23分]"
         },
         {
-          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
-          "url": "https://www.cls.cn/detail/2245529",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时48分]"
-        },
-        {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
           "url": "https://wallstreetcn.com/livenews/3028884",
           "source": "华尔街见闻-快讯",
@@ -202,19 +218,6 @@
           "time_info": "[11时38分 ~ 13时27分]"
         },
         {
-          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
-          "url": "https://www.cls.cn/detail/2245628",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时48分]"
-        },
-        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://wallstreetcn.com/livenews/3028878",
           "source": "华尔街见闻-快讯",
@@ -238,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 16时32分]"
+        },
+        {
+          "title": "阿里千问Qwen Code重磅更新：让AI编程跳出命令行",
+          "url": "https://wallstreetcn.com/articles/3762335",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
@@ -297,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "被问及是否存在AI泡沫，宇树人形机器人回答：“只有时间才能证明”",
+          "url": "https://wallstreetcn.com/livenews/3029366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
@@ -500,8 +525,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 20时48分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 21时35分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
