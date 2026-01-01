@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:27:35.865025+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-01-02T05:22:02.686263+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -51,8 +51,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -65,8 +65,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -122,8 +122,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 05时22分]"
         }
       ]
     },
@@ -140,8 +140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 05时22分]"
         }
       ]
     }
