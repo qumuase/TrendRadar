@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-01T18:26:25.181153+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-01-01T19:21:09.262794+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 16,
       "titles": [
+        {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 19时21分]"
+        },
         {
           "title": "AI魔改翻车!广电出手救名著",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
@@ -41,11 +53,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 19时21分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -55,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时10分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[12时10分 ~ 19时21分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -66,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 19时21分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -104,18 +117,6 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时37分 ~ 18时26分]"
-        },
-        {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
           "url": "https://wallstreetcn.com/articles/3762372",
           "source": "华尔街见闻",
@@ -137,8 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时21分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -226,8 +227,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 19时21分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -371,11 +372,12 @@
           "ranks": [
             4,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时21分]"
         },
         {
           "title": "小鹏汽车2025年全年交付量达42.94万台 同比增长126%",
@@ -383,11 +385,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.13%，报7529.74点，12月份累计下跌3.38%，四季度累计下跌12.81%，2025年累计上涨超过11.33%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.99%，中国科技指数ETF（CQQQ）收跌0.63%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%，XtrackersHarvest中证50（ASHS）收涨0.30%。 2025年，ASHS累涨39.49%，CQQQ涨35.05%，ASHR涨27.13%，KWEB涨23.54%。",
