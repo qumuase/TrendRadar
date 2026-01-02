@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T13:28:33.417237+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-01-02T14:37:40.094430+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -83,8 +83,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时37分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时37分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -99,19 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时19分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时28分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -167,8 +167,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -210,8 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时37分]"
         }
       ]
     }
