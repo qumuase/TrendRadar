@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T20:46:31.613923+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-01-02T21:35:16.763428+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -28,11 +28,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 20时46分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 21时35分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -45,8 +46,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时53分 ~ 20时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时53分 ~ 21时35分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -61,8 +62,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 20时46分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 21时35分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -85,8 +86,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 20时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 21时35分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 21时35分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -117,19 +132,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时23分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 20时46分]"
         },
         {
           "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
@@ -183,6 +185,17 @@
           "time_info": "[00时30分 ~ 01时21分]"
         },
         {
+          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
+          "url": "https://www.cls.cn/detail/2246292",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时35分]"
+        },
+        {
           "title": "谷歌AI的逆风翻盘史",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
           "source": "bilibili 热搜",
@@ -192,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -204,23 +228,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时43分]"
-        },
-        {
-          "title": "又一AI芯片企业加入上市潮！百度官宣昆仑芯已秘密赴港IPO",
-          "url": "https://www.cls.cn/detail/2246292",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -291,11 +304,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时35分]"
         },
         {
           "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
@@ -316,9 +330,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102210040946800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美股三大股指期货走高，纳指期货涨超1%，标普500指数期货涨0.55%，道指期货涨0.23%。",
@@ -358,8 +383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 20时46分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 21时35分]"
         },
         {
           "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
@@ -367,11 +392,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 20时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时33分 ~ 21时35分]"
         }
       ]
     }
