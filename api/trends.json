@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T03:18:14.773446+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-01-04T04:25:37.255793+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -29,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -41,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
@@ -81,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
@@ -93,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -105,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     }
