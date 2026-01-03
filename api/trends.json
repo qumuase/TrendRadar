@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T21:31:43.253177+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-03T22:21:34.605046+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时35分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[14时35分 ~ 22时21分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -78,6 +78,19 @@
           "time_info": "[00时29分 ~ 15时21分]"
         },
         {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 22时21分]"
+        },
+        {
           "title": "AI魔改翻车,广电出手救名著",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
           "source": "贴吧",
@@ -112,19 +125,6 @@
           "time_info": "[07时21分 ~ 17时23分]"
         },
         {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            18,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 21时31分]"
-        },
-        {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
           "url": "https://www.cls.cn/detail/2246252",
           "source": "财联社热门",
@@ -134,6 +134,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 22时21分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -170,19 +183,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时34分 ~ 09时48分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 21时31分]"
         },
         {
           "title": "“高考AI押题命中率98%”系谣言",
@@ -279,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时47分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时47分 ~ 22时21分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -320,8 +320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时47分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时47分 ~ 22时21分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -337,8 +337,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 21时31分]"
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 22时21分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -371,6 +371,20 @@
           "time_info": "[06时23分 ~ 16时31分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 22时21分]"
+        },
+        {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260103013328832800",
           "source": "金十数据",
@@ -397,19 +411,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时34分 ~ 09时48分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 21时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
