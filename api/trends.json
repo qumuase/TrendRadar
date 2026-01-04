@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:45:10.640872+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-01-04T21:32:10.548684+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -77,6 +77,20 @@
           "time_info": "01时20分"
         },
         {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时32分]"
+        },
+        {
           "title": "有网友称收到苹果AI国行版升级通知，官方回应",
           "url": "https://flash.jin10.com/detail/20260104162200603800",
           "source": "金十数据",
@@ -126,19 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时03分 ~ 18时23分]"
-        },
-        {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时45分]"
         },
         {
           "title": "iPhone国行版AI疑似灰度测试",
