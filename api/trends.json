@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T13:28:24.489302+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-01-04T14:35:45.140518+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -33,8 +33,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 14时35分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时35分]"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "几毛钱学的AI魔改1条能赚上千",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%A0%E6%AF%9B%E9%92%B1%E5%AD%A6%E7%9A%84AI%E9%AD%94%E6%94%B91%E6%9D%A1%E8%83%BD%E8%B5%9A%E4%B8%8A%E5%8D%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
