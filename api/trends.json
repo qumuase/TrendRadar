@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T17:29:32.423478+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-01-06T18:27:39.078956+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -77,11 +77,23 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 18时27分]"
+        },
+        {
+          "title": "AI热潮抵消地缘政治担忧 欧元信用违约互换成本维持低位",
+          "url": "https://flash.jin10.com/detail/20260106175355647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "百度百科上线“AI知识图谱”等新功能",
@@ -151,6 +163,18 @@
           "time_info": "[06时24分 ~ 07时22分]"
         },
         {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 18时27分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
           "url": "https://flash.jin10.com/detail/20260106060052070800",
           "source": "金十数据",
@@ -173,18 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时28分]"
-        },
-        {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时29分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -235,6 +247,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时42分]"
+        },
+        {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时27分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -300,7 +324,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -314,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -410,7 +423,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -498,7 +511,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
@@ -508,6 +521,18 @@
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 18时27分]"
+        },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
@@ -519,18 +544,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
