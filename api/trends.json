@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:22:06.614881+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-06T20:50:55.035231+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -40,6 +40,22 @@
           "time_info": "[02时36分 ~ 15时28分]"
         },
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 20时50分]"
+        },
+        {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
           "url": "https://www.cls.cn/detail/2248593",
           "source": "财联社热门",
@@ -68,21 +84,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时25分 ~ 11时41分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 19时22分]"
         },
         {
           "title": "AirPods Pro3马年特别款开箱",
@@ -318,6 +319,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "英伟达揭晓新一代AI服务器系统 盘前止跌回升",
           "url": "https://flash.jin10.com/detail/20260106171719849800",
           "source": "金十数据",
@@ -519,7 +531,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -530,8 +542,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 20时50分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -673,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "伯恩斯坦：将波音(BA.N)列为美股国防板块首选股。",
+          "url": "https://flash.jin10.com/detail/20260106193052150800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
