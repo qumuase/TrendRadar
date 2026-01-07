@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T12:43:12.862771+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-07T13:28:22.715224+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 12时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 13时28分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -54,19 +54,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 12时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 13时28分]"
         },
         {
           "title": "英伟达押注物理AI背后逻辑",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时28分]"
         },
         {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
@@ -76,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时28分]"
         },
         {
           "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
@@ -111,6 +112,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 13时28分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -159,17 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
@@ -379,8 +381,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 13时28分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
