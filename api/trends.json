@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T02:32:46.360203+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-01-09T03:22:15.647045+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -26,8 +26,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时22分]"
+        },
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
@@ -66,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -78,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘中）",
@@ -88,7 +99,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -99,7 +110,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
