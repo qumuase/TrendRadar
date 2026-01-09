@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T11:42:36.231305+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-09T12:42:50.154076+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 12时42分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时42分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -69,6 +69,18 @@
           "time_info": "[07时20分 ~ 07时21分]"
         },
         {
+          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
+          "url": "https://wallstreetcn.com/articles/3762888",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时42分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
           "url": "https://flash.jin10.com/detail/20260109050055276800",
           "source": "金十数据",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
-          "url": "https://wallstreetcn.com/articles/3762888",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 11时42分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.10%，报367.31点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.05%，报2583.79点，北京时间22:30美股开盘时候跳水，23:00刷新日低至2525.03点。 （美股）原材料指数涨0.94%，报239.45点。 （美股）金属与矿业指数跌0.89%，报228.50点。",
@@ -189,7 +189,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -309,11 +309,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时42分]"
         },
         {
           "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
@@ -366,7 +367,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -399,7 +400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
