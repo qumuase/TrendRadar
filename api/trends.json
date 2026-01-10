@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T16:31:05.314073+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-01-10T17:23:32.851090+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -56,8 +56,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 17时23分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -66,11 +66,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 16时31分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 17时23分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -246,6 +247,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "AI怕你在婚礼上冷",
+          "url": "https://www.douyin.com/hot/2363223",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
           "url": "https://flash.jin10.com/detail/20260109232712672800",
           "source": "金十数据",
@@ -301,8 +313,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 17时23分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
