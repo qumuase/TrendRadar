@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T20:46:02.061925+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-01-11T21:32:31.637789+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时27分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 21时32分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -39,8 +39,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时20分 ~ 20时46分]"
+          "appearance_count": 26,
+          "time_info": "[01时20分 ~ 21时32分]"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            9,
+            8,
+            18,
+            25,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时35分 ~ 21时32分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -70,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 20时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 21时32分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -94,24 +111,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 20时46分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            9,
-            8,
-            18,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 20时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 21时32分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -179,6 +180,18 @@
           "time_info": "[13时27分 ~ 18时24分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 21时32分]"
+        },
+        {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
@@ -192,28 +205,17 @@
           "time_info": "[10时02分 ~ 13时28分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时46分]"
-        },
-        {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
           "url": "https://flash.jin10.com/detail/20260111185158665800",
           "source": "金十数据",
           "ranks": [
             1,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时32分]"
         },
         {
           "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
@@ -229,6 +231,18 @@
           "time_info": "[15时23分 ~ 17时24分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 21时32分]"
+        },
+        {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
           "url": "https://flash.jin10.com/detail/20260111150811201800",
           "source": "金十数据",
@@ -240,18 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 18时24分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时46分]"
         },
         {
           "title": "疑似马斯克AI账号登顶LOL韩服",
@@ -343,11 +345,12 @@
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 21时32分]"
         }
       ]
     },
