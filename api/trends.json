@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T18:28:06.695820+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-01-13T19:23:37.799537+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -120,6 +120,23 @@
           "time_info": "[00时31分 ~ 07时19分]"
         },
         {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            15,
+            11,
+            17,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 19时23分]"
+        },
+        {
           "title": "韩服93%胜率账号是AI吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -130,11 +147,12 @@
             21,
             16,
             14,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 18时28分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 19时23分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -170,22 +188,6 @@
           "time_info": "[00时31分 ~ 15时27分]"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            16,
-            15,
-            11,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 18时28分]"
-        },
-        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -217,26 +219,30 @@
           "time_info": "[04时28分 ~ 09时51分]"
         },
         {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 19时23分]"
+        },
+        {
           "title": "中国核聚变装置融入AI技术",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时28分]"
-        },
-        {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "张文宏称拒绝将AI引入医院病历系统",
@@ -246,20 +252,6 @@
             7,
             8,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 18时28分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -288,6 +280,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "技术拆解疑似马斯克AI账号",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
           "url": "https://flash.jin10.com/detail/20260113161050388800",
           "source": "金十数据",
@@ -297,6 +300,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
@@ -386,6 +401,18 @@
           "time_info": "[12时42分 ~ 15时27分]"
         },
         {
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
           "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
           "url": "https://www.cls.cn/detail/2255569",
           "source": "财联社热门",
@@ -398,6 +425,18 @@
           "time_info": "[15时27分 ~ 16时35分]"
         },
         {
+          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
+          "url": "https://www.cls.cn/detail/2256264",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时23分]"
+        },
+        {
           "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
           "url": "https://www.cls.cn/detail/2255684",
           "source": "财联社热门",
@@ -408,17 +447,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时34分 ~ 17时31分]"
-        },
-        {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时28分]"
         },
         {
           "title": "韩服马斯克AI事件疑点解析",
@@ -454,17 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时24分]"
-        },
-        {
-          "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
-          "url": "https://www.cls.cn/detail/2256264",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -546,6 +563,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
           "url": "https://wallstreetcn.com/livenews/3035598",
           "source": "华尔街见闻-快讯",
@@ -555,6 +583,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "天龙集团：近期公司注意到“AI应用”相关概念受市场关注较大。现阶段，公司相关AI工具主要应用于公司内部使用的广告创意素材和传播内容的创作，当前未因AI工具产生额外的收入，对公司整体经营情况没有重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3036054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "东方明珠：公司不直接从事AI业务，AI应用不直接产生营收",
+          "url": "https://wallstreetcn.com/livenews/3036050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "普元信息：公司AI软件基础平台产品目前处于初步商业化阶段",
+          "url": "https://wallstreetcn.com/livenews/3036039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -648,8 +709,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 19时23分]"
         },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -769,8 +830,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
@@ -876,7 +937,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "部分热门中概股盘前走低，百度(BIDU.O)跌超3%、小鹏汽车(XPEV.N)和拼多多(PDD.O)跌超2%。",
@@ -888,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
+          "url": "https://www.zhihu.com/question/667028399",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     }
