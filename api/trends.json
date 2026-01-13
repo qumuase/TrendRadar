@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T14:38:35.674974+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-01-13T15:27:48.185274+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时27分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时27分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -132,8 +132,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时27分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -150,8 +150,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时27分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -160,11 +160,30 @@
           "ranks": [
             22,
             28,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时27分]"
+        },
+        {
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15,
+            22,
+            13,
+            24,
+            23,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时24分 ~ 15时27分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -178,23 +197,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时28分 ~ 09时51分]"
-        },
-        {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            15,
-            22,
-            13,
-            24,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时24分 ~ 14时38分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -277,8 +279,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 15时27分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -286,11 +288,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 15时27分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -315,6 +318,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时24分]"
+        },
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时27分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -352,6 +367,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "催化事件不断，AI应用从“可用”迈向“好用”",
           "url": "https://wallstreetcn.com/livenews/3035605",
           "source": "华尔街见闻-快讯",
@@ -385,15 +411,26 @@
           "time_info": "05时24分"
         },
         {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "15时27分"
         },
         {
           "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
@@ -501,6 +538,17 @@
           "time_info": "[00时31分 ~ 05时24分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时27分]"
+        },
+        {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
           "url": "https://wallstreetcn.com/articles/3762924",
           "source": "华尔街见闻",
@@ -511,17 +559,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时19分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时38分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
