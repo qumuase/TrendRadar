@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T15:21:53.428435+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-01-17T16:31:17.796904+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 16时31分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -263,8 +264,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 16时31分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -403,11 +404,12 @@
             3,
             8,
             14,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 16时31分]"
         }
       ]
     }
