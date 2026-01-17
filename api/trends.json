@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T17:23:44.334234+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-01-17T18:23:39.481250+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -64,11 +64,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 18时23分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -214,6 +215,28 @@
           "time_info": "[03时22分 ~ 04时25分]"
         },
         {
+          "title": "Anthropic刚发布了一份「AI抢饭碗报告」：学历越高越「被抢」",
+          "url": "https://wallstreetcn.com/articles/3763484",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3039008",
           "source": "华尔街见闻-快讯",
@@ -261,11 +284,12 @@
             12,
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时23分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 18时23分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
