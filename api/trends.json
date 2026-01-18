@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:22:46.999030+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-01-18T16:31:27.022503+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
             7,
             8,
             10,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 16时31分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -63,11 +64,37 @@
             12,
             10,
             13,
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 16时31分]"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "time_info": "[13时26分 ~ 16时31分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 16时31分]"
         },
         {
           "title": "CoreWeave投资者会议：AI需求“无法解决”，客户愿意签长约，且提前12个月签约",
@@ -80,29 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 12时07分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时22分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 15时22分]"
         },
         {
           "title": "“AI云”又杀回来了！2026年至今，CoreWeave涨超40%，Nebius涨近30%",
