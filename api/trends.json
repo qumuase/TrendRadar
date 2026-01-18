@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:18:55.740778+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-01-19T04:26:45.146185+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     }
