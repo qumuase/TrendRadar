@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:55:37.610787+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-01-19T21:48:55.791681+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -72,17 +72,6 @@
           "time_info": "[16时37分 ~ 19时24分]"
         },
         {
-          "title": "荣耀Magic 8 Pro Air 售价4999元起",
-          "url": "https://wallstreetcn.com/livenews/3039775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
           "url": "https://wallstreetcn.com/livenews/3039528",
           "source": "华尔街见闻-快讯",
@@ -94,6 +83,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 14时42分]"
+        },
+        {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时48分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -132,6 +133,18 @@
           "time_info": "[17时37分 ~ 17时38分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时48分]"
+        },
+        {
           "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
           "url": "https://wallstreetcn.com/livenews/3039556",
           "source": "华尔街见闻-快讯",
@@ -153,6 +166,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时48分]"
+        },
+        {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时48分]"
         },
         {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
@@ -177,28 +213,6 @@
           "time_info": "13时34分"
         },
         {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
-          "url": "https://www.cls.cn/detail/2262181",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "默克中国与镁睿化学签署合作备忘录，将共同开发定制化AI模型",
           "url": "https://wallstreetcn.com/livenews/3039588",
           "source": "华尔街见闻-快讯",
@@ -221,17 +235,6 @@
           "time_info": "17时38分"
         },
         {
-          "title": "Air手机界来了个真Pro",
-          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "UP主手搓可食用的AI海洋方块",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
           "source": "bilibili 热搜",
@@ -252,12 +255,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "如何评价荣耀Magic8ProAir",
+          "url": "https://www.douyin.com/hot/2373059",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -292,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
