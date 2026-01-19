@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:48:55.791681+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-01-19T22:32:07.205440+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -90,11 +90,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 22时32分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时32分]"
+        },
+        {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时32分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -133,18 +158,6 @@
           "time_info": "[17时37分 ~ 17时38分]"
         },
         {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时48分]"
-        },
-        {
           "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
           "url": "https://wallstreetcn.com/livenews/3039556",
           "source": "华尔街见闻-快讯",
@@ -168,16 +181,15 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
-          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
-          "url": "https://www.cls.cn/detail/2262181",
-          "source": "财联社热门",
+          "title": "李稻葵：马斯克的预言是“AI乌托邦”",
+          "url": "https://www.toutiao.com/trending/7596717546255581227/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时48分]"
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "Air手机界来了个真Pro",
@@ -235,6 +247,17 @@
           "time_info": "17时38分"
         },
         {
+          "title": "据CNBC：初创公司Moonshot AI估值达48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260119214006003800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "UP主手搓可食用的AI海洋方块",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
           "source": "bilibili 热搜",
@@ -263,7 +286,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
@@ -297,6 +320,17 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 22时32分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -306,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
