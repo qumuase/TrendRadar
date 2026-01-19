@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T05:22:50.715532+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-01-20T06:24:59.901801+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
@@ -13,11 +13,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时24分]"
+        },
+        {
+          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
+          "url": "https://wallstreetcn.com/livenews/3039907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时24分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -44,18 +58,6 @@
           "time_info": "[02时36分 ~ 04时27分]"
         },
         {
-          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
-          "url": "https://wallstreetcn.com/livenews/3039907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时22分]"
-        },
-        {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3039846",
           "source": "华尔街见闻-快讯",
@@ -65,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -87,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "李稻葵：马斯克的预言是“AI乌托邦”",
+          "url": "https://www.toutiao.com/trending/7596717546255581227/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "贺峻霖力证不是AI",
@@ -114,7 +138,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -126,6 +150,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 05时22分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     }
