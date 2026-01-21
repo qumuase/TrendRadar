@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:34:49.994934+08:00",
-  "total_titles_processed": 2085,
+  "generated_at": "2026-01-21T23:36:40.324112+08:00",
+  "total_titles_processed": 2182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -31,11 +31,12 @@
             12,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时35分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[16时35分 ~ 23时36分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -49,11 +50,12 @@
             12,
             13,
             11,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时47分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时47分 ~ 23时36分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -73,11 +75,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时32分 ~ 22时34分]"
+          "appearance_count": 8,
+          "time_info": "[18时32分 ~ 23时36分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -101,6 +104,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时55分 ~ 21时49分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            29,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 23时36分]"
         },
         {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
@@ -139,19 +156,6 @@
           "time_info": "[11时48分 ~ 12时47分]"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时34分]"
-        },
-        {
           "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
           "url": "https://www.cls.cn/detail/2264568",
           "source": "财联社热门",
@@ -162,6 +166,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时35分 ~ 17时36分]"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时36分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -187,17 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时41分]"
-        },
-        {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时34分]"
         },
         {
           "title": "郑钦文粉丝把AI天赋点满了",
@@ -264,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
+          "url": "https://www.cls.cn/detail/2265088",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
@@ -387,6 +403,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "黄仁勋谈过去一年AI模型的三大突破",
+          "url": "https://wallstreetcn.com/livenews/3041362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
           "url": "https://flash.jin10.com/detail/20260121175350755800",
           "source": "金十数据",
@@ -434,7 +461,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -444,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时25分 ~ 22时34分]"
+          "appearance_count": 20,
+          "time_info": "[07时25分 ~ 23时36分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -536,6 +563,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时47分 ~ 16时36分]"
+        },
+        {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，纳指期货涨0.4%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -707,7 +745,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -729,7 +767,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -751,9 +789,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，标普能源板块有望打破去年所创收盘历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3041360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         },
         {
           "title": "强生第四季度调整后每股收益2.46美元，上年同期2.04美元，预估2.47美元。 第四季度销售额245.6亿美元，同比增长9.1%，预估241.5亿美元。 强生预计2026年销售额1,000亿美元至1,010亿美元，市场预估988.8亿美元。 强生预计2026年调整后每股收益11.43美元至11.63美元。 强生美股盘前跌超2%。",
