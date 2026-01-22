@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T00:39:20.551132+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-23T01:31:57.943964+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
           "url": "https://wallstreetcn.com/articles/3763860",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -76,19 +77,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
           "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -98,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
         },
         {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
@@ -126,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时31分]"
         }
       ]
     }
