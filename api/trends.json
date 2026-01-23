@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T03:27:21.378739+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-24T04:30:46.973801+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -126,19 +127,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
           "url": "https://flash.jin10.com/detail/20260124023319046800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时30分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -189,8 +191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 04时30分]"
         },
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
@@ -200,8 +202,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 04时30分]"
         }
       ]
     }
