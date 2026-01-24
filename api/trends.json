@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:23:02.811655+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-01-25T07:22:52.819421+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -41,11 +42,12 @@
             25,
             16,
             13,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -55,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -67,11 +69,12 @@
             18,
             25,
             28,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时22分]"
         },
         {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
@@ -122,19 +125,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时22分]"
         }
       ]
     }
