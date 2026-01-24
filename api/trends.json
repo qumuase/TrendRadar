@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T21:33:26.987755+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-01-24T22:22:22.744227+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时38分 ~ 21时33分]"
+          "appearance_count": 14,
+          "time_info": "[11时38分 ~ 22时22分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -78,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时35分 ~ 21时33分]"
+          "appearance_count": 10,
+          "time_info": "[14时35分 ~ 22时22分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -90,11 +91,12 @@
             4,
             13,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时31分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 22时22分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -123,6 +125,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时35分 ~ 17时24分]"
+        },
+        {
+          "title": "苹果一个月内多次促销 iPhone Air大降2500元",
+          "url": "https://flash.jin10.com/detail/20260124215336107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
@@ -165,6 +178,19 @@
           "time_info": "[15时22分 ~ 20时45分]"
         },
         {
+          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
+          "url": "https://flash.jin10.com/detail/20260124201216318800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时22分]"
+        },
+        {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
           "url": "https://flash.jin10.com/detail/20260124010639315800",
           "source": "金十数据",
@@ -175,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时38分]"
-        },
-        {
-          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
-          "url": "https://flash.jin10.com/detail/20260124201216318800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时33分]"
         },
         {
           "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
@@ -201,6 +215,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时24分 ~ 21时33分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时22分]"
         },
         {
           "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
@@ -238,18 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时28分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时33分]"
         },
         {
           "title": "EXO退场像AI一样诡异的消失了",
@@ -394,8 +408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时24分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[07时24分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -409,8 +423,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时24分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[07时24分 ~ 22时22分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
