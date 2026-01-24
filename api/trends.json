@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T13:24:37.828597+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-01-24T14:36:02.172507+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -62,8 +62,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 14时36分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.toutiao.com/trending/7598387695761588278/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -71,11 +82,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 14时36分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -88,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时38分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
+          "url": "https://www.toutiao.com/trending/7598238497476034602/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时36分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -127,6 +150,17 @@
           "time_info": "[02时38分 ~ 03时27分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
           "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
           "url": "https://wallstreetcn.com/livenews/3043198",
           "source": "华尔街见闻-快讯",
@@ -137,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时37分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
-          "url": "https://www.toutiao.com/trending/7598238497476034602/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时24分]"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
@@ -200,6 +223,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时36分]"
+        },
+        {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
           "url": "https://wallstreetcn.com/articles/3763993",
           "source": "华尔街见闻",
@@ -211,18 +246,6 @@
           "time_info": "[00时34分 ~ 04时30分]"
         },
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时24分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
@@ -232,8 +255,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时36分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -364,11 +387,12 @@
           "url": "https://wallstreetcn.com/livenews/3043227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时36分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.26%，报7878.38点，本周累计上涨2.05%。 热门中概股里，小鹏初步收跌3.3%，蔚来、文远知行、阿里跌超2%，理想、拼多多、腾讯至多涨0.5%，美团、小麦、新东方至多涨2%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.24%，中国ETF-iShares MSCI（MCHI）收涨2.58%。 中概互联网指数ETF（KWEB）收涨0.03%，中国科技指数ETF（CQQQ）收涨0.73%。",
