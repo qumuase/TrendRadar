@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:34:42.227426+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-01-25T22:22:20.813875+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 21时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 22时22分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -49,8 +49,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 21时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 22时22分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时36分 ~ 22时22分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -62,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时15分 ~ 21时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时15分 ~ 22时22分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -81,19 +95,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 21时34分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -202,7 +203,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
