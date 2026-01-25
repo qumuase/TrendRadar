@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:22:52.819421+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-25T10:05:35.468099+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 10时05分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 10时05分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -54,11 +55,12 @@
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时05分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -122,11 +124,12 @@
           "url": "https://flash.jin10.com/detail/20260124222616668800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时05分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -134,11 +137,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 10时05分]"
         }
       ]
     }
