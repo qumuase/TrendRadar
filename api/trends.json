@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-26T07:23:51.375607+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-01-26T10:05:12.212484+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
           "url": "https://wallstreetcn.com/articles/3764092",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时05分]"
         },
         {
           "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时05分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -38,11 +40,12 @@
             11,
             14,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时05分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -63,11 +66,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时05分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -81,6 +85,56 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.81%，半导体芯片、商业航天、机器人、AI应用等方向跌幅居前，沪深京三市下跌个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3043566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "AI会如何发展",
+          "url": "https://www.toutiao.com/trending/7599444651178724900/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
+          "url": "https://wallstreetcn.com/livenews/3043547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "恒指高开0.35%，报26844.04点；恒生科技指数涨0.05%。泡泡玛特涨超4%，紫金矿业涨近3%，腾讯音乐涨近2%；百度跌近2%，小鹏汽车跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3043531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
