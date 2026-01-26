@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:31:30.790684+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-01-26T19:24:00.080823+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,27 @@
             5,
             4,
             11,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 19时23分]"
+        },
+        {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 19时23分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -74,6 +90,20 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时34分 ~ 19时23分]"
+        },
+        {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
           "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
           "source": "澎湃新闻",
@@ -86,19 +116,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时29分 ~ 12时18分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时34分 ~ 18时31分]"
         },
         {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
@@ -115,20 +132,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时34分 ~ 17时38分]"
-        },
-        {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 18时31分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -268,8 +271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时23分]"
         },
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -336,7 +339,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -347,7 +350,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -382,7 +385,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -393,7 +396,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -404,7 +407,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
@@ -452,8 +455,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 19时23分]"
         }
       ]
     }
