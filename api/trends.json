@@ -1,12 +1,50 @@
 {
-  "generated_at": "2026-01-27T16:37:12.240471+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-01-27T17:36:29.216401+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时54分 ~ 17时36分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时36分]"
+        },
+        {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时36分]"
+        },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
           "url": "https://wallstreetcn.com/articles/3764155",
@@ -20,43 +58,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时37分 ~ 14时39分]"
-        },
-        {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时54分 ~ 16时37分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时37分]"
-        },
-        {
-          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时37分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -172,6 +173,20 @@
           "time_info": "07时26分"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 17时36分]"
+        },
+        {
           "title": "报道称，OpenAI副总裁奈特即将离职。",
           "url": "https://wallstreetcn.com/livenews/3044468",
           "source": "华尔街见闻-快讯",
@@ -182,19 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时39分]"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时37分]"
         },
         {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
@@ -226,11 +228,12 @@
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时36分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -291,6 +294,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "印度国有天然气公司GAIL CEO：如果价格走软，印度将签署更多长期液化天然气进口合同。",
+          "url": "https://flash.jin10.com/detail/20260127165949365800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
           "url": "https://www.cls.cn/detail/2270515",
           "source": "财联社热门",
@@ -300,6 +314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "贵金属延续强势 ，AI应用再迎密集催化，分化市场下寻结构机会",
+          "url": "https://www.cls.cn/detail/2270639",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "印度国有天然气公司GAIL CEO：我们相信，随着布伦特油价走软，与油价挂钩的天然气合同价格肯定会比当前水平更加实惠。",
+          "url": "https://flash.jin10.com/detail/20260127165925776800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "“流量战”再打响 元宝要重现11年前微信红包盛况 马化腾正亲自内测AI新“大招”",
@@ -322,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "印度国有天然气公司GAIL CEO：价格是推动印度电力行业天然气需求的最大担忧。",
+          "url": "https://flash.jin10.com/detail/20260127165904615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
@@ -404,7 +451,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -415,8 +462,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时25分 ~ 16时37分]"
+          "appearance_count": 14,
+          "time_info": "[06时25分 ~ 17时36分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -452,6 +499,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时37分 ~ 10时01分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前涨3%，此前该公司宣布计划在新加坡投资240亿美元建设一座存储芯片制造厂。",
+          "url": "https://flash.jin10.com/detail/20260127170515814800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "美国提议小幅上调医疗保险承保商支付额，联合健康(UNH.N)美股盘前跌超8%。",
+          "url": "https://flash.jin10.com/detail/20260127170453559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
