@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T15:29:32.889682+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-01-28T16:37:00.074870+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 15时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 16时37分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -69,6 +69,20 @@
           "time_info": "[00时34分 ~ 07时25分]"
         },
         {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 16时37分]"
+        },
+        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -80,19 +94,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 13时33分]"
-        },
-        {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 15时29分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -116,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时33分]"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 16时37分]"
         },
         {
           "title": "AirPods实时翻译实用吗",
@@ -189,6 +202,17 @@
           "time_info": "[02时43分 ~ 03时29分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
           "url": "https://flash.jin10.com/detail/20260128020246054800",
           "source": "金十数据",
@@ -199,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时29分]"
-        },
-        {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时29分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -267,6 +280,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "中央企业“AI+”专项行动取得积极进展",
+          "url": "https://wallstreetcn.com/livenews/3045398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "OpenAI推出面向科学家的全新工具Prism",
           "url": "https://flash.jin10.com/detail/20260128043059691800",
           "source": "金十数据",
@@ -284,7 +308,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
@@ -449,7 +473,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
