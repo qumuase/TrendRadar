@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:47:18.609241+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-01-29T14:52:58.679478+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 14时52分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -93,11 +93,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时52分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时52分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -122,18 +135,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时47分]"
-        },
-        {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
           "url": "https://wallstreetcn.com/livenews/3045737",
           "source": "华尔街见闻-快讯",
@@ -150,22 +151,24 @@
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时52分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
           "url": "https://www.cls.cn/detail/2273507",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时52分]"
         },
         {
           "title": "AI应用板块爆发",
@@ -298,7 +301,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -372,11 +375,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时52分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
