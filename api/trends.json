@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-30T18:37:59.476459+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-01-30T19:31:45.265446+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 19时31分]"
+        },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
@@ -21,17 +32,6 @@
           "time_info": "[00时48分 ~ 07时30分]"
         },
         {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时11分 ~ 18时37分]"
-        },
-        {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
           "url": "https://wallstreetcn.com/articles/3764497",
           "source": "华尔街见闻",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 18时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 19时31分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -71,23 +71,12 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 18时37分]"
-        },
-        {
-          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
-          "url": "https://www.cls.cn/detail/2274202",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 07时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 19时31分]"
         },
         {
           "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
@@ -102,8 +91,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 19时31分]"
+        },
+        {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 07时30分]"
         },
         {
           "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
@@ -118,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 19时31分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -450,6 +451,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "苹果盘前微跌 AI投资乏力引发市场担忧",
+          "url": "https://flash.jin10.com/detail/20260130184035722800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
           "url": "https://flash.jin10.com/detail/20260130064632549800",
           "source": "金十数据",
@@ -530,7 +542,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -680,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
+          "url": "https://flash.jin10.com/detail/20260130185416724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
