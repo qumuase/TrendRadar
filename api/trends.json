@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T19:31:45.265446+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-01-30T21:02:04.019913+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时11分 ~ 21时02分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -43,8 +43,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时48分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时48分 ~ 21时02分]"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 21时02分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -72,27 +89,12 @@
             15,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时48分 ~ 19时31分]"
-        },
-        {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时48分 ~ 21时02分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -457,7 +459,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -542,7 +544,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -700,7 +702,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -769,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "Verizon第四季度调整后每股收益1.09美元，预估1.06美元。 第四季度调整后息税折旧及摊销前利润119亿美元，预估120亿美元。 第四季度营运收入364亿美元，预估361亿美元。 Verizon预计2026年营业现金流375亿美元至380亿美元，市场预估387.5亿美元。 Verizon预计2026年调整后每股收益4.90美元至4.95美元，市场预估4.75美元。 Verizon预计2026年资本支出160亿美元至165亿美元，市场预估180.8亿美元。 Verizon预计2026年自由现金流至少215亿美元，市场预估207.9亿美元。 Verizon美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3047342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
