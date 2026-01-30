@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T01:36:21.525584+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-01-31T02:47:35.200497+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -26,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -54,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时47分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -64,7 +65,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         }
