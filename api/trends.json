@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T15:31:39.534496+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-31T16:35:08.811349+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -27,11 +27,27 @@
             23,
             27,
             29,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 15时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 16时35分]"
+        },
+        {
+          "title": "叫兽易小星报名B站AI大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            1,
+            8,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 16时35分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -45,20 +61,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时31分]"
-        },
-        {
-          "title": "叫兽易小星报名B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            1,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时31分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -95,11 +97,24 @@
           "ranks": [
             6,
             12,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时35分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 16时35分]"
         },
         {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
@@ -125,16 +140,15 @@
           "time_info": "[03时34分 ~ 04时34分]"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
+          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
+          "url": "https://flash.jin10.com/detail/20260131153449024800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -172,8 +186,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 16时35分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
+          "url": "https://www.cls.cn/detail/2276378",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 16时35分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -196,19 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
-          "url": "https://www.cls.cn/detail/2276378",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 15时31分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -314,11 +328,12 @@
           "ranks": [
             3,
             6,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时35分]"
         }
       ]
     }
