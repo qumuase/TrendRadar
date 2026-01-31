@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T16:35:08.811349+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-01-31T17:31:59.971087+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             1,
             8,
             12,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时31分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -78,6 +79,18 @@
           "time_info": "[10时07分 ~ 15时31分]"
         },
         {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 17时31分]"
+        },
+        {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
           "url": "https://www.zhihu.com/question/2000516785095537569",
           "source": "知乎",
@@ -105,18 +118,6 @@
           "time_info": "[13时40分 ~ 16时35分]"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 16时35分]"
-        },
-        {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
           "url": "https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E6%8A%BC%E5%AE%9DAI+%E7%89%B9%E6%96%AF%E6%8B%89%E6%B2%A1%E5%BF%83%E6%80%9D%E9%80%A0%E8%BD%A6%E4%BA%86",
           "source": "百度热搜",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 06时30分]"
+        },
+        {
+          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
+          "url": "https://flash.jin10.com/detail/20260131153449024800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -138,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时34分]"
-        },
-        {
-          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
-          "url": "https://flash.jin10.com/detail/20260131153449024800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -186,8 +188,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 17时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
@@ -199,8 +201,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时07分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 17时31分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -329,11 +331,12 @@
             3,
             6,
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 17时31分]"
         }
       ]
     }
