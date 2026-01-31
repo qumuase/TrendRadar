@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T18:28:51.902074+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-01-31T19:23:57.090888+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -28,11 +28,12 @@
             27,
             29,
             28,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 19时23分]"
         },
         {
           "title": "叫兽易小星报名B站AI大赛",
@@ -48,8 +49,22 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 18时28分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 19时23分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时43分 ~ 19时23分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -65,17 +80,15 @@
           "time_info": "[03时34分 ~ 05时31分]"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
+          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
+          "url": "https://flash.jin10.com/detail/20260131190934573800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -191,8 +204,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 19时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
@@ -201,11 +214,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 19时23分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
