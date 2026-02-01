@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T20:55:25.605261+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-02-01T21:46:12.682911+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时03分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[13时03分 ~ 21时46分]"
         },
         {
           "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
@@ -170,11 +170,12 @@
             3,
             7,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时55分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时46分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -183,11 +184,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -196,11 +198,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -209,11 +212,12 @@
           "ranks": [
             4,
             13,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "《王牌》沈腾不方便的话全让AI说了",
@@ -252,6 +256,18 @@
           "time_info": "[05时25分 ~ 07时26分]"
         },
         {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时46分]"
+        },
+        {
           "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
           "url": "https://www.zhihu.com/question/2000826715941904620",
           "source": "知乎",
@@ -272,17 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时26分]"
-        },
-        {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         }
       ]
     },
@@ -301,8 +306,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 21时46分]"
+        },
+        {
+          "title": "小鹏机器人线下首秀摔倒被抬离",
+          "url": "https://www.toutiao.com/trending/7601479407475343401/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时46分]"
         },
         {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
@@ -312,22 +329,12 @@
             1,
             5,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时55分]"
-        },
-        {
-          "title": "小鹏机器人线下首秀摔倒被抬离",
-          "url": "https://www.toutiao.com/trending/7601479407475343401/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 21时46分]"
         }
       ]
     },
@@ -370,9 +377,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时46分]"
         },
         {
           "title": "特朗普放风：印度将进口委内瑞拉石油，同样欢迎中国",
