@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:27:57.472480+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-02-02T02:39:06.931416+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -49,8 +49,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -60,8 +60,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     },
@@ -77,19 +77,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94IRON%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E7%8C%AB%E6%AD%A5%E6%97%B6%E6%91%94%E5%80%92",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时39分]"
         }
       ]
     },
@@ -105,8 +106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         }
       ]
     }
