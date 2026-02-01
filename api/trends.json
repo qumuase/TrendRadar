@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:26:09.575285+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:37:10.273263+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -29,8 +29,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时37分]"
+        },
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时29分 ~ 10时37分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -109,17 +121,6 @@
           "time_info": "[01时26分 ~ 07时26分]"
         },
         {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 07时26分]"
-        },
-        {
           "title": "男子被AI诊断梅毒医生否认却不信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -129,6 +130,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 07时26分]"
+        },
+        {
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
