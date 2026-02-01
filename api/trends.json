@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T19:24:04.784534+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-02-01T20:55:25.605261+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[13时03分 ~ 20时55分]"
         },
         {
           "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
@@ -163,29 +163,31 @@
           "time_info": "[01时26分 ~ 07时26分]"
         },
         {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
-        },
-        {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
           "url": "https://wallstreetcn.com/livenews/3047799",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             7,
-            12
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时24分]"
+          "time_info": "[18时29分 ~ 20时55分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -193,11 +195,25 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时55分]"
         },
         {
           "title": "《王牌》沈腾不方便的话全让AI说了",
@@ -210,18 +226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时53分 ~ 15时39分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时24分]"
         },
         {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
@@ -268,6 +272,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小鹏机器人首秀摔倒 被抬离现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            4,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时55分]"
+        },
+        {
+          "title": "小鹏机器人线下首秀摔倒被抬离",
+          "url": "https://www.toutiao.com/trending/7601479407475343401/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -300,41 +360,20 @@
       ]
     },
     {
-      "keyword_group": "小鹏",
+      "keyword_group": "特朗普",
       "match_count": 2,
       "titles": [
         {
-          "title": "小鹏汽车：2026年1月共交付新车20011台。",
-          "url": "https://wallstreetcn.com/livenews/3047804",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            5,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
-        {
-          "title": "小鹏机器人首秀摔倒 被抬离现场",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
         {
           "title": "特朗普放风：印度将进口委内瑞拉石油，同样欢迎中国",
           "url": "https://flash.jin10.com/detail/20260201145753233800",
