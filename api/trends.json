@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T10:27:42.022324+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-02-02T13:00:36.924485+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -36,11 +36,12 @@
           "url": "https://wallstreetcn.com/articles/3764694",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 07时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时00分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -67,13 +68,24 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时00分]"
+        },
+        {
           "title": "AI圈爆火的OpenClaw是个啥",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84OpenClaw%E6%98%AF%E4%B8%AA%E5%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -84,7 +96,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -95,7 +107,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -121,11 +133,12 @@
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时00分]"
         },
         {
           "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
@@ -178,7 +191,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
