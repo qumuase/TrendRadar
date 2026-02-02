@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:49:10.022370+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-02-02T19:37:45.139299+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,20 @@
           "time_info": "[12时59分 ~ 16时48分]"
         },
         {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时09分 ~ 19时37分]"
+        },
+        {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
           "url": "https://wallstreetcn.com/livenews/3047808",
           "source": "华尔街见闻-快讯",
@@ -81,20 +95,6 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时09分 ~ 18时49分]"
-        },
-        {
           "title": "AI圈爆火的OpenClaw是个啥",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84OpenClaw%E6%98%AF%E4%B8%AA%E5%95%A5",
           "source": "bilibili 热搜",
@@ -106,6 +106,30 @@
           "time_info": "10时27分"
         },
         {
+          "title": "北京大学与中国铁塔合作 推动AI产教融合",
+          "url": "https://wallstreetcn.com/livenews/3048300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时37分]"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
+          "url": "https://wallstreetcn.com/livenews/3048290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 19时37分]"
+        },
+        {
           "title": "腾讯打响AI社交第一枪",
           "url": "https://www.toutiao.com/trending/7602143575987785257/",
           "source": "今日头条",
@@ -115,17 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "北京大学与中国铁塔合作 推动AI产教融合",
-          "url": "https://wallstreetcn.com/livenews/3048300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
@@ -170,17 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
-        },
-        {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         },
         {
           "title": "蚂蚁CEO发布内部信，加大对AI“开创性贡献”激励力度",
@@ -251,7 +253,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
