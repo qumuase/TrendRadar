@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T13:00:36.924485+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-02-02T14:09:55.193827+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -37,11 +37,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时09分]"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时09分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -66,17 +79,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
         },
         {
           "title": "AI圈爆火的OpenClaw是个啥",
@@ -110,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
