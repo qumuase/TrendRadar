@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T22:46:02.247308+08:00",
-  "total_titles_processed": 1840,
+  "generated_at": "2026-02-03T23:53:25.488651+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "SpaceX官宣收购xAI",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时25分 ~ 22时46分]"
+          "appearance_count": 19,
+          "time_info": "[10时25分 ~ 23时53分]"
         },
         {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
@@ -88,8 +88,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时48分 ~ 22时46分]"
+          "appearance_count": 17,
+          "time_info": "[12时48分 ~ 23时53分]"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 23时53分]"
         },
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -106,19 +119,6 @@
           "time_info": "[00时44分 ~ 10时26分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 22时46分]"
-        },
-        {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
           "url": "https://www.zhihu.com/question/2001947312226848988",
           "source": "知乎",
@@ -132,13 +132,26 @@
           "time_info": "[12时48分 ~ 14时56分]"
         },
         {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 23时53分]"
+        },
+        {
           "title": "分析师：SpaceX与xAI合并降低了特斯拉并入的可能性",
           "url": "https://flash.jin10.com/detail/20260203223903996800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -223,17 +236,16 @@
           "time_info": "10时26分"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            7
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 22时46分]"
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时53分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -248,28 +260,29 @@
           "time_info": "[00时44分 ~ 07时31分]"
         },
         {
-          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
-          "url": "https://www.cls.cn/detail/2279363",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时46分]"
-        },
-        {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 23时53分]"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时06分 ~ 22时46分]"
+          "time_info": "[22时45分 ~ 23时53分]"
         },
         {
           "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
@@ -277,17 +290,6 @@
           "source": "知乎",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
-          "url": "https://www.cls.cn/detail/2279310",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -371,6 +373,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "沃尔玛市值首次突破1万亿美元 AI布局与高性价比推动增长",
+          "url": "https://flash.jin10.com/detail/20260203230306441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "一图看懂|三大巨头豪掷45亿！2026春节AI红包大战打响",
           "url": "https://www.cls.cn/detail/2279165",
           "source": "财联社热门",
@@ -404,13 +417,24 @@
           "time_info": "18时43分"
         },
         {
+          "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
+          "url": "https://wallstreetcn.com/livenews/3049194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
           "url": "https://wallstreetcn.com/livenews/3049154",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -459,6 +483,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "AI颠覆风险风起云涌，Anthropic新工具冲击法律软件板块",
+          "url": "https://wallstreetcn.com/livenews/3049201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3048556",
           "source": "华尔街见闻-快讯",
@@ -484,7 +519,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -495,8 +530,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时25分 ~ 22时46分]"
+          "appearance_count": 19,
+          "time_info": "[10时25分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -562,6 +597,17 @@
           "time_info": "[00时44分 ~ 10时26分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -579,7 +625,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -599,11 +645,12 @@
           "url": "https://www.cls.cn/detail/2279540",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时53分]"
         },
         {
           "title": "MP材料美股盘前涨幅迅速扩大至5%，USAR涨6.7%，UUUU涨4.8%。 欧盟将向美国提议构建关键矿物合作伙伴关系。",
@@ -612,9 +659,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "美股股指跌幅扩大，纳指跌1%，标普500指数跌0.48%。",
+          "url": "https://flash.jin10.com/detail/20260203230803638800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
@@ -634,7 +692,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -672,6 +730,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "全球航空业ETF涨1.59%，在美股盘初领跑行业ETF，半导体ETF涨0.93%，能源业ETF微跌。",
+          "url": "https://wallstreetcn.com/livenews/3049185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "辉瑞第四季度营收175.6亿美元，市场预估169.4亿美元。 第四季度调整后每股收益0.66美元。 预计2026年调整后每股收益2.80美元至3.00美元。 预计2026年营收595亿美元至625亿美元。 辉瑞美股盘前跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3049108",
           "source": "华尔街见闻-快讯",
@@ -681,6 +750,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时53分]"
+        },
+        {
+          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
+          "url": "https://wallstreetcn.com/livenews/3049126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
+          "url": "https://wallstreetcn.com/livenews/3049196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -697,8 +805,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 22时46分]"
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 23时53分]"
         },
         {
           "title": "中方回应特朗普让中国参与军控谈判",
@@ -714,34 +822,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时44分 ~ 21时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小鹏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
-          "url": "https://wallstreetcn.com/livenews/3049126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
         }
       ]
     }
