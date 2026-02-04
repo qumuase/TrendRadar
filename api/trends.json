@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T00:53:56.658281+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:49:52.314107+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -37,19 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -70,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
@@ -109,8 +110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -120,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -131,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 01时49分]"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
