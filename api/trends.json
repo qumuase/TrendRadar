@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:44:05.855801+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-02-11T06:43:16.652299+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -25,11 +25,12 @@
           "ranks": [
             18,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -40,19 +41,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -64,8 +66,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时04分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 06时43分]"
         },
         {
           "title": "AI制图骗局",
@@ -116,6 +118,18 @@
           "time_info": "[00时15分 ~ 05时44分]"
         },
         {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
           "url": "https://flash.jin10.com/detail/20260211013915640800",
           "source": "金十数据",
@@ -149,17 +163,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
-          "url": "https://flash.jin10.com/detail/20260211042006504800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
           "url": "https://wallstreetcn.com/livenews/3053195",
           "source": "华尔街见闻-快讯",
@@ -185,7 +188,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -195,8 +198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -207,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -219,8 +222,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时43分]"
         },
         {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
@@ -229,7 +232,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -238,22 +241,60 @@
           "url": "https://wallstreetcn.com/livenews/3053256",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
           "title": "生物科技指数ETF收跌超1.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3053253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050700949800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050519369800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
+          "url": "https://flash.jin10.com/detail/20260211050115262800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -267,17 +308,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050700949800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260211013017856800",
           "source": "金十数据",
@@ -289,26 +319,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260211050519369800",
-          "source": "金十数据",
+          "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
+          "url": "https://wallstreetcn.com/livenews/3053261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
-          "url": "https://flash.jin10.com/detail/20260211050115262800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "06时43分"
         },
         {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
@@ -317,7 +336,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -332,11 +351,12 @@
           "url": "https://wallstreetcn.com/livenews/3053240",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
         }
       ]
     }
