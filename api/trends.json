@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T04:39:02.282568+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-02-13T05:36:49.008396+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 05时36分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -63,15 +63,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
-          "url": "https://wallstreetcn.com/livenews/3054707",
+          "title": "Yelp与OpenAI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054731",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时36分"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -93,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -105,8 +105,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -117,8 +117,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -128,8 +128,44 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
+        },
+        {
+          "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/livenews/3054707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时36分]"
+        },
+        {
+          "title": "AI初创公司助力企业预测财报电话会议提问",
+          "url": "https://wallstreetcn.com/livenews/3054704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时36分]"
+        },
+        {
+          "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
+          "url": "https://flash.jin10.com/detail/20260213034826757800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时36分]"
         },
         {
           "title": "哈尔滨小哥为早回家过年找AI替班",
@@ -144,17 +180,6 @@
           "time_info": "[01时02分 ~ 03时06分]"
         },
         {
-          "title": "AI初创公司助力企业预测财报电话会议提问",
-          "url": "https://wallstreetcn.com/livenews/3054704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
           "url": "https://flash.jin10.com/detail/20260213003325434800",
           "source": "金十数据",
@@ -164,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
-          "url": "https://flash.jin10.com/detail/20260213034826757800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
         },
         {
           "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
@@ -216,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -279,7 +293,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -293,6 +307,39 @@
           "time_info": "[01时02分 ~ 03时06分]"
         },
         {
+          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260213051126204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260213050512806800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美股收盘：三大指数收跌 苹果大跌5%",
+          "url": "https://flash.jin10.com/detail/20260213050029671800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2288812",
           "source": "财联社热门",
@@ -300,8 +347,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3054725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
+          "url": "https://wallstreetcn.com/livenews/3054722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -339,8 +408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -350,8 +419,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时36分]"
         }
       ]
     }
