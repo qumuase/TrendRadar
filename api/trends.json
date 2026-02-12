@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T13:01:29.163705+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-02-12T14:11:26.772646+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 13时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 14时11分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -55,11 +55,12 @@
             15,
             16,
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 13时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 14时11分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -68,11 +69,12 @@
           "ranks": [
             12,
             15,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 13时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 14时11分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -93,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 14时11分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -102,11 +104,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时11分]"
+        },
+        {
+          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "男子用AI一夜赚够一线房首付",
@@ -115,7 +129,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -129,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
-          "url": "https://wallstreetcn.com/livenews/3054194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -161,8 +164,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时11分]"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时01分]"
+          "time_info": "[13时01分 ~ 14时11分]"
+        },
+        {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时11分]"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -183,11 +210,12 @@
           "ranks": [
             19,
             17,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 14时11分]"
         },
         {
           "title": "让AI集体翻车的洗车难题",
@@ -195,11 +223,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时11分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -226,6 +255,18 @@
           "time_info": "[00时05分 ~ 03时14分]"
         },
         {
+          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
+          "url": "https://wallstreetcn.com/livenews/3054185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时11分]"
+        },
+        {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
           "url": "https://wallstreetcn.com/livenews/3053915",
           "source": "华尔街见闻-快讯",
@@ -236,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时42分]"
+        },
+        {
+          "title": "支付宝AI付笔数超1.2亿",
+          "url": "https://wallstreetcn.com/livenews/3054179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时11分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
@@ -272,28 +325,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
-          "url": "https://wallstreetcn.com/livenews/3054185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "从Deepseek到Seedance中国AI成了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3053889",
           "source": "华尔街见闻-快讯",
@@ -305,15 +336,26 @@
           "time_info": "01时58分"
         },
         {
-          "title": "支付宝AI付笔数超1.2亿",
-          "url": "https://wallstreetcn.com/livenews/3054179",
+          "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
+          "url": "https://wallstreetcn.com/livenews/3054196",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "14时11分"
+        },
+        {
+          "title": "男子用AI一夜赚够一线房首付",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "马斯克xAI全员大会宣布裁员",
@@ -322,7 +364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -388,7 +430,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -410,7 +452,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -476,8 +518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 14时11分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -521,8 +563,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时11分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
