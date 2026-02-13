@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T18:42:29.509474+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-02-13T19:33:51.894364+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 19时33分]"
         },
         {
           "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 18时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 19时33分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -55,6 +55,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 06时36分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 19时33分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -81,6 +95,19 @@
           "time_info": "[01时02分 ~ 06时36分]"
         },
         {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 19时33分]"
+        },
+        {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
           "url": "https://wallstreetcn.com/articles/3765553",
           "source": "华尔街见闻",
@@ -105,30 +132,27 @@
           "time_info": "[01时02分 ~ 07时32分]"
         },
         {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
           "ranks": [
-            9,
-            8,
-            6
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 19时33分]"
         },
         {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            9,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时33分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -140,28 +164,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 10时31分]"
-        },
-        {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 18时42分]"
-        },
-        {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时42分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -199,6 +201,35 @@
           "time_info": "[01时02分 ~ 06时36分]"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            30,
+            23,
+            21,
+            19,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 19时33分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 19时33分]"
+        },
+        {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
           "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
@@ -211,16 +242,16 @@
           "time_info": "[10时31分 ~ 14时02分]"
         },
         {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            6
+            24,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时47分 ~ 18时42分]"
+          "time_info": "[17时48分 ~ 19时33分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -234,19 +265,30 @@
           "time_info": "07时32分"
         },
         {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
           "ranks": [
-            30,
-            23,
-            21,
-            19,
-            26
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时55分 ~ 18时42分]"
+          "time_info": "[15时51分 ~ 19时33分]"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时33分]"
         },
         {
           "title": "周四（2月12日），信息科技指数跌2.27%，报269.21点，成分股Applovin收跌19.68%，思科跌12.32%，Astera Labs股份跌11.92%跌幅第三大。 人工智能（AI）赢家指数跌1.54%，AI软件先驱指数跌1.44%。",
@@ -269,18 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时42分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -307,29 +337,17 @@
           "time_info": "15时51分"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            19,
+            16,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时42分]"
-        },
-        {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时42分]"
+          "time_info": "[16时47分 ~ 19时33分]"
         },
         {
           "title": "Yelp与OpenAI构建合作伙伴关系。",
@@ -382,19 +400,6 @@
           "time_info": "[15时51分 ~ 17时49分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月12日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 18时42分]"
-        },
-        {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
           "url": "https://flash.jin10.com/detail/20260213054809093800",
           "source": "金十数据",
@@ -417,6 +422,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时36分]"
+        },
+        {
+          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
+          "url": "https://www.zhihu.com/question/2005346719148237010",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时33分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -609,17 +626,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
-          "url": "https://www.zhihu.com/question/2005346719148237010",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
           "url": "https://flash.jin10.com/detail/20260213002134729800",
           "source": "金十数据",
@@ -700,7 +706,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -711,8 +717,22 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 19时33分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时31分 ~ 18时42分]"
+          "time_info": "[12时55分 ~ 19时33分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -724,19 +744,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时31分 ~ 16时47分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 18时42分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -763,6 +770,40 @@
           "time_info": "[01时02分 ~ 03时06分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时33分]"
+        },
+        {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时33分]"
+        },
+        {
+          "title": "美股油气股开年大涨超20% 分析师看好2026年全年行情",
+          "url": "https://flash.jin10.com/detail/20260213190005725800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "美股存储芯片指数收涨不到1.4%",
           "url": "https://wallstreetcn.com/livenews/3054760",
           "source": "华尔街见闻-快讯",
@@ -783,28 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时42分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时42分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -995,8 +1014,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 19时33分]"
         }
       ]
     }
