@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T14:50:48.670565+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-02-14T15:35:48.087181+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -43,8 +43,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 14时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 15时35分]"
+        },
+        {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 15时35分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -57,8 +70,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 14时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 15时35分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月13日",
@@ -72,8 +85,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时44分 ~ 14时50分]"
+          "appearance_count": 12,
+          "time_info": "[03时44分 ~ 15时35分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -86,19 +99,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时33分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 14时50分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -133,9 +133,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 15时35分]"
+        },
+        {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时35分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -153,18 +167,18 @@
           "time_info": "[00时52分 ~ 04时42分]"
         },
         {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
-          "source": "百度热搜",
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
           "ranks": [
-            9,
-            10,
             14,
-            15
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 14时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时35分]"
         },
         {
           "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
@@ -172,11 +186,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时35分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -229,19 +244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时54分 ~ 04时42分]"
-        },
-        {
-          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
-          "url": "https://www.zhihu.com/question/2005725246167147371",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时50分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -313,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "如何评价 Kaiming He 新作《Generative Modeling via Drifting》？",
+          "url": "https://www.zhihu.com/question/2002852610374391417",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "美国劳工部督促雇主加强员工AI使用培训",
@@ -433,8 +446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 14时50分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 15时35分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
