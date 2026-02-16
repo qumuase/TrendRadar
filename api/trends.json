@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T17:57:42.831371+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-02-16T18:55:18.945841+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 18时55分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -58,6 +58,22 @@
           "time_info": "[00时34分 ~ 17时57分]"
         },
         {
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            4,
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 18时55分]"
+        },
+        {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
           "source": "澎湃新闻",
@@ -67,21 +83,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 17时57分]"
-        },
-        {
-          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            4,
-            2,
-            3
           ],
           "is_new": false,
           "appearance_count": 18,
@@ -109,8 +110,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 18时55分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -165,8 +166,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 18时55分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -207,19 +208,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 17时57分]"
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 18时55分]"
         },
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -227,11 +229,26 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 18时55分]"
         },
         {
           "title": "【阿里除夕夜将开源新一代千问Qwen3.5模型】消息人士透露，阿里今晚除夕夜将开源新一代千问大模型Qwen3.5，该模型实现了模型架构的全面创新，有望实现国产模型新的里程碑。去年，阿里在除夕深夜发布Qwen2.5-Max。（硬AI）",
@@ -294,19 +311,6 @@
           "time_info": "[13时01分 ~ 16时53分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 17时57分]"
-        },
-        {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2006637072895738078",
           "source": "知乎",
@@ -317,6 +321,33 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 15时06分]"
+        },
+        {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时55分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时55分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -332,31 +363,6 @@
           "time_info": "[05时28分 ~ 07时30分]"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时57分]"
-        },
-        {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时57分]"
-        },
-        {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
@@ -365,8 +371,44 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 18时55分]"
+        },
+        {
+          "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
+          "url": "https://flash.jin10.com/detail/20260216172706571800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
+          "time_info": "[17时57分 ~ 18时55分]"
+        },
+        {
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "AI定制祝福语惊艳你的朋友圈",
@@ -379,40 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 13时01分]"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时57分]"
-        },
-        {
-          "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
-          "url": "https://flash.jin10.com/detail/20260216172706571800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "港股AI应用股走强，阜博集团（03738.HK）领涨14.38%、海致科技集团（02706.HK）涨12.1%、智谱(02513.HK)涨超7%、阅文集团(00772.HK)涨2.53%。",
