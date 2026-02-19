@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T10:29:02.463992+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-02-19T12:55:23.372391+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时55分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时55分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -90,11 +90,12 @@
           "ranks": [
             8,
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时55分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -103,22 +104,23 @@
           "ranks": [
             14,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时55分]"
         },
         {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
           "source": "贴吧",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -133,6 +135,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时59分 ~ 06时36分]"
+        },
+        {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 12时55分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -256,6 +281,17 @@
           "time_info": "[10时28分 ~ 10时29分]"
         },
         {
+          "title": "印度AI峰会大学展示泡沫塑料版无人机",
+          "url": "https://www.toutiao.com/trending/7608301157190156351/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -265,6 +301,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "网易有道LobsterAI宣布开源 打造国产版“OpenClaw”",
+          "url": "https://flash.jin10.com/detail/20260219120208739800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "印度AI峰会2月18日要点总结",
@@ -287,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "AI时代或将削减对招聘人员的需求，人力资源巨头面临考验",
@@ -359,8 +428,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时55分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 12时55分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -371,19 +451,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 10时29分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 12时55分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
