@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T13:55:51.975670+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-02-20T15:03:24.375608+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -54,8 +54,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 15时03分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -67,8 +67,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 15时03分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时56分 ~ 10时22分]"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -167,6 +178,20 @@
           "time_info": "[07时33分 ~ 10时22分]"
         },
         {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 15时03分]"
+        },
+        {
           "title": "什么样的软件会被AI淘汰？",
           "url": "https://wallstreetcn.com/articles/3765860",
           "source": "华尔街见闻",
@@ -177,19 +202,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时35分 ~ 10时22分]"
-        },
-        {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时55分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -238,8 +250,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时03分]"
         },
         {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
@@ -288,13 +300,24 @@
           "time_info": "12时49分"
         },
         {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
           "url": "https://flash.jin10.com/detail/20260220132611953800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -346,8 +369,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时35分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[06时35分 ~ 15时03分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -371,8 +394,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 15时03分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -383,8 +406,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 15时03分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -394,8 +417,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 13时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 15时03分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -407,6 +430,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 15时03分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
@@ -454,18 +490,6 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时55分]"
-        },
-        {
           "title": "AppLovin美股盘后涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
@@ -502,9 +526,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时03分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
