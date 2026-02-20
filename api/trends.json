@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T21:04:10.836457+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-02-20T22:41:11.737734+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -82,11 +82,12 @@
             9,
             10,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 22时41分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -96,11 +97,12 @@
             12,
             13,
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 22时41分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -124,6 +126,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时56分 ~ 10时22分]"
+        },
+        {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时41分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -152,17 +167,16 @@
           "time_info": "[17时44分 ~ 19时35分]"
         },
         {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            7
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时41分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -174,6 +188,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时34分 ~ 22时41分]"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时34分 ~ 22时41分]"
         },
         {
           "title": "国际铝业协会（IAI）：1月份全球原铝初步产量为631.7万吨。",
@@ -198,13 +236,24 @@
           "time_info": "12时49分"
         },
         {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
           "url": "https://wallstreetcn.com/livenews/3056937",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -286,27 +335,16 @@
           "time_info": "[06时35分 ~ 10时22分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            19,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时34分 ~ 21时04分]"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 21时04分]"
+          "time_info": "[21时03分 ~ 22时41分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -373,15 +411,15 @@
           "time_info": "[16时43分 ~ 17时44分]"
         },
         {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
+          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "如何看待微软预测 18 个月内白领将被 AI 取代？",
@@ -407,15 +445,15 @@
           "time_info": "[10时22分 ~ 12时49分]"
         },
         {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
+          "time_info": "[22时40分 ~ 22时41分]"
         },
         {
           "title": "中美AI科技转向",
@@ -447,7 +485,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -463,6 +501,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "OpenAI智能音箱定价可能在200至300美元之间。",
+          "url": "https://flash.jin10.com/detail/20260220220448240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
           "url": "https://flash.jin10.com/detail/20260220132611953800",
           "source": "金十数据",
@@ -472,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "港股AI应用股走强",
@@ -499,7 +559,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -511,8 +571,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时35分 ~ 21时04分]"
+          "appearance_count": 17,
+          "time_info": "[06时35分 ~ 22时41分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -537,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时22分 ~ 21时04分]"
+          "appearance_count": 14,
+          "time_info": "[10时22分 ~ 22时41分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -554,6 +614,20 @@
           "time_info": "[00时56分 ~ 06时35分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时53分 ~ 22时41分]"
+        },
+        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -562,8 +636,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 22时41分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -575,8 +649,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 21时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 22时41分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -590,19 +664,6 @@
           "time_info": "[00时56分 ~ 18时40分]"
         },
         {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时53分 ~ 21时04分]"
-        },
-        {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050552220800",
           "source": "金十数据",
@@ -614,6 +675,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050543287800",
           "source": "金十数据",
@@ -623,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-20）",
+          "url": "https://flash.jin10.com/detail/20260220221858847800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美股三大股指均收跌",
@@ -673,6 +756,18 @@
           "time_info": "[17时44分 ~ 21时04分]"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 22时41分]"
+        },
+        {
           "title": "AppLovin美股盘后涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
@@ -685,17 +780,6 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
-        },
-        {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
           "url": "https://wallstreetcn.com/livenews/3056799",
           "source": "华尔街见闻-快讯",
@@ -706,12 +790,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时33分]"
+        },
+        {
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普赞叹中国仪仗队",
@@ -736,6 +831,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 02时55分]"
+        },
+        {
+          "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
+          "url": "https://news.ifeng.com/c/8qu28qoqKpX",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 22时41分]"
         }
       ]
     }
