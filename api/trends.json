@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:35:18.854315+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-02-21T17:33:13.260801+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时29分 ~ 16时35分]"
+          "appearance_count": 14,
+          "time_info": "[06时29分 ~ 17时33分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -72,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -124,8 +124,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -139,8 +139,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -318,8 +318,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 16时35分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 17时33分]"
+        },
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 17时33分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -334,19 +347,6 @@
           "time_info": "[00时42分 ~ 06时30分]"
         },
         {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 16时35分]"
-        },
-        {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
@@ -356,8 +356,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 17时33分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -394,6 +394,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 02时53分]"
+        },
+        {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时46分 ~ 17时33分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -437,19 +451,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时31分 ~ 15时35分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时46分 ~ 16时35分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
@@ -513,7 +514,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
@@ -534,8 +535,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时34分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 17时33分]"
+        },
+        {
+          "title": "特朗普大赞中国仪仗队：士兵连身高都如此一致",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636839",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         }
       ]
     }
