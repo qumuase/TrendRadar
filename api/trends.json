@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T14:47:00.910674+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-02-21T15:35:00.873767+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 15时35分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -35,6 +35,19 @@
           "time_info": "[00时42分 ~ 13时44分]"
         },
         {
+          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
+          "url": "https://wallstreetcn.com/articles/3765904",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时29分 ~ 15时35分]"
+        },
+        {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
           "url": "https://wallstreetcn.com/articles/3765898",
           "source": "华尔街见闻",
@@ -46,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 15时35分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -72,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 15时35分]"
         },
         {
           "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
@@ -109,8 +122,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 15时35分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -123,21 +136,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时47分]"
-        },
-        {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时29分 ~ 14时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 15时35分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -182,11 +182,12 @@
             11,
             20,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时35分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -224,11 +225,12 @@
           "ranks": [
             9,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时35分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -241,6 +243,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美媒嘲讽印度AI峰会如同闹剧",
+          "url": "https://www.toutiao.com/trending/7609182148255305259/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
@@ -305,6 +318,18 @@
           "time_info": "[00时42分 ~ 06时30分]"
         },
         {
+          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 15时35分]"
+        },
+        {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
@@ -314,20 +339,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 14时47分]"
-        },
-        {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 14时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 15时35分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -339,8 +352,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时47分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 15时35分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -398,11 +411,12 @@
             10,
             19,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时35分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -413,11 +427,24 @@
             12,
             21,
             24,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时35分]"
+        },
+        {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 15时35分]"
         },
         {
           "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
@@ -443,17 +470,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时30分 ~ 10时09分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
@@ -492,7 +508,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
@@ -504,6 +520,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时31分]"
+        },
+        {
+          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2008503061484631366",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         }
       ]
     }
