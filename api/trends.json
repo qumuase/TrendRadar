@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:44:42.760775+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-02-21T22:30:36.715997+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 21时44分]"
+          "appearance_count": 29,
+          "time_info": "[00时42分 ~ 22时30分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -73,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 21时44分]"
+          "appearance_count": 29,
+          "time_info": "[00时42分 ~ 22时30分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -127,8 +127,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 21时44分]"
+          "appearance_count": 29,
+          "time_info": "[00时42分 ~ 22时30分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -144,6 +144,21 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时42分 ~ 17时33分]"
+        },
+        {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时30分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -178,20 +193,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时53分 ~ 10时09分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时44分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -286,11 +287,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时44分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时30分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -374,8 +376,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时31分 ~ 21时44分]"
+          "appearance_count": 19,
+          "time_info": "[07时31分 ~ 22时30分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -387,8 +389,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时09分 ~ 21时44分]"
+          "appearance_count": 18,
+          "time_info": "[10时09分 ~ 22时30分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -413,8 +415,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时42分 ~ 21时44分]"
+          "appearance_count": 29,
+          "time_info": "[00时42分 ~ 22时30分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -429,8 +431,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时46分 ~ 21时44分]"
+          "appearance_count": 14,
+          "time_info": "[14时46分 ~ 22时30分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -595,8 +597,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时34分 ~ 21时44分]"
+          "appearance_count": 12,
+          "time_info": "[15时34分 ~ 22时30分]"
         },
         {
           "title": "特朗普大赞中国仪仗队：士兵连身高都如此一致",
@@ -608,8 +610,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时44分]"
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 22时30分]"
         }
       ]
     }
