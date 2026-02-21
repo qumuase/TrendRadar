@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:26:56.948627+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-02-22T06:27:40.780667+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -59,7 +59,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         }
@@ -78,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -91,19 +91,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -113,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         }
       ]
     },
@@ -132,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时27分]"
         }
       ]
     }
