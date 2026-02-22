@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T20:55:33.054214+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-02-22T21:46:14.651846+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 20时55分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 21时46分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 20时55分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 21时46分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -72,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时26分 ~ 20时55分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 21时46分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -86,11 +86,12 @@
             21,
             23,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时26分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[10时26分 ~ 21时46分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -103,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时37分 ~ 20时55分]"
+          "appearance_count": 9,
+          "time_info": "[15时37分 ~ 21时46分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -117,8 +118,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时46分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时46分]"
+        },
+        {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 21时46分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -144,19 +170,6 @@
           "time_info": "[14时52分 ~ 17时34分]"
         },
         {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时55分]"
-        },
-        {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
           "url": "https://wallstreetcn.com/livenews/3057217",
           "source": "华尔街见闻-快讯",
@@ -172,16 +185,15 @@
           "time_info": "[10时26分 ~ 15时38分]"
         },
         {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
+          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2008005974397576586",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 20时55分]"
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -244,8 +256,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 20时55分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 21时46分]"
         },
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
@@ -273,8 +285,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时53分 ~ 20时55分]"
+          "appearance_count": 12,
+          "time_info": "[13时53分 ~ 21时46分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
