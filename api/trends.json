@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T06:51:05.989803+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-02-24T07:36:47.247418+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -29,19 +29,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -50,11 +51,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -66,8 +68,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -77,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 06时51分]"
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 07时36分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -92,6 +94,29 @@
           "time_info": "02时08分"
         },
         {
+          "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
+          "url": "https://wallstreetcn.com/livenews/3057705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时40分 ~ 07时36分]"
+        },
+        {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
           "url": "https://wallstreetcn.com/livenews/3057622",
           "source": "华尔街见闻-快讯",
@@ -103,15 +128,27 @@
           "time_info": "03时58分"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
+          "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
+          "url": "https://wallstreetcn.com/livenews/3057701",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
+          "url": "https://wallstreetcn.com/livenews/3057672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时40分 ~ 06时51分]"
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时36分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -136,15 +173,15 @@
           "time_info": "[05时41分 ~ 05时49分]"
         },
         {
-          "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
-          "url": "https://wallstreetcn.com/livenews/3057672",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "07时36分"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -208,7 +245,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -249,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时36分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -341,7 +378,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         },
@@ -352,7 +389,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
         }
