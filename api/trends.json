@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T20:33:47.988886+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-02-24T21:14:11.508378+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -17,6 +17,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 10时24分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 21时14分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 21时14分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -33,32 +59,6 @@
           "time_info": "[01时01分 ~ 07时36分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 20时33分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 20时33分]"
-        },
-        {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
           "url": "https://wallstreetcn.com/articles/3765997",
           "source": "华尔街见闻",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时40分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[05时40分 ~ 21时14分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -128,17 +128,6 @@
           "time_info": "[07时36分 ~ 15时14分]"
         },
         {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 07时36分]"
-        },
-        {
           "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
           "url": "https://www.cls.cn/detail/2293346",
           "source": "财联社热门",
@@ -150,8 +139,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时01分 ~ 20时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 21时14分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 07时36分]"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 21时14分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -198,15 +211,15 @@
           "time_info": "16时53分"
         },
         {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
+          "title": "Arini创始人：无需颠覆真正发生 对AI的忧虑便足以引发软件公司违约",
+          "url": "https://wallstreetcn.com/livenews/3058136",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "21时14分"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -231,26 +244,29 @@
           "time_info": "07时36分"
         },
         {
-          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
-          "url": "https://wallstreetcn.com/livenews/3058124",
-          "source": "华尔街见闻-快讯",
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            3,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 21时14分]"
         },
         {
-          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3058122",
-          "source": "华尔街见闻-快讯",
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
           "ranks": [
-            5
+            10,
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时14分]"
         },
         {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
@@ -268,29 +284,40 @@
           "time_info": "[10时24分 ~ 16时53分]"
         },
         {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6,
-            7
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 20时33分]"
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时14分]"
         },
         {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "title": "META与AMD签署巨额协议，将购买后者AI设备。META将获得认股权证，可分阶段购买不超1.6亿股AMD股票。META将在AMD设备上花费每吉瓦数百亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时14分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
           "ranks": [
-            10,
-            8
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时53分 ~ 20时33分]"
+          "time_info": "[18时53分 ~ 21时14分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -315,6 +342,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时54分 ~ 14时01分]"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时14分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -345,7 +384,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -356,7 +395,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -422,7 +461,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -438,17 +477,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "马斯克设想从月球电磁弹射AI卫星",
-          "url": "https://wallstreetcn.com/livenews/3058106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
           "url": "https://flash.jin10.com/detail/20260224030646410800",
           "source": "金十数据",
@@ -458,17 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
@@ -540,7 +557,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -565,17 +582,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 12时54分]"
-        },
-        {
-          "title": "META美股盘前走低，现跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3058129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -661,6 +667,18 @@
           "time_info": "[05时41分 ~ 06时51分]"
         },
         {
+          "title": "META美股盘前走低，现跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3058129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时14分]"
+        },
+        {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3057657",
           "source": "华尔街见闻-快讯",
@@ -706,13 +724,24 @@
           "time_info": "06时51分"
         },
         {
+          "title": "诺和诺德(NVO.N)美股盘前下跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260224204400024800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
           "url": "https://wallstreetcn.com/livenews/3058092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
@@ -731,8 +760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 20时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时14分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -743,8 +772,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 21时14分]"
         }
       ]
     },
