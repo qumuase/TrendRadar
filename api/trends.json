@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T10:24:27.636450+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-02-24T12:54:46.656579+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -69,8 +69,22 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时54分]"
+        },
+        {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时40分 ~ 12时54分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -84,28 +98,40 @@
           "time_info": "[06时50分 ~ 07时36分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时40分 ~ 10时24分]"
-        },
-        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 12时54分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 12时54分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时54分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -152,27 +178,16 @@
           "time_info": "07时36分"
         },
         {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
+            9,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时24分]"
+          "time_info": "[10时24分 ~ 12时54分]"
         },
         {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
@@ -209,15 +224,15 @@
           "time_info": "[05时41分 ~ 05时49分]"
         },
         {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
+          "title": "外资们也在频繁提AI，如何看2026年行情？",
+          "url": "https://www.cls.cn/detail/2292944",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "12时54分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
@@ -226,7 +241,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -311,7 +326,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -330,11 +345,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 12时54分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -417,6 +433,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 05时49分]"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
