@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T02:00:08.560557+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-02-26T03:38:41.176983+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时38分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时00分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时38分]"
         },
         {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时38分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -60,8 +60,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时38分]"
         },
         {
           "title": "AI短片 马上好",
@@ -81,7 +81,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -162,11 +162,12 @@
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时38分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -177,8 +178,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时38分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
@@ -187,7 +188,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
@@ -198,7 +199,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
         },
