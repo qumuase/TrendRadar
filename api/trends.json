@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-02-26T00:06:50.823346+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-26T02:00:08.560557+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
-          "url": "https://wallstreetcn.com/livenews/3058971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时00分]"
+        },
+        {
+          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
+          "url": "https://www.zhihu.com/question/2009666916382421190",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
+          "url": "https://wallstreetcn.com/livenews/3058971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,19 +48,53 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时00分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时00分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "02时00分"
+        },
+        {
+          "title": "Thrive Capital以2850亿美元估值投资OpenAI",
+          "url": "https://flash.jin10.com/detail/20260226011557830800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -63,6 +108,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
+          "url": "https://flash.jin10.com/detail/20260226011101407800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
+        },
+        {
           "title": "瑞银财富管理美洲首席投资官建议，AI热潮中弃科技奔实体",
           "url": "https://wallstreetcn.com/livenews/3058944",
           "source": "华尔街见闻-快讯",
@@ -72,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。Thrive将其新基金中的约10亿美元投资于OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260226010942985800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
         },
         {
           "title": "戴尔发布适用于Cloud RAN与边缘AI的户外服务器，是首款液冷户外服务器",
@@ -88,7 +155,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -98,19 +165,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时00分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2295156",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时00分]"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260226013223686800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "02时00分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260226013220825800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时00分"
         },
         {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
