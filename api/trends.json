@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T03:45:16.348591+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-02-27T04:41:29.180727+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         },
         {
           "title": "科技巨头2万亿美元豪赌AI",
@@ -90,6 +90,19 @@
           "time_info": "[01时01分 ~ 03时45分]"
         },
         {
+          "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
+          "url": "https://wallstreetcn.com/livenews/3059712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时41分]"
+        },
+        {
           "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
           "url": "https://wallstreetcn.com/livenews/3059691",
           "source": "华尔街见闻-快讯",
@@ -100,18 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时56分]"
-        },
-        {
-          "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
-          "url": "https://wallstreetcn.com/livenews/3059712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时45分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -143,7 +144,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -183,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -194,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时41分]"
         }
       ]
     }
