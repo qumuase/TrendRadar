@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:28:47.089789+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-03-01T19:23:43.464139+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
             10,
             9,
             8,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 19时23分]"
         },
         {
           "title": "美政府罕见封杀本国AI企业Anthropic",
