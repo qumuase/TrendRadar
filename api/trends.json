@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T21:04:25.167751+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-03-02T22:44:52.888598+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -46,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 22时44分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 22时44分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -73,8 +73,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 21时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 22时44分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 22时44分]"
         },
         {
           "title": "演员逼真到根本看不出来是AI",
@@ -86,6 +99,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 22时44分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -113,39 +139,16 @@
           "time_info": "[17时54分 ~ 21时04分]"
         },
         {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 21时04分]"
-        },
-        {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 21时04分]"
-        },
-        {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
           "url": "https://www.cls.cn/detail/2300009",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时44分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -188,7 +191,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -199,7 +202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -243,9 +246,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "苹果发布配备MagSafe充电功能的iPhone 17e及性能更强的iPad Air",
+          "url": "https://wallstreetcn.com/livenews/3061982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "AI参与打击伊朗：现代化战争再升级丨Hi，今天怎么看？",
@@ -273,7 +287,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
@@ -283,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时54分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时54分 ~ 22时44分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -331,6 +345,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "富时A50在美股盘初出现V形反转，使得夜盘转而涨超0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3062004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -353,6 +378,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "全球航空业ETF跌4.46%，在美股盘初领跌行业ETF，可选消费ETF跌2.47%，区域银行ETF跌2.38%，半导体ETF跌1.83%，科技行业ETF跌0.92%，能源业ETF涨2.65%。 标普超级综合航空指数跌5.6%。 Frontier Group跌9.72%，美国航空公司跌6.4%，美联航跌5.3%，达美航空跌3.7%，美国西南航空跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3062001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "避险资金涌入军工板块 美股国防股盘前暴涨",
           "url": "https://flash.jin10.com/detail/20260302182629423800",
           "source": "金十数据",
@@ -364,6 +400,28 @@
           "time_info": "18时46分"
         },
         {
+          "title": "现货金银价格回落，美股黄金概念股走势分化，纽蒙特矿业(NEM.N)涨0.53%，科尔黛伦矿业(CDE.N)跌1.8%，泛美白银(PAAS.O)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260302223225321800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "美伊冲突爆发 美股低开",
+          "url": "https://flash.jin10.com/detail/20260302223032979800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌幅扩大至2%，标普500指数期货下跌1.6%，道指期货跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3061698",
           "source": "华尔街见闻-快讯",
@@ -373,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3061974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
