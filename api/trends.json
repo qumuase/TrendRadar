@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T12:49:58.605767+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-03-02T13:55:16.430241+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -62,6 +62,17 @@
           "time_info": "[04时31分 ~ 07时27分]"
         },
         {
+          "title": "刘美含吐槽5家AI答案不一样",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E5%90%90%E6%A7%BD5%E5%AE%B6AI%E7%AD%94%E6%A1%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
           "title": "千问AI眼镜开启预约，到手价最低1997元",
           "url": "https://wallstreetcn.com/livenews/3061432",
           "source": "华尔街见闻-快讯",
@@ -79,7 +90,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -90,7 +101,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -101,6 +112,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 13时55分]"
+        },
+        {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
           "url": "https://wallstreetcn.com/livenews/3061313",
           "source": "华尔街见闻-快讯",
@@ -110,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
@@ -143,6 +154,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
+          "url": "https://www.cls.cn/detail/2299031",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
         }
       ]
     }
