@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T07:27:31.641681+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-02T10:23:25.083830+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 10时23分]"
         },
         {
           "title": "AI短剧",
@@ -37,6 +37,17 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
+          "title": "演员逼真到根本看不出来是AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -49,12 +60,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 07时27分]"
+        },
+        {
+          "title": "千问AI眼镜开启预约，到手价最低1997元",
+          "url": "https://wallstreetcn.com/livenews/3061432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
@@ -63,9 +85,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "美股股指期货低开1%",
@@ -74,7 +107,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
