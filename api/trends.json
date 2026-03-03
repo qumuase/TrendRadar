@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T07:30:31.607309+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-03-03T10:25:39.764374+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -42,19 +42,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时25分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时25分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -78,11 +79,12 @@
           "ranks": [
             19,
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时40分 ~ 07时30分]"
+          "appearance_count": 8,
+          "time_info": "[04时40分 ~ 10时25分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -102,7 +104,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
         },
@@ -179,6 +181,18 @@
           "time_info": "[06时30分 ~ 07时30分]"
         },
         {
+          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
+          "url": "https://www.cls.cn/detail/2300191",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时25分]"
+        },
+        {
           "title": "AI战甲披身秒变飒爽英姿",
           "url": "https://www.douyin.com/hot/2416531",
           "source": "抖音",
@@ -250,17 +264,6 @@
           "time_info": "[05时37分 ~ 06时31分]"
         },
         {
-          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
-          "url": "https://www.cls.cn/detail/2300191",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
           "title": "如何评价 AI 顶会 ICLR 提出 「 经济学的神经网络 」 Behavior Learning ?",
           "url": "https://www.zhihu.com/question/2010290944583410156",
           "source": "知乎",
@@ -270,6 +273,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "OpenAI CEO称与美国防部的协议“机会主义且草率”",
+          "url": "https://flash.jin10.com/detail/20260303100949586800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
@@ -283,6 +308,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "网传衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
+          "url": "https://www.zhihu.com/question/2011927999839172012",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
           "url": "https://flash.jin10.com/detail/20260303010655126800",
           "source": "金十数据",
@@ -294,6 +330,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "AI定制元宵节祝福语",
+          "url": "https://www.baidu.com/s?wd=AI%E5%AE%9A%E5%88%B6%E5%85%83%E5%AE%B5%E8%8A%82%E7%A5%9D%E7%A6%8F%E8%AF%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
           "url": "https://wallstreetcn.com/livenews/3062123",
           "source": "华尔街见闻-快讯",
@@ -303,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "韩国物流公司Hyundai Glovis：为应对中东冲突，制定了应急计划，包括规划备用路线和港口。",
+          "url": "https://flash.jin10.com/detail/20260303095324889800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "iPadAir 没高刷",
@@ -319,7 +377,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -338,11 +396,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时53分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[02时53分 ~ 10时25分]"
+        },
+        {
+          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2300479",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时25分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -356,15 +427,15 @@
           "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2300479",
-          "source": "财联社热门",
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -444,9 +515,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货日内跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3062316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）美股热门股票行情一览（美股收盘）",
