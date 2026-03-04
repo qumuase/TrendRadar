@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T12:42:35.568088+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-03-04T13:46:46.834440+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 12时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 13时46分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -42,11 +42,12 @@
             19,
             18,
             17,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时45分 ~ 12时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时45分 ~ 13时46分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -67,9 +68,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时46分]"
+        },
+        {
+          "title": "代表建议为AI内容添加不可去除水印",
+          "url": "https://www.toutiao.com/trending/7613178493744087103/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "13时46分"
         },
         {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
@@ -192,6 +204,29 @@
           "time_info": "[04时36分 ~ 05时37分]"
         },
         {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时46分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时46分]"
+        },
+        {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
@@ -202,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "岳雨婷缺席balmain看秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时46分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
@@ -224,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "OpenAI：GPT‑5.3 即时版自今日起向 ChatGPT 的所有用户开放。",
@@ -259,28 +317,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2012296941925581663",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "OpenAI：推出 GPT‑5.3 即时网站。",
           "url": "https://flash.jin10.com/detail/20260304020800832800",
           "source": "金十数据",
@@ -290,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "岳雨婷缺席balmain看秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "OpenAI考虑为北约机密网络提供合约",
@@ -374,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 13时46分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -385,8 +410,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时46分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -544,6 +569,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "何小鹏的3份代表建议",
+          "url": "https://www.douyin.com/hot/2418367",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时46分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌3.3%。 热门中概股里，金山云初步收跌8.3%，晶科能源跌8%，小马智行跌7.5%，小鹏跌6.7%，小米跌5.2%，阿里跌4.9%，比亚迪跌4.3%，百度跌3.9%，新东方跌3.8%，网易、携程则微涨至多0.4%。",
           "url": "https://wallstreetcn.com/livenews/3063005",
           "source": "华尔街见闻-快讯",
@@ -553,17 +590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "何小鹏的3份代表建议",
-          "url": "https://www.douyin.com/hot/2418367",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
