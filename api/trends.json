@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:51:03.927652+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-03-05T14:56:46.803195+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
             14,
             10,
             23,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 13时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 14时56分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -199,8 +200,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时56分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -210,8 +211,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时56分]"
         },
         {
           "title": "一键进入AI幻想世界",
@@ -255,7 +256,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -310,7 +311,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -473,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时56分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -485,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时51分]"
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
