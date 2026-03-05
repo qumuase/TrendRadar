@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T15:44:56.461554+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-03-05T16:47:57.139732+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
@@ -71,11 +71,12 @@
             10,
             23,
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 14时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 16时47分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -99,6 +100,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 16时47分]"
         },
         {
           "title": "日本太空一号公司“KAIROS”小型火箭从日本南部海岸发射升空。",
@@ -168,18 +182,6 @@
           "time_info": "[02时55分 ~ 04时35分]"
         },
         {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 15时44分]"
-        },
-        {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
@@ -227,6 +229,18 @@
           "time_info": "[12时47分 ~ 13时51分]"
         },
         {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时47分]"
+        },
+        {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
           "url": "https://flash.jin10.com/detail/20260305053239942800",
           "source": "金十数据",
@@ -267,7 +281,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -294,17 +308,6 @@
           "time_info": "10时22分"
         },
         {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
           "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
           "url": "https://flash.jin10.com/detail/20260305002035785800",
           "source": "金十数据",
@@ -314,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
+          "url": "https://wallstreetcn.com/livenews/3064358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "据The Information：OpenAI选定律师事务所Cooley和Wachtell为IPO做准备。",
@@ -446,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3064333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -480,11 +505,12 @@
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 16时47分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -652,7 +678,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -663,7 +689,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
