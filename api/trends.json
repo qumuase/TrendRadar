@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:22:43.394776+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-03-07T20:53:09.502031+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "养龙虾，今年最大AI风暴",
@@ -36,6 +36,20 @@
           "time_info": "[00时44分 ~ 12时23分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 20时53分]"
+        },
+        {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -60,21 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时44分 ~ 19时22分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 19时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时44分 ~ 20时53分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -139,8 +140,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 14时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 20时53分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -165,17 +166,6 @@
           "time_info": "10时06分"
         },
         {
-          "title": "TES教练 Naiyou说季后赛输的都是假赛",
-          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "破5亿播放AI短剧成本仅3000元",
           "url": "https://www.toutiao.com/trending/7614214812960034340/",
           "source": "今日头条",
@@ -189,6 +179,20 @@
           "time_info": "[10时06分 ~ 14时45分]"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14,
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 20时53分]"
+        },
+        {
           "title": "全国人大代表、传化集团董事长徐冠巨：大力推进AI+制造业行动，加快培育发展智能产业生态",
           "url": "https://wallstreetcn.com/livenews/3065691",
           "source": "华尔街见闻-快讯",
@@ -200,6 +204,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时32分 ~ 19时22分]"
+        },
+        {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时53分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
@@ -262,17 +279,39 @@
           "time_info": "[13时38分 ~ 14时45分]"
         },
         {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时53分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
             20,
             18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时27分]"
+          "time_info": "[19时22分 ~ 20时53分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时53分]"
         },
         {
           "title": "TES上报Naiyou不正当行为",
@@ -285,6 +324,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 01时38分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "在 AI 能秒答一切的时代，人的核心竞争力到底是什么？",
@@ -310,6 +360,17 @@
           "time_info": "[14时45分 ~ 15时31分]"
         },
         {
+          "title": "周鸿祎：中国AI智能体正在快速落地",
+          "url": "https://www.toutiao.com/trending/7614453399253159465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 20时53分]"
+        },
+        {
           "title": "委员谈OpenClaw“养龙虾”火出AI圈",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E8%B0%88OpenClaw%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E7%81%AB%E5%87%BAAI%E5%9C%88",
           "source": "百度热搜",
@@ -319,17 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时45分 ~ 15时31分]"
-        },
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "解读刷爆外网的AI危机预言",
@@ -363,28 +413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "用AI动画片求婚谁不心动啊",
-          "url": "https://www.douyin.com/hot/2422221",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -454,11 +482,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时30分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[07时30分 ~ 20时53分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
