@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T03:25:04.334891+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-03-08T04:29:20.913074+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
-        },
-        {
-          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
-          "url": "https://www.cls.cn/detail/2305626",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
           "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "TES教练 Naiyou说季后赛输的都是假赛",
@@ -49,11 +39,12 @@
             20,
             15,
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -62,6 +53,17 @@
           "ranks": [
             16,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
+        },
+        {
+          "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
+          "url": "https://www.cls.cn/detail/2305626",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -87,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -99,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "3人48小时做出5亿播放量AI短剧",
@@ -109,11 +111,12 @@
           "ranks": [
             8,
             26,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 04时29分]"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -175,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时29分]"
         }
       ]
     }
