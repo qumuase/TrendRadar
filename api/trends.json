@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T10:25:30.171579+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-03-09T12:54:03.421271+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 12时54分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -39,19 +39,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 12时54分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
           "url": "https://wallstreetcn.com/articles/3766977",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 10时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 12时54分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -102,9 +103,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时54分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -136,9 +137,43 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时54分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 12时54分]"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "AI“龙虾”爆火 湾区上门一次收4万",
@@ -147,20 +182,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "10时25分"
         },
         {
           "title": "王一博Mai合影",
@@ -228,7 +252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
