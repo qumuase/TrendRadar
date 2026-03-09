@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T19:37:10.435807+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-03-09T21:09:24.203171+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[10时25分 ~ 21时09分]"
         },
         {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
@@ -105,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 21时09分]"
         },
         {
           "title": "3000元成本AI短剧5亿播放？导演澄清",
@@ -180,6 +180,19 @@
           "time_info": "[13时59分 ~ 16时50分]"
         },
         {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 21时09分]"
+        },
+        {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%A5AI%E6%8D%A2%E8%84%B8Kpop%E6%AD%8C%E6%89%8B%E4%B8%80%E5%A4%9C%E7%88%86%E7%BA%A2&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -190,18 +203,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时59分 ~ 15时14分]"
-        },
-        {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时37分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
@@ -229,6 +230,18 @@
           "time_info": "[17时55分 ~ 19时37分]"
         },
         {
+          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
+          "url": "https://www.zhihu.com/question/2013698168039166947",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 21时09分]"
+        },
+        {
           "title": "AI “养龙虾”火了！上市公司扎堆回应",
           "url": "https://wallstreetcn.com/livenews/3065866",
           "source": "华尔街见闻-快讯",
@@ -238,17 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时26分]"
-        },
-        {
-          "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
-          "url": "https://www.zhihu.com/question/2013698168039166947",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时37分]"
         },
         {
           "title": "AI焦虑症",
@@ -269,9 +271,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "网易“龙虾”LobsterAI 发布新版，接入企业微信、QQ、飞书、钉钉",
+          "url": "https://wallstreetcn.com/livenews/3066526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "AI“龙虾”爆火 湾区上门一次收4万",
