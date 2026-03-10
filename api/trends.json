@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T07:31:24.624532+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-10T10:10:57.959912+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -32,6 +32,19 @@
           "time_info": "[00时01分 ~ 01时04分]"
         },
         {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 10时10分]"
+        },
+        {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260310040602792800",
           "source": "金十数据",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -170,6 +171,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7615396444580646454/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260310003140561800",
           "source": "金十数据",
@@ -184,7 +196,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -208,8 +220,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -236,11 +248,12 @@
             3,
             10,
             13,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -272,6 +285,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 06时32分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -309,6 +333,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "美国国防部官员：与Anthropic重启AI合作谈判希望渺茫",
+          "url": "https://flash.jin10.com/detail/20260310094306993800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -318,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "港股AI应用股走强，智谱涨近13%、金山云涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3066882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
