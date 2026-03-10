@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T01:48:19.917784+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-11T02:54:18.534160+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -58,11 +58,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -82,7 +83,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -133,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时54分]"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -143,7 +144,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
