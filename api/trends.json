@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:52:05.186851+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-03-11T14:58:10.315091+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,11 +15,12 @@
             4,
             7,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时58分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -40,11 +41,12 @@
             11,
             15,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时58分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -96,6 +98,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时31分 ~ 10时10分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 14时58分]"
         },
         {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
@@ -158,15 +172,16 @@
           "time_info": "[03时40分 ~ 04时37分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
           "ranks": [
-            13
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时44分 ~ 13时52分]"
+          "time_info": "[13时51分 ~ 14时58分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -179,6 +194,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "黄仁勋定义“AI五层蛋糕”架构，预示万亿级基建浪潮",
@@ -205,17 +231,6 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3067582",
           "source": "华尔街见闻-快讯",
@@ -237,6 +252,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "韩国总统府AI首席秘书官：鉴于阿联酋加强国防能力的需要，预计冲突结束后，韩国与阿联酋的人工智能合作有望加速推进。",
+          "url": "https://wallstreetcn.com/livenews/3067840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -283,6 +309,28 @@
           "time_info": "12时45分"
         },
         {
+          "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
+          "url": "https://wallstreetcn.com/livenews/3067827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
+          "title": "黄仁勋：未来几年传统软件和APP形态或将消失，AI智能体极可能成主流",
+          "url": "https://wallstreetcn.com/livenews/3067825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
           "url": "https://flash.jin10.com/detail/20260311035704540800",
           "source": "金十数据",
@@ -292,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美的集团加码AI，拟未来三年投入超600亿元",
+          "url": "https://wallstreetcn.com/livenews/3067822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "院士说文科生绝不会被AI替代",
@@ -322,7 +381,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -351,8 +410,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 13时52分]"
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 14时58分]"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 14时58分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -365,18 +436,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时31分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 13时52分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -544,22 +603,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
           "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 14时58分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
