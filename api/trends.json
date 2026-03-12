@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T18:42:20.932753+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-03-12T19:34:19.580568+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -62,8 +62,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 18时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 19时34分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -100,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时59分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[14时59分 ~ 19时34分]"
         },
         {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
@@ -126,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 19时34分]"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -173,8 +173,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 19时34分]"
         },
         {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
@@ -186,6 +186,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时48分 ~ 17时46分]"
+        },
+        {
+          "title": "美金融巨头为AI基建花上亿培训水电工",
+          "url": "https://www.toutiao.com/trending/7616268055123722303/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时34分]"
         },
         {
           "title": "摩根士丹利：阿里巴巴取代腾讯为首选标的，完整AI技术栈构成结构性优势",
@@ -246,15 +258,37 @@
           "time_info": "10时23分"
         },
         {
-          "title": "美金融巨头为AI基建花上亿培训水电工",
-          "url": "https://www.toutiao.com/trending/7616268055123722303/",
-          "source": "今日头条",
+          "title": "市场消息：Palantir和英伟达联手打造主权AI操作系统参考。",
+          "url": "https://flash.jin10.com/detail/20260312191021075800",
+          "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "19时34分"
+        },
+        {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "两名英伟达高管加入AI投资机构Era",
+          "url": "https://flash.jin10.com/detail/20260312190736649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
@@ -365,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "AI演员都出片场花絮了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E9%83%BD%E5%87%BA%E7%89%87%E5%9C%BA%E8%8A%B1%E7%B5%AE%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
@@ -392,8 +437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 19时34分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -633,11 +678,12 @@
             9,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 18时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 19时34分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.77%，报7167.45点。 热门中概股里，腾讯初步收跌4%，蔚来跌3.6%，小马智行跌3%，美团跌2.4%，拼多多跌1.8%，比亚迪涨1.1%，京东涨1.4%，小鹏涨2.3%，理想涨3.1%。 ETF中，中概互联网指数ETF（KWEB）收跌1.61%，中国科技指数ETF（CQQQ）收跌1.35%。 XtrackersHarvest中证50（ASHS）收涨0.22%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
@@ -663,11 +709,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 19时34分]"
         }
       ]
     }
