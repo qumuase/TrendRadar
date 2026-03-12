@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T21:06:01.967452+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-03-12T22:52:29.142628+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时59分 ~ 21时06分]"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 22时52分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -77,8 +91,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时56分 ~ 21时06分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 22时52分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -103,19 +117,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时29分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时51分 ~ 21时06分]"
         },
         {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
@@ -165,6 +166,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时52分]"
+        },
+        {
           "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
           "url": "https://www.zhihu.com/question/2015067278698312603",
           "source": "知乎",
@@ -176,17 +188,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时48分 ~ 19时34分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时34分 ~ 21时06分]"
         },
         {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
@@ -290,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "标普：AI扰动不会引发软件行业评级下调潮",
+          "url": "https://wallstreetcn.com/livenews/3069007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "两名英伟达高管加入AI投资机构Era",
@@ -427,7 +439,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -449,8 +461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时29分 ~ 21时06分]"
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 22时52分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -490,6 +502,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时56分 ~ 12时49分]"
+        },
+        {
+          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -603,7 +626,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -628,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "美股三大指数集体低开 纳指跌0.9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C0.9%25",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -703,11 +737,12 @@
             11,
             13,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 21时06分]"
+          "appearance_count": 24,
+          "time_info": "[00时56分 ~ 22时52分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.77%，报7167.45点。 热门中概股里，腾讯初步收跌4%，蔚来跌3.6%，小马智行跌3%，美团跌2.4%，拼多多跌1.8%，比亚迪涨1.1%，京东涨1.4%，小鹏涨2.3%，理想涨3.1%。 ETF中，中概互联网指数ETF（KWEB）收跌1.61%，中国科技指数ETF（CQQQ）收跌1.35%。 XtrackersHarvest中证50（ASHS）收涨0.22%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
@@ -738,8 +773,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 21时06分]"
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 22时52分]"
         }
       ]
     }
