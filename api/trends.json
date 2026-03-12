@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T02:57:52.737550+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-03-13T03:45:50.275208+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -17,8 +17,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时45分]"
+        },
+        {
+          "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
+          "url": "https://flash.jin10.com/detail/20260313033613430800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -30,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
@@ -51,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时45分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -61,11 +83,24 @@
           "ranks": [
             24,
             26,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时45分]"
+        },
+        {
+          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
+          "url": "https://wallstreetcn.com/livenews/3069094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 03时45分]"
         },
         {
           "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
@@ -74,18 +109,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
-          "url": "https://wallstreetcn.com/livenews/3069094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         },
@@ -118,7 +142,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
@@ -137,8 +161,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时45分]"
         },
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -149,8 +173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时45分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -188,8 +212,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时45分]"
         },
         {
           "title": "小鹏涨幅扩大至5.4%。",
