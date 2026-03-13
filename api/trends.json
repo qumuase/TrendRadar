@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:42:37.007233+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-03-13T18:40:16.471773+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 18时40分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -105,11 +105,12 @@
           "ranks": [
             20,
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时40分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -190,8 +191,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时40分]"
         },
         {
           "title": "中腰部演员将被AI替代",
@@ -337,7 +338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -372,6 +373,18 @@
           "time_info": "[00时02分 ~ 07时31分]"
         },
         {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 18时40分]"
+        },
+        {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -383,17 +396,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 06时29分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时46分 ~ 17时42分]"
         },
         {
           "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
@@ -586,11 +588,12 @@
             23,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时02分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
