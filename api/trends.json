@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T19:26:44.565515+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-03-14T20:57:25.845065+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -17,8 +17,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 19时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 20时57分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            11,
+            9,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 20时57分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -45,11 +62,12 @@
             17,
             18,
             20,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时43分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时43分 ~ 20时57分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -69,22 +87,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时43分 ~ 19时26分]"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            11,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 19时26分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -253,7 +255,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -278,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "谁在渲染AI焦虑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -295,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时11分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时11分 ~ 20时57分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -320,8 +333,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 19时26分]"
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 20时57分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
