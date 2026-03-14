@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T12:45:08.997034+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-14T13:49:14.018812+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 13时49分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -51,6 +52,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时37分 ~ 07时31分]"
+        },
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 13时49分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -92,15 +105,17 @@
           "time_info": "[02时46分 ~ 04时38分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3070061",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16,
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时49分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
@@ -126,16 +141,15 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3070061",
-          "source": "华尔街见闻-快讯",
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            23
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时12分 ~ 12时45分]"
+          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
@@ -208,8 +222,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 12时45分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 13时49分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -221,8 +235,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 13时49分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
