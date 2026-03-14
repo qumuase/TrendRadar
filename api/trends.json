@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T22:32:31.335103+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-03-14T23:32:13.434529+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时44分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[12时44分 ~ 23时32分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -35,8 +36,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时48分 ~ 22时32分]"
+          "appearance_count": 14,
+          "time_info": "[13时48分 ~ 23时32分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -68,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时43分 ~ 22时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时43分 ~ 23时32分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -144,6 +145,17 @@
           "time_info": "[01时37分 ~ 03时32分]"
         },
         {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时32分]"
+        },
+        {
           "title": "AI时代青少年该掌握哪些能力",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -179,17 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 13时49分]"
-        },
-        {
-          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
-          "url": "https://wallstreetcn.com/articles/3767512",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时32分]"
         },
         {
           "title": "美国商务部撤回拟议的AI芯片出口管制新规",
@@ -321,8 +322,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时11分 ~ 22时32分]"
+          "appearance_count": 18,
+          "time_info": "[10时11分 ~ 23时32分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -346,8 +347,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时31分 ~ 22时32分]"
+          "appearance_count": 19,
+          "time_info": "[07时31分 ~ 23时32分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -360,6 +361,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时31分]"
+        },
+        {
+          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
+          "url": "https://wallstreetcn.com/articles/3767500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 23时32分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -396,17 +408,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时31分]"
-        },
-        {
-          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
-          "url": "https://wallstreetcn.com/articles/3767500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 22时32分]"
         },
         {
           "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
