@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:52:05.668089+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-03-15T16:40:21.937810+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 16时40分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -39,11 +39,12 @@
           "ranks": [
             12,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 16时40分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -78,8 +79,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 16时40分]"
+        },
+        {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时07分 ~ 15时52分]"
+          "time_info": "[15时01分 ~ 16时40分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -106,17 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 10时37分]"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 15时52分]"
         },
         {
           "title": "谁在渲染AI焦虑",
@@ -155,8 +156,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 16时40分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
