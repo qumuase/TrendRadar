@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:02:16.474662+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-03-15T15:52:05.668089+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时52分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -42,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时52分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -67,6 +67,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 15时52分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -95,18 +108,6 @@
           "time_info": "[07时31分 ~ 10时37分]"
         },
         {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 15时02分]"
-        },
-        {
           "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
           "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
           "source": "凤凰网",
@@ -114,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 15时52分]"
         },
         {
           "title": "谁在渲染AI焦虑",
@@ -154,8 +155,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时52分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
