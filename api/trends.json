@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T16:40:21.937810+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-03-15T17:38:09.149665+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 16时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 17时38分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -43,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 16时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 17时38分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -120,6 +120,17 @@
           "time_info": "[07时31分 ~ 10时37分]"
         },
         {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 17时38分]"
+        },
+        {
           "title": "谁在渲染AI焦虑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%9C%A8%E6%B8%B2%E6%9F%93AI%E7%84%A6%E8%99%91",
           "source": "bilibili 热搜",
@@ -153,11 +164,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 16时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 17时38分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
