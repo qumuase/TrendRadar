@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T17:01:56.455341+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-16T18:12:53.378003+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 17时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 18时12分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -39,11 +40,12 @@
           "ranks": [
             3,
             25,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 18时12分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -54,11 +56,12 @@
             11,
             23,
             19,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 18时12分]"
         },
         {
           "title": "实测AI推荐如何被操控",
@@ -164,6 +167,17 @@
           "time_info": "[00时36分 ~ 05时31分]"
         },
         {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
           "url": "https://wallstreetcn.com/livenews/3070595",
           "source": "华尔街见闻-快讯",
@@ -220,6 +234,19 @@
           "time_info": "[02时42分 ~ 07时33分]"
         },
         {
+          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
+          "url": "https://www.cls.cn/detail/2313854",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 18时12分]"
+        },
+        {
           "title": "如何看待印度AI峰会",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -242,18 +269,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时37分 ~ 15时21分]"
-        },
-        {
-          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
-          "url": "https://www.cls.cn/detail/2313854",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时01分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒",
@@ -367,12 +382,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "金珉锡十二星座庇护所堪比AI",
+          "url": "https://www.douyin.com/hot/2432672",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -424,13 +450,35 @@
           "time_info": "[06时31分 ~ 07时33分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3070811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美光科技美股盘前涨3.8%，此前加拿大皇家银行将其目标价从425美元上调至525美元。",
           "url": "https://wallstreetcn.com/livenews/3070742",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         }
@@ -446,11 +494,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            21
+            21,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 18时12分]"
         }
       ]
     }
