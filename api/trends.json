@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T10:24:16.704794+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-03-17T12:54:28.439611+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时42分 ~ 10时24分]"
+          "appearance_count": 9,
+          "time_info": "[05时42分 ~ 12时54分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -101,6 +101,17 @@
           "time_info": "[01时31分 ~ 05时43分]"
         },
         {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
           "url": "https://flash.jin10.com/detail/20260317041556173800",
           "source": "金十数据",
@@ -151,11 +162,12 @@
           "url": "https://www.cls.cn/detail/2314845",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
         },
         {
           "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
@@ -262,6 +274,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "阿里给员工发Token，鼓励使用AI工具工作",
+          "url": "https://flash.jin10.com/detail/20260317122725266800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "摩根士丹利：预计人工智能（AI）数据中心将在市政债券市场激发1000亿美元债券发行。",
           "url": "https://wallstreetcn.com/livenews/3071100",
           "source": "华尔街见闻-快讯",
@@ -315,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "英国承诺加速AI应用以提振经济增长",
@@ -427,6 +461,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317120118876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3071116",
           "source": "华尔街见闻-快讯",
@@ -493,6 +538,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "AI 替代岗位",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%9B%BF%E4%BB%A3%E5%B2%97%E4%BD%8D&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
           "url": "https://wallstreetcn.com/livenews/3071111",
           "source": "华尔街见闻-快讯",
@@ -510,7 +566,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -532,6 +588,29 @@
           "time_info": "[01时31分 ~ 06时37分]"
         },
         {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
+        },
+        {
+          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
+          "url": "https://www.cls.cn/detail/2314857",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 12时54分]"
+        },
+        {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
@@ -543,38 +622,16 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
-          "url": "https://www.cls.cn/detail/2314857",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 10时24分]"
-        },
-        {
           "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
           "url": "https://www.cls.cn/detail/2314987",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 12时54分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
