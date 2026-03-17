@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T05:40:42.037185+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-03-18T06:36:29.124969+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             10,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 06时36分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -42,8 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -54,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -67,19 +68,31 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
+        },
+        {
+          "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3071935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时36分"
         },
         {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
           "url": "https://flash.jin10.com/detail/20260318052306073800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时36分]"
         },
         {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
@@ -130,6 +143,18 @@
           "time_info": "[02时02分 ~ 03时17分]"
         },
         {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时36分]"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -139,17 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3071904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/WjvjpqNlCKyb04k5cTDna.jpg/lite\" height=\"120\" /></a>",
@@ -235,7 +249,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -275,8 +289,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -286,8 +300,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -298,8 +312,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时36分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
