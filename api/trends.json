@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:51:29.891042+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-17T21:19:56.581892+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 63,
+      "match_count": 71,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -40,11 +40,12 @@
             5,
             4,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时54分 ~ 19时51分]"
+          "appearance_count": 10,
+          "time_info": "[12时54分 ~ 21时19分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -84,11 +85,12 @@
             26,
             24,
             23,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时31分 ~ 16时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时31分 ~ 21时19分]"
         },
         {
           "title": "AI大厂月薪3万疯抢文科生",
@@ -191,6 +193,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "OpenAI与亚马逊云（AWS）签署协议，向美国政府工作人员销售AI产品。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3071699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
           "url": "https://www.cls.cn/detail/2314845",
           "source": "财联社热门",
@@ -203,6 +216,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时23分 ~ 15时55分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
@@ -391,6 +415,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "OpenAI与亚马逊达成合作协议，向美国政府销售AI产品",
+          "url": "https://flash.jin10.com/detail/20260317210735218800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
           "url": "https://flash.jin10.com/detail/20260317071109761800",
           "source": "金十数据",
@@ -411,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "三星电子：将在2026年3月16日至19日于美国加州圣何塞举行的英伟达GTC 2026大会上展示全面的AI计算技术。核心产品将是全新第六代HBM4，目前已进入量产阶段，并专为英伟达Vera Rubin平台设计。",
@@ -479,6 +525,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "英国承诺加速AI应用以提振经济增长",
           "url": "https://flash.jin10.com/detail/20260317065413762800",
           "source": "金十数据",
@@ -488,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)盘前上涨1%，OpenAI与AWS签署协议，向美国政府工作人员销售人工智能。",
+          "url": "https://flash.jin10.com/detail/20260317210413090800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
@@ -523,6 +591,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "OpenAI与AWS签署协议，向美国政府工作人员销售人工智能。",
+          "url": "https://flash.jin10.com/detail/20260317210223405800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "英伟达Vera Rubin开启“智能体AI”新前沿",
           "url": "https://wallstreetcn.com/livenews/3071124",
           "source": "华尔街见闻-快讯",
@@ -540,7 +619,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -587,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "人工智能博士分析AI影视化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%9A%E5%A3%AB%E5%88%86%E6%9E%90AI%E5%BD%B1%E8%A7%86%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
@@ -746,7 +836,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -757,8 +847,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时23分 ~ 19时51分]"
+          "appearance_count": 12,
+          "time_info": "[10时23分 ~ 21时19分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -815,9 +905,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "高通美股盘前涨超2%，高通批准200亿美元股票回购计划，并上调股息。",
+          "url": "https://wallstreetcn.com/livenews/3071702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "亚马逊美股盘前涨幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3071701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "哈塞特安抚市场，美股指期货转涨、航空股盘前走高，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
@@ -829,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3071700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股收盘）",
@@ -848,7 +982,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -862,6 +996,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳指期货日内转涨，标普500指数期货涨0.08%，道指期货涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3071677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-17）",
+          "url": "https://flash.jin10.com/detail/20260317205204867800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
