@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-18T21:18:47.904024+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-03-18T23:06:12.636888+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 23时06分]"
+        },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
           "url": "https://www.zhihu.com/question/2016992148197750088",
@@ -33,11 +48,12 @@
             9,
             12,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 21时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时58分 ~ 23时06分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -53,11 +69,12 @@
             16,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 21时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 23时06分]"
         },
         {
           "title": "男二以下 AI演员",
@@ -114,6 +131,19 @@
           "time_info": "[00时13分 ~ 10时28分]"
         },
         {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时58分 ~ 23时06分]"
+        },
+        {
           "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
           "url": "https://www.zhihu.com/question/2016095792616744489",
           "source": "知乎",
@@ -124,21 +154,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时28分 ~ 18时59分]"
-        },
-        {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 21时18分]"
         },
         {
           "title": "官方辟谣“AI安全治理3年计划”",
@@ -167,17 +182,17 @@
           "time_info": "[15时54分 ~ 21时18分]"
         },
         {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
           "ranks": [
-            6,
+            10,
             2,
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时58分 ~ 21时18分]"
+          "time_info": "[19时53分 ~ 23时06分]"
         },
         {
           "title": "七部门发AI安全治理3年计划？谣言",
@@ -189,6 +204,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时28分 ~ 16时54分]"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时58分 ~ 23时06分]"
         },
         {
           "title": "百度智能云：AI算力产品涨价约5%-30%，存储涨价约30%",
@@ -272,6 +301,32 @@
           "time_info": "[14时07分 ~ 17时58分]"
         },
         {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时06分]"
+        },
+        {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 23时06分]"
+        },
+        {
           "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
           "url": "https://wallstreetcn.com/livenews/3072288",
           "source": "华尔街见闻-快讯",
@@ -308,32 +363,6 @@
           "time_info": "[12时59分 ~ 14时07分]"
         },
         {
-          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
-          "url": "https://www.zhihu.com/question/2017627475413262735",
-          "source": "知乎",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时18分]"
-        },
-        {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 21时18分]"
-        },
-        {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
           "url": "https://flash.jin10.com/detail/20260318052306073800",
           "source": "金十数据",
@@ -358,17 +387,15 @@
           "time_info": "[10时28分 ~ 14时07分]"
         },
         {
-          "title": "耀客AI演员 赵今麦翟子路",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=23&Refer=top",
+          "title": "网友抵制AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            23,
-            21,
-            17
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时59分 ~ 21时18分]"
+          "time_info": "[21时18分 ~ 23时06分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -381,6 +408,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时53分 ~ 21时18分]"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         },
         {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
@@ -455,6 +493,17 @@
           "time_info": "[05时40分 ~ 06时36分]"
         },
         {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
           "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
           "url": "https://www.zhihu.com/question/2016095792616744489",
           "source": "知乎",
@@ -464,6 +513,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "被黑产投毒的AI还可信吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         },
         {
           "title": "阿里云AI算力和存储产品最高涨价34%",
@@ -505,7 +565,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -609,17 +669,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
-          "url": "https://www.zhihu.com/question/2017543464514974274",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/WjvjpqNlCKyb04k5cTDna.jpg/lite\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20260317233239085800",
           "source": "金十数据",
@@ -681,7 +730,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -840,21 +889,21 @@
           "time_info": "14时07分"
         },
         {
-          "title": "网友抵制AI演员",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "Meta旗下Manus发布桌面应用，在OpenClaw热潮中将AI智能体引入个人设备",
+          "url": "https://wallstreetcn.com/livenews/3072551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "23时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -927,6 +976,17 @@
           "time_info": "[04时42分 ~ 05时40分]"
         },
         {
+          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
           "title": "美光科技股价上涨3.34%，报456.57美元/股，创盘中历史新高，（盘中）市值报5139亿美元。 美光科技成为本轮美股科技股调整以来，首个创下历史新高的主要科技股票。",
           "url": "https://wallstreetcn.com/livenews/3071778",
           "source": "华尔街见闻-快讯",
@@ -977,7 +1037,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -999,7 +1059,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         }
@@ -1016,7 +1076,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
