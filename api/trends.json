@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T01:03:36.731561+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-20T03:02:23.324999+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -37,26 +26,39 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "AI万物皆可龙抬头",
           "url": "https://www.douyin.com/hot/2435867",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时02分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.toutiao.com/trending/7618387888183836715/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时02分]"
+        },
+        {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时02分]"
         }
       ]
     }
