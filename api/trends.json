@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T12:49:44.465081+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-03-20T13:54:52.318212+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             14,
             12,
             10,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 13时54分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -43,11 +44,12 @@
           "ranks": [
             11,
             12,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 12时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 13时54分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -58,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -70,19 +72,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时49分]"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -110,24 +101,24 @@
           "time_info": "[01时03分 ~ 07时33分]"
         },
         {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 13时54分]"
+        },
+        {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3073578",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时32分]"
-        },
-        {
-          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
-          "url": "https://flash.jin10.com/detail/20260320052711190800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -142,8 +133,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 13时54分]"
+        },
+        {
+          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
+          "url": "https://flash.jin10.com/detail/20260320052711190800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时32分]"
         },
         {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
@@ -166,8 +169,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "AI龙抬头赐我新发型",
@@ -178,19 +181,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "揭秘AI投毒运作原理",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -329,8 +333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 13时54分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -340,8 +344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -440,7 +444,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -448,7 +452,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
@@ -459,8 +463,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时54分]"
         },
         {
           "title": "王传福、王兴兴、何小鹏现场助阵！小米新SU7售价21.99万元起，雷军强调车门把手符合新国标",
@@ -472,8 +476,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 13时54分]"
+        },
+        {
+          "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
+          "url": "https://flash.jin10.com/detail/20260320132247038800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3073790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
