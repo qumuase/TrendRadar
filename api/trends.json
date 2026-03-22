@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T13:56:05.514126+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-03-22T14:56:23.984984+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "季冠霖发文抵制AI",
@@ -29,11 +29,12 @@
           "ranks": [
             16,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时56分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -42,11 +43,36 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时56分]"
+        },
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时56分]"
+        },
+        {
+          "title": "AI演员为啥遭网友抵制",
+          "url": "https://www.douyin.com/hot/2438688",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时56分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -59,29 +85,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 10时29分]"
-        },
-        {
-          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2018341688767160603",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时56分]"
-        },
-        {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时56分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -115,19 +118,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 14时56分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
           "url": "https://flash.jin10.com/detail/20260322131458099800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时56分]"
         },
         {
           "title": "AI演员签约官宣",
@@ -137,8 +141,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 14时56分]"
+        },
+        {
+          "title": "AI演员为何会舆论翻车",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%BC%94%E5%91%98%E4%B8%BA%E4%BD%95%E4%BC%9A%E8%88%86%E8%AE%BA%E7%BF%BB%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -177,8 +192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时56分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
