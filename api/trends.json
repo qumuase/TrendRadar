@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T22:32:06.333567+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-03-22T23:29:48.456143+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI演员为啥遭网友抵制",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时29分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[10时29分 ~ 23时29分]"
         },
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -67,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 22时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 23时29分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -85,8 +85,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 22时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 23时29分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -164,6 +164,18 @@
           "time_info": "[15时40分 ~ 19时26分]"
         },
         {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 23时29分]"
+        },
+        {
           "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
           "url": "https://flash.jin10.com/detail/20260322145249948800",
           "source": "金十数据",
@@ -200,17 +212,6 @@
           "time_info": "[13时56分 ~ 15时40分]"
         },
         {
-          "title": "跑马拉松护航的民警居然是AI机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 22时32分]"
-        },
-        {
           "title": "用AI写作能暴富吗",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E4%BD%9C%E8%83%BD%E6%9A%B4%E5%AF%8C%E5%90%97",
           "source": "百度热搜",
@@ -243,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "AI演员为何会舆论翻车",
