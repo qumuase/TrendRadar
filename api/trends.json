@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T16:38:15.428194+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-22T17:36:34.940382+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 17时36分]"
         },
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -28,11 +28,12 @@
             5,
             2,
             4,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 16时38分]"
+          "appearance_count": 9,
+          "time_info": "[10时29分 ~ 17时36分]"
         },
         {
           "title": "季冠霖发文抵制AI",
@@ -62,8 +63,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -78,8 +79,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -147,22 +148,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时38分]"
-        },
-        {
-          "title": "种地都要“AI”了",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%8D%E5%9C%B0%E9%83%BD%E8%A6%81%E2%80%9CAI%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时36分]"
         },
         {
           "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
@@ -174,6 +165,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "种地都要“AI”了",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%8D%E5%9C%B0%E9%83%BD%E8%A6%81%E2%80%9CAI%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 17时36分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
@@ -236,8 +239,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
