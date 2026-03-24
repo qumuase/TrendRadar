@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T05:40:47.099935+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-25T06:40:08.069773+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
-        },
-        {
-          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
-          "url": "https://flash.jin10.com/detail/20260325043011532800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -38,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -50,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -63,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -74,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -84,11 +73,23 @@
           "ranks": [
             23,
             20,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
+        },
+        {
+          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
+          "url": "https://flash.jin10.com/detail/20260325043011532800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -137,6 +138,17 @@
           "time_info": "[04时49分 ~ 05时40分]"
         },
         {
+          "title": "如何看待 Ai 音乐创作这个趋势？",
+          "url": "https://www.zhihu.com/question/1937236067859306429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 06时40分]"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
@@ -157,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "据CNBC：OpenAI首席财务官弗里尔表示，我们将筹集超过1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260325061455746800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "美股软件股暴跌，报道称亚马逊推出新AI工具",
@@ -201,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "OpenAI将停止Sora AI视频生成服务，精简产品线",
+          "url": "https://wallstreetcn.com/livenews/3076223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼将专注于筹集资金、供应链和“以前所未有的规模建设数据中心”。",
@@ -327,7 +361,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -337,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -348,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -361,8 +395,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -375,19 +409,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时40分]"
         },
         {
           "title": "非美货币多数在美股盘后走高",
           "url": "https://wallstreetcn.com/livenews/3076209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时40分]"
         },
         {
           "title": "Arm控股预计，新芯片部门未来五年的年度销售额将达到150亿美元。 Arm控股ADR美股盘后涨3.7%。",
@@ -408,9 +443,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "美股三大股指期货盘初走高，其中纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260325060548968800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "现货白银涨超2.6%，在美股盘后迅速刷新日高，纽约铜、铂族贵金属也短线拉升",
@@ -419,7 +465,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -441,7 +487,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -455,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
+          "url": "https://wallstreetcn.com/livenews/3076219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "金十图示：2026年03月24日（周二）热门中概股行情一览（美股盘中）",
@@ -474,7 +531,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -488,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美债收益率在美股盘后急剧回吐涨幅，投资者紧盯伊朗局势的动态",
+          "url": "https://wallstreetcn.com/livenews/3076177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         }
       ]
     },
@@ -513,7 +581,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
