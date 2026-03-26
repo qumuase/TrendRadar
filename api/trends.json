@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T10:34:40.591368+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-03-26T13:08:57.555435+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI宣布关停Sora",
@@ -20,8 +20,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 13时08分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -35,8 +35,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 10时34分]"
+          "appearance_count": 11,
+          "time_info": "[01时05分 ~ 13时08分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -115,13 +115,24 @@
           "time_info": "[02时59分 ~ 03时51分]"
         },
         {
+          "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
+          "url": "https://flash.jin10.com/detail/20260326125531947800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "伊朗官媒发炸毁自由女神像AI视频",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -143,7 +154,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -173,7 +184,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -217,8 +228,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 13时08分]"
+        },
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 13时08分]"
         },
         {
           "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
@@ -233,18 +256,6 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时34分]"
-        },
-        {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
@@ -253,8 +264,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 13时08分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -279,6 +290,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。 日经225指数小幅反弹，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3077097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "摩根大通交易员结束“美股看跌交易”",
+          "url": "https://www.toutiao.com/trending/7621380902110629439/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股收盘）",
