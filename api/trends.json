@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:59:31.791072+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-03-28T03:46:12.652910+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -26,20 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -49,8 +37,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -84,8 +85,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -97,14 +98,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -114,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -125,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -149,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时46分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -160,8 +161,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 03时46分]"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -170,9 +171,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260328023834916800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股盘中）",
@@ -181,7 +193,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
