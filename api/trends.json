@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:40:41.539426+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-03-28T18:35:38.622350+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -39,19 +39,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时36分 ~ 18时35分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时36分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时36分 ~ 18时35分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -90,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 18时35分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -140,6 +141,19 @@
           "time_info": "[04时42分 ~ 07时36分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 18时35分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260328040914755800",
           "source": "金十数据",
@@ -153,19 +167,6 @@
           "time_info": "[04时42分 ~ 06时36分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 17时40分]"
-        },
-        {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260328040912356800",
           "source": "金十数据",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时36分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时35分]"
         },
         {
           "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
@@ -200,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 10时27分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时40分]"
         },
         {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
@@ -287,8 +288,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时58分 ~ 18时35分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -304,8 +305,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时58分 ~ 18时35分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -369,11 +370,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 18时35分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -389,6 +391,19 @@
           "time_info": "[00时58分 ~ 03时46分]"
         },
         {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时35分]"
+        },
+        {
           "title": "警惕AI“过度谄媚”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95AI%E2%80%9C%E8%BF%87%E5%BA%A6%E8%B0%84%E5%AA%9A%E2%80%9D",
           "source": "百度热搜",
@@ -399,19 +414,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时37分 ~ 06时36分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时40分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -472,8 +474,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 17时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 18时35分]"
         },
         {
           "title": "特朗普称必须尊重中国",
@@ -547,11 +549,12 @@
           "url": "https://www.zhihu.com/question/2020939119086364459",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时35分]"
         }
       ]
     }
