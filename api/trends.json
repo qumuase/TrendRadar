@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T06:32:23.550456+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-03-29T07:34:59.521993+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             16,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -30,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -41,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -52,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -63,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -74,8 +75,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -108,11 +109,24 @@
           "source": "微博",
           "ranks": [
             29,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时34分]"
+        },
+        {
+          "title": "就是你是RAIN也得接孩子放学",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时34分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -135,17 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "就是你是RAIN也得接孩子放学",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%98%AF%E4%BD%A0%E6%98%AFRAIN%E4%B9%9F%E5%BE%97%E6%8E%A5%E5%AD%A9%E5%AD%90%E6%94%BE%E5%AD%A6%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         }
       ]
     },
@@ -161,19 +164,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -183,16 +188,15 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -209,11 +213,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
