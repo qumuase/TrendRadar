@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-28T19:31:49.973402+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-03-28T21:01:57.583302+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 21,
       "titles": [
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 19时31分]"
-        },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
           "url": "https://wallstreetcn.com/articles/3768527",
@@ -31,6 +20,18 @@
           "time_info": "[00时58分 ~ 07时36分]"
         },
         {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 21时01分]"
+        },
+        {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
           "url": "https://www.cls.cn/detail/2327695",
           "source": "财联社热门",
@@ -39,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 21时01分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -53,6 +54,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时36分]"
+        },
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 21时01分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -69,21 +86,6 @@
           "time_info": "[00时58分 ~ 07时36分]"
         },
         {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 19时31分]"
-        },
-        {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
           "source": "澎湃新闻",
@@ -96,17 +98,6 @@
           "time_info": "[01时55分 ~ 10时27分]"
         },
         {
-          "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
-        },
-        {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
           "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
@@ -117,8 +108,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时59分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时59分 ~ 21时01分]"
+        },
+        {
+          "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 06时36分]"
         },
         {
           "title": "美股“七姐妹”技术性崩坏正在提速",
@@ -156,6 +158,18 @@
           "time_info": "[04时42分 ~ 07时36分]"
         },
         {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时42分 ~ 21时01分]"
+        },
+        {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260328040914755800",
           "source": "金十数据",
@@ -167,18 +181,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时36分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 19时31分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -289,11 +291,12 @@
             12,
             13,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时58分 ~ 19时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时58分 ~ 21时01分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -307,11 +310,12 @@
             14,
             15,
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时58分 ~ 19时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时58分 ~ 21时01分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -356,6 +360,21 @@
           "time_info": "[00时58分 ~ 07时36分]"
         },
         {
+          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
+          "url": "https://www.cls.cn/detail/2327720",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 21时01分]"
+        },
+        {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
           "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
@@ -369,21 +388,6 @@
           "time_info": "[00时58分 ~ 03时46分]"
         },
         {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 19时31分]"
-        },
-        {
           "title": "AI神游!原神现六指派蒙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
           "source": "贴吧",
@@ -391,11 +395,12 @@
             6,
             7,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 21时01分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -471,18 +476,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
           "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 19时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 21时01分]"
         },
         {
           "title": "特朗普称必须尊重中国",
@@ -517,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         }
       ]
     },
@@ -546,11 +563,12 @@
           "ranks": [
             20,
             18,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时01分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.90%，报6593.28点，本周累计下跌2.22%。 热门中概股里，文远知行初步收跌9%，小马智行跌5.7%，金山云跌5.5%，比亚迪跌5.2%，蔚来跌4.4%，小鹏跌3.8%，阿里巴巴跌2.1%，再鼎医药涨2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，本周累跌1.13%，延续上周跌6.40%的表现； 中国科技指数ETF（CQQQ）收跌0.66%，本周累跌2.28%，延续上周跌6.39%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨0.28%，本周累跌1.14%，延续上周跌3.46%的表现； XtrackersHarvest中证50（ASHS）收涨0.81%，本周累跌0.37%，延续上周跌7.35%的表现。",
