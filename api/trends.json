@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T10:39:01.958410+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-03-29T13:13:42.547436+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -30,44 +30,48 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时13分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时13分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时13分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时13分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -85,11 +89,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时13分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -153,6 +158,17 @@
           "time_info": "[10时38分 ~ 10时39分]"
         },
         {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "xAI最后一位联合创始人据悉已离开公司",
           "url": "https://flash.jin10.com/detail/20260329003301596800",
           "source": "金十数据",
@@ -186,11 +202,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时13分]"
         },
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -243,8 +260,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时13分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
