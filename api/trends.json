@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T19:32:20.429852+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-29T21:02:23.628990+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -18,11 +18,12 @@
             9,
             10,
             7,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 18时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 21时02分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -49,11 +50,12 @@
             22,
             24,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 19时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 21时02分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -91,11 +93,12 @@
             7,
             13,
             20,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时38分 ~ 21时02分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -106,11 +109,23 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 21时02分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时02分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -124,15 +139,17 @@
           "time_info": "[00时37分 ~ 07时34分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 21时02分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -158,18 +175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时32分]"
         },
         {
           "title": "中国AI不会因几张邀请函停滞",
@@ -217,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "所有“联创”均离职，马斯克“彻底重组”xAI",
+          "url": "https://wallstreetcn.com/articles/3768659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -300,11 +316,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时08分 ~ 19时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时08分 ~ 21时02分]"
         }
       ]
     },
