@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:34:59.521993+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-03-29T10:39:01.958410+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -16,11 +16,12 @@
             16,
             4,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -28,11 +29,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -42,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -53,8 +55,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -64,8 +66,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -77,6 +79,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时34分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -129,6 +142,17 @@
           "time_info": "[06时32分 ~ 07时34分]"
         },
         {
+          "title": "本科大厂工作还是 top 50 ai phd?",
+          "url": "https://www.zhihu.com/question/15079952367",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
           "title": "xAI最后一位联合创始人据悉已离开公司",
           "url": "https://flash.jin10.com/detail/20260329003301596800",
           "source": "金十数据",
@@ -157,6 +181,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
+        },
+        {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
           "url": "https://wallstreetcn.com/articles/3768635",
           "source": "华尔街见闻",
@@ -175,17 +211,6 @@
             4,
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -214,11 +239,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时39分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
