@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T07:36:47.906238+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-03-30T10:41:55.234005+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 10时41分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 10时41分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -48,11 +48,12 @@
           "ranks": [
             21,
             24,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 10时41分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -87,7 +88,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         }
@@ -95,18 +96,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 10时41分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -131,6 +133,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生科技指数跌超3%，成份股中，蔚来汽车(09866.HK)跌超6%，小鹏集团(09868.HK)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260330103002370800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     }
