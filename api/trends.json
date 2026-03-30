@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T17:16:15.015479+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-03-30T19:05:14.472570+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             8,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 19时05分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -58,8 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 19时05分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -138,19 +139,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 17时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 19时05分]"
         },
         {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 19时05分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
