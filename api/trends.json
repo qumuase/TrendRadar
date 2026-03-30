@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T13:28:23.414919+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-03-30T15:47:54.542698+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 15时47分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -51,11 +52,12 @@
             24,
             22,
             20,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 15时47分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -113,6 +115,19 @@
           "time_info": "[00时38分 ~ 10时41分]"
         },
         {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 15时47分]"
+        },
+        {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
           "url": "https://flash.jin10.com/detail/20260330060152527800",
           "source": "金十数据",
@@ -137,18 +152,6 @@
           "time_info": "[06时35分 ~ 07时36分]"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 13时28分]"
-        },
-        {
           "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
@@ -167,7 +170,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
