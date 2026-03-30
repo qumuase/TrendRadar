@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T15:47:54.542698+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-03-30T17:16:15.015479+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             8,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 15时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时16分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -53,11 +54,12 @@
             22,
             20,
             16,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 15时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 17时16分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -86,6 +88,17 @@
           "time_info": "[01时34分 ~ 06时35分]"
         },
         {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
           "url": "https://wallstreetcn.com/livenews/3078783",
           "source": "华尔街见闻-快讯",
@@ -100,7 +113,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -121,11 +134,23 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 17时16分]"
+        },
+        {
+          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
