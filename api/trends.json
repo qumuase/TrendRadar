@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:08:22.929487+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-04-01T19:02:02.309699+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -16,11 +16,12 @@
             15,
             18,
             19,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 17时08分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 19时02分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -48,6 +49,29 @@
           "time_info": "10时48分"
         },
         {
+          "title": "12家企业宣布无限Token计划，支持深度使用飞书AI产品",
+          "url": "https://wallstreetcn.com/livenews/3080861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时02分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
           "source": "金十数据",
@@ -72,18 +96,6 @@
           "time_info": "[13时27分 ~ 15时25分]"
         },
         {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时08分]"
-        },
-        {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
           "url": "https://www.zhihu.com/question/2021882744435646530",
           "source": "知乎",
@@ -93,6 +105,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 05时41分]"
+        },
+        {
+          "title": "最没人味的AI制作出最有人味的短片",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%B2%A1%E4%BA%BA%E5%91%B3%E7%9A%84AI%E5%88%B6%E4%BD%9C%E5%87%BA%E6%9C%80%E6%9C%89%E4%BA%BA%E5%91%B3%E7%9A%84%E7%9F%AD%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
@@ -116,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 13时27分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -153,6 +187,28 @@
           "time_info": "[15时24分 ~ 15时25分]"
         },
         {
+          "title": "周深新歌禁止用于AI训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
@@ -162,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
+          "url": "https://wallstreetcn.com/livenews/3080859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
@@ -181,7 +248,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -225,7 +292,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -247,7 +314,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -291,7 +358,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -320,19 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时37分 ~ 17时08分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时37分 ~ 19时02分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -344,8 +400,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时37分 ~ 17时08分]"
+          "appearance_count": 9,
+          "time_info": "[06时37分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时37分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
@@ -612,7 +679,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -640,7 +707,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -651,7 +718,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
