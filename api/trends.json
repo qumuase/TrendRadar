@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-04-02T03:06:30.938589+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-04-02T04:48:14.613914+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时48分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时48分]"
+        },
+        {
+          "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3081109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美股三大指数高开 耐克跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260402040551362800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260402040549263800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 内存股走强",
+          "url": "https://flash.jin10.com/detail/20260402040132988800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260402003143069800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260402003135801800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
+          "url": "https://wallstreetcn.com/livenews/3081023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 7,
@@ -15,8 +135,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -27,8 +147,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -38,8 +158,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -47,11 +167,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 04时48分]"
         },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
@@ -82,81 +203,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时06分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时06分]"
-        },
-        {
-          "title": "美股三大指数高开 耐克跌超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 03时06分]"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003143069800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003135801800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
-          "url": "https://wallstreetcn.com/livenews/3081023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
