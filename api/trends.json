@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T01:57:13.213503+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-04-02T03:06:30.938589+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -27,8 +27,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -37,17 +48,6 @@
           "ranks": [
             26,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -72,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -101,19 +101,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "美股三大指数高开 耐克跌超12%",
@@ -121,11 +122,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
