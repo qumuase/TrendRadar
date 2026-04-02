@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-04-03T03:01:25.148403+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-04-03T03:54:44.182003+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 7,
       "titles": [
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
+        },
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
+        },
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 03时54分]"
+        },
         {
           "title": "市场消息：OpenAI收购TBPN。",
           "url": "https://flash.jin10.com/detail/20260403012712890800",
@@ -20,50 +56,16 @@
           "time_info": "[01时52分 ~ 03时01分]"
         },
         {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 03时01分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
-        },
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
-        },
-        {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3081740",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时54分]"
         },
         {
           "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
@@ -72,7 +74,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -101,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -114,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -126,8 +128,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
+        },
+        {
+          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
+          "url": "https://www.cls.cn/detail/2333333",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
+        },
+        {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时54分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -142,31 +170,6 @@
           "time_info": "[00时07分 ~ 01时52分]"
         },
         {
-          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
-          "url": "https://www.cls.cn/detail/2333333",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
-        },
-        {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时01分]"
-        },
-        {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
           "url": "https://wallstreetcn.com/articles/3769043",
           "source": "华尔街见闻",
@@ -174,8 +177,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 03时54分]"
         }
       ]
     },
@@ -188,11 +191,12 @@
           "url": "https://wallstreetcn.com/livenews/3081741",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时54分]"
         }
       ]
     }
