@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:38:41.291882+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-04-03T05:41:52.211331+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -64,33 +64,24 @@
             30,
             23,
             22,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
           "url": "https://wallstreetcn.com/livenews/3081793",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040716683800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -103,6 +94,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时52分]"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040716683800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -120,33 +123,36 @@
           "url": "https://flash.jin10.com/detail/20260403040531633800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
           "url": "https://flash.jin10.com/detail/20260403040200866800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
           "url": "https://wallstreetcn.com/livenews/3081784",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         }
       ]
     },
@@ -163,8 +169,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -174,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时41分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
@@ -232,7 +238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -251,7 +257,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "合作破裂！小鹏汽车澳洲经销商进入托管程序，官方回应：深感失望，将亲自下场搭建经销网络",
@@ -272,9 +278,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.34%，报6750.93点，本周迄今累计上涨2.39%。 热门中概股里，腾讯初步收跌2%，小米、京东、美团、阿里、拼多多至少跌约1%，理想涨0.4%，小鹏涨1.1%，蔚来涨1.2%。 ETF中，中国科技指数ETF（CQQQ）收跌1.59%，中概互联网指数ETF（KWEB）收0.74%。 XtrackersHarvest中证50（ASHS）收跌0.62%，德银嘉实沪深300指数ETF（ASHR）收跌0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3081780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     }
