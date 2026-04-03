@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T22:45:34.178136+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2026-04-03T23:41:04.460030+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
@@ -179,7 +179,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
@@ -216,11 +216,12 @@
             20,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时07分 ~ 22时45分]"
+          "appearance_count": 24,
+          "time_info": "[00时07分 ~ 23时41分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -233,6 +234,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时58分 ~ 19时39分]"
+        },
+        {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时09分 ~ 23时41分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -269,18 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时01分]"
-        },
-        {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时45分]"
         },
         {
           "title": "AI短剧“偷脸” 《桃花簪》全面下架",
