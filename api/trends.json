@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:07:46.029515+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-04-03T15:13:47.639105+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时07分 ~ 05时41分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时34分 ~ 15时13分]"
+        },
+        {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时07分 ~ 10时34分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时34分 ~ 13时07分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -199,11 +199,12 @@
             8,
             10,
             13,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 13时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 15时13分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
