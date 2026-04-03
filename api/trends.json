@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:38:10.520178+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-04-03T10:34:32.593591+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,25 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时34分 ~ 10时34分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -71,18 +85,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 06时35分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 07时38分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -182,11 +184,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时34分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -194,11 +197,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时34分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -207,7 +211,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
