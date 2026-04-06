@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T15:47:44.485267+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-04-06T17:12:18.197210+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -102,6 +102,18 @@
           "time_info": "[05时35分 ~ 07时37分]"
         },
         {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时12分]"
+        },
+        {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
           "url": "https://www.toutiao.com/trending/7625239644062023743/",
           "source": "今日头条",
@@ -111,19 +123,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 17时12分]"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
           "ranks": [
-            7
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时12分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年4月5日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时12分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -135,28 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        },
-        {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         },
         {
           "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
@@ -176,7 +179,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -187,7 +190,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -209,7 +212,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -275,7 +278,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
@@ -283,8 +286,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3082776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
         {
           "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3082682",
@@ -308,6 +322,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时37分]"
+        },
+        {
+          "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
+          "url": "https://flash.jin10.com/detail/20260406160708669800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "“快被逼疯了！”美股2000亿崩盘制造者急探中东，真相令人心惊",
+          "url": "https://flash.jin10.com/detail/20260406160347144800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "美股三大股指期货小幅上涨，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%，道琼斯指数期货上涨0.1%",
+          "url": "https://flash.jin10.com/detail/20260406160221787800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "美股期货转涨，纳斯达克100指数期货日内涨0.7%。",
@@ -336,8 +394,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 15时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 17时12分]"
         }
       ]
     }
