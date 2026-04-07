@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T18:58:45.590624+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-04-07T19:58:29.047548+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -120,8 +120,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时58分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -133,8 +133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 18时58分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 19时58分]"
         },
         {
           "title": "报道：OpenAI计划最早今年四季度IPO",
@@ -147,6 +147,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时48分]"
+        },
+        {
+          "title": "如何看待电竞假赛选手 naiyou 被终身禁赛，却仍被指「百万撤离」无实质处罚？",
+          "url": "https://www.zhihu.com/question/2021524973303408230",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 19时58分]"
         },
         {
           "title": "中国AI大模型调用量连续五周超美国",
@@ -177,17 +189,6 @@
           "source": "百度热搜",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 17时06分]"
-        },
-        {
-          "title": "如何看待电竞假赛选手 naiyou 被终身禁赛，却仍被指「百万撤离」无实质处罚？",
-          "url": "https://www.zhihu.com/question/2021524973303408230",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -284,6 +285,28 @@
           "time_info": "00时53分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850501&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/U5xF8UF-kZPQJUXl6g6aP.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260407192058330800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "自带“火眼金睛” 福州交警AI无人车上线",
+          "url": "https://flash.jin10.com/detail/20260407192016064800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
           "title": "英国拟对银行AI模型进行标准化测试",
           "url": "https://flash.jin10.com/detail/20260407122348424800",
           "source": "金十数据",
@@ -331,7 +354,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -356,8 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 18时58分]"
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 19时58分]"
         },
         {
           "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
@@ -474,9 +497,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "美伊谈判“最后期限”逼近，美股期货转跌，油价攀升，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
