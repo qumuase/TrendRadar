@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:55:06.140956+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-04-10T21:16:55.402172+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -51,6 +51,22 @@
           "time_info": "[00时20分 ~ 18时58分]"
         },
         {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            20,
+            28,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 21时16分]"
+        },
+        {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
@@ -76,20 +92,17 @@
           "time_info": "[00时20分 ~ 07时39分]"
         },
         {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            15,
-            20,
-            28,
-            29,
-            26
+            7,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 10时44分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 21时16分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -101,19 +114,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时43分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 19时55分]"
         },
         {
           "title": "微信回应夫妻用AI写公众号年赚200万",
@@ -178,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -349,6 +349,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
           "url": "https://flash.jin10.com/detail/20260410041947855800",
           "source": "金十数据",
@@ -484,7 +495,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -559,6 +570,17 @@
           "time_info": "[06时43分 ~ 07时39分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3085913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "停火也拦不住美股散户卖出",
           "url": "https://wallstreetcn.com/articles/3769606",
           "source": "华尔街见闻",
@@ -579,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-10）",
+          "url": "https://flash.jin10.com/detail/20260410210125119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美债收益率于美股早盘显著下挫，两年期实际收益率飙涨31个基点",
@@ -656,6 +689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "美国3月CPI数据公布后，美股股指期货集体走高，纳指期货日内涨0.31%，标普500指数期货涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3085894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "房利美股价涨幅迅速扩大至19%，房地美也涨16%。",
