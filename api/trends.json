@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T00:55:23.295648+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-11T01:52:01.563701+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时52分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
@@ -40,22 +40,24 @@
           "url": "https://flash.jin10.com/detail/20260411003357698800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时52分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003343083800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时52分]"
         }
       ]
     }
