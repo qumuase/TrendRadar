@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T12:58:02.104676+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-04-11T14:04:35.897445+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -82,6 +82,19 @@
           "time_info": "[07时38分 ~ 12时58分]"
         },
         {
+          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
+          "url": "https://wallstreetcn.com/livenews/3086151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 14时04分]"
+        },
+        {
           "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
           "url": "https://flash.jin10.com/detail/20260411094831132800",
           "source": "金十数据",
@@ -100,18 +113,6 @@
           "ranks": [
             3,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 12时58分]"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -165,6 +166,28 @@
           "time_info": "04时41分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260411124514356800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
@@ -213,8 +236,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 14时04分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
