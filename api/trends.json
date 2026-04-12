@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T05:38:33.306453+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-13T06:39:03.993733+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时39分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时39分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -39,11 +39,12 @@
             10,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时39分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -54,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时39分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -64,11 +65,12 @@
           "ranks": [
             27,
             30,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 06时39分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -80,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时40分 ~ 05时38分]"
+          "appearance_count": 6,
+          "time_info": "[03时40分 ~ 06时39分]"
         },
         {
           "title": "多款AI应用存在涉黄生成漏洞",
@@ -100,7 +102,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -111,8 +113,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时39分]"
+        },
+        {
+          "title": "国际油价开盘跳涨，美股期货跌超1%",
+          "url": "https://wallstreetcn.com/livenews/3086498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "美股三大股指期货周一低开超1%。",
+          "url": "https://flash.jin10.com/detail/20260413060153001800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         }
       ]
     }
