@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T22:41:55.028418+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-04-12T23:38:47.791808+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             6,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 22时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 23时38分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -77,11 +78,12 @@
             9,
             5,
             3,
-            10
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 23时38分]"
         },
         {
           "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
@@ -105,20 +107,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时38分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时38分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
@@ -247,8 +250,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 22时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 23时38分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
