@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T10:53:03.926220+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-04-13T13:45:17.712152+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -74,6 +74,18 @@
           "time_info": "[00时42分 ~ 06时39分]"
         },
         {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 13时45分]"
+        },
+        {
           "title": "AI 会有情绪吗？",
           "url": "https://www.zhihu.com/question/583568899",
           "source": "知乎",
@@ -87,15 +99,15 @@
           "time_info": "[03时40分 ~ 07时38分]"
         },
         {
-          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
-          "url": "https://www.zhihu.com/question/2026361952214017900",
-          "source": "知乎",
+          "title": "央视重锤!AI造黄产业链被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "招银国际料腾讯首季业绩稳健 市场对AI投资反应过度",
@@ -104,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -127,22 +139,24 @@
           "url": "https://wallstreetcn.com/articles/3769770",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 13时45分]"
         },
         {
           "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
           "url": "https://www.cls.cn/detail/2341719",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 13时45分]"
         },
         {
           "title": "美国总统特朗普发布了AI生成的图片，其中一张为“月球上的特朗普大厦”。",
@@ -151,7 +165,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         }
@@ -168,11 +182,12 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 10时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时45分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
