@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T07:45:03.430978+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-04-14T10:45:55.815919+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 10时45分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 10时45分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -28,21 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时45分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 10时45分]"
         },
         {
           "title": "韩国AI初创公司Wrtn2025年销售额升至471亿韩元",
@@ -51,7 +52,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -107,7 +108,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -188,11 +189,12 @@
           "url": "https://www.cls.cn/detail/2342867",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时45分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
@@ -235,7 +237,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -274,11 +276,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 10时45分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
