@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T21:46:49.637693+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-04-14T23:16:15.714112+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -32,11 +32,12 @@
             18,
             19,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 21时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 23时16分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -49,11 +50,27 @@
             19,
             20,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 21时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 23时16分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 23时16分]"
         },
         {
           "title": "OpenAI伦敦设立永久办公室",
@@ -113,18 +130,16 @@
           "time_info": "00时15分"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            10,
-            14,
-            16
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时50分 ~ 21时46分]"
+          "time_info": "[19时21分 ~ 23时16分]"
         },
         {
           "title": "AI突袭短剧 “霸总爹”失业",
@@ -139,15 +154,26 @@
           "time_info": "[15时50分 ~ 17时21分]"
         },
         {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
+          "title": "英伟达推出全球首个开源量子AI模型",
+          "url": "https://www.toutiao.com/trending/7627728168379547654/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 21时46分]"
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
+          "title": "中国经济信息社联合九家AIC机构发起“耐心资本引活水 生态共建育新质”倡议",
+          "url": "https://wallstreetcn.com/livenews/3087833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "康众医疗：拟现金收购AI医疗公司脉得智能控制权",
@@ -156,7 +182,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -170,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "甲骨文处于连续第二个交易日上涨之中，Bloom Energy涨20%，双方此前达成AI数据中心供电协议。",
+          "url": "https://wallstreetcn.com/livenews/3087828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "网易云音乐就AI广告诡异画面道歉",
@@ -203,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "第二届AIC股权投资研讨会聚焦耐心资本",
+          "url": "https://wallstreetcn.com/livenews/3087824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -269,12 +317,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Greene：AI可能会通过生产力提振潜在增速。",
+          "url": "https://wallstreetcn.com/livenews/3087808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -301,6 +360,17 @@
           "time_info": "[07时44分 ~ 15时50分]"
         },
         {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
           "title": "贝莱德恢复超配美股观点 认为伊朗战争冲击可控",
           "url": "https://flash.jin10.com/detail/20260414035311395800",
           "source": "金十数据",
@@ -318,9 +388,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
+        },
+        {
+          "title": "美股高开 中概股普涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E6%99%AE%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
@@ -363,7 +444,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
