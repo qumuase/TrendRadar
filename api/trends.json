@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:50:48.771825+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-15T07:44:30.556425+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -21,39 +21,30 @@
           "time_info": "[01时12分 ~ 06时50分]"
         },
         {
-          "title": "英伟达推出全球首个开源量子AI模型",
-          "url": "https://www.toutiao.com/trending/7627728168379547654/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时50分]"
-        },
-        {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
             20,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时44分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时44分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -63,8 +54,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时44分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -72,6 +63,17 @@
           "source": "贴吧",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时44分]"
+        },
+        {
+          "title": "英伟达推出全球首个开源量子AI模型",
+          "url": "https://www.toutiao.com/trending/7627728168379547654/",
+          "source": "今日头条",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -87,6 +89,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 07时44分]"
         },
         {
           "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
@@ -111,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时56分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 06时50分]"
         },
         {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
@@ -177,7 +180,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -251,7 +254,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -290,6 +293,18 @@
           "time_info": "[04时57分 ~ 05时56分]"
         },
         {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时44分]"
+        },
+        {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
           "url": "https://wallstreetcn.com/livenews/3087957",
           "source": "华尔街见闻-快讯",
@@ -301,15 +316,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时50分"
+          "time_info": "07时44分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
