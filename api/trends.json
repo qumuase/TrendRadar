@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-15T13:27:24.786642+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-04-15T15:51:08.793837+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时57分 ~ 15时51分]"
+        },
         {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
@@ -47,16 +59,16 @@
           "time_info": "[01时12分 ~ 10时43分]"
         },
         {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
           "ranks": [
-            10,
-            8
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时57分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时51分]"
         },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -95,24 +107,24 @@
           "time_info": "[01时12分 ~ 06时50分]"
         },
         {
+          "title": "马斯克：恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。",
+          "url": "https://flash.jin10.com/detail/20260415152557597800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3088208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -152,6 +164,18 @@
           "time_info": "[04时57分 ~ 05时56分]"
         },
         {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时51分]"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -188,6 +212,17 @@
           "time_info": "[05时56分 ~ 06时50分]"
         },
         {
+          "title": "曝爱奇艺与深度合作艺人签约AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E8%89%BA%E4%BA%BA%E7%AD%BE%E7%BA%A6AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
+        },
+        {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
           "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
@@ -210,17 +245,6 @@
           "time_info": "06时50分"
         },
         {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "千问AI眼镜S1正式开售",
           "url": "https://flash.jin10.com/detail/20260415102002374800",
           "source": "金十数据",
@@ -241,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "马斯克在X上称，恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。AI5将成为有史以来产量最高的AI芯片之一。",
+          "url": "https://wallstreetcn.com/livenews/3088282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
@@ -287,13 +322,24 @@
           "time_info": "05时56分"
         },
         {
+          "title": "阿里ATH事业群发布首款AI开发工具秒悟",
+          "url": "https://wallstreetcn.com/livenews/3088264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
           "url": "https://flash.jin10.com/detail/20260415121227220800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -312,7 +358,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -350,24 +396,24 @@
           "time_info": "[01时12分 ~ 04时57分]"
         },
         {
-          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
-          "url": "https://wallstreetcn.com/livenews/3088207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
           "url": "https://wallstreetcn.com/articles/3769987",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时51分]"
+        },
+        {
+          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
+          "url": "https://wallstreetcn.com/livenews/3088207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -394,6 +440,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时50分 ~ 07时44分]"
+        },
+        {
+          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
+          "url": "https://www.cls.cn/detail/2344302",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
         },
         {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
@@ -460,6 +517,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3088283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         }
       ]
     }
