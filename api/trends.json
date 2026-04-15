@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:02:11.506368+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-04-15T21:42:23.067465+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 21时42分]"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -74,6 +75,19 @@
           "time_info": "[01时12分 ~ 10时43分]"
         },
         {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时42分]"
+        },
+        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
@@ -85,18 +99,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 06时50分]"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时02分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -161,7 +163,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -190,6 +192,19 @@
           "time_info": "[04时57分 ~ 05时56分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时42分]"
+        },
+        {
           "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
           "url": "https://www.cls.cn/detail/2344320",
           "source": "财联社热门",
@@ -200,18 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 15时51分]"
-        },
-        {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时02分]"
         },
         {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
@@ -338,6 +341,17 @@
           "time_info": "15时51分"
         },
         {
+          "title": "OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3088551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
           "url": "https://flash.jin10.com/detail/20260415045655489800",
           "source": "金十数据",
@@ -388,7 +402,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -440,7 +454,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -450,8 +464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 21时42分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -498,6 +512,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "美股三大指数集体高开，量子计算概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3088564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
@@ -557,6 +593,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美股股指期货转跌，报道称美国向中东增兵",
           "url": "https://wallstreetcn.com/livenews/3088378",
           "source": "华尔街见闻-快讯",
@@ -568,6 +615,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "美股开盘，道指涨0.22%，标普500指数涨0.13%，纳指涨0.18%，博通(AVGO.O)股价上涨1.4%，因其与Meta公司延长了定制芯片协议，阿斯麦(ASML.O)开跌3%。",
+          "url": "https://flash.jin10.com/detail/20260415213245498800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260415003157517800",
           "source": "金十数据",
@@ -577,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3088552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）热门中概股行情一览（美股盘中）",
@@ -615,8 +684,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
           "url": "https://news.ifeng.com/c/8sLS5AcutoB",
@@ -625,8 +705,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 21时42分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -643,7 +723,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "据港交所公告，高盛集团在小鹏集团(09868.HK)的多头持仓于4月10日从4.32%增加至5.07%。",
@@ -655,6 +735,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "小鹏GX",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FGX&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "央视称小鹏GX为科技大成之作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%A7%B0%E5%B0%8F%E9%B9%8FGX%E4%B8%BA%E7%A7%91%E6%8A%80%E5%A4%A7%E6%88%90%E4%B9%8B%E4%BD%9C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     }
