@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T17:23:12.939259+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-04-16T19:06:36.077112+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -15,22 +15,12 @@
             7,
             8,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 17时23分]"
-        },
-        {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 19时06分]"
         },
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -40,11 +30,24 @@
             8,
             6,
             5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 19时06分]"
+        },
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 19时06分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -67,11 +70,12 @@
           "ranks": [
             10,
             15,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 19时06分]"
         },
         {
           "title": "明星AI项目被曝抄袭中国团队",
@@ -146,6 +150,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
           "url": "https://wallstreetcn.com/livenews/3088814",
           "source": "华尔街见闻-快讯",
@@ -155,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "阿里巴巴发布可用于游戏开发的AI模型",
@@ -188,12 +214,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "OpenAI：加速网络防御生态系统（建设），保护我们所有人。 美国银行、贝莱德、纽约梅隆银行、花旗集团等公司纷纷签约。",
+          "url": "https://wallstreetcn.com/livenews/3089213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
@@ -250,7 +287,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -337,6 +374,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "纽约梅隆银行第一季度调整后营收54.1亿美元，预期51.8亿美元。 第一季度调整后每股收益2.25美元，预期1.92美元。 纽约梅隆银行美股盘前涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3089243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260416003401876800",
           "source": "金十数据",
@@ -357,6 +405,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "港股新能源汽车股走高，比亚迪股份(01211.HK)涨5%，零跑汽车(09863.HK)、吉利汽车(00175.HK)涨2.6%，小鹏集团(09868.HK)、小米集团(01810.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260416132026640800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
+          "url": "https://www.zhihu.com/question/2027873840957531579",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "小鹏GX开启预售",
+          "url": "https://www.toutiao.com/trending/7629176749170970163/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
@@ -385,34 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小鹏",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股新能源汽车股走高，比亚迪股份(01211.HK)涨5%，零跑汽车(09863.HK)、吉利汽车(00175.HK)涨2.6%，小鹏集团(09868.HK)、小米集团(01810.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260416132026640800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "小鹏GX开启预售",
-          "url": "https://www.toutiao.com/trending/7629176749170970163/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     }
