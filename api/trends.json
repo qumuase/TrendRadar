@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T19:37:18.404088+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-04-18T21:07:35.810451+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时09分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时09分 ~ 21时07分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -31,11 +31,12 @@
             12,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时06分 ~ 19时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时06分 ~ 21时07分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -57,11 +58,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时07分]"
         },
         {
           "title": "16岁学生用AI两小时制作一个小程序",
@@ -248,6 +250,17 @@
           "time_info": "[10时36分 ~ 13时09分]"
         },
         {
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "AI驱动核能需求，美国瞄准纳米比亚铀矿",
           "url": "https://flash.jin10.com/detail/20260417233417863800",
           "source": "金十数据",
@@ -311,8 +324,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时41分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[07时41分 ~ 21时07分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
