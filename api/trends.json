@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T05:56:50.326627+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-04-21T06:48:08.511868+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 06时48分]"
         },
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -30,8 +30,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 06时48分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 06时48分]"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 06时48分]"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 06时48分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -49,41 +87,19 @@
           "time_info": "[00时12分 ~ 05时56分]"
         },
         {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            9
+            26,
+            24,
+            23,
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时56分]"
-        },
-        {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时56分]"
-        },
-        {
-          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
-          "url": "https://www.zhihu.com/question/2029565174948914400",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时48分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -100,18 +116,16 @@
           "time_info": "[02时02分 ~ 05时56分]"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            24,
-            23,
-            18
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时12分 ~ 05时56分]"
+          "time_info": "[04时01分 ~ 06时48分]"
         },
         {
           "title": "华为首款AI眼镜来了",
@@ -150,15 +164,16 @@
           "time_info": "[00时12分 ~ 02时03分]"
         },
         {
-          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
-          "source": "澎湃新闻",
+          "title": "观众为何对AI表演集体不买账",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9AI%E8%A1%A8%E6%BC%94%E9%9B%86%E4%BD%93%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            21,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时01分 ~ 05时56分]"
+          "time_info": "[05时56分 ~ 06时48分]"
         },
         {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
@@ -206,17 +221,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "观众为何对AI表演集体不买账",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9AI%E8%A1%A8%E6%BC%94%E9%9B%86%E4%BD%93%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "AI版成何体统逐玉",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%E9%80%90%E7%8E%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -242,7 +246,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -261,34 +265,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 06时48分]"
         },
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3091332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 06时48分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -298,8 +292,21 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 06时48分]"
+        },
+        {
+          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3091332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时01分 ~ 05时56分]"
+          "time_info": "[04时59分 ~ 06时48分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -326,6 +333,29 @@
           "time_info": "[04时59分 ~ 05时56分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 06时48分]"
+        },
+        {
+          "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
+          "url": "https://wallstreetcn.com/livenews/3091337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时48分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金收涨超4.3%，新兴市场ETF、黄金ETF至多跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3091321",
           "source": "华尔街见闻-快讯",
@@ -348,17 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时56分]"
-        },
-        {
-          "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
-          "url": "https://wallstreetcn.com/livenews/3091337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
