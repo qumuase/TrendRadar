@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T05:56:55.477633+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-23T06:52:28.188721+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -34,15 +34,16 @@
           "time_info": "[01时13分 ~ 04时58分]"
         },
         {
-          "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
-          "url": "https://wallstreetcn.com/livenews/3092864",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
@@ -57,16 +58,16 @@
           "time_info": "[04时58分 ~ 05时56分]"
         },
         {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
+          "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3092864",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时52分]"
         },
         {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
@@ -79,6 +80,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时56分]"
+        },
+        {
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时52分]"
         },
         {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
@@ -151,15 +164,37 @@
           "time_info": "01时13分"
         },
         {
-          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
-          "url": "https://www.cls.cn/detail/2352859",
-          "source": "财联社热门",
+          "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260423060230487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "特斯拉美股盘后跌幅扩大至1.2%，业绩报告发布后曾一度上涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "英特尔美股盘后涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3092878",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "06时52分"
         },
         {
           "title": "美股收盘：标普500、纳指创收盘新高",
@@ -193,12 +228,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3092868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3092865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -209,8 +266,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "用AI办了场车展",
@@ -222,8 +279,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -234,8 +291,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
@@ -246,8 +303,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -257,8 +314,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -269,8 +326,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "ServiceNOW一季度营收37.7亿美元，分析师预期37.4亿美元。 一季度剩余待偿还债务126.4亿美元，预计将在二季度增长19%。 公司与谷歌云在AI Agents（AI智能体）领域合作。 预计全年订阅营收157.4亿-157.8亿美元，分析师预期155.4亿美元。 预计二季度订阅用户营收38.2亿美元左右，分析师预期37.5亿美元。 ServiceNOW（NOW）美股盘后重挫12.9%。",
@@ -294,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
+          "url": "https://wallstreetcn.com/livenews/3092882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -324,7 +392,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
