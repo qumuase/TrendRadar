@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T15:58:52.480735+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-04-23T17:53:12.285737+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 15时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 17时53分]"
         },
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -32,6 +32,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时13分 ~ 07时49分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时53分]"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时58分 ~ 17时53分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
@@ -83,15 +107,15 @@
           "time_info": "07时49分"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
+          "url": "https://wallstreetcn.com/livenews/3093216",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时58分"
+          "time_info": "17时53分"
         },
         {
           "title": "用AI办了场车展",
@@ -119,15 +143,28 @@
           "time_info": "[01时13分 ~ 06时52分]"
         },
         {
-          "title": "受AI冲击 短剧霸总回家种地",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
-          "source": "百度热搜",
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            18,
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 17时53分]"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
@@ -154,16 +191,26 @@
           "time_info": "[04时58分 ~ 05时56分]"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
+          "title": "直击“新股王”源杰科技股东会：AI需求“指数级增长” 设备到场后产能将逐季释放",
+          "url": "https://www.cls.cn/detail/2353083",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时33分 ~ 15时58分]"
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "AI再现黄海海战 福建舰北洋水师同框",
+          "url": "https://www.toutiao.com/trending/7630692654993227818/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
@@ -176,6 +223,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 13时33分]"
+        },
+        {
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "神仙肉 AI配角",
+          "url": "https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BB%99%E8%82%89%20AI%E9%85%8D%E8%A7%92&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
@@ -206,7 +275,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -253,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "全国首例AI模型侵权案详情披露，类似案件审理仍面临难题",
+          "url": "https://wallstreetcn.com/livenews/3093203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -305,7 +385,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -368,7 +448,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -619,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "好未来第四季度净营收8.024亿美元，预估7.79亿美元。 第四季度调整后每ADS收益 0.45美元，预估0.11美元。 第四季度毛利率53.2％，预估55.5％。 好未来美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3093195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。",
