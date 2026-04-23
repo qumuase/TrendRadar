@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T03:14:05.597613+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-24T04:56:12.932372+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -59,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -73,8 +75,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
+        },
+        {
+          "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
+          "url": "https://wallstreetcn.com/livenews/3093507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
@@ -83,7 +96,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -105,7 +118,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -116,7 +129,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -127,7 +140,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -138,7 +151,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -149,7 +162,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
@@ -157,7 +170,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -167,8 +180,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
+        },
+        {
+          "title": "MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3093517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "德国思爱普Sap一季度非IFRS营收95.6亿欧元，分析师预期95.3亿欧元。 一季度非IFRS云/软件营收85.5亿欧元，分析师预期84.7亿欧元。 一季度非IFRS云营收59.6亿欧元，分析师预期59亿欧元。 一季度云订单积压219亿欧元，分析师预期216.5亿欧元。 维持全年云营收预期在258亿-262亿欧元不变，维持非IFRS运营利润预期在119亿–123亿欧元不变。 预计2026年云营收（剔除汇率因素）将为258亿-262亿欧元。 预计2026年云/软件营收（剔除汇率因素）将为363亿-368亿欧元。 Sap ADR美股盘后涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3093516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         },
         {
           "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
@@ -176,11 +211,40 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 04时56分]"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后大涨13%。",
+          "url": "https://flash.jin10.com/detail/20260424041652714800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌2.47%，报6843.70点。 热门中概股里，好未来初步收跌9.3%，小鹏跌6.4%，新东方跌5.8%，小马智行跌5%，文远知行、再鼎医药跌4.3%，阿里巴巴跌3.5%，网易跌3.2%，蔚来跌3%，理想、万国数据大致持平，世纪互联涨0.8%，晶科能源涨1%，阿特斯太阳能涨9.5%。 ETF中，KWEB跌2.8%，CQQQ跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3093503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时56分"
         }
       ]
     }
