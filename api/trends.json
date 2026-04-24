@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T19:59:42.233103+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-04-24T22:02:34.075736+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -31,11 +31,12 @@
             5,
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 19时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 22时02分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -96,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时02分]"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -125,6 +126,18 @@
           "time_info": "13时38分"
         },
         {
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时02分]"
+        },
+        {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/3093542",
           "source": "华尔街见闻-快讯",
@@ -150,6 +163,17 @@
           "time_info": "[10时50分 ~ 16时07分]"
         },
         {
+          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
+          "url": "https://wallstreetcn.com/articles/3770753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时02分]"
+        },
+        {
           "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
           "url": "https://www.zhihu.com/question/2030235662557951222",
           "source": "知乎",
@@ -159,17 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时38分 ~ 18时24分]"
-        },
-        {
-          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
-          "url": "https://wallstreetcn.com/articles/3770753",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时59分]"
         },
         {
           "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
@@ -220,17 +233,6 @@
           "time_info": "[06时50分 ~ 07时50分]"
         },
         {
-          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
-          "url": "https://www.cls.cn/detail/2355054",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "OpenAI：销售和市场部门对AGI的需求比工程师更强烈。",
           "url": "https://flash.jin10.com/detail/20260424103557745800",
           "source": "金十数据",
@@ -248,7 +250,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -297,6 +299,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
           "url": "https://flash.jin10.com/detail/20260424064650416800",
           "source": "金十数据",
@@ -328,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "工会表示，任何对精神航空（Spirit Airlines）的联邦救助必须确保员工不被裁员或减薪。",
+          "url": "https://flash.jin10.com/detail/20260424212909877800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "AI驱动需求回升 英特尔一季度营收超预期",
@@ -385,6 +409,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "OpenAI：发布GPT‑5.5，并配备迄今为止最强大的一套安全防护措施。",
           "url": "https://flash.jin10.com/detail/20260424020613042800",
           "source": "金十数据",
@@ -427,12 +462,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "小米高管称所有岗位都可能被AI替代",
+          "url": "https://www.toutiao.com/trending/7632268659670453770/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -445,8 +491,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 22时02分]"
         },
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -520,6 +566,28 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美股盘初：主要行业ETF涨跌不一，半导体ETF涨近4%，全球科技股指数ETF涨超2%，医疗业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3094126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260424214337991800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美股盘前：英特尔涨约21%，SAP涨约7%，MaxLinea涨约35%",
           "url": "https://wallstreetcn.com/livenews/3093841",
           "source": "华尔街见闻-快讯",
@@ -529,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "美股盘初：英特尔涨约26%，股价创历史新高，MaxLinea涨约67%",
+          "url": "https://wallstreetcn.com/livenews/3094121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "德国思爱普Sap一季度非IFRS营收95.6亿欧元，分析师预期95.3亿欧元。 一季度非IFRS云/软件营收85.5亿欧元，分析师预期84.7亿欧元。 一季度非IFRS云营收59.6亿欧元，分析师预期59亿欧元。 一季度云订单积压219亿欧元，分析师预期216.5亿欧元。 维持全年云营收预期在258亿-262亿欧元不变，维持非IFRS运营利润预期在119亿–123亿欧元不变。 预计2026年云营收（剔除汇率因素）将为258亿-262亿欧元。 预计2026年云/软件营收（剔除汇率因素）将为363亿-368亿欧元。 Sap ADR美股盘后涨11%。",
@@ -589,6 +668,17 @@
           "time_info": "18时24分"
         },
         {
+          "title": "美伊谈判叠加强劲财报，美股期指走高，纳指100期货涨超1.5%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后大涨13%。",
           "url": "https://flash.jin10.com/detail/20260424041652714800",
           "source": "金十数据",
@@ -611,6 +701,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美股三大股指开盘上涨 英特尔涨24%创新高",
+          "url": "https://flash.jin10.com/detail/20260424213053770800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "英特尔 Q1 营收超 136 亿美元，净利暴涨 156%，美股 CPU 板块能复刻 GPU 和内存的超级周期么？",
           "url": "https://www.zhihu.com/question/2030925174657258157",
           "source": "知乎",
@@ -622,6 +723,17 @@
           "time_info": "16时07分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3094098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "通信片上系统（SOC）供应商MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。 该公司一季度净营收1.372亿美元，分析师预期1.345亿美元。 一季度调整后EPS为0.22美元，分析师预期0.18美元。 一季度调整后毛利润率59.5%，分析师预期59.5%。 预计二季度营收1.60亿-1.70亿美元，分析师预期1.371亿美元。 预计二季度调整后毛利率58%-61%，分析师预期59.6%。",
           "url": "https://wallstreetcn.com/livenews/3093517",
           "source": "华尔街见闻-快讯",
@@ -631,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-24）",
+          "url": "https://flash.jin10.com/detail/20260424212455353800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -638,6 +761,17 @@
       "keyword_group": "特朗普",
       "match_count": 2,
       "titles": [
+        {
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时02分]"
+        },
         {
           "title": "伊朗战争丨中国被指给伊朗送物资，特朗普回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -648,17 +782,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
-        },
-        {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         }
       ]
     },
