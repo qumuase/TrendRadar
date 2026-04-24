@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T02:56:45.901057+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-04-25T03:54:38.249814+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -39,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -72,11 +72,12 @@
           "ranks": [
             16,
             11,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时54分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -90,15 +91,38 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时54分]"
+        },
+        {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
           "url": "https://flash.jin10.com/detail/20260425022647112800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3094267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -107,20 +131,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "戛纳电影宫的中国AI时刻",
-          "url": "https://www.douyin.com/hot/2476611",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时56分"
         },
         {
           "title": "中国AI隐形王者股价一年翻10倍",
@@ -129,7 +142,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         }
@@ -147,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -158,8 +171,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -167,11 +180,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -220,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 03时54分]"
         }
       ]
     }
