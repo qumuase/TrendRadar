@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T22:47:02.766350+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-26T23:44:18.770183+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 22时47分]"
+          "appearance_count": 8,
+          "time_info": "[15时43分 ~ 23时44分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -57,11 +57,12 @@
             20,
             23,
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时45分 ~ 22时47分]"
+          "appearance_count": 22,
+          "time_info": "[00时45分 ~ 23时44分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -125,6 +126,18 @@
           "time_info": "[15时43分 ~ 17时04分]"
         },
         {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时12分 ~ 23时44分]"
+        },
+        {
           "title": "AI帮忙投资靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
           "source": "bilibili 热搜",
@@ -137,18 +150,6 @@
           "time_info": "[00时45分 ~ 07时41分]"
         },
         {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时12分 ~ 22时47分]"
-        },
-        {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
           "url": "https://wallstreetcn.com/articles/3770919",
           "source": "华尔街见闻",
@@ -156,8 +157,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时44分]"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时44分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -170,17 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 15时43分]"
-        },
-        {
-          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2029541889469096343",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
