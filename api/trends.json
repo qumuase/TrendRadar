@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T01:41:21.674295+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-04-27T02:59:03.433479+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时59分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
           "url": "https://flash.jin10.com/detail/20260427010358748800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时59分]"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时59分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -35,11 +48,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时59分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -49,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时59分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -61,19 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时41分]"
-        },
-        {
-          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2029541889469096343",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时59分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -83,8 +86,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时59分]"
         }
       ]
     }
