@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:41:37.628198+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-04-26T21:12:27.880060+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -42,11 +42,12 @@
             19,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 19时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 21时12分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -80,11 +81,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 21时12分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -123,6 +125,18 @@
           "time_info": "[17时04分 ~ 19时41分]"
         },
         {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时12分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
@@ -133,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 15时43分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时41分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -157,13 +160,24 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "从英伟达市值看AI革命的激进超越",
           "url": "https://www.toutiao.com/trending/7633001660754693695/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
