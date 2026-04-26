@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T13:43:06.830932+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-04-26T15:43:54.861225+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -39,11 +39,12 @@
           "ranks": [
             14,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 13时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 15时43分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -71,6 +72,17 @@
           "time_info": "[00时45分 ~ 10时55分]"
         },
         {
+          "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
+          "url": "https://flash.jin10.com/detail/20260426150306413800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "AI帮忙投资靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
           "source": "bilibili 热搜",
@@ -81,6 +93,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 07时41分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 15时43分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -94,15 +118,15 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260426120715740800",
-          "source": "金十数据",
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "15时43分"
         }
       ]
     },
@@ -120,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 13时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 15时43分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
