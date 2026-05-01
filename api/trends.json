@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T05:55:49.086741+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-05-02T06:53:30.542845+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -32,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
@@ -55,8 +55,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时53分]"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝",
@@ -80,8 +80,42 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时53分]"
+        },
+        {
+          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
+          "url": "https://www.zhihu.com/question/2029888609017422176",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
+          "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
+          "url": "https://wallstreetcn.com/livenews/3098058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时53分]"
+        },
+        {
+          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时53分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -128,39 +162,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
-          "url": "https://wallstreetcn.com/livenews/3098058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
           "title": "特朗普：仍在考虑对Spirit Airlines的纾困方案，可能本周发布声明",
           "url": "https://wallstreetcn.com/livenews/3097973",
           "source": "华尔街见闻-快讯",
@@ -175,7 +176,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -185,8 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -209,8 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时53分]"
         },
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -222,8 +223,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
@@ -233,8 +234,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时53分]"
         },
         {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。",
@@ -243,9 +244,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
+          "url": "https://wallstreetcn.com/livenews/3098073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -259,6 +271,29 @@
           "time_info": "00时02分"
         },
         {
+          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3098047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时53分]"
+        },
+        {
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时53分]"
+        },
+        {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
           "url": "https://wallstreetcn.com/livenews/3097992",
           "source": "华尔街见闻-快讯",
@@ -269,29 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时24分]"
-        },
-        {
-          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3098047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
-        },
-        {
-          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
-          "url": "https://flash.jin10.com/detail/20260502040111732800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -321,8 +333,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
