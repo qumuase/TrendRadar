@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:51:33.664735+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-05-02T23:51:04.034600+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时39分 ~ 22时51分]"
+          "appearance_count": 12,
+          "time_info": "[13时39分 ~ 23时51分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -33,8 +33,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时39分 ~ 22时51分]"
+          "appearance_count": 12,
+          "time_info": "[13时39分 ~ 23时51分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
@@ -48,6 +48,55 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时38分 ~ 15时48分]"
+        },
+        {
+          "title": "网警提醒：警惕AI伪造骗局",
+          "url": "https://www.toutiao.com/trending/7634928581718294547/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时47分 ~ 23时51分]"
+        },
+        {
+          "title": "五一假期收好这份AI伪造防范指南",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时47分 ~ 23时51分]"
+        },
+        {
+          "title": "网警发布五一AI防骗指南",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时47分 ~ 23时51分]"
+        },
+        {
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时47分 ~ 23时51分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -108,54 +157,6 @@
           "time_info": "[08时38分 ~ 18时55分]"
         },
         {
-          "title": "网警提醒：警惕AI伪造骗局",
-          "url": "https://www.toutiao.com/trending/7634928581718294547/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 22时51分]"
-        },
-        {
-          "title": "五一假期收好这份AI伪造防范指南",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 22时51分]"
-        },
-        {
-          "title": "网警发布五一AI防骗指南",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 22时51分]"
-        },
-        {
-          "title": "专访｜赵又廷：别让AI取代我就行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 22时51分]"
-        },
-        {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
           "url": "https://www.zhihu.com/question/2033267772931749457",
           "source": "知乎",
@@ -166,6 +167,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时39分 ~ 18时55分]"
+        },
+        {
+          "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
+          "url": "https://wallstreetcn.com/livenews/3098171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时51分]"
         },
         {
           "title": "网警发布五一AI防骗指南",
@@ -179,15 +192,15 @@
           "time_info": "[13时39分 ~ 13时40分]"
         },
         {
-          "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
-          "url": "https://wallstreetcn.com/livenews/3098171",
+          "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
+          "url": "https://wallstreetcn.com/livenews/3098175",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时51分"
         },
         {
           "title": "用AI把我家猫养在了电脑上",
@@ -202,26 +215,26 @@
           "time_info": "[10时52分 ~ 18时55分]"
         },
         {
-          "title": "伯克希尔CEO格雷格·阿贝尔：我们不会为了做AI而做AI。",
-          "url": "https://flash.jin10.com/detail/20260502222754777800",
-          "source": "金十数据",
+          "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
+          "url": "https://wallstreetcn.com/livenews/3098174",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时51分"
         },
         {
-          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098169",
-          "source": "华尔街见闻-快讯",
+          "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
+          "url": "https://flash.jin10.com/detail/20260502225511192800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时51分"
         },
         {
           "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
@@ -262,6 +275,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时48分 ~ 23时51分]"
+        },
+        {
           "title": "时隔五年我用AI复活了父亲",
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E6%88%91%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E4%BA%86%E7%88%B6%E4%BA%B2&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -273,6 +297,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时47分 ~ 18时55分]"
+        },
+        {
+          "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时51分]"
+        },
+        {
+          "title": "伯克希尔CEO格雷格·阿贝尔：我们不会为了做AI而做AI。",
+          "url": "https://flash.jin10.com/detail/20260502222754777800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时51分]"
         },
         {
           "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
@@ -360,17 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 06时53分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 22时51分]"
         },
         {
           "title": "据日本经济产业省消息，日本太阳石油公司（Taiyo Oil）将接收一船来自俄罗斯“萨哈林2号”（Sakhalin-2）项目的原油。（日本每日新闻）",
@@ -481,6 +518,17 @@
           "time_info": "[13时39分 ~ 13时40分]"
         },
         {
+          "title": "在 AI 时代，最重要的能力是什么？",
+          "url": "https://www.zhihu.com/question/2026056884801520039",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
+        },
+        {
           "title": "日本首相高市早苗在河内表示：将继续加强与越南在能源、关键矿产、AI、半导体以及航天领域的合作。 日本将协助为越南宜山炼油石化公司协调原油供应。",
           "url": "https://wallstreetcn.com/livenews/3098114",
           "source": "华尔街见闻-快讯",
@@ -491,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时48分 ~ 17时09分]"
+        },
+        {
+          "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
+          "url": "https://www.zhihu.com/question/2031784120653697717",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
         },
         {
           "title": "中国交付南亚最强AIP潜艇意味着什么",
@@ -524,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "不盲目跟风 伯克希尔谨慎推进AI策略并确立三大原则",
+          "url": "https://flash.jin10.com/detail/20260502224136117800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "Spirit Air股价暴跌逾70%，报道称特朗普没能提供救助、该航司准备停止运营",
@@ -617,6 +687,19 @@
           "time_info": "[00时02分 ~ 10时52分]"
         },
         {
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时54分 ~ 23时51分]"
+        },
+        {
           "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260502040603336800",
           "source": "金十数据",
@@ -665,18 +748,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时51分]"
-        },
-        {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
           "url": "https://wallstreetcn.com/livenews/3098073",
           "source": "华尔街见闻-快讯",
@@ -688,6 +759,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时53分 ~ 10时52分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时17分 ~ 23时51分]"
         },
         {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
@@ -764,17 +846,6 @@
           "time_info": "[02时01分 ~ 03时24分]"
         },
         {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时51分]"
-        },
-        {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
           "url": "https://wallstreetcn.com/livenews/3098043",
           "source": "华尔街见闻-快讯",
@@ -815,8 +886,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 22时51分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 23时51分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.59%，报6887.43点，本周累计下跌0.94%，整体呈现出V形走势。 热门中概股里，蔚来跌7.1%，小鹏跌2.7%，理想跌1.4%，阿里跌0.2%，腾讯涨0.3%，网易涨0.3%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨0.60%，本周反弹3.73%； 德银嘉实沪深300指数ETF（ASHR）收涨0.23%，本周累涨1.46%； 中国科技指数ETF（CQQQ）收涨0.29%，本周反弹2.20%； 中概互联网指数ETF（KWEB）收涨0.03%，本周累跌0.17%——延续上周下挫5.32%的表现。",
