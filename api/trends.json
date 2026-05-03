@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:48:28.531671+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-03T11:28:03.865637+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -13,33 +13,36 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 11时28分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 11时28分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 11时28分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -119,11 +122,12 @@
           "ranks": [
             1,
             3,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时44分 ~ 07时48分]"
+          "appearance_count": 5,
+          "time_info": "[04时44分 ~ 11时28分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -141,6 +145,28 @@
           "time_info": "[00时53分 ~ 07时48分]"
         },
         {
+          "title": "公司用AI了35岁主管被裁",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E4%BA%8635%E5%B2%81%E4%B8%BB%E7%AE%A1%E8%A2%AB%E8%A3%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "误导女子闯入毒蛇窝AI道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -153,6 +179,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 07时48分]"
+        },
+        {
+          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
+          "url": "https://wallstreetcn.com/articles/3771481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 11时28分]"
+        },
+        {
+          "title": "日本制造巨头“批量转战AI”，“卫浴巨头”扩大存储元件产量，Toto股价飙升",
+          "url": "https://wallstreetcn.com/articles/3771480",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -201,17 +250,6 @@
           "time_info": "[00时52分 ~ 00时53分]"
         },
         {
-          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
-          "url": "https://wallstreetcn.com/articles/3771481",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
           "title": "伯克希尔CEO格雷格·阿贝尔：我们不会为了做AI而做AI。",
           "url": "https://flash.jin10.com/detail/20260502222754777800",
           "source": "金十数据",
@@ -257,11 +295,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 07时48分]"
+          "appearance_count": 8,
+          "time_info": "[03时02分 ~ 11时28分]"
         }
       ]
     },
@@ -276,11 +315,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时52分 ~ 11时28分]"
         }
       ]
     }
