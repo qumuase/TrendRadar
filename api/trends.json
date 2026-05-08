@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-08T15:53:36.190827+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-05-08T17:25:16.049506+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时59分]"
-        },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771759",
@@ -31,8 +19,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时27分 ~ 15时53分]"
+          "appearance_count": 10,
+          "time_info": "[02时27分 ~ 17时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 13时59分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -49,19 +49,6 @@
           "time_info": "[02时27分 ~ 15时53分]"
         },
         {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 15时53分]"
-        },
-        {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
           "source": "澎湃新闻",
@@ -69,6 +56,19 @@
             16,
             15,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 17时25分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -85,6 +85,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 13时59分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
@@ -260,7 +293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -268,8 +301,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 17时25分]"
+        },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3771614",
@@ -291,17 +335,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 06时01分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 15时53分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -362,6 +395,17 @@
           "time_info": "[01时03分 ~ 06时01分]"
         },
         {
+          "title": "巴菲特为何说美股正赌场化",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BD%95%E8%AF%B4%E7%BE%8E%E8%82%A1%E6%AD%A3%E8%B5%8C%E5%9C%BA%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 Arm跌10%",
           "url": "https://flash.jin10.com/detail/20260508040237362800",
           "source": "金十数据",
@@ -407,7 +451,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
