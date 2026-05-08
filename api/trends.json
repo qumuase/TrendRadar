@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-08T22:09:29.963014+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-05-08T23:26:02.853592+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            11,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 23时26分]"
+        },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771759",
@@ -35,18 +50,28 @@
           "time_info": "[07时54分 ~ 13时59分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            15,
-            11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 22时09分]"
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 23时26分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 23时26分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -69,33 +94,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 22时09分]"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 22时09分]"
         },
         {
           "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
@@ -121,6 +122,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时21分 ~ 15时53分]"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -157,6 +169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 15时53分]"
+        },
+        {
+          "title": "顶级玩家已开始让AI用AI",
+          "url": "https://www.toutiao.com/trending/7637442790393122350/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -209,7 +232,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -341,7 +364,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -371,8 +394,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 22时09分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 23时26分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -427,7 +450,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -483,7 +506,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -527,7 +550,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -538,7 +561,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         },
@@ -549,7 +572,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时09分"
         }
