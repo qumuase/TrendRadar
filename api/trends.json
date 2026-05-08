@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:25:16.049506+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-05-08T19:19:14.210076+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时27分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[02时27分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时54分 ~ 13时59分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 19时19分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -49,17 +62,39 @@
           "time_info": "[02时27分 ~ 15时53分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
           "ranks": [
-            16,
-            15,
-            11
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时19分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时19分]"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时19分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -85,39 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 13时59分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
@@ -254,6 +256,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "大普微：受AI商业化节奏、云计算投入及下游应用景气度变化影响，AI带动的企业级SSD存储需求发展存在一定的波动和不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3100649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2035645446962549472",
           "source": "知乎",
@@ -296,23 +309,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "南威软件：公司智算运营相关的AI工具仍处于测试阶段，尚未正式发版",
+          "url": "https://flash.jin10.com/detail/20260508182018476800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 19时19分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -393,6 +418,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 06时01分]"
+        },
+        {
+          "title": "如何看待美股金融板块背离",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E9%87%91%E8%9E%8D%E6%9D%BF%E5%9D%97%E8%83%8C%E7%A6%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "巴菲特为何说美股正赌场化",
