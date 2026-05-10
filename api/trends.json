@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T01:01:57.156410+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-11T01:59:52.539648+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
           "title": "AI时代如何评价各专业",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -48,19 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -70,19 +60,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
+        },
+        {
+          "title": "AI正在污染我们的判断力",
+          "url": "https://www.toutiao.com/trending/7638257796718267946/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -92,15 +95,15 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         },
         {
-          "title": "AI正在污染我们的判断力",
-          "url": "https://www.toutiao.com/trending/7638257796718267946/",
-          "source": "今日头条",
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时59分]"
         }
       ]
     }
