@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:23:32.650750+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-10T22:56:13.223018+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时52分 ~ 21时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时52分 ~ 22时56分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -55,6 +55,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 07时52分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时31分 ~ 22时56分]"
+        },
+        {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 22时56分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -83,34 +111,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时56分 ~ 14时35分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时31分 ~ 21时23分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5,
-            10,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 21时23分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -150,6 +150,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 07时52分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时56分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -216,19 +230,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时52分 ~ 16时56分]"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 21时23分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -335,6 +336,28 @@
           "time_info": "[11时31分 ~ 14时35分]"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 22时56分]"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
           "title": "AI修复美国公布UFO照片",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
           "source": "bilibili 热搜",
@@ -344,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
         },
         {
           "title": "用AI花3个月完成百名程序员7年工作",
@@ -374,18 +386,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
-          "url": "https://wallstreetcn.com/articles/3771825",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时50分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -396,8 +396,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 22时56分]"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时50分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
