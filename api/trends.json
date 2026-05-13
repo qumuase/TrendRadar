@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T20:07:43.415352+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-05-13T23:53:28.952521+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -95,6 +95,17 @@
           "time_info": "[14时53分 ~ 20时07分]"
         },
         {
+          "title": "马化腾回应AI掉队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "【阿里巴巴：AI相关产品收入连续十一个季度实现三位数增长】阿里巴巴表示，截至2026年3月31日止季度，云智能集团收入为人民币 416.26 亿元（60.35 亿美元），同比增长 38%，特别是外部商业化收入同比增长加速至 40%。这一增长势头主要由公共云业务收入增长所驱动，其中包括 AI 相关产品采用量的提升。本季度 AI 相关产品收入保持强劲势头，达 89.71 亿元人 民币，实现连续第十一个季度的三位数同比增长。",
           "url": "https://wallstreetcn.com/livenews/3102910",
           "source": "华尔街见闻-快讯",
@@ -111,11 +122,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 20时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 23时53分]"
         },
         {
           "title": "封神2特效 不如AI",
@@ -142,6 +154,18 @@
           "time_info": "[11时36分 ~ 14时53分]"
         },
         {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 23时53分]"
+        },
+        {
           "title": "韩国AI红利：闪崩之后，悬念才刚开始",
           "url": "https://wallstreetcn.com/articles/3772076",
           "source": "华尔街见闻",
@@ -164,6 +188,18 @@
           "time_info": "[03时57分 ~ 05时23分]"
         },
         {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 23时53分]"
+        },
+        {
           "title": "Create2026百度AI开发者大会",
           "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
           "source": "百度热搜",
@@ -175,16 +211,15 @@
           "time_info": "[11时36分 ~ 11时37分]"
         },
         {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
+          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
+          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时47分 ~ 20时07分]"
+          "time_info": "[20时07分 ~ 23时53分]"
         },
         {
           "title": "AI世界的“原油期货”要来了：芝商所官宣将推出算力期货市场",
@@ -222,24 +257,24 @@
           "time_info": "[17时47分 ~ 20时07分]"
         },
         {
+          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
+          "url": "https://wallstreetcn.com/articles/3772197",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "阿里巴巴CEO：预计约一年后，AI相关收入将突破50%，成为推动云收入增长的主要引擎。 公司正在看到AI模型及应用服务收入实现“指数级增长”，这一增长由基础模型服务和AI原生软件共同驱动。 模型服务平台上的Token消耗量环比大幅增长。 代理工作负载激增，显著提升了围绕CPU存储和容器构建的传统云产品需求。 我们的技术投入正开始带来商业回报。 我们目前的（AI）供给能力无法完全满足不断增长的需求。",
           "url": "https://wallstreetcn.com/livenews/3103007",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772187",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -250,9 +285,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
+        },
+        {
+          "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
+          "url": "https://wallstreetcn.com/articles/3772184",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "吴泳铭：阿里AI跨越初期投入阶段，正式迈入商业化回报周期",
@@ -261,18 +307,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
-          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -283,7 +318,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -327,9 +362,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
+        },
+        {
+          "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
+          "url": "https://wallstreetcn.com/livenews/3103116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
@@ -382,7 +428,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -404,9 +450,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
+        },
+        {
+          "title": "AI假扮女儿打电话：妈妈开门",
+          "url": "https://www.baidu.com/s?wd=AI%E5%81%87%E6%89%AE%E5%A5%B3%E5%84%BF%E6%89%93%E7%94%B5%E8%AF%9D%EF%BC%9A%E5%A6%88%E5%A6%88%E5%BC%80%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "阿里巴巴(09988.HK)：优先考虑将人工智能（AI）与电子商务应用相结合，将继续投资人工智能+云计算。",
@@ -451,13 +508,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "Meta Platforms(META.O)推出与Meta AI的无痕聊天功能。",
+          "url": "https://flash.jin10.com/detail/20260513224717829800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 23时53分]"
+        },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
@@ -470,16 +551,19 @@
           "time_info": "[01时15分 ~ 07时05分]"
         },
         {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3
+            10,
+            4,
+            5,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 20时07分]"
+          "appearance_count": 7,
+          "time_info": "[07时05分 ~ 23时53分]"
         },
         {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
@@ -492,20 +576,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时05分 ~ 14时53分]"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 20时07分]"
         },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -597,6 +667,17 @@
           "time_info": "[11时36分 ~ 14时53分]"
         },
         {
+          "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
+          "url": "https://www.cls.cn/detail/2370478",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌3%，布油基金涨3.4%",
           "url": "https://wallstreetcn.com/livenews/3102508",
           "source": "华尔街见闻-快讯",
@@ -666,20 +747,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.toutiao.com/trending/7638540672749125641/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 20时07分]"
-        },
         {
           "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
           "url": "https://www.cls.cn/detail/2370077",
@@ -718,15 +787,41 @@
           "time_info": "[14时53分 ~ 20时07分]"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 23时53分]"
+        },
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 23时53分]"
+        },
+        {
+          "title": "特朗普乘专机抵达中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354259&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时07分"
+          "time_info": "23时53分"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -757,23 +852,36 @@
           "source": "微博",
           "ranks": [
             1,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 20时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 23时53分]"
         },
         {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
-          "source": "华尔街见闻",
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            5
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时47分 ~ 20时07分]"
+          "time_info": "[20时07分 ~ 23时53分]"
+        },
+        {
+          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 23时53分]"
         },
         {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
@@ -787,6 +895,18 @@
           "time_info": "[01时15分 ~ 01时16分]"
         },
         {
+          "title": "特朗普访问中国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普：与众多杰出人士去中国很荣幸",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8E%E4%BC%97%E5%A4%9A%E6%9D%B0%E5%87%BA%E4%BA%BA%E5%A3%AB%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%BE%88%E8%8D%A3%E5%B9%B8",
           "source": "百度热搜",
@@ -796,28 +916,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        },
-        {
-          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
-        },
-        {
-          "title": "特朗普访问中国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时07分"
         },
         {
           "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国 是我的荣幸",
