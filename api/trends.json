@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T18:19:28.325846+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-16T19:53:57.458324+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时56分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时56分 ~ 19时53分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -29,11 +29,12 @@
             13,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时40分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时40分 ~ 19时53分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -58,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 19时53分]"
         },
         {
           "title": "【美联储：鲍威尔将担任临时主席，直至凯文·沃什宣誓就职】美联储理事会周五在一份声明中表示，已任命杰罗姆·鲍威尔担任临时主席（chair pro tempore），直至其继任者凯文·沃什（Kevin Warsh）正式宣誓就职。 鲍威尔的主席任期于本周五届满。 美联储表示：“任命现任主席担任临时主席的这一临时举措，与以往历届主席更替期间的惯例保持一致。”",
@@ -84,6 +85,18 @@
           "time_info": "07时57分"
         },
         {
+          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
+          "url": "https://wallstreetcn.com/articles/3772409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时53分]"
+        },
+        {
           "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
           "url": "https://wallstreetcn.com/livenews/3104628",
           "source": "华尔街见闻-快讯",
@@ -96,17 +109,6 @@
           "time_info": "[05时04分 ~ 06时56分]"
         },
         {
-          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
-          "url": "https://wallstreetcn.com/articles/3772409",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时19分]"
-        },
-        {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
           "source": "澎湃新闻",
@@ -114,8 +116,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时53分]"
         },
         {
           "title": "GAI新专Real G完整锐评",
@@ -165,6 +167,40 @@
           "time_info": "[03时41分 ~ 11时32分]"
         },
         {
+          "title": "张凌赫Mai晚宴合照",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%ABMai%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时53分]"
+        },
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
           "url": "https://www.zhihu.com/question/2038779949444757193",
           "source": "知乎",
@@ -187,15 +223,15 @@
           "time_info": "11时32分"
         },
         {
-          "title": "张凌赫Mai晚宴合照",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%ABMai%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "英伟达市值破 5.5 万亿美元，超世界第三大经济体德国 GDP，如何看待 AI 的财富效应？",
+          "url": "https://www.zhihu.com/question/2038563006892568719",
+          "source": "知乎",
           "ranks": [
-            16
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "19时53分"
         },
         {
           "title": "GAI梦话记录",
@@ -204,7 +240,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -288,8 +324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时56分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[06时56分 ~ 19时53分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -527,19 +563,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时53分]"
         },
         {
           "title": "特朗普回国后谈中国行",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时53分]"
         }
       ]
     }
