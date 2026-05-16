@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T16:50:08.774400+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-05-16T18:19:28.325846+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 18时19分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -28,11 +28,12 @@
             7,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 16时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 18时19分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -49,6 +50,18 @@
           "time_info": "[01时40分 ~ 07时57分]"
         },
         {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时19分]"
+        },
+        {
           "title": "【美联储：鲍威尔将担任临时主席，直至凯文·沃什宣誓就职】美联储理事会周五在一份声明中表示，已任命杰罗姆·鲍威尔担任临时主席（chair pro tempore），直至其继任者凯文·沃什（Kevin Warsh）正式宣誓就职。 鲍威尔的主席任期于本周五届满。 美联储表示：“任命现任主席担任临时主席的这一临时举措，与以往历届主席更替期间的惯例保持一致。”",
           "url": "https://wallstreetcn.com/livenews/3104632",
           "source": "华尔街见闻-快讯",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 16时50分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -102,8 +103,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时19分]"
+        },
+        {
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时19分]"
+        },
+        {
+          "title": "GAI新专Real G完整锐评",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E4%B8%93Real%20G%E5%AE%8C%E6%95%B4%E9%94%90%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时19分]"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -141,28 +165,6 @@
           "time_info": "[03时41分 ~ 11时32分]"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
-          "title": "GAI新专Real G完整锐评",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E4%B8%93Real%20G%E5%AE%8C%E6%95%B4%E9%94%90%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
-        },
-        {
           "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
           "url": "https://www.zhihu.com/question/2038779949444757193",
           "source": "知乎",
@@ -183,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "张凌赫Mai晚宴合照",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%ABMai%E6%99%9A%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "GAI梦话记录",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%A2%A6%E8%AF%9D%E8%AE%B0%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
@@ -264,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 18时19分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -488,11 +512,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 16时50分]"
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 18时19分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -502,8 +527,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时19分]"
         },
         {
           "title": "特朗普回国后谈中国行",
