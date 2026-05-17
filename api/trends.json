@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:10:11.053781+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-05-17T21:25:13.824540+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 21时25分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -40,11 +41,12 @@
             5,
             6,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 21时25分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -68,11 +70,12 @@
             20,
             17,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 21时25分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -110,6 +113,18 @@
           "time_info": "00时03分"
         },
         {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时07分 ~ 21时25分]"
+        },
+        {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
@@ -133,18 +148,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 14时47分]"
-        },
-        {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时07分 ~ 19时10分]"
         },
         {
           "title": "境外间谍对我稀土AI等领域实施窃密",
@@ -248,8 +251,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[11时38分 ~ 21时25分]"
         }
       ]
     },
