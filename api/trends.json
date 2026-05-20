@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:38:27.843760+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-05-20T20:27:18.557763+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 17时38分]"
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 20时27分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -126,6 +126,18 @@
           "time_info": "13时07分"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 20时27分]"
+        },
+        {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
           "url": "https://www.cls.cn/detail/2375531",
           "source": "财联社热门",
@@ -210,24 +222,13 @@
           "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
           "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
           "url": "https://www.zhihu.com/question/2040077336809322399",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -252,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "高盛交易台预警：市场主导叙事正悄然从AI转向利率",
+          "url": "https://wallstreetcn.com/articles/3772653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "OpenAI担保给予开支水平的算力。",
@@ -337,7 +349,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -348,7 +360,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -381,7 +393,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
@@ -389,7 +401,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -485,6 +497,18 @@
           "time_info": "02时08分"
         },
         {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 20时27分]"
+        },
+        {
           "title": "华尔街警告：美股“黄金时代”结束",
           "url": "https://www.toutiao.com/trending/7640862320297639979/",
           "source": "今日头条",
@@ -496,15 +520,16 @@
           "time_info": "[02时07分 ~ 06时18分]"
         },
         {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 17时38分]"
+          "time_info": "[17时38分 ~ 20时27分]"
         },
         {
           "title": "美股开盘：西部数据、闪迪跌超3%",
@@ -529,15 +554,15 @@
           "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时38分"
+          "time_info": "20时27分"
         },
         {
           "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
@@ -601,7 +626,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -637,6 +662,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小鹏GX发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
