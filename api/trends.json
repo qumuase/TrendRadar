@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T20:21:45.038293+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-05-22T23:50:01.128307+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -52,11 +52,12 @@
             15,
             14,
             12,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 23时50分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -107,6 +108,20 @@
           "time_info": "[02时02分 ~ 08时04分]"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 23时50分]"
+        },
+        {
           "title": "星巴克在北美全线叫停AI库存盘点工具",
           "url": "https://wallstreetcn.com/livenews/3107600",
           "source": "华尔街见闻-快讯",
@@ -116,6 +131,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 23时50分]"
         },
         {
           "title": "朱自清散文AI率超60%",
@@ -142,29 +170,17 @@
           "time_info": "[02时02分 ~ 04时07分]"
         },
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
           "ranks": [
             12,
-            6,
-            14
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时02分 ~ 20时21分]"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 20时21分]"
+          "time_info": "[17时29分 ~ 23时50分]"
         },
         {
           "title": "用上AI后工作时间反而更长了",
@@ -191,24 +207,23 @@
           "time_info": "[13时02分 ~ 17时29分]"
         },
         {
+          "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时49分 ~ 23时50分]"
+        },
+        {
           "title": "朱自清《荷塘月色》AI率超60%",
           "url": "https://www.toutiao.com/trending/7642580693547057188/",
           "source": "今日头条",
           "ranks": [
             7,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 20时21分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -255,7 +270,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -288,7 +303,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -398,7 +413,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -417,7 +432,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -461,7 +476,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -532,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股早盘小幅上涨，标普500指数势创2023年以来最长周连涨",
+          "url": "https://wallstreetcn.com/livenews/3108140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
@@ -636,7 +662,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -649,6 +675,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 17时29分]"
+        },
+        {
+          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
+          "url": "https://www.zhihu.com/question/2040769816697558038",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时49分 ~ 23时50分]"
         }
       ]
     },
