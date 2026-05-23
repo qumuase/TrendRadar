@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T03:13:48.021497+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T04:56:12.987061+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -37,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         }
       ]
     },
@@ -54,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -65,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 04时56分]"
         }
       ]
     }
