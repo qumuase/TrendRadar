@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T16:32:14.817065+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-05-24T18:43:27.384497+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -22,6 +22,19 @@
           "time_info": "[03时13分 ~ 13时02分]"
         },
         {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 18时43分]"
+        },
+        {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时13分 ~ 08时04分]"
-        },
-        {
-          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
-          "url": "https://wallstreetcn.com/articles/3772976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 16时32分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -66,8 +67,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 18时43分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时02分 ~ 16时32分]"
+          "time_info": "[16时31分 ~ 18时43分]"
         },
         {
           "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
@@ -80,17 +93,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 16时32分]"
-        },
-        {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -115,6 +117,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "为什么大众对 AI 生成代码的道德容忍度要明显高于 AI 生成的图片视频和音乐？",
+          "url": "https://www.zhihu.com/question/2009963807217304580",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "芬兰大学：新型AI聊天机器人有助抵抗错误健康信息",
           "url": "https://flash.jin10.com/detail/20260524102210505800",
           "source": "金十数据",
@@ -124,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+          "url": "https://flash.jin10.com/detail/20260524165346994800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
@@ -153,8 +177,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时13分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[03时13分 ~ 18时43分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -166,8 +190,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时13分 ~ 16时32分]"
+          "appearance_count": 11,
+          "time_info": "[03时13分 ~ 18时43分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
