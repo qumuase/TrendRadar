@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T13:02:58.191078+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-05-24T16:32:14.817065+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 16时32分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -62,11 +62,35 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时32分]"
+        },
+        {
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时32分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -75,7 +99,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -86,18 +110,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/2040070496926922044",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -108,7 +121,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -119,7 +132,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -136,11 +149,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时13分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[03时13分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -148,11 +162,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时13分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[03时13分 ~ 16时32分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -185,7 +200,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -200,11 +215,12 @@
           "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时13分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[03时13分 ~ 16时32分]"
         }
       ]
     }
