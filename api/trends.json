@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T18:11:13.834303+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-05-25T22:09:33.727181+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -48,13 +48,36 @@
           "time_info": "[13时21分 ~ 18时11分]"
         },
         {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 22时09分]"
+        },
+        {
           "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
           "url": "https://flash.jin10.com/detail/20260525173449877800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -84,15 +107,16 @@
           "time_info": "[02时00分 ~ 03时36分]"
         },
         {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 22时09分]"
         },
         {
           "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
@@ -117,17 +141,6 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 18时11分]"
-        },
-        {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
           "url": "https://wallstreetcn.com/livenews/3108500",
           "source": "华尔街见闻-快讯",
@@ -140,15 +153,37 @@
           "time_info": "[00时02分 ~ 02时00分]"
         },
         {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
           "url": "https://wallstreetcn.com/livenews/3108809",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
+          "url": "https://www.cls.cn/detail/2380627",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "原华为云AI算法创新Lab主任朱森华创业，押注类脑智能与具身模型",
@@ -157,9 +192,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "九安医疗：不涉及AI业务单独收费，糖尿病照护业务收入占比低",
+          "url": "https://wallstreetcn.com/livenews/3108907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "腾讯ima宣布AI助手Copilot功能全面开放",
@@ -168,7 +214,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         }
@@ -176,7 +222,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -200,6 +246,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 13时22分]"
+        },
+        {
+          "title": "提醒：美股因节假日休市一日。",
+          "url": "https://wallstreetcn.com/livenews/3108922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
