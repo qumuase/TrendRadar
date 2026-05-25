@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:22:04.699999+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-05-25T18:11:13.834303+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 13时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 18时11分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -34,6 +34,29 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 13时22分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 18时11分]"
+        },
+        {
+          "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
+          "url": "https://flash.jin10.com/detail/20260525173449877800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -61,15 +84,15 @@
           "time_info": "[02时00分 ~ 03时36分]"
         },
         {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
-          "source": "财联社热门",
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "time_info": "[18时10分 ~ 18时11分]"
         },
         {
           "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
@@ -94,6 +117,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 18时11分]"
+        },
+        {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
           "url": "https://wallstreetcn.com/livenews/3108500",
           "source": "华尔街见闻-快讯",
@@ -104,6 +138,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 02时00分]"
+        },
+        {
+          "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
+          "url": "https://wallstreetcn.com/livenews/3108809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "原华为云AI算法创新Lab主任朱森华创业，押注类脑智能与具身模型",
+          "url": "https://wallstreetcn.com/livenews/3108804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "腾讯ima宣布AI助手Copilot功能全面开放",
+          "url": "https://flash.jin10.com/detail/20260525172240380800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         }
       ]
     },
@@ -170,8 +237,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 18时11分]"
         }
       ]
     }
