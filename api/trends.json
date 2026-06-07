@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:14:21.133782+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-06-07T21:57:54.897483+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 21时57分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -86,6 +87,19 @@
           "time_info": "[02时08分 ~ 13时23分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 21时57分]"
+        },
+        {
           "title": "高考新增AI监考员",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -125,17 +139,30 @@
           "time_info": "[00时07分 ~ 04时11分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12,
-            11
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时06分 ~ 19时14分]"
+          "time_info": "[13时23分 ~ 21时57分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 21时57分]"
         },
         {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
@@ -151,16 +178,16 @@
           "time_info": "[13时23分 ~ 19时14分]"
         },
         {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时14分]"
+          "time_info": "[16时58分 ~ 21时57分]"
         },
         {
           "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
@@ -200,31 +227,6 @@
           "time_info": "[16时59分 ~ 19时14分]"
         },
         {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 19时14分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时14分]"
-        },
-        {
           "title": "AI写的高考作文你打几分",
           "url": "https://www.douyin.com/hot/2525981",
           "source": "抖音",
@@ -257,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时59分 ~ 19时14分]"
+        },
+        {
+          "title": "AI短剧 100集浓缩成3分钟",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 21时57分]"
         },
         {
           "title": "北大UP主手搓AI猫娘",
@@ -325,17 +339,6 @@
           "time_info": "16时59分"
         },
         {
-          "title": "AI短剧 100集浓缩成3分钟",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "AI写的高考作文你打几分",
           "url": "https://www.toutiao.com/trending/7647893809128279615/",
           "source": "今日头条",
@@ -359,11 +362,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 21时57分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -418,7 +422,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
