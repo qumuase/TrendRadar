@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T15:53:13.172545+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-06-13T18:32:27.230978+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 18时32分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -47,11 +48,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 18时32分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -142,7 +144,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -186,7 +188,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         }
@@ -208,16 +210,30 @@
           "time_info": "[00时20分 ~ 07时19分]"
         },
         {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 18时32分]"
+        },
+        {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 18时32分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -232,18 +248,6 @@
           "time_info": "[00时20分 ~ 05时48分]"
         },
         {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 15时53分]"
-        },
-        {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
           "url": "https://www.cls.cn/detail/2398893",
           "source": "财联社热门",
@@ -254,8 +258,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时48分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[05时48分 ~ 18时32分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
