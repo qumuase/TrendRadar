@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T03:39:15.770868+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-17T06:14:02.960805+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -37,8 +26,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
+        },
+        {
+          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
+          "url": "https://www.zhihu.com/question/2050239948306092201",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
+        },
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
@@ -47,9 +60,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
+          "url": "https://wallstreetcn.com/livenews/3120511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2049548864626202351",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -59,52 +106,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
-        },
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
           "url": "https://www.cls.cn/detail/2401117",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
-        },
-        {
-          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
-          "url": "https://www.zhihu.com/question/2050239948306092201",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
           "url": "https://www.cls.cn/detail/2401317",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
+        },
+        {
+          "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2050039889400435846",
+          "source": "知乎",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "time_info": "[06时13分 ~ 06时14分]"
         },
         {
           "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
@@ -113,7 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
         }
@@ -121,7 +159,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -131,8 +169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -146,6 +184,17 @@
           "time_info": "[03时38分 ~ 03时39分]"
         },
         {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 06时14分]"
+        },
+        {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
           "url": "https://www.cls.cn/detail/2401513",
           "source": "财联社热门",
@@ -153,8 +202,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -164,8 +213,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时14分]"
+        },
+        {
+          "title": "投资者权衡美伊协议，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3120500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
+          "url": "https://wallstreetcn.com/livenews/3120490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     }
