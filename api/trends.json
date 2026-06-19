@@ -1,368 +1,78 @@
 {
-  "generated_at": "2026-06-19T20:08:19.594557+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-06-20T00:02:53.033384+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 20时08分]"
-        },
-        {
-          "title": "让AI走进千家万户",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时44分]"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 15时09分]"
-        },
-        {
-          "title": "知名作家承认新书AI写作比重占一半",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时44分]"
-        },
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
           "source": "澎湃新闻",
           "ranks": [
-            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 20时08分]"
-        },
-        {
-          "title": "Alphabet、Visa等公司释放加强AI监管信号",
-          "url": "https://wallstreetcn.com/livenews/3121845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时54分]"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 15时09分]"
-        },
-        {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时44分]"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 20时08分]"
-        },
-        {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 15时09分]"
-        },
-        {
-          "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
-          "url": "https://www.cls.cn/detail/2403949",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时54分]"
-        },
-        {
-          "title": "为什么 AI 永远无法像一个长辈那样给你忠告，反而可能悄悄把你推向极端？",
-          "url": "https://www.zhihu.com/question/2047442845498398435",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
           "url": "https://wallstreetcn.com/articles/3775047",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
-          "url": "https://flash.jin10.com/detail/20260619030734047800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3121914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国参议员桑德斯将提出法案，赋予民众AI企业股权",
-          "url": "https://wallstreetcn.com/livenews/3121827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "高盛一篮子欧洲国防股指数一度上涨2%，Renk一度上涨4.5%，Exail一度上涨4.0%，莱茵金属上涨2.9%，Leonardo上涨3.4%，Kongsberg上涨3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3122063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "美国采取行动，加快AI数据中心接入电网",
-          "url": "https://wallstreetcn.com/livenews/3121905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "AI预测科隆Major夺冠队伍",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "AI预测不了“佛得角”",
-          "url": "https://www.toutiao.com/trending/7651985972691370027/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 20时08分]"
-        },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 20时08分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时54分]"
-        },
-        {
-          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时54分]"
-        },
-        {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "00时02分"
         },
         {
-          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
-          "url": "https://wallstreetcn.com/livenews/3121912",
+          "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
+          "url": "https://wallstreetcn.com/livenews/3122141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时18分"
-        },
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3121908",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普移动首款手机竟是中国制造",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
-          "url": "https://wallstreetcn.com/livenews/3121904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（6月18日），美国科技股七巨头（Magnificent 7）指数涨1.52%，报213.40点。 “超大”市值科技股指数涨2.27%，报442.43点。",
-          "url": "https://wallstreetcn.com/livenews/3121901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
+          "time_info": "00时02分"
         }
       ]
     }
