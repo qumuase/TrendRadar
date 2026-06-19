@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-19T09:44:20.216472+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-06-19T15:09:12.473014+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 15时09分]"
+        },
         {
           "title": "让AI走进千家万户",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
@@ -19,18 +32,6 @@
           "time_info": "[01时17分 ~ 09时44分]"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时44分]"
-        },
-        {
           "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
           "url": "https://wallstreetcn.com/articles/3774993",
           "source": "华尔街见闻",
@@ -39,8 +40,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 15时09分]"
+        },
+        {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时44分]"
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -69,6 +81,19 @@
           "time_info": "[01时17分 ~ 03时54分]"
         },
         {
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 15时09分]"
+        },
+        {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
           "url": "https://www.zhihu.com/question/2050289332632790558",
           "source": "知乎",
@@ -80,6 +105,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时17分 ~ 09时44分]"
+        },
+        {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 15时09分]"
         },
         {
           "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
@@ -94,16 +131,15 @@
           "time_info": "[03时54分 ~ 09时44分]"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时44分]"
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -118,15 +154,15 @@
           "time_info": "[01时17分 ~ 03时54分]"
         },
         {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
+          "title": "为什么 AI 永远无法像一个长辈那样给你忠告，反而可能悄悄把你推向极端？",
+          "url": "https://www.zhihu.com/question/2047442845498398435",
+          "source": "知乎",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
@@ -185,11 +221,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 15时09分]"
         },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -197,17 +234,6 @@
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时54分]"
-        },
-        {
-          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -222,8 +248,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 15时09分]"
+        },
+        {
+          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时44分]"
+          "time_info": "[01时17分 ~ 03时54分]"
         },
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
