@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T05:16:30.745477+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-06-22T07:16:07.586822+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
         },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -37,11 +38,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -52,8 +54,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
+        },
+        {
+          "title": "首程控股(00697.HK)：近日，本集团所属首程资本旗下公司所管理的基金投资AI服务公司智子芯元。",
+          "url": "https://flash.jin10.com/detail/20260622062950039800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -63,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -73,17 +86,29 @@
           "ranks": [
             21,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
+        },
+        {
+          "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
+          "url": "https://wallstreetcn.com/livenews/3122399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -93,8 +118,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 07时16分]"
+        },
+        {
+          "title": "美股股指期货周一低开，其中纳指期货跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260622060014166800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     }
