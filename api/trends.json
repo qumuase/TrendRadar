@@ -1,163 +1,22 @@
 {
-  "generated_at": "2026-06-29T22:06:10.893038+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-06-30T01:39:10.320434+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 12时06分]"
-        },
-        {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时05分]"
-        },
-        {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时05分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时05分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 12时06分]"
-        },
-        {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时05分]"
-        },
-        {
-          "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
-          "url": "https://wallstreetcn.com/livenews/3125724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
-          "url": "https://wallstreetcn.com/livenews/3125707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 07时05分]"
-        },
-        {
-          "title": "清华姚班UP主详解AI专业就业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
           "url": "https://www.cls.cn/detail/2411748",
           "source": "财联社热门",
           "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 22时06分]"
-        },
-        {
-          "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
-          "url": "https://wallstreetcn.com/livenews/3125692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 07时05分]"
-        },
-        {
-          "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
-          "url": "https://www.zhihu.com/question/2054005413406946147",
-          "source": "知乎",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 03时24分]"
-        },
-        {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时06分 ~ 17时27分]"
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -168,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -179,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -190,168 +49,112 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
-          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
-          "url": "https://www.zhihu.com/roundtable/opc",
-          "source": "知乎",
+          "title": "AI手机进入Agent时代",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
           "ranks": [
-            10
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
-          "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
-          "url": "https://flash.jin10.com/detail/20260629000635210800",
-          "source": "金十数据",
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
           "ranks": [
-            14
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
-          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
-          "url": "https://flash.jin10.com/detail/20260628213314042800",
-          "source": "金十数据",
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
+          "url": "https://wallstreetcn.com/livenews/3126270",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "01时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
+          "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 17时27分]"
-        },
-        {
-          "title": "美股太空股ETF涨幅一度高达4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3126203",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
-          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
-          "url": "https://wallstreetcn.com/livenews/3126202",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260630012810152800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "01时39分"
         },
         {
-          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
-          "url": "https://wallstreetcn.com/livenews/3126200",
+          "title": "金十图示：2026年06月29日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260630012755141800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "美股费城半导体指数涨幅扩大至3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3126274",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "01时39分"
         },
         {
-          "title": "韩国重磅芯片计划支撑市场，美股三大指数集体高开，美光跌超2%，油价回到70上方",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "美股三大指数高开 西部数据涨超2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E6%B6%A8%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260629060352549800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3126188",
-          "source": "华尔街见闻-快讯",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260629060021389800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 01时39分]"
         },
         {
-          "title": "1.4万亿美元借钱炒股！杠杆正把美股推向危险高位",
-          "url": "https://flash.jin10.com/detail/20260629111756633800",
-          "source": "金十数据",
+          "title": "美股费城半导体指数转涨。",
+          "url": "https://wallstreetcn.com/livenews/3126248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260629214150348800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "01时39分"
         }
       ]
     }
