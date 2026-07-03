@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:34:31.888513+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-07-03T22:09:53.243850+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 12时43分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 22时09分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -55,6 +68,19 @@
           "time_info": "[00时51分 ~ 06时09分]"
         },
         {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 22时09分]"
+        },
+        {
           "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
           "url": "https://www.cls.cn/detail/2415999",
           "source": "财联社热门",
@@ -68,37 +94,13 @@
           "time_info": "[12时43分 ~ 19时34分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 19时34分]"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 19时34分]"
-        },
-        {
           "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
           "url": "https://wallstreetcn.com/livenews/3128681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -137,6 +139,32 @@
           "time_info": "[16时10分 ~ 19时34分]"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 22时09分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 22时09分]"
+        },
+        {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
@@ -164,6 +192,18 @@
           "time_info": "[00时51分 ~ 06时09分]"
         },
         {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 22时09分]"
+        },
+        {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
           "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
@@ -173,18 +213,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 04时20分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 19时34分]"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -210,19 +238,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 04时20分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 19时34分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -284,15 +299,27 @@
           "time_info": "[06时09分 ~ 12时43分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 22时09分]"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260703213623637800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时34分"
+          "time_info": "22时09分"
         },
         {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
@@ -339,6 +366,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "特朗普重塑外交准则：以AI实力重新定义盟友",
           "url": "https://flash.jin10.com/detail/20260703121136992800",
           "source": "金十数据",
@@ -348,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
           "title": "分析师：Meta承认AI进展未达预期，但并非“举白旗”",
@@ -436,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "AI拍剧成常态 人真的会被取代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8B%8D%E5%89%A7%E6%88%90%E5%B8%B8%E6%80%81+%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "据The Information：特斯拉(TSLA.O)将员工AI支出上限设定为每周200美元。",
@@ -588,6 +626,18 @@
           "time_info": "04时20分"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 22时09分]"
+        },
+        {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
@@ -598,17 +648,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 06时09分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 19时34分]"
         },
         {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
@@ -680,7 +719,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小鹏MONAL03价格",
@@ -717,13 +756,24 @@
           "time_info": "04时20分"
         },
         {
+          "title": "何小鹏：期望L03是小鹏全球销量最大的一款车",
+          "url": "https://wallstreetcn.com/livenews/3128720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
+        },
+        {
           "title": "1300台小鹏汽车批量交付给神州租车",
           "url": "https://wallstreetcn.com/livenews/3128651",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
@@ -734,7 +784,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
