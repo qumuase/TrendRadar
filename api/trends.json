@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T20:08:30.010220+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-07-04T22:39:42.823892+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时07分 ~ 20时08分]"
+          "appearance_count": 8,
+          "time_info": "[08时07分 ~ 22时39分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 12时37分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -223,6 +234,28 @@
           "time_info": "08时07分"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://flash.jin10.com/detail/20260704205119305800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
           "url": "https://flash.jin10.com/detail/20260704095032353800",
           "source": "金十数据",
@@ -251,7 +284,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -294,8 +327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 20时08分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 22时39分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
