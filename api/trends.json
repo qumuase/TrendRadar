@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T11:32:09.993291+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-07-10T15:38:18.623515+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 11时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 15时38分]"
         },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -87,11 +88,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 15时38分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -136,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时38分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -162,6 +164,17 @@
           "time_info": "05时37分"
         },
         {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "OpenAI正式推出GPT-5.6系列模型",
           "url": "https://flash.jin10.com/detail/20260710012017912800",
           "source": "金十数据",
@@ -171,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "村上春树新书发售当天就出现 AI 译本，AI 译文质量靠谱吗？会普及吗？你能接受阅读 AI 译版作品吗？",
+          "url": "https://www.zhihu.com/question/2058240544073937856",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -204,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -322,7 +357,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -364,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时38分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -375,8 +410,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时38分]"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -489,17 +524,18 @@
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 15时38分]"
         }
       ]
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数收涨0.56%，报6134.98点。 热门中概股里，日月光半导体涨8.6%，阿里巴巴涨2%，拼多多涨1.2%，网易涨0.2%，腾讯跌1.8%，小鹏、比亚迪、蔚来跌超2%。 ETF中，中国科技指数ETF（CQQQ）收涨4.38%，中概互联网指数ETF（KWEB）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨4.26%，德银嘉实沪深300指数ETF（ASHR）收涨2.99%，MSCI新兴市场ex中国ETF（EMXC）收涨0.77%。",
@@ -511,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "小鹏MONAL03动态首发评测",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%E5%8A%A8%E6%80%81%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     }
