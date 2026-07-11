@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-11T18:17:02.466009+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-07-11T19:54:01.024553+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 20,
       "titles": [
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时06分 ~ 19时54分]"
+        },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
           "url": "https://wallstreetcn.com/articles/3776629",
@@ -40,21 +55,6 @@
           "time_info": "[00时27分 ~ 16时49分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时06分 ~ 18时17分]"
-        },
-        {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 19时54分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 19时54分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -128,6 +128,18 @@
           "time_info": "[07时59分 ~ 11时33分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 19时54分]"
+        },
+        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -141,15 +153,15 @@
           "time_info": "[11时32分 ~ 16时49分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 19时54分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -162,17 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时59分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
         },
         {
           "title": "苹果起诉OpenAI涉嫌窃取商业机密",
@@ -272,8 +273,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 19时54分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时59分 ~ 19时54分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -295,11 +309,12 @@
             9,
             10,
             8,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 19时54分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -315,19 +330,6 @@
           "time_info": "[00时27分 ~ 04时25分]"
         },
         {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 18时17分]"
-        },
-        {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
@@ -336,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 19时54分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
