@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T21:23:19.380377+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-07-11T22:56:23.952672+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时06分 ~ 21时23分]"
+          "appearance_count": 12,
+          "time_info": "[06时06分 ~ 22时56分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时32分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[11时32分 ~ 22时56分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -91,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时56分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -136,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时56分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -213,6 +213,17 @@
           "time_info": "[06时06分 ~ 07时59分]"
         },
         {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "据悉OpenAI安全系统负责人将离职",
           "url": "https://flash.jin10.com/detail/20260711093038446800",
           "source": "金十数据",
@@ -241,7 +252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -255,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
@@ -300,8 +322,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时59分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[07时59分 ~ 22时56分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -316,6 +338,19 @@
           "time_info": "[00时27分 ~ 07时59分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时49分 ~ 22时56分]"
+        },
+        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -327,21 +362,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 21时23分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时49分 ~ 21时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 22时56分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
