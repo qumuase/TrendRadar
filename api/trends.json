@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T19:12:29.071622+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-07-12T21:24:01.985253+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 21时24分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 21时24分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -94,6 +95,18 @@
           "time_info": "[11时20分 ~ 17时04分]"
         },
         {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时24分]"
+        },
+        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -105,6 +118,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时57分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 21时24分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -132,18 +158,6 @@
           "time_info": "[11时20分 ~ 19时12分]"
         },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时12分]"
-        },
-        {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
           "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
           "source": "澎湃新闻",
@@ -154,6 +168,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时20分 ~ 17时04分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -167,15 +192,15 @@
           "time_info": "[04时51分 ~ 05时52分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
+          "title": "A股AI算力服务链为何突然爆发",
+          "url": "https://www.toutiao.com/trending/7661579639684337194/",
+          "source": "今日头条",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
@@ -228,8 +253,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 21时24分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -269,9 +294,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时24分]"
         }
       ]
     }
