@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T00:05:04.217251+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-13T02:01:20.868331+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,30 +37,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
           "url": "https://www.cls.cn/detail/2422869",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时01分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时01分]"
+        },
+        {
+          "title": "AI是如何“杀死”印度IT行业的",
+          "url": "https://www.toutiao.com/trending/7661654432722980388/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "time_info": "[01时59分 ~ 02时01分]"
         }
       ]
     },
