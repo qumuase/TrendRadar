@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T02:45:15.370607+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-14T04:17:10.393505+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850571&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/ceiRoU_Mphl31wYaNQjqP.jpg/lite\" height=\"120\"/></a>",
@@ -80,7 +80,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         },
@@ -109,8 +109,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -120,8 +120,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         },
         {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
@@ -130,7 +130,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         }
@@ -148,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时17分]"
         }
       ]
     }
