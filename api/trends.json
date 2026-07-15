@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T10:35:34.750870+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-07-15T13:34:30.640263+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 13时34分]"
         },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
@@ -57,6 +57,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 07时05分]"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 13时34分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -88,28 +101,15 @@
           "time_info": "[00时16分 ~ 10时35分]"
         },
         {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 10时35分]"
-        },
-        {
           "title": "AI拿冠军,摄影比赛闹笑话",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
           "source": "贴吧",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时34分]"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -157,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 02时05分]"
+        },
+        {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时34分]"
         },
         {
           "title": "AI生成图片被评摄影一等奖 官方通报",
@@ -225,6 +237,28 @@
           "time_info": "02时05分"
         },
         {
+          "title": "阿斯麦年内第二次上调销售预期 AI投资热潮推动需求增长",
+          "url": "https://flash.jin10.com/detail/20260715131719535800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "美联储主席沃什：我的判断是，AI将增强工作，而非取代工作。",
           "url": "https://flash.jin10.com/detail/20260714234048024800",
           "source": "金十数据",
@@ -234,6 +268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "阿斯麦Q2业绩全面超预期，AI芯片需求成主要驱动力",
+          "url": "https://flash.jin10.com/detail/20260715131454729800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "苹果正与一家能将AI模型压缩至在iPhone上运行的初创公司洽谈",
@@ -269,6 +314,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
+          "url": "https://www.zhihu.com/question/2059660303915397288",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "美联储主席沃什：长期而言，人工智能（AI）意味着实质性的生产力改善。",
           "url": "https://wallstreetcn.com/livenews/3133750",
           "source": "华尔街见闻-快讯",
@@ -291,17 +347,6 @@
           "time_info": "05时59分"
         },
         {
-          "title": "AI短剧以假乱真了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
           "url": "https://flash.jin10.com/detail/20260715044652988800",
           "source": "金十数据",
@@ -322,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "中美大模型差距快速收窄，AI投资开始重估ROI",
+          "url": "https://flash.jin10.com/detail/20260715130835872800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -409,6 +465,18 @@
           "time_info": "[00时16分 ~ 04时13分]"
         },
         {
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时04分 ~ 13时34分]"
+        },
+        {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
@@ -420,27 +488,15 @@
           "time_info": "[05时59分 ~ 07时05分]"
         },
         {
-          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2426541",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时04分 ~ 10时35分]"
-        },
-        {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时34分]"
         },
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -449,9 +505,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时34分]"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -527,7 +583,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
