@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:58:52.582036+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-18T06:56:31.125747+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -29,8 +30,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2429875",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
@@ -44,51 +80,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2429875",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
-        },
-        {
-          "title": "中国拉群搞AI,28国兄弟入伙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
-        },
-        {
-          "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
-          "url": "https://flash.jin10.com/detail/20260718045807451800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
-        },
-        {
           "title": "大瓦特·让每一度电都有AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
           "source": "澎湃新闻",
@@ -97,8 +88,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -109,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -118,11 +109,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -133,8 +125,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
+        {
+          "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
+          "url": "https://flash.jin10.com/detail/20260718045807451800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时56分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -146,6 +150,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时13分]"
+        },
+        {
+          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
+          "url": "https://wallstreetcn.com/livenews/3135917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时56分]"
         },
         {
           "title": "法国博主在上海被AI震撼",
@@ -168,17 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
-          "url": "https://wallstreetcn.com/livenews/3135917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
@@ -250,8 +255,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
+        },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
           "url": "https://wallstreetcn.com/articles/3777186",
@@ -264,15 +280,15 @@
           "time_info": "[01时14分 ~ 05时58分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -280,11 +296,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时56分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -292,11 +309,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时56分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -304,11 +322,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时56分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
@@ -316,11 +335,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时56分]"
         },
         {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
@@ -381,8 +401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 06时56分]"
         }
       ]
     },
