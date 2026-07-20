@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:49:06.336563+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-07-20T18:14:16.858080+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
         {
           "title": "人工智能换了一种“打开方式”|WAIC观察",
@@ -92,6 +92,40 @@
           "time_info": "[00时02分 ~ 08时00分]"
         },
         {
+          "title": "院士谈年轻人该如何学AI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
+          "url": "https://www.cls.cn/detail/2430890",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 18时14分]"
+        },
+        {
           "title": "AI大模型公司零一万物计划2027年在香港上市。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3136548",
           "source": "华尔街见闻-快讯",
@@ -123,6 +157,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 18时14分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -163,24 +210,24 @@
           "time_info": "[00时02分 ~ 01时59分]"
         },
         {
+          "title": "王祖贤AI人脸授权",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 18时14分]"
+        },
+        {
           "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
           "url": "https://www.cls.cn/detail/2430678",
           "source": "财联社热门",
           "ranks": [
             10,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 14时49分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -199,6 +246,17 @@
           "time_info": "[11时55分 ~ 14时49分]"
         },
         {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
           "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
           "url": "https://www.cls.cn/detail/2430847",
           "source": "财联社热门",
@@ -210,15 +268,15 @@
           "time_info": "[14时48分 ~ 14时49分]"
         },
         {
-          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
-          "url": "https://www.cls.cn/detail/2430890",
-          "source": "财联社热门",
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
@@ -232,6 +290,28 @@
           "time_info": "[14时48分 ~ 14时49分]"
         },
         {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "国产智能仿生手亮相WAIC",
+          "url": "https://www.douyin.com/hot/2577537",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
           "title": "OpenAI称Kimi开源是减速主义",
           "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -241,6 +321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时48分 ~ 14时49分]"
+        },
+        {
+          "title": "WAIC机器人格斗拳拳到铁",
+          "url": "https://www.douyin.com/hot/2576677",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
@@ -299,15 +390,15 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "王祖贤AI人脸授权",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=25&Refer=top",
+          "title": "魔法师的咒语其实是AI指令",
+          "url": "https://s.weibo.com/weibo?q=%E9%AD%94%E6%B3%95%E5%B8%88%E7%9A%84%E5%92%92%E8%AF%AD%E5%85%B6%E5%AE%9E%E6%98%AFAI%E6%8C%87%E4%BB%A4&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "夏奇拉DaiDai二创reaction",
@@ -343,6 +434,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "国际铝业协会（IAI）：6月全球原铝产量达598万吨。",
+          "url": "https://flash.jin10.com/detail/20260720180219345800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
           "url": "https://flash.jin10.com/detail/20260720070039657800",
           "source": "金十数据",
@@ -368,7 +470,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
@@ -382,6 +484,17 @@
           "time_info": "[14时48分 ~ 14时49分]"
         },
         {
+          "title": "花旗：美股“科技7巨头”的标签已经过时",
+          "url": "https://flash.jin10.com/detail/20260720180357146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260720060012850800",
           "source": "金十数据",
@@ -393,13 +506,24 @@
           "time_info": "06时55分"
         },
         {
+          "title": "花旗：在人工智能股票赢家中，美股“科技7巨头”的标签已经过时。",
+          "url": "https://flash.jin10.com/detail/20260720175653296800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "高盛：美股指数看似平静，个股和债市已提前起风？",
           "url": "https://flash.jin10.com/detail/20260720141241061800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
