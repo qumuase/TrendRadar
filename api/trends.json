@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T04:21:40.024718+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-07-25T06:06:37.903504+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时06分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时06分]"
         },
         {
           "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时06分]"
         },
         {
           "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -65,17 +77,6 @@
           "time_info": "[00时45分 ~ 02时19分]"
         },
         {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时21分]"
-        },
-        {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
@@ -83,8 +84,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时06分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时06分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -92,17 +105,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时21分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -127,11 +129,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 06时06分]"
         },
         {
           "title": "朋友圈开始用AI照片代替旅游照",
@@ -225,51 +228,66 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 06时06分]"
         },
         {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041124494800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
-          "url": "https://wallstreetcn.com/livenews/3139640",
+          "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
+          "url": "https://wallstreetcn.com/livenews/3139661",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "06时06分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041124494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时06分]"
+        },
+        {
+          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时06分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
           "url": "https://flash.jin10.com/detail/20260725040225206800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时06分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
@@ -305,6 +323,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260725041219645800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
           "title": "布油跌4%，美股扩大涨幅，报道称巴基斯坦正在探索重启美伊会谈的途径",
           "url": "https://wallstreetcn.com/livenews/3139551",
           "source": "华尔街见闻-快讯",
@@ -319,7 +348,7 @@
     },
     {
       "keyword_group": "小鹏",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌0.7%，本周累跌约2.7%。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。",
@@ -328,9 +357,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.66%，报6104.64点，本周累计下跌2.80%，整体持续下挫。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。 XtrackersHarvest中证50（ASHS）收跌1.94%，本周反弹0.27%，此前三周先后回撤1.32%、0.87%、11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌1.21%，本周反弹2.17%，上周跌4.95%； 中国科技指数ETF（CQQQ）收跌1.03%，本周累跌0.87%、延续上周回撤9.56%的表现； 中概互联网指数ETF（KWEB）收涨0.08%，本周回撤1.94%，此前三周先后反弹4.39%、5.56%、1.63%； MSCI新兴市场ex中国ETF（EMXC）收跌2.39%，本周累涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3139635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     }
