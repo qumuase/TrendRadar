@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T19:25:15.867280+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-07-27T22:38:34.872067+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 46,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -16,11 +16,12 @@
             3,
             6,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 22时38分]"
         },
         {
           "title": "AI还要跌多久",
@@ -66,6 +67,18 @@
           "time_info": "[00时02分 ~ 07时08分]"
         },
         {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 22时38分]"
+        },
+        {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
           "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
@@ -104,17 +117,6 @@
           "time_info": "[11时20分 ~ 15时35分]"
         },
         {
-          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
-          "url": "https://www.cls.cn/detail/2437715",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
           "url": "https://www.zhihu.com/question/2063915578427963194",
           "source": "知乎",
@@ -126,17 +128,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 07时08分]"
-        },
-        {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "AI长期依然看好，但警惕短期支出显著放缓冲击股价",
@@ -159,6 +150,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "英伟达信用违约保护成本创纪录最大升幅，AI基建交易引发循环融资忧虑",
+          "url": "https://wallstreetcn.com/livenews/3140386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
+          "url": "https://www.cls.cn/detail/2437715",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 22时38分]"
         },
         {
           "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板大涨3%，算力硬件、AI应用午后大涨，恒科指涨逾1%，小米大涨超7%",
@@ -202,8 +216,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 22时38分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -217,6 +231,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时11分 ~ 07时08分]"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 22时38分]"
         },
         {
           "title": "美国发生AI失控事故",
@@ -311,17 +337,6 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
-        },
-        {
           "title": "熊孩子和美团AI聊天订了18家餐厅",
           "url": "https://www.baidu.com/s?wd=%E7%86%8A%E5%AD%A9%E5%AD%90%E5%92%8C%E7%BE%8E%E5%9B%A2AI%E8%81%8A%E5%A4%A9%E8%AE%A2%E4%BA%8618%E5%AE%B6%E9%A4%90%E5%8E%85",
           "source": "百度热搜",
@@ -355,6 +370,28 @@
           "time_info": "15时35分"
         },
         {
+          "title": "AI重现被困师生救援事件",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%87%8D%E7%8E%B0%E8%A2%AB%E5%9B%B0%E5%B8%88%E7%94%9F%E6%95%91%E6%8F%B4%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
           "url": "https://www.cls.cn/detail/2437061",
           "source": "财联社热门",
@@ -366,6 +403,28 @@
           "time_info": "11时20分"
         },
         {
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "国务院国资委：将深入推进央企“AI+”专项行动，加快算力基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3140376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
           "url": "https://www.cls.cn/detail/2437139",
           "source": "财联社热门",
@@ -375,6 +434,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "虞书欣疑似被AI融脸和声音",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "高通朱元堃：个人AI必须具备三大核心能力",
+          "url": "https://flash.jin10.com/detail/20260727215807022800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "熊孩子和美团AI聊天订了18家餐厅",
@@ -408,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "国务院国资委：将深入推进央企“AI+”专项行动 加快算力基础设施建设",
+          "url": "https://flash.jin10.com/detail/20260727215331373800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
@@ -457,7 +549,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -494,6 +586,105 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 07时08分]"
+        },
+        {
+          "title": "美伊紧张局势缓和，美股三大股指集体高开，SK海力士涨超3%，布油一度大跌7%、债市走强",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美股回吐部分涨幅，纳斯达克100指数一度转跌。",
+          "url": "https://flash.jin10.com/detail/20260727220816201800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨0.9%，标普500指数涨0.7%，纳指涨1%。明星科技股普涨，SK海力士涨超3%，闪迪涨1%；原油股走低，埃克森美孚、康菲石油、英国石油跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3140361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美银警告：美股最弱窗口即将到来",
+          "url": "https://www.toutiao.com/trending/7667156846574046762/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国软件公司美股盘初走高，Salesforce(CRM.N)涨超3%，甲骨文(ORCL.N)涨约5%，ServiceNow(NOW.N)涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260727214806636800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "阿斯麦美股盘前回吐涨幅；阿斯麦欧股短线跳水，其在阿姆斯特丹市场下跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3140352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3140351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
