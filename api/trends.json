@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-28T20:56:30.447624+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-07-28T23:23:54.445102+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 23时23分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 06时10分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 23时23分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -45,15 +57,15 @@
           "time_info": "[00时59分 ~ 18时37分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
+          "url": "https://www.cls.cn/detail/2439291",
+          "source": "财联社热门",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -98,7 +110,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -166,6 +178,19 @@
           "time_info": "[18时37分 ~ 20时56分]"
         },
         {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 23时23分]"
+        },
+        {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
           "source": "澎湃新闻",
@@ -179,17 +204,28 @@
           "time_info": "[00时59分 ~ 06时10分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
           "ranks": [
-            24,
-            9,
-            17
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时59分 ~ 20时56分]"
+          "time_info": "[18时37分 ~ 23时23分]"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 23时23分]"
         },
         {
           "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
@@ -240,29 +276,6 @@
           "time_info": "[00时59分 ~ 02时41分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时56分]"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 20时56分]"
-        },
-        {
           "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
@@ -311,6 +324,17 @@
           "time_info": "[02时41分 ~ 04时24分]"
         },
         {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "AI烧钱疑虑重燃，韩股重挫10%再熔断，日股跌4%、铠侠大跌18%，芯片股全线承压",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -320,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -364,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "华尔街大行被视为“AI周边板块”，分析师：股价料因多重利好而跑赢大盘",
+          "url": "https://wallstreetcn.com/livenews/3141097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "大摩：AI应用将成为企业盈利新引擎 运输、软件等行业受益",
@@ -509,6 +555,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "上海深入整治AI应用乱象 严防技术滥用侵害未成年人",
+          "url": "https://wallstreetcn.com/livenews/3141085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "当AI试图驯服AI",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E8%AF%95%E5%9B%BE%E9%A9%AF%E6%9C%8DAI&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -597,6 +654,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "AI率先“终结”程序员",
+          "url": "https://www.baidu.com/s?wd=AI%E7%8E%87%E5%85%88%E2%80%9C%E7%BB%88%E7%BB%93%E2%80%9D%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "佛得角门将签约“泪洒现场”图是AI",
           "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%AD%BE%E7%BA%A6%E2%80%9C%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%E2%80%9D%E5%9B%BE%E6%98%AFAI",
           "source": "百度热搜",
@@ -608,13 +676,24 @@
           "time_info": "02时41分"
         },
         {
+          "title": "OpenAI的CEO Altman将会见美国政府网络主管Kratsios。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3141075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "AI科技板块大跌原因",
           "url": "https://www.baidu.com/s?wd=AI%E7%A7%91%E6%8A%80%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -622,7 +701,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -633,8 +712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 20时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 23时23分]"
         },
         {
           "title": "美股",
@@ -685,17 +764,43 @@
           "time_info": "[12时12分 ~ 15时41分]"
         },
         {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 23时23分]"
+        },
+        {
           "title": "美股半导体崩盘,闪迪跌破新低",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
           "source": "贴吧",
           "ranks": [
             5,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 23时23分]"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -735,19 +840,6 @@
           "time_info": "[00时59分 ~ 06时10分]"
         },
         {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 20时56分]"
-        },
-        {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
@@ -758,6 +850,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时41分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -821,7 +924,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -881,13 +984,24 @@
           "time_info": "06时10分"
         },
         {
+          "title": "美股费城半导体指数跌超6%，纳斯达克100指数跌超2%。 英伟达下跌1.41%，台积电中担任下跌3.98%，博通下跌2.46%，SK海力士ADR下跌9.54%，美光科技下跌10.90%，美国超微公司下跌9.41%，英特尔下跌8.39%，阿斯麦下跌5.64%，泛林集团下跌10.88%，arm holdings下跌8.99%，闪迪下跌16.17%，高通下跌3.08%，迈威尔科技下跌10.39%，西部数据下跌14.37%，希捷科技下跌13.20%。",
+          "url": "https://wallstreetcn.com/livenews/3141079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "康宁美股盘前大跌超15%，公司预计第三季度核心销售额49亿至50亿美元，市场预估50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3140990",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
