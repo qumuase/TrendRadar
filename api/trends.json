@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T19:54:11.153769+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-07-30T22:06:26.318023+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时02分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 22时06分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 19时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 22时06分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -47,6 +47,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 19时54分]"
+        },
+        {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 22时06分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -73,18 +85,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 14时34分]"
-        },
-        {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时54分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -137,6 +137,18 @@
           "time_info": "08时02分"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时34分 ~ 22时06分]"
+        },
+        {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
           "source": "财联社热门",
@@ -171,16 +183,15 @@
           "time_info": "06时03分"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时34分 ~ 19时54分]"
+          "time_info": "[17时32分 ~ 22时06分]"
         },
         {
           "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
@@ -195,15 +206,16 @@
           "time_info": "[17时32分 ~ 19时54分]"
         },
         {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
           "ranks": [
-            10
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时06分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
@@ -217,17 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 08时02分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -296,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "报道：明星AI投资人Aschenbrenner在遭遇大幅亏损后平仓了结交易",
+          "url": "https://wallstreetcn.com/livenews/3142507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
@@ -386,6 +398,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "台积电研发AI芯片封装技术。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3142497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
           "url": "https://wallstreetcn.com/livenews/3141783",
           "source": "华尔街见闻-快讯",
@@ -428,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
@@ -510,7 +544,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -581,6 +615,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
+          "url": "https://wallstreetcn.com/livenews/3142509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股存储板块涨幅扩大 多个个股涨超10%",
+          "url": "https://flash.jin10.com/detail/20260730214929271800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "美股半导体板块迎反弹 多股暴涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E8%BF%8E%E5%8F%8D%E5%BC%B9+%E5%A4%9A%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "逢低买盘推动美股高开，科技股反弹，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
@@ -660,6 +738,28 @@
           "time_info": "14时34分"
         },
         {
+          "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260730214225139800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3142496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
           "url": "https://wallstreetcn.com/livenews/3141779",
           "source": "华尔街见闻-快讯",
@@ -680,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "甲骨文美股盘前涨幅扩大至4%，甲骨文宣布与谷歌扩大合作伙伴关系，将把谷歌的Gemini模型引入企业应用。",
+          "url": "https://wallstreetcn.com/livenews/3142488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
@@ -735,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美股芯片半导体反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     },
