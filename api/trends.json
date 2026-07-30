@@ -1,22 +1,38 @@
 {
-  "generated_at": "2026-07-30T06:03:01.357778+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-07-30T08:02:42.372747+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 08时02分]"
+        },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 08时02分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -26,34 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时03分]"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时03分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 08时02分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -63,8 +53,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 08时02分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -72,6 +62,29 @@
           "source": "贴吧",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 08时02分]"
+        },
+        {
+          "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
+          "url": "https://flash.jin10.com/detail/20260730073649960800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -95,7 +108,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -105,11 +118,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 08时02分]"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -146,6 +160,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
           "url": "https://wallstreetcn.com/livenews/3141809",
           "source": "华尔街见闻-快讯",
@@ -166,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "SpaceXAI：8月5日，Grok-Voice-Latest将从Grok-Voice-Think-Fast-1.0升级至Grok-Voice-Think-Fast-2.0。",
@@ -212,6 +248,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
           "url": "https://wallstreetcn.com/livenews/3141783",
           "source": "华尔街见闻-快讯",
@@ -234,6 +281,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "微软CEO：AI模型应易于切换",
+          "url": "https://flash.jin10.com/detail/20260730065749615800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
           "url": "https://wallstreetcn.com/livenews/3141802",
           "source": "华尔街见闻-快讯",
@@ -245,13 +303,24 @@
           "time_info": "02时09分"
         },
         {
+          "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
+          "url": "https://flash.jin10.com/detail/20260730065409051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "卡特彼勒因AI退潮及Baird对数据中心的警告而暴跌",
           "url": "https://wallstreetcn.com/livenews/3141906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -262,7 +331,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
@@ -270,7 +339,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -284,6 +353,19 @@
           "time_info": "[00时23分 ~ 06时03分]"
         },
         {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 08时02分]"
+        },
+        {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -295,16 +377,37 @@
           "time_info": "[00时23分 ~ 06时03分]"
         },
         {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
           "source": "财联社热门",
           "ranks": [
-            7,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 06时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美股大跌 美光科技跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
@@ -313,7 +416,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -335,7 +438,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -390,7 +493,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -401,9 +504,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美股尾盘大跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
@@ -423,7 +537,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
