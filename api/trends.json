@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T15:33:21.888143+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-08-02T18:01:56.963203+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -48,6 +48,20 @@
           "time_info": "[00时02分 ~ 08时06分]"
         },
         {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时03分 ~ 18时01分]"
+        },
+        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -59,29 +73,17 @@
           "time_info": "[00时02分 ~ 07时01分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时03分 ~ 15时33分]"
-        },
-        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 15时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 18时01分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -120,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时00分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时00分 ~ 18时01分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -136,17 +138,41 @@
           "time_info": "[00时02分 ~ 07时01分]"
         },
         {
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
           "ranks": [
             7,
             19,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 18时01分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 18时01分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -185,26 +211,48 @@
           "time_info": "[00时02分 ~ 02时03分]"
         },
         {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 18时01分]"
+        },
+        {
+          "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
+          "url": "https://flash.jin10.com/detail/20260802172654110800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "天才女友 AI片头",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "18时01分"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -216,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
-        },
-        {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -251,13 +288,24 @@
           "time_info": "00时02分"
         },
         {
+          "title": "AI股神爆仓有哪些启示",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E7%A5%9E%E7%88%86%E4%BB%93%E6%9C%89%E5%93%AA%E4%BA%9B%E5%90%AF%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "别让虚假AI广告收割信任",
           "url": "https://www.toutiao.com/trending/7668996991562399763/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -276,8 +324,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 15时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 18时01分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -288,8 +336,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 18时01分]"
         }
       ]
     },
@@ -304,22 +352,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 15时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 18时01分]"
         },
         {
           "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/2066920261631451637",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 18时01分]"
         }
       ]
     }
