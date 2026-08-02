@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:59:40.384468+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-08-03T07:02:58.669937+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -36,11 +36,12 @@
           "ranks": [
             11,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -50,19 +51,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
           "url": "https://www.cls.cn/detail/2443437",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -72,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -84,8 +86,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -95,8 +97,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -104,11 +106,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时02分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -137,8 +140,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时02分]"
         }
       ]
     }
