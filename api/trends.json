@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:41:56.959354+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-08-04T21:04:40.178046+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -16,11 +16,12 @@
             9,
             13,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 18时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 21时04分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
@@ -36,6 +37,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时52分 ~ 18时41分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 21时04分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -78,17 +93,16 @@
           "time_info": "[00时27分 ~ 08时11分]"
         },
         {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
           "ranks": [
-            6,
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 21时04分]"
         },
         {
           "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 15时41分]"
-        },
-        {
-          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
-          "url": "https://www.cls.cn/detail/2444881",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 18时41分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -139,6 +141,17 @@
           "time_info": "[08时11分 ~ 15时41分]"
         },
         {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3144259",
           "source": "华尔街见闻-快讯",
@@ -155,11 +168,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 21时04分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -186,6 +200,19 @@
           "time_info": "[08时11分 ~ 12时16分]"
         },
         {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 21时04分]"
+        },
+        {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
           "url": "https://www.cls.cn/detail/2444442",
           "source": "财联社热门",
@@ -210,6 +237,18 @@
           "time_info": "[15时41分 ~ 18时41分]"
         },
         {
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 21时04分]"
+        },
+        {
           "title": "用AI造谣抹黑小米 两人被处罚",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3+%E4%B8%A4%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%BD%9A",
           "source": "百度热搜",
@@ -226,18 +265,6 @@
           "source": "百度热搜",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 18时41分]"
-        },
-        {
-          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
-          "url": "https://www.zhihu.com/question/2067576901791638083",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -266,6 +293,17 @@
           "time_info": "[12时15分 ~ 12时16分]"
         },
         {
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "AI存储热潮提振业绩，穆迪首次给予SK海力士A类评级",
           "url": "https://flash.jin10.com/detail/20260804120200259800",
           "source": "金十数据",
@@ -288,15 +326,15 @@
           "time_info": "06时11分"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
+          "title": "AI云计算公司Corvex盘前一度大涨约100%，公司宣布已签署一项多年期协议，将向一家领先的人工智能公司提供搭载英伟达Blackwell GPU及英伟达Quantum-2 InfiniBand网络的集群。",
+          "url": "https://wallstreetcn.com/livenews/3144751",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时41分"
+          "time_info": "21时04分"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -327,7 +365,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -349,7 +387,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -363,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。",
+          "url": "https://wallstreetcn.com/livenews/3144738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "创业板指涨超6%，算力硬件、半导体芯片、AI应用、医药生物等方向涨幅居前，全市场上涨个股超3700只。",
@@ -412,8 +461,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时11分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[08时11分 ~ 21时04分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -550,7 +599,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
