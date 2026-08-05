@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T12:12:13.156329+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-08-05T15:40:53.688905+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -13,11 +13,35 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 12时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 15时40分]"
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 15时40分]"
+        },
+        {
+          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
+          "url": "https://www.cls.cn/detail/2445817",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时40分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -57,29 +81,6 @@
           "time_info": "[00时13分 ~ 08时05分]"
         },
         {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时12分]"
-        },
-        {
-          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
-          "url": "https://www.cls.cn/detail/2445817",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
-        },
-        {
           "title": "SpaceX资本开支不及预期，在AI领域亏损超预期",
           "url": "https://wallstreetcn.com/livenews/3144935",
           "source": "华尔街见闻-快讯",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "鸿海：7月销售额9,465.1亿元台币，同比增长54.2％。 展望第三季度，AI机架出货量预计将保持增长。 整体运营前景预计将实现环比和同比双增长。 仍有必要监测全球政经局势动荡所带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3145241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -134,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时40分]"
         },
         {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
@@ -188,9 +200,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
@@ -375,6 +398,18 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 15时40分]"
+        },
+        {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
           "url": "https://wallstreetcn.com/articles/3778526",
           "source": "华尔街见闻",
@@ -385,18 +420,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 06时14分]"
-        },
-        {
-          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
-          "url": "https://www.cls.cn/detail/2445802",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 12时12分]"
         },
         {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
@@ -410,6 +433,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 08时05分]"
+        },
+        {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时40分]"
         },
         {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
@@ -434,17 +468,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 06时14分]"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
