@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T05:41:13.405602+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-08-08T06:38:09.069386+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -19,8 +19,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -55,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -79,8 +79,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时55分 ~ 06时38分]"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -106,17 +117,6 @@
           "time_info": "[00时59分 ~ 01时54分]"
         },
         {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 05时41分]"
-        },
-        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -127,6 +127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时59分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 06时38分]"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -266,7 +277,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -276,8 +287,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -288,8 +299,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -322,11 +333,12 @@
             21,
             23,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -337,8 +349,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -348,8 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
@@ -359,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时38分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -368,11 +380,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时38分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -382,8 +395,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时38分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时41分]"
+          "time_info": "[06时37分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股盘中）",
