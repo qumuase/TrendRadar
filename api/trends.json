@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:51:15.529365+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-08-07T13:42:18.733133+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -38,30 +38,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 13时42分]"
         },
         {
           "title": "内娱第一人 戚薇开放形象AI授权",
           "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时42分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
           "url": "https://wallstreetcn.com/articles/3778828",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时42分]"
         },
         {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -97,6 +99,17 @@
           "time_info": "[11时50分 ~ 11时51分]"
         },
         {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
           "url": "https://www.toutiao.com/trending/7670341977426296874/",
           "source": "今日头条",
@@ -108,6 +121,28 @@
           "time_info": "08时03分"
         },
         {
+          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
+          "url": "https://wallstreetcn.com/articles/3778824",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "美科研团队利用AI设计出可复制的新型噬菌体",
+          "url": "https://wallstreetcn.com/livenews/3146444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
           "url": "https://www.cls.cn/detail/2447404",
           "source": "财联社热门",
@@ -117,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "AI复原文人笔下的立秋",
@@ -163,6 +209,28 @@
           "time_info": "08时03分"
         },
         {
+          "title": "戚薇 授权AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "汪峰公司因AI从1100人减到400人",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "戚薇用AI解锁末世",
           "url": "https://www.douyin.com/hot/2599650",
           "source": "抖音",
@@ -187,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 13时42分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -199,8 +267,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 13时42分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
