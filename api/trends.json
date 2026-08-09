@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:57:35.516794+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-08-09T16:48:17.378457+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时48分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -75,6 +75,19 @@
           "time_info": "[00时35分 ~ 11时45分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时48分]"
+        },
+        {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
           "url": "https://www.cls.cn/detail/2449139",
           "source": "财联社热门",
@@ -86,20 +99,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时57分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时48分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -114,8 +115,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 16时48分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -139,9 +140,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时48分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时07分 ~ 16时48分]"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -153,18 +166,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时50分 ~ 11时45分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 15时57分]"
         },
         {
           "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
@@ -285,7 +286,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -326,8 +327,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时48分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -336,11 +337,25 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时48分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时48分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -355,29 +370,17 @@
           "time_info": "[00时35分 ~ 07时31分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时57分]"
-        },
-        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 15时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 16时48分]"
         }
       ]
     }
