@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:39:35.428993+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-08-10T15:44:57.104214+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -35,11 +35,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 15时44分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -114,11 +115,24 @@
           "source": "知乎",
           "ranks": [
             9,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时44分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 15时44分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -140,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时44分]"
         },
         {
           "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
@@ -158,17 +173,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
           "url": "https://wallstreetcn.com/livenews/3147178",
           "source": "华尔街见闻-快讯",
@@ -180,6 +184,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
           "url": "https://m.thepaper.cn/newsDetail_forward_33749121",
           "source": "澎湃新闻",
@@ -189,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "第一批用AI租房的受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -236,11 +262,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时34分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[04时34分 ~ 15时44分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -273,7 +300,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
@@ -291,8 +318,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 15时44分]"
         }
       ]
     }
