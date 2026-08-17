@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T14:58:38.174113+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-08-17T18:34:12.708138+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -86,6 +86,18 @@
           "time_info": "[03时22分 ~ 07时22分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 18时34分]"
+        },
+        {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
@@ -132,16 +144,17 @@
           "time_info": "[03时22分 ~ 09时20分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
           "ranks": [
+            11,
             9,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 14时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 18时34分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -163,7 +176,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -178,6 +191,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时36分 ~ 14时58分]"
+        },
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时58分 ~ 18时34分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -241,18 +266,6 @@
           "time_info": "[13时36分 ~ 14时58分]"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 14时58分]"
-        },
-        {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
           "url": "https://www.cls.cn/detail/2455402",
           "source": "财联社热门",
@@ -289,6 +302,28 @@
           "time_info": "[13时36分 ~ 14时58分]"
         },
         {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 18时34分]"
+        },
+        {
+          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
+          "url": "https://www.cls.cn/detail/2455627",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 18时34分]"
+        },
+        {
           "title": "AI如何能辅助办公",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
           "source": "bilibili 热搜",
@@ -300,15 +335,15 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
-          "source": "财联社热门",
+          "title": "AI故事主角又换了？华尔街开始大举押注云计算赛道",
+          "url": "https://flash.jin10.com/detail/20260817181218865800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时58分"
+          "time_info": "18时34分"
         },
         {
           "title": "涉中美AI，美被曝想逼多国“二选一”",
@@ -361,7 +396,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -383,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
@@ -421,11 +456,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 14时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 18时34分]"
         }
       ]
     }
