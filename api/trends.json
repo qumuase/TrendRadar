@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-17T07:22:18.511071+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-08-17T09:20:52.945609+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
+        },
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
           "url": "https://wallstreetcn.com/articles/3779518",
@@ -19,29 +31,18 @@
           "time_info": "[03时22分 ~ 07时22分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
-        },
-        {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
           "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
           "source": "澎湃新闻",
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -63,30 +64,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
           "url": "https://www.cls.cn/detail/2455353",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -96,21 +113,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
-          "title": "一条AI短片演绎时间焦虑",
-          "url": "https://www.douyin.com/hot/2612104",
-          "source": "抖音",
+          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            12,
-            13
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -126,15 +142,16 @@
           "time_info": "[03时22分 ~ 07时22分]"
         },
         {
-          "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
-          "source": "澎湃新闻",
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 09时20分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -144,18 +161,6 @@
             7,
             14,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 07时22分]"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -173,15 +178,59 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "涉中美AI，美被曝想逼多国“二选一”",
+          "url": "https://wallstreetcn.com/livenews/3150130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "AI融资需求不断攀升 Alphabet考虑首次发行澳元债券",
+          "url": "https://wallstreetcn.com/livenews/3150129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
           "url": "https://flash.jin10.com/detail/20260817062707189800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "涉中美AI，美被曝想逼多国“二选一”",
+          "url": "https://flash.jin10.com/detail/20260817084226020800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
