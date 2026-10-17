@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T14:41:54.812435+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-10-17T19:28:11.413120+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 19时28分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -38,41 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 14时41分]"
-        },
-        {
-          "title": "英国海上贸易行动办公室：周五，一艘油轮在沙特朱拜勒（Jubail）东北方向海域遭不明发射物击中，船员均安全并已撤离。",
-          "url": "https://flash.jin10.com/detail/20261017142838914800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "毕导 科普UP主会被AI取代吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 19时28分]"
         },
         {
           "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
           "url": "https://wallstreetcn.com/articles/3783826",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 19时28分]"
         },
         {
           "title": "老干妈用AI一年狂赚54亿",
@@ -81,11 +60,46 @@
           "ranks": [
             10,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[03时24分 ~ 19时28分]"
+        },
+        {
+          "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
+          "url": "https://www.cls.cn/detail/2507445",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
+          "title": "英国海上贸易行动办公室：周五，一艘油轮在沙特朱拜勒（Jubail）东北方向海域遭不明发射物击中，船员均安全并已撤离。",
+          "url": "https://flash.jin10.com/detail/20261017142838914800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "毕导 科普UP主会被AI取代吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 19时28分]"
         },
         {
           "title": "微软被告知员工应将OpenAI抓取项目列为“机密”",
@@ -150,6 +164,30 @@
           "time_info": "[03时24分 ~ 06时38分]"
         },
         {
+          "title": "龙珠声优痛斥AI配音没灵魂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 19时28分]"
+        },
+        {
+          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+          "url": "https://www.cls.cn/detail/2507401",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 19时28分]"
+        },
+        {
           "title": "谢娜发AI视频为赵丽颖庆生",
           "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F",
           "source": "百度热搜",
@@ -160,6 +198,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 06时38分]"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "AWS首席财务官：AI支出可持续 服务器投资回报期不到三年",
@@ -184,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 09时09分]"
+        },
+        {
+          "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
+          "url": "https://wallstreetcn.com/articles/3783831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
@@ -221,17 +281,6 @@
           "time_info": "06时38分"
         },
         {
-          "title": "龙珠声优痛斥AI配音没灵魂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
           "title": "一口气介绍OpenAI的数学成果",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BB%8B%E7%BB%8DOpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -252,17 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
-        },
-        {
-          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
-          "url": "https://www.cls.cn/detail/2507401",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         },
         {
           "title": "AI为何会欺骗人类",
@@ -309,6 +347,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "Anthropic联合创始人：AI或大幅推高美国GDP至44万亿美元",
+          "url": "https://flash.jin10.com/detail/20261017171958720800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（关于AI市场动荡）这一切都会过去的。",
           "url": "https://flash.jin10.com/detail/20261017043420130800",
           "source": "金十数据",
@@ -337,7 +386,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -399,11 +448,12 @@
             5,
             6,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 14时41分]"
+          "appearance_count": 7,
+          "time_info": "[03时24分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -415,8 +465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 19时28分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，纳指ETF跌2.5%",
@@ -475,7 +525,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
