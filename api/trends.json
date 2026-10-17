@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T06:38:52.381307+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-10-17T09:09:58.635581+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
@@ -15,30 +15,92 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 06时38分]"
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 09时09分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "微软被告知员工应将OpenAI抓取项目列为“机密”",
           "url": "https://wallstreetcn.com/livenews/3180499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 09时09分]"
         },
         {
           "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
           "url": "https://wallstreetcn.com/livenews/3180498",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 09时09分]"
+        },
+        {
+          "title": "老干妈用AI一年狂赚54亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&amp;topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 09时09分]"
+        },
+        {
+          "title": "AI偶像怀孕 把全网都“耍了”",
+          "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 09时09分]"
+        },
+        {
+          "title": "库克：中国几乎所有人都在积极拥抱AI，令人印象深刻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34261252",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 09时09分]"
         },
         {
           "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
@@ -47,41 +109,6 @@
           "ranks": [
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 06时38分]"
-        },
-        {
-          "title": "老干妈用AI一年狂赚54亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&amp;topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 06时38分]"
-        },
-        {
-          "title": "AI偶像怀孕 把全网都“耍了”",
-          "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 06时38分]"
-        },
-        {
-          "title": "库克：中国几乎所有人都在积极拥抱AI，令人印象深刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34261252",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -100,48 +127,95 @@
           "time_info": "[03时24分 ~ 06时38分]"
         },
         {
-          "title": "Anthropic单独向美国国会山议员们递交AI安全立法草案。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3180495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
           "title": "AWS首席财务官：AI支出可持续 服务器投资回报期不到三年",
           "url": "https://flash.jin10.com/detail/20261017053229367800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 09时09分]"
         },
         {
           "title": "OpenAI从SpaceX挖走另一位聚焦AI的销售主管",
           "url": "https://wallstreetcn.com/livenews/3180494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 09时09分]"
         },
         {
           "title": "AWS CFO：AI基建投入热潮具备可持续性",
           "url": "https://wallstreetcn.com/livenews/3180488",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 09时09分]"
+        },
+        {
+          "title": "Anthropic单独向美国国会山议员们递交AI安全立法草案。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3180495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "一口气介绍OpenAI的数学成果",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E4%BB%8B%E7%BB%8DOpenAI%E7%9A%84%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "全球科技股暴跌，黄仁勋下场“救市”：力挺CoreWeave，直指“AI算力全靠两家实验室买单”是巨大误读",
+          "url": "https://wallstreetcn.com/articles/3783749",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
+          "url": "https://www.zhihu.com/question/2094037238065714517",
+          "source": "知乎",
+          "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "AI为何会欺骗人类",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "黄仁勋：AI将带来变革，当前市场动荡终将过去",
@@ -150,9 +224,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "报道：Anthropic向美国议员推介AI安全方案，拟为模型发布设置门槛",
+          "url": "https://wallstreetcn.com/livenews/3180495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "OpenAICodex产品负责人Tibo：我们对Codex和Work进行了优化，以提升实际使用效果。我们通过在子代理之间复用上下文、延长上下文缓存时间，以及改进请求路由（从而提高缓存命中率）来实现这一目标。此外，我们还为所有专业版用户显著提升了GPT-6 Pro的性能",
+          "url": "https://flash.jin10.com/detail/20261017080300324800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（关于AI市场动荡）这一切都会过去的。",
@@ -161,7 +257,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -172,7 +268,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -183,7 +279,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -194,7 +290,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -205,7 +301,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -232,22 +328,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 06时38分]"
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 09时09分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
           "url": "https://www.cls.cn/detail/2507375",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 09时09分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，纳指ETF跌2.5%",
@@ -256,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -278,7 +376,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -289,7 +387,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         }
