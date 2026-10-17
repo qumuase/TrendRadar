@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T02:15:59.697853+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-18T05:19:24.037112+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
-          "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
-          "url": "https://wallstreetcn.com/articles/3783826",
-          "source": "华尔街见闻",
+          "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
+          "url": "https://www.zhihu.com/question/2094715615177085550",
+          "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
@@ -48,30 +49,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
-          "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
-          "url": "https://www.zhihu.com/question/2094715615177085550",
-          "source": "知乎",
+          "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
+          "url": "https://wallstreetcn.com/articles/3783826",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
           "url": "https://wallstreetcn.com/articles/3783832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "中信建投：AI加速重塑制药传统研发范式",
@@ -81,19 +84,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
           "url": "https://wallstreetcn.com/articles/3783831",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "印度网络安全机构称，多个AI模型在测试期间入侵印度企业实时系统",
@@ -103,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
@@ -114,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -125,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
@@ -136,8 +140,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "AI的吻戏比真人还欲啊",
@@ -147,8 +151,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "龙珠声优痛斥AI配音没灵魂",
@@ -158,8 +162,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "马斯克：AI和机器人是化解美国债务的唯一途径",
@@ -169,30 +173,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "毕导 科普UP主会被AI取代吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "GAI杭州演唱会",
           "url": "https://www.douyin.com/hot/2700103",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
+        },
+        {
+          "title": "毕导 科普UP主会被AI取代吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
@@ -202,8 +208,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         },
         {
           "title": "老干妈用AI一年狂赚54亿",
@@ -213,8 +219,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         }
       ]
     },
@@ -230,8 +236,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时19分]"
         }
       ]
     }
