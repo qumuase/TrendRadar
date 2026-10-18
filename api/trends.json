@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T16:39:53.037508+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-10-18T21:03:37.226416+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时15分 ~ 21时03分]"
         },
         {
           "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时15分 ~ 21时03分]"
         },
         {
           "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
@@ -81,6 +81,50 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
+          "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
+          "url": "https://wallstreetcn.com/articles/3783849",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 21时03分]"
+        },
+        {
+          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 21时03分]"
+        },
+        {
+          "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
+          "url": "https://wallstreetcn.com/articles/3783851",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 21时03分]"
+        },
+        {
+          "title": "北大教授预言AI催生弃民",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367595&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 21时03分]"
+        },
+        {
           "title": "中信建投：AI加速重塑制药传统研发范式",
           "url": "https://wallstreetcn.com/livenews/3180589",
           "source": "华尔街见闻-快讯",
@@ -93,17 +137,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时15分 ~ 16时39分]"
-        },
-        {
-          "title": "中东搞砸了、俄乌谈不拢、AI云暴雷、美国高通胀---市场“灾难一周”改变了什么？",
-          "url": "https://wallstreetcn.com/articles/3783849",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
@@ -119,6 +152,20 @@
           "time_info": "[02时15分 ~ 11时31分]"
         },
         {
+          "title": "龙珠声优痛斥AI配音没灵魂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时15分 ~ 21时03分]"
+        },
+        {
           "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
           "url": "https://wallstreetcn.com/articles/3783836",
           "source": "华尔街见闻",
@@ -130,39 +177,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 11时31分]"
-        },
-        {
-          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "“股债双杀”的CoreWeave——本轮AI崩盘的“风暴眼”",
-          "url": "https://wallstreetcn.com/articles/3783851",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "北大教授预言AI催生弃民",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367595&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
         },
         {
           "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -189,17 +203,15 @@
           "time_info": "11时31分"
         },
         {
-          "title": "龙珠声优痛斥AI配音没灵魂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
-          "source": "贴吧",
+          "title": "演员吴越怒斥AI仿冒带货，微信视频号回应：账号已永久封禁，内容清空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34274620",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            15,
-            21
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 16时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "老干妈用AI一年狂赚54亿",
@@ -266,6 +278,32 @@
           "time_info": "[02时15分 ~ 16时39分]"
         },
         {
+          "title": "马斯克反思DOGE：“政府内部”无法解决赤字，只有AI和机器人才能救美国",
+          "url": "https://wallstreetcn.com/articles/3783841",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 21时03分]"
+        },
+        {
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 21时03分]"
+        },
+        {
           "title": "AI的吻戏比真人还欲啊",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -302,28 +340,16 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
-          "title": "马斯克反思DOGE：“政府内部”无法解决赤字，只有AI和机器人才能救美国",
-          "url": "https://wallstreetcn.com/articles/3783841",
-          "source": "华尔街见闻",
+          "title": "洛手转投玩家AI创作遭吐槽",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367575&amp;topic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD",
+          "source": "贴吧",
           "ranks": [
             8,
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时31分 ~ 16时39分]"
-        },
-        {
-          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
-          "url": "https://www.cls.cn/detail/2507535",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 16时39分]"
+          "time_info": "[16时39分 ~ 21时03分]"
         },
         {
           "title": "Steam 上全 AI 搓出来的垃圾游戏越来越多，平台为什么不能完全屏蔽这类作品？",
@@ -362,15 +388,49 @@
           "time_info": "[02时15分 ~ 05时19分]"
         },
         {
-          "title": "洛手转投玩家AI创作遭吐槽",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367575&amp;topic_name=%E6%B4%9B%E6%89%8B%E8%BD%AC%E6%8A%95%E7%8E%A9%E5%AE%B6AI%E5%88%9B%E4%BD%9C%E9%81%AD%E5%90%90%E6%A7%BD",
+          "title": "宋亚轩大战AI",
+          "url": "https://www.douyin.com/hot/2701208",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 21时03分]"
+        },
+        {
+          "title": "AI同人抢跑官方,追番党忧心",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&amp;topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83",
           "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "不用AI特效的中国功夫什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "21时03分"
+        },
+        {
+          "title": "AI竞争打到工厂，欧洲想和中国掰手腕",
+          "url": "https://news.ifeng.com/c/8xKApDsNCxa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "吴越发声AI诈骗太恶劣",
@@ -401,18 +461,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "宋亚轩大战AI",
-          "url": "https://www.douyin.com/hot/2701208",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -431,8 +480,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时15分 ~ 21时03分]"
         }
       ]
     },
