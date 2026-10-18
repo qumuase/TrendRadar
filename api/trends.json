@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-18T07:50:41.862360+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-10-18T11:31:43.712567+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
-        },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
           "url": "https://www.cls.cn/detail/2507382",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
         },
         {
           "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
@@ -36,11 +25,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
         },
         {
           "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
@@ -49,6 +39,30 @@
           "ranks": [
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        },
+        {
+          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3783832",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -67,40 +81,17 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
-          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3783832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
-        },
-        {
-          "title": "中信建投：AI加速重塑制药传统研发范式",
-          "url": "https://wallstreetcn.com/livenews/3180589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
-        },
-        {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
           "url": "https://wallstreetcn.com/articles/3783831",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
         },
         {
           "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
@@ -108,23 +99,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
-        },
-        {
-          "title": "印度网络安全机构称，多个AI模型在测试期间入侵印度企业实时系统",
-          "url": "https://wallstreetcn.com/livenews/3180586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7,
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
         },
         {
           "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
@@ -132,22 +112,97 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        },
+        {
+          "title": "中信建投：AI加速重塑制药传统研发范式",
+          "url": "https://wallstreetcn.com/livenews/3180589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        },
+        {
+          "title": "十万卡AI超集群能装一个宇宙",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%81%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E8%83%BD%E8%A3%85%E4%B8%80%E4%B8%AA%E5%AE%87%E5%AE%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "林园：现在是乌龟爬着，等牛市哪天爆发，看好AI大时代但不碰个股",
+          "url": "https://wallstreetcn.com/articles/3783834",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 11时31分]"
+        },
+        {
+          "title": "印度网络安全机构称，多个AI模型在测试期间入侵印度企业实时系统",
+          "url": "https://wallstreetcn.com/livenews/3180586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
         },
         {
           "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
           "url": "https://www.cls.cn/detail/2507401",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        },
+        {
+          "title": "龙珠声优痛斥AI配音没灵魂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        },
+        {
+          "title": "老干妈用AI一年狂赚54亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&amp;topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
         },
         {
           "title": "AI的吻戏比真人还欲啊",
@@ -156,17 +211,6 @@
           "ranks": [
             11,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
-        },
-        {
-          "title": "龙珠声优痛斥AI配音没灵魂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -210,15 +254,16 @@
           "time_info": "[02时15分 ~ 07时50分]"
         },
         {
-          "title": "老干妈用AI一年狂赚54亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&amp;topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF",
-          "source": "贴吧",
+          "title": "吴越发声AI诈骗太恶劣",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%E5%8F%91%E5%A3%B0AI%E8%AF%88%E9%AA%97%E5%A4%AA%E6%81%B6%E5%8A%A3&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            23
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 11时31分]"
         },
         {
           "title": "GAI杭州演唱会",
@@ -233,26 +278,59 @@
           "time_info": "[02时15分 ~ 05时19分]"
         },
         {
-          "title": "林园：现在是乌龟爬着，等牛市哪天爆发，看好AI大时代但不碰个股",
-          "url": "https://wallstreetcn.com/articles/3783834",
+          "title": "马斯克反思DOGE：“政府内部”无法解决赤字，只有AI和机器人才能救美国",
+          "url": "https://wallstreetcn.com/articles/3783841",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "11时31分"
+        },
+        {
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "吴越发声AI诈骗太恶劣",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%E5%8F%91%E5%A3%B0AI%E8%AF%88%E9%AA%97%E5%A4%AA%E6%81%B6%E5%8A%A3&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7697786875419328575/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "演员吴越遭AI假冒带货 凌晨发文怒斥",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E5%90%B4%E8%B6%8A%E9%81%ADAI%E5%81%87%E5%86%92%E5%B8%A6%E8%B4%A7+%E5%87%8C%E6%99%A8%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5",
+          "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "11时31分"
+        },
+        {
+          "title": "Steam 上全 AI 搓出来的垃圾游戏越来越多，平台为什么不能完全屏蔽这类作品？",
+          "url": "https://www.zhihu.com/question/2092987882810128061",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
@@ -269,8 +347,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 11时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "何小鹏、李斌点评特斯拉第二代Roadster",
+          "url": "https://news.ifeng.com/c/8xJfhsyix9z",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     }
