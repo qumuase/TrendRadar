@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T03:06:53.744786+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-20T07:25:10.437610+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "外网评最烂AI命名榜,DS夺冠",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
+        },
+        {
+          "title": "市场消息：消息人士称，软银与MGX正洽谈参与OpenAI本轮融资。",
+          "url": "https://flash.jin10.com/detail/20261020071530604800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "市场消息：消息人士称，OpenAI正争分夺秒地在Anthropic IPO前敲定一轮私募融资的投资者承诺。",
+          "url": "https://flash.jin10.com/detail/20261020071510498800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”",
@@ -26,19 +48,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "不用AI特效的中国功夫什么样",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%8D%E7%94%A8AI%E7%89%B9%E6%95%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB%E4%BB%80%E4%B9%88%E6%A0%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
@@ -48,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
@@ -59,8 +82,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
+        },
+        {
+          "title": "Aijing",
+          "url": "https://s.weibo.com/weibo?q=Aijing&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "北大教授预言AI催生弃民",
@@ -70,8 +105,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "女子离婚6天用AI救了前夫一命",
@@ -81,8 +116,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "AI同人抢跑官方,追番党忧心",
@@ -92,8 +127,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "女子用AI救了前夫一命",
@@ -103,19 +138,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "Aijing",
-          "url": "https://s.weibo.com/weibo?q=Aijing&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         },
         {
           "title": "洛手转投玩家AI创作遭吐槽",
@@ -125,15 +149,48 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
+          "url": "https://www.cls.cn/detail/2509104",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "老人去见苦命“小海” 上车才知是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%8E%BB%E8%A7%81%E8%8B%A6%E5%91%BD%E2%80%9C%E5%B0%8F%E6%B5%B7%E2%80%9D+%E4%B8%8A%E8%BD%A6%E6%89%8D%E7%9F%A5%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "科技巨头护盘，油价与美债压制反弹，美股周一震荡收高，黄金冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        },
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2508914",
@@ -142,8 +199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时25分]"
         }
       ]
     }
