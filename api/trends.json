@@ -1,323 +1,55 @@
 {
-  "generated_at": "2026-10-21T21:33:39.351681+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-10-22T02:28:28.216260+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 13,
       "titles": [
         {
-          "title": "众声丨AI“苦命男孩小海”收割老人，平台审核不能总是被动响应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34288055",
-          "source": "澎湃新闻",
+          "title": "低价共享AI付费权益靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 15时13分]"
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
-          "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
-          "url": "https://www.cls.cn/detail/2510147",
+          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+          "url": "https://www.cls.cn/detail/2511348",
           "source": "财联社热门",
           "ranks": [
-            1,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3784066",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 21时33分]"
-        },
-        {
-          "title": "似曾相识？再度打爆“AI股神”后，AI交易迎来反弹",
-          "url": "https://wallstreetcn.com/articles/3783975",
-          "source": "华尔街见闻",
-          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
-          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 21时33分]"
-        },
-        {
-          "title": "AI画大肥鱼翻车,鲸鱼娘遭殃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367596&amp;topic_name=AI%E7%94%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E7%BF%BB%E8%BD%A6%2C%E9%B2%B8%E9%B1%BC%E5%A8%98%E9%81%AD%E6%AE%83",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 21时33分]"
-        },
-        {
-          "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
-          "url": "https://wallstreetcn.com/articles/3783983",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时14分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱",
-          "url": "https://www.cls.cn/detail/2509936",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时14分]"
-        },
-        {
-          "title": "“中国AI禁令”拟出台 震动全球",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E2%80%9D%E6%8B%9F%E5%87%BA%E5%8F%B0+%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
-        },
-        {
-          "title": "UP主拆解爆款AI代码动画",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8B%86%E8%A7%A3%E7%88%86%E6%AC%BEAI%E4%BB%A3%E7%A0%81%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            15,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 15时13分]"
-        },
-        {
-          "title": "OpenAI：OpenAI正将ChatGPT广告扩展至另外26个国家，使全球可用范围达到89个国家。",
-          "url": "https://wallstreetcn.com/livenews/3182750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "02时28分"
         },
         {
-          "title": "Vaisala Xweather携手英伟达提供AI驱动的高影响天气预警服务。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3182749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "肯·格里芬在全球市场未来大会上表示：AI模型进步“巨大”。",
-          "url": "https://wallstreetcn.com/livenews/3182172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
-          "url": "https://www.zhihu.com/question/2095844033167716971",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 21时33分]"
-        },
-        {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "韩国最大IPO首日暴跌32%：盈利的\"新云\"公司也难逃AI数据中心寒冬",
-          "url": "https://wallstreetcn.com/articles/3783991",
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
-          "url": "https://www.zhihu.com/question/2059660303915397288",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "北大教授预言AI催生弃民",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367595&amp;topic_name=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E5%82%AC%E7%94%9F%E5%BC%83%E6%B0%91",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "AI同人抢跑官方,追番党忧心",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367613&amp;topic_name=AI%E5%90%8C%E4%BA%BA%E6%8A%A2%E8%B7%91%E5%AE%98%E6%96%B9%2C%E8%BF%BD%E7%95%AA%E5%85%9A%E5%BF%A7%E5%BF%83",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 09时23分]"
-        },
-        {
-          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
-          "url": "https://wallstreetcn.com/articles/3784079",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 21时33分]"
-        },
-        {
-          "title": "马斯克警告人类将被AI“一击拿下”",
-          "url": "https://www.toutiao.com/trending/7698722112940281386/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时14分]"
-        },
-        {
-          "title": "拟出台的中国AI禁令震动全球",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9F%E5%87%BA%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E7%A6%81%E4%BB%A4%E9%9C%87%E5%8A%A8%E5%85%A8%E7%90%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
-        },
-        {
-          "title": "粉红豹现身法国骚乱现场系AI伪造",
-          "url": "https://www.baidu.com/s?wd=%E7%B2%89%E7%BA%A2%E8%B1%B9%E7%8E%B0%E8%BA%AB%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E7%8E%B0%E5%9C%BA%E7%B3%BBAI%E4%BC%AA%E9%80%A0",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
-        },
-        {
-          "title": "现在 AI 短剧满天飞，怎么没见影视行业人员发声？",
-          "url": "https://www.zhihu.com/question/2090228809819862141",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
-        },
-        {
-          "title": "又一部获奖小说被质疑由AI代笔",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%88%E4%B8%80%E9%83%A8%E8%8E%B7%E5%A5%96%E5%B0%8F%E8%AF%B4%E8%A2%AB%E8%B4%A8%E7%96%91%E7%94%B1AI%E4%BB%A3%E7%AC%94",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
-        },
-        {
-          "title": "城堡投资创始人：AI几乎肯定有泡沫",
-          "url": "https://www.toutiao.com/trending/7698649739163664420/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 09时23分]"
+          "appearance_count": 1,
+          "time_info": "02时28分"
         },
         {
           "title": "【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧",
@@ -326,75 +58,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "超微电脑与诺基亚合作，将英伟达Aerial RAN Computer解决方案引入网络边缘，以实现低延迟AI服。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3182744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "02时28分"
         },
         {
           "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
           "url": "https://wallstreetcn.com/articles/3784122",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3182097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "02时28分"
         },
         {
-          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-          "url": "https://www.cls.cn/detail/2511348",
-          "source": "财联社热门",
+          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
+          "url": "https://wallstreetcn.com/articles/3784079",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "02时28分"
         },
         {
-          "title": "OpenAI：OpenAI模型即将登陆谷歌云。 OpenAI将把前沿模型引入谷歌云Model Garden。 微软仍是主要云合作伙伴。 模型即将在谷歌Antigravity和Gemini Agent中提供。",
-          "url": "https://wallstreetcn.com/livenews/3182738",
-          "source": "华尔街见闻-快讯",
+          "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
+          "url": "https://www.zhihu.com/question/2095674841978488596",
+          "source": "知乎",
           "ranks": [
-            12
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "前纽约联储主席警告：AI正在制造利率“过山车”，华尔街可能全错了！",
-          "url": "https://flash.jin10.com/detail/20261021205811377800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "02时28分"
         },
         {
           "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
@@ -403,294 +102,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-          "url": "https://www.zhihu.com/question/2095476625228019430",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时28分"
         },
         {
-          "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
-          "url": "https://www.zhihu.com/question/2095674841978488596",
+          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
+          "url": "https://www.zhihu.com/question/2095844033167716971",
           "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
-          "url": "https://flash.jin10.com/detail/20261021054329265800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "OpenAI与谷歌云达成合作，将开放前沿模型及Codex",
-          "url": "https://wallstreetcn.com/livenews/3182731",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
-          "url": "https://wallstreetcn.com/livenews/3182087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "02时28分"
         },
         {
-          "title": "马斯克：对SpaceX(SPCX.O)而言，明智之举是签订短期合同，出租AI数据中心。",
-          "url": "https://flash.jin10.com/detail/20261021053509706800",
-          "source": "金十数据",
+          "title": "陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？",
+          "url": "https://www.zhihu.com/question/2095840244973004152",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时28分"
         },
         {
-          "title": "韩国10月前20天出口同比增长105.4%，AI热潮推动半导体出货",
-          "url": "https://flash.jin10.com/detail/20261021084044886800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "汇丰CEO警告：AI热潮下，并非所有数据中心都是好赌注",
-          "url": "https://wallstreetcn.com/livenews/3182084",
-          "source": "华尔街见闻-快讯",
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "02时28分"
         },
         {
-          "title": "AI凭人脸照片预测癌症患者死亡风险",
-          "url": "https://www.baidu.com/s?wd=AI%E5%87%AD%E4%BA%BA%E8%84%B8%E7%85%A7%E7%89%87%E9%A2%84%E6%B5%8B%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
+          "title": "华尔街大佬：AI确定已是大泡沫",
+          "url": "https://www.toutiao.com/trending/7699032278101397028/",
+          "source": "今日头条",
           "ranks": [
-            23
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
-          "url": "https://flash.jin10.com/detail/20261021015825860800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "OpenAI称AI Agent削弱了对齐失效监控",
-          "url": "https://wallstreetcn.com/livenews/3182207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "诺基亚与英伟达推出面向电信运营商的主权代理式AI平台",
-          "url": "https://wallstreetcn.com/livenews/3182714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "超微电脑（SMCI）2027财年一季度净销售初步估算为185亿-195亿美元，分析师预期149.9亿美元。 AI平台需求增长。 第一财季毛利润率初步估算为12%-12.5%。 超微电脑每股盘后涨11%。",
-          "url": "https://wallstreetcn.com/livenews/3182146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "CrowdStrike与英伟达扩大AI Agent安全合作，延伸至芯片层。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3182713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "OpenAI：前沿模型将通过谷歌云市场开放购买。",
-          "url": "https://flash.jin10.com/detail/20261021203514440800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
-          "url": "https://www.cls.cn/detail/2510428",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 15时13分]"
-        },
-        {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 15时13分]"
-        },
-        {
-          "title": "纳指期货周三盘初涨1%，SpaceX(SPCX.O)财报及与特斯拉(TSLA.O)合并消息提振美股科技股盘后行情。",
-          "url": "https://flash.jin10.com/detail/20261021060317218800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "美股深夜反攻纳指涨超1%",
-          "url": "https://www.douyin.com/hot/2703663",
-          "source": "抖音",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 06时14分]"
-        },
-        {
-          "title": "马斯克称，阿斯麦等针对Terafab加快设备交付速度。 阿斯麦ADR美股盘后涨幅迅速扩大至2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3182169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "SpaceX美股盘后涨5.5%，该公司正举行分析师电话会议。",
-          "url": "https://wallstreetcn.com/livenews/3182165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3182739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "CoreWeave、Nebius Group美股盘后涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3182159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "道明证券：若美股中期选举出现分裂的国会，或将推迟债务上限协议",
-          "url": "https://wallstreetcn.com/livenews/3182157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "周二（10月20日），美股行业ETF多数收涨，生物科技指数ETF涨3.16%，全球航空业ETF、医疗业ETF至多涨2.38%，科技行业ETF、全球科技股指数ETF、半导体ETF则至多收跌0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3182143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时28分"
         }
       ]
     }
