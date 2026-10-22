@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-10-22T15:15:11.690636+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-10-22T21:34:53.886392+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 21时34分]"
+        },
+        {
+          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784152",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 21时34分]"
+        },
         {
           "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
           "url": "https://wallstreetcn.com/articles/3784122",
@@ -21,17 +44,6 @@
           "time_info": "[02时28分 ~ 15时15分]"
         },
         {
-          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 15时15分]"
-        },
-        {
           "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
           "url": "https://www.cls.cn/detail/2511348",
           "source": "财联社热门",
@@ -44,16 +56,41 @@
           "time_info": "[02时28分 ~ 09时20分]"
         },
         {
-          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784152",
-          "source": "华尔街见闻",
+          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2094620721343481537",
+          "source": "知乎",
           "ranks": [
+            12,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 21时34分]"
+        },
+        {
+          "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+          "url": "https://www.cls.cn/detail/2511957",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 21时34分]"
+        },
+        {
+          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
+          "url": "https://wallstreetcn.com/articles/3784140",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 21时34分]"
         },
         {
           "title": "低价共享AI付费权益靠谱吗",
@@ -68,17 +105,6 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
-          "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
-          "url": "https://www.cls.cn/detail/2511957",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
-        },
-        {
           "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3784066",
           "source": "华尔街见闻",
@@ -90,28 +116,37 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
-          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
-          "url": "https://wallstreetcn.com/articles/3784140",
-          "source": "华尔街见闻",
+          "title": "Meta信用风险指标升至新高，受AI支出计划影响。",
+          "url": "https://wallstreetcn.com/livenews/3183764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 15时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
-          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
-          "url": "https://www.zhihu.com/question/2094620721343481537",
-          "source": "知乎",
+          "title": "AI交易熄火、中东局势恶化，全球股市遭遇“黑色星期四”！",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "基金经理为重仓AI致歉，又到了集体反思时刻",
+          "url": "https://www.cls.cn/detail/2512611",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 15时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
@@ -283,6 +318,28 @@
           "time_info": "06时11分"
         },
         {
+          "title": "李雪健配合AI声音登长征文艺晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E9%9B%AA%E5%81%A5%E9%85%8D%E5%90%88AI%E5%A3%B0%E9%9F%B3%E7%99%BB%E9%95%BF%E5%BE%81%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
+          "url": "https://www.cls.cn/detail/2512263",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "OpenAI：将于2026年11月20日起更新使用政策，以明确安全模型开发和敏感人工智能应用的相关规则。",
           "url": "https://flash.jin10.com/detail/20261022055023306800",
           "source": "金十数据",
@@ -292,6 +349,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "贝森特闭门会向华尔街放话：看不出AI有什么“系统性风险”",
+          "url": "https://wallstreetcn.com/articles/3784160",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
+          "url": "https://www.cls.cn/detail/2512629",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "贝森特淡化AI泡沫风险：称不存在“系统性问题”，全球最聪明的人仍看好AI",
@@ -314,6 +393,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "估值更具吸引力 贝莱德全球首席投资策略师称公司寻求重新布局AI交易",
+          "url": "https://wallstreetcn.com/livenews/3183750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306053",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "MetaPlatforms的CEO扎克伯格表示：Muse——以及他将“个人超级智能”作为 Meta 战略北极星愿景——实际上已有数十年的酝酿。 这与我们在公司过去二十多年里一直从事的工作方向一致：赋能个体，让人们拥有发声渠道，并提供工具，让他们以自己想要的方式建立连接。 当我们把这一理念延伸到如今的 AI 工作时，我们认为，为下一代技术打造的最重要的东西，本质上就是把这项技术的能力交到每个人手中。 这些都是长期押注，从长远来看，只要我们继续保持良好的执行力，业务自然会水到渠成。",
@@ -341,7 +442,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -376,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3183761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
@@ -417,7 +529,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
