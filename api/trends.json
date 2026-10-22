@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-22T06:11:39.709183+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-10-22T09:20:07.179067+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+          "url": "https://www.cls.cn/detail/2511348",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 09时20分]"
+        },
         {
           "title": "低价共享AI付费权益靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97",
@@ -20,15 +32,27 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
-          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-          "url": "https://www.cls.cn/detail/2511348",
-          "source": "财联社热门",
+          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时28分 ~ 06时11分]"
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
+          "url": "https://wallstreetcn.com/articles/3784122",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 09时20分]"
         },
         {
           "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
@@ -42,13 +66,24 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
+          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784152",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
           "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
           "url": "https://flash.jin10.com/detail/20261022055300050800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -63,6 +98,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 06时11分]"
+        },
+        {
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 09时20分]"
+        },
+        {
+          "title": "张益唐的数学难题被AI化为习题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 09时20分]"
         },
         {
           "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
@@ -87,15 +145,15 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
-          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
-          "url": "https://wallstreetcn.com/articles/3784122",
+          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
+          "url": "https://wallstreetcn.com/articles/3784140",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时28分 ~ 06时11分]"
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
@@ -121,6 +179,28 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
+          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2094620721343481537",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！",
+          "url": "https://www.cls.cn/detail/2511667",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
           "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
           "url": "https://m.thepaper.cn/newsDetail_forward_34296636",
           "source": "澎湃新闻",
@@ -143,24 +223,13 @@
           "time_info": "[02时28分 ~ 06时11分]"
         },
         {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 06时11分]"
-        },
-        {
           "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
           "url": "https://flash.jin10.com/detail/20261022055128917800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -171,18 +240,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "张益唐的数学难题被AI化为习题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -193,9 +251,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "贝森特淡化AI泡沫风险：称不存在“系统性问题”，全球最聪明的人仍看好AI",
+          "url": "https://flash.jin10.com/detail/20261022090122039800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "Anthropic推出全天候AI智能体Claude Duet",
@@ -204,7 +273,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -215,7 +284,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -234,8 +303,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+          "url": "https://www.cls.cn/detail/2511640",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
         {
           "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
           "url": "https://wallstreetcn.com/livenews/3183001",
@@ -243,7 +334,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -254,7 +345,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -265,9 +356,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3183019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
