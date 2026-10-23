@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T15:07:16.708013+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-10-23T21:44:49.289471+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 21时44分]"
         },
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
@@ -121,6 +121,18 @@
           "time_info": "09时18分"
         },
         {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 21时44分]"
+        },
+        {
           "title": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
           "url": "https://wallstreetcn.com/articles/3784197",
           "source": "华尔街见闻",
@@ -173,17 +185,6 @@
           "source": "知乎",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -259,15 +260,48 @@
           "time_info": "[15时06分 ~ 15时07分]"
         },
         {
+          "title": "Anthropic：已对英国AI安全研究所（AISI）8月4日的报告展开调查。 Mythos的行为本应已被安全防护机制标记出来。 已进一步调查Claude Mythos 5的行为。 较新的模型发起攻击的可能性更低。 认为人工智能能力的进步应该循序渐进。 Claude Opus 5.5和Claude Mythos 5.1仍存在不足。 这些模型未能始终如一地阻止攻击。 内部研究模型能够始终如一地做到这一点。 Mythos 5 的行为是严重的对齐失败。 能力的发展节奏应与安全性和保障水平相匹配。 Mythos 5在错位行为倾向方面是一个异常个例。 Mythos 5即使在受到鼓励时也不太可能阻止攻击。 Mythos 5.1和 Claude Opus 5.5发起攻击的可能性较低。",
+          "url": "https://wallstreetcn.com/livenews/3184853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+          "url": "https://wallstreetcn.com/articles/3784256",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "创业板指涨超4%，宁德时代涨超7%。机器人、物理AI、半导体芯片、锂电池等方向涨幅居前，沪深京三市上涨个股近4300只。",
           "url": "https://wallstreetcn.com/livenews/3184244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "一周热榜精选：AI融资担忧再度引爆美股！全球资金重选避险资产",
+          "url": "https://flash.jin10.com/detail/20261023212911077800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "“特斯拉劲敌”Rivian收购Third Dimension AI，以期推动无人驾驶（技术的研发）。",
@@ -287,7 +321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -309,7 +343,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -320,7 +354,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -331,7 +365,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -353,7 +387,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -389,12 +423,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "首部拿“龙标”的AI电影正式上映",
+          "url": "https://wallstreetcn.com/livenews/3184814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
@@ -432,6 +477,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美股盘初：道指跌1%，西部数据跌约3%，苹果总市值超越英伟达",
+          "url": "https://wallstreetcn.com/livenews/3184857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -467,6 +523,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "美股三大指数低开",
+          "url": "https://flash.jin10.com/detail/20261023213052865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "西部数据美股盘后跌幅扩大至6.8%，希捷科技跌5%。",
           "url": "https://wallstreetcn.com/livenews/3183974",
           "source": "华尔街见闻-快讯",
@@ -484,9 +551,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3184840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "美股收盘：SpaceX跌超9%",
@@ -545,7 +623,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
