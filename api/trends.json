@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-23T09:18:55.770826+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-10-23T15:07:16.708013+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 15时07分]"
+        },
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
           "url": "https://www.cls.cn/detail/2512629",
@@ -66,17 +77,6 @@
           "time_info": "[03时13分 ~ 06时11分]"
         },
         {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
           "url": "https://wallstreetcn.com/articles/3784189",
           "source": "华尔街见闻",
@@ -116,7 +116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -129,8 +129,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 15时07分]"
+        },
+        {
+          "title": "AI短片妖怪衙门",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时13分 ~ 09时18分]"
+          "time_info": "[09时18分 ~ 15时07分]"
         },
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -142,6 +154,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 09时18分]"
+        },
+        {
+          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 15时07分]"
+        },
+        {
+          "title": "PHP 严重漏洞被 AI 模型发现，全球多国政府和企业紧急关闭网站，意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2096865789156356222",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
@@ -168,6 +214,28 @@
           "time_info": "[03时13分 ~ 06时11分]"
         },
         {
+          "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
+          "url": "https://www.cls.cn/detail/2513145",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "玉渊谭天：“中国AI禁令”是怎么回事",
+          "url": "https://www.cls.cn/detail/2512926",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
           "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
           "url": "https://m.thepaper.cn/newsDetail_forward_34306053",
           "source": "澎湃新闻",
@@ -180,15 +248,26 @@
           "time_info": "[03时13分 ~ 06时11分]"
         },
         {
-          "title": "AI短片妖怪衙门",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
-          "source": "bilibili 热搜",
+          "title": "AI让学历不值钱",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E5%AD%A6%E5%8E%86%E4%B8%8D%E5%80%BC%E9%92%B1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "创业板指涨超4%，宁德时代涨超7%。机器人、物理AI、半导体芯片、锂电池等方向涨幅居前，沪深京三市上涨个股近4300只。",
+          "url": "https://wallstreetcn.com/livenews/3184244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "15时07分"
         },
         {
           "title": "“特斯拉劲敌”Rivian收购Third Dimension AI，以期推动无人驾驶（技术的研发）。",
@@ -202,6 +281,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "市场质疑AI投资回报，对冲基金遭遇疫情以来最广泛回撤",
+          "url": "https://flash.jin10.com/detail/20261023143507111800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至3%，半导体指数跌6.5%，存储芯片指数跌超8.1%，AI赢家指数跌超6.5%、AI软件先驱指数重新跌1.3%，标普跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3183915",
           "source": "华尔街见闻-快讯",
@@ -213,15 +303,37 @@
           "time_info": "03时13分"
         },
         {
-          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
-          "source": "澎湃新闻",
+          "title": "上海：鼓励企业前瞻布局物理AI，重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术",
+          "url": "https://wallstreetcn.com/livenews/3184233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "创业板指涨超3%，早盘曾一度跌超3%。机器人、物理AI、白酒、保险等方向涨幅居前，沪深京三市上涨个股近3200只。",
+          "url": "https://wallstreetcn.com/livenews/3184229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "AI眼镜概念震荡反弹，明月镜片“20cm”涨停，博士眼镜、视涯科技、极米科技、龙旗科技、歌尔股份、星宸科技涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3184225",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "15时07分"
         },
         {
           "title": "明晟公司MSCI新兴市场股票指数跌2.5%，创7月份以来新低，美国科技股业绩报告良莠不齐之际，投资者对AI的乐观情绪退烧。 发展中国家外汇指数跌0.2%，布伦特原油价格创5月份以来最高之际，净石油进口国家南非、智利、波兰的货币领跌，巴西雷亚尔也在周末大选之前跌幅显著。",
@@ -233,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "日本央行：日本金融体系整体保持稳定。 日本银行业能够承受石油和人工智能风险带来的压力。 超过35年的超长期房贷正在增加。 对房地产行业的贷款继续高速增长。 日本央行将监测“前沿AI”发展带来的网络安全风险。",
+          "url": "https://wallstreetcn.com/livenews/3184223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
@@ -271,18 +394,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
           "url": "https://www.cls.cn/detail/2512907",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 15时07分]"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+          "url": "https://www.cls.cn/detail/2512879",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 15时07分]"
         },
         {
           "title": "Crown Castle Inc.美股盘后涨9%，AT&T则跌5%。",
@@ -294,17 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
-          "url": "https://www.cls.cn/detail/2512879",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
         },
         {
           "title": "美股",
@@ -337,7 +462,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -353,13 +478,24 @@
           "time_info": "06时11分"
         },
         {
+          "title": "报道：Calpers上半年减码美股七巨头 转进私募股权",
+          "url": "https://wallstreetcn.com/livenews/3184235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
           "title": "美股收盘：SpaceX跌超9%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9ASpaceX%E8%B7%8C%E8%B6%859%25",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -370,7 +506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -395,6 +531,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股新能源汽车股走强，比亚迪股份(01211.HK)涨超6%，小鹏集团(09868.HK)涨5.5%，小米集团(01810.HK)、蔚来-SW(09866.HK)涨超5%，理想汽车(02015.HK)涨4.6%，赛力斯(09927.HK)涨3.4%。",
+          "url": "https://flash.jin10.com/detail/20261023141943505800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         }
       ]
     }
