@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T01:56:23.684761+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-25T04:25:02.759298+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -37,52 +37,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
           "url": "https://wallstreetcn.com/articles/3784391",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
           "url": "https://wallstreetcn.com/articles/3784388",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-          "url": "https://wallstreetcn.com/livenews/3185149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -92,19 +84,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
           "url": "https://wallstreetcn.com/articles/3784379",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -114,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -125,19 +118,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
-          "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
-          "source": "澎湃新闻",
+          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
+          "url": "https://wallstreetcn.com/livenews/3185149",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时25分]"
+        },
+        {
+          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时25分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -145,6 +149,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时25分]"
+        },
+        {
+          "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -164,8 +179,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         },
         {
           "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
@@ -175,8 +190,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         }
       ]
     },
@@ -192,8 +207,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时25分]"
         }
       ]
     }
