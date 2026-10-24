@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T13:29:45.486293+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-10-24T18:28:47.881155+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 18时28分]"
         },
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -43,15 +43,61 @@
           "time_info": "[02时55分 ~ 06时34分]"
         },
         {
+          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
+          "url": "https://wallstreetcn.com/articles/3784376",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "字节AI应用再整合：小云雀并入即梦",
+          "url": "https://flash.jin10.com/detail/20261024180148262800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "父亲突发脑梗儿子用AI抢出救命时间",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%84%BF%E5%AD%90%E7%94%A8AI%E6%8A%A2%E5%87%BA%E6%95%91%E5%91%BD%E6%97%B6%E9%97%B4%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "url": "https://www.cls.cn/detail/2513560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 18时28分]"
+        },
+        {
+          "title": "当AI开始写代码，还需要什么样的程序员？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 18时28分]"
         },
         {
           "title": "AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！",
@@ -75,8 +121,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 18时28分]"
+        },
+        {
+          "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784326",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时34分 ~ 13时29分]"
+          "time_info": "[08时47分 ~ 18时28分]"
         },
         {
           "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
@@ -91,15 +148,16 @@
           "time_info": "[02时55分 ~ 06时34分]"
         },
         {
-          "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784326",
-          "source": "华尔街见闻",
+          "title": "抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34320317",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时47分 ~ 13时29分]"
+          "time_info": "[13时29分 ~ 18时28分]"
         },
         {
           "title": "国务院定调：减缓AI应用就业替代影响",
@@ -108,29 +166,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
-          "url": "https://www.cls.cn/detail/2513560",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "当AI开始写代码，还需要什么样的程序员？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -146,15 +182,26 @@
           "time_info": "08时47分"
         },
         {
-          "title": "抖音通报“AI小海”治理结果：相关人物系AI合成数字人，相关账号及内容已被依规处置",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34320317",
-          "source": "澎湃新闻",
+          "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
+          "url": "https://www.cls.cn/detail/2513542",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美国两党批AI高管脱离民众 要求他们少说多做",
+          "url": "https://flash.jin10.com/detail/20261024172440762800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "AI短剧公司几乎不需要基础岗",
@@ -163,7 +210,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -174,7 +221,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -185,7 +232,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -218,7 +265,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -240,7 +287,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         }
@@ -258,8 +305,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 18时28分]"
         },
         {
           "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
@@ -267,11 +314,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 18时28分]"
         },
         {
           "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，布油涨3%",
@@ -310,8 +358,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 18时28分]"
         }
       ]
     },
@@ -324,11 +372,12 @@
           "url": "https://www.zhihu.com/question/2095562516445320151",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 13时29分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 18时28分]"
         }
       ]
     }
