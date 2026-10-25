@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-10-25T08:59:42.669092+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-10-25T13:54:55.873881+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "url": "https://www.cls.cn/detail/2513560",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
+        },
+        {
+          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
+          "url": "https://wallstreetcn.com/articles/3784391",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
+        },
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
           "url": "https://wallstreetcn.com/articles/3784376",
@@ -19,15 +44,18 @@
           "time_info": "[01时56分 ~ 08时59分]"
         },
         {
-          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
-          "url": "https://www.cls.cn/detail/2513560",
-          "source": "财联社热门",
+          "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
+          "url": "https://wallstreetcn.com/articles/3784388",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7,
+            5,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -35,37 +63,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
-          "url": "https://wallstreetcn.com/articles/3784391",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
             4,
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
-          "url": "https://wallstreetcn.com/articles/3784388",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
@@ -86,11 +89,50 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
+        },
+        {
+          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
+          "time_info": "[04时24分 ~ 13时54分]"
+        },
+        {
+          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+          "url": "https://www.cls.cn/detail/2514203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
+        },
+        {
+          "title": "AI大肥鱼自主运营B站",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%87%AA%E4%B8%BB%E8%BF%90%E8%90%A5B%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -107,16 +149,17 @@
           "time_info": "[01时56分 ~ 08时59分]"
         },
         {
-          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-          "url": "https://www.cls.cn/detail/2514203",
-          "source": "财联社热门",
+          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
+          "url": "https://wallstreetcn.com/livenews/3185149",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12
+            7,
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
+          "time_info": "[01时56分 ~ 13时54分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -129,31 +172,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-          "url": "https://wallstreetcn.com/livenews/3185149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-          "url": "https://wallstreetcn.com/articles/3784381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 08时59分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -179,13 +197,68 @@
           "time_info": "[06时58分 ~ 08时59分]"
         },
         {
+          "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
+          "url": "https://www.zhihu.com/question/2096913276739367170",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "AI歌曲《过来人》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
+          "url": "https://wallstreetcn.com/articles/3784397",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "url": "https://www.cls.cn/detail/2514275",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
           "title": "2026 年 10 月 Steam 新品节被指 AI 游戏过多，怎么全民做游戏的浪潮刚开始就人人喊打了？",
           "url": "https://www.zhihu.com/question/2096210471389077623",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
         },
@@ -207,9 +280,48 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小鹏",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "言短意长｜小鹏还在“圆”，道一声歉很难么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326329",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "小鹏还在“圆” 道一声歉很难么",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%BF%98%E5%9C%A8%E2%80%9C%E5%9C%86%E2%80%9D+%E9%81%93%E4%B8%80%E5%A3%B0%E6%AD%89%E5%BE%88%E9%9A%BE%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "车辆被撞报废安全气囊未弹 小鹏回应",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%92%9E%E6%8A%A5%E5%BA%9F%E5%AE%89%E5%85%A8%E6%B0%94%E5%9B%8A%E6%9C%AA%E5%BC%B9+%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
@@ -235,11 +347,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
         }
       ]
     },
@@ -256,8 +369,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 13时54分]"
         }
       ]
     }
