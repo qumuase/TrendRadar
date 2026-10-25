@@ -1,312 +1,143 @@
 {
-  "generated_at": "2026-10-25T22:54:20.426047+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-10-26T02:14:26.378620+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
-          "url": "https://www.cls.cn/detail/2513560",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 22时54分]"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 22时54分]"
-        },
-        {
-          "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
-          "url": "https://wallstreetcn.com/articles/3784391",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 13时54分]"
-        },
-        {
-          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
-          "url": "https://wallstreetcn.com/articles/3784376",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
-          "url": "https://wallstreetcn.com/articles/3784388",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 13时54分]"
-        },
-        {
-          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-          "url": "https://www.cls.cn/detail/2514247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 22时54分]"
-        },
-        {
-          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-          "url": "https://www.cls.cn/detail/2514203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 22时54分]"
-        },
-        {
-          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
-          "url": "https://wallstreetcn.com/articles/3784381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时24分 ~ 18时56分]"
-        },
-        {
-          "title": "当AI开始写代码，还需要什么样的程序员？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
-          "url": "https://wallstreetcn.com/livenews/3185149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 18时56分]"
-        },
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
           "url": "https://wallstreetcn.com/articles/3784282",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
-        },
-        {
-          "title": "AI大肥鱼自主运营B站",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%87%AA%E4%B8%BB%E8%BF%90%E8%90%A5B%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3784379",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "央视曝AI人哭着卖惨带货",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9DAI%E4%BA%BA%E5%93%AD%E7%9D%80%E5%8D%96%E6%83%A8%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
-        },
-        {
-          "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
-          "url": "https://www.cls.cn/detail/2513542",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 08时59分]"
-        },
-        {
-          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 22时54分]"
-        },
-        {
-          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
-          "url": "https://www.cls.cn/detail/2514275",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 22时54分]"
+          "time_info": "02时14分"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
           "url": "https://wallstreetcn.com/articles/3784405",
           "source": "华尔街见闻",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "url": "https://www.cls.cn/detail/2513560",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
+          "url": "https://wallstreetcn.com/livenews/3185242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
+          "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
-          "url": "https://wallstreetcn.com/articles/3784406",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
-        },
-        {
-          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
-          "url": "https://www.cls.cn/detail/2514315",
+          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+          "url": "https://www.cls.cn/detail/2514247",
           "source": "财联社热门",
           "ranks": [
-            11,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
-        },
-        {
-          "title": "字节AI应用再整合：小云雀并入即梦",
-          "url": "https://wallstreetcn.com/livenews/3185128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
           "url": "https://wallstreetcn.com/articles/3784410",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "AI交易崩盘，Anthropic会推迟\"超级IPO\"吗？距离11月中旬\"预定上市日期\"不远了",
-          "url": "https://wallstreetcn.com/articles/3784380",
+          "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+          "url": "https://wallstreetcn.com/articles/3784406",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时59分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "url": "https://www.cls.cn/detail/2514275",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
+          "url": "https://www.cls.cn/detail/2514315",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+          "url": "https://www.cls.cn/detail/2514203",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -316,231 +147,80 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "首部AI院线电影，票房过百万",
           "url": "https://wallstreetcn.com/livenews/3185220",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
+          "time_info": "02时14分"
         },
         {
           "title": "上海国家会计学院：AI时代企业更需要将技术与财务有机结合",
           "url": "https://wallstreetcn.com/livenews/3185219",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "陶哲轩称 AI 的数学成果称把解题当基准测试，犹如抛出「有毒废料」，如何看待这一评价？",
-          "url": "https://www.zhihu.com/question/2096913276739367170",
-          "source": "知乎",
-          "ranks": [
-            8
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "02时14分"
         },
         {
-          "title": "AI歌曲《过来人》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%8C%E6%9B%B2%E3%80%8A%E8%BF%87%E6%9D%A5%E4%BA%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
-          "url": "https://wallstreetcn.com/articles/3784397",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "阿波罗首席经济学家：AI尚未给科技业以外的美国企业带来回报",
-          "url": "https://flash.jin10.com/detail/20261025182545948800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "沙特民防部门：也门胡塞武装发射的两枚弹道导弹在被拦截后，其碎片落入哈米斯穆沙伊特（Khamis Mushait）和阿哈德拉菲达（Ahad Rafidah）地区，造成两人受伤。",
-          "url": "https://flash.jin10.com/detail/20261025212403229800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "2026 年 10 月 Steam 新品节被指 AI 游戏过多，怎么全民做游戏的浪潮刚开始就人人喊打了？",
-          "url": "https://www.zhihu.com/question/2096210471389077623",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        },
-        {
-          "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34317944",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "AI泡沫或在2028年初破裂",
-          "url": "https://www.toutiao.com/trending/7699860703661788691/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小鹏",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "言短意长｜小鹏还在“圆”，道一声歉很难么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34326329",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 22时54分]"
-        },
-        {
-          "title": "言短意长｜与其纠结“老登”，小鹏汽车不如多关心自身安全性能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328596",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 22时54分]"
-        },
-        {
-          "title": "小鹏还在“圆” 道一声歉很难么",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%BF%98%E5%9C%A8%E2%80%9C%E5%9C%86%E2%80%9D+%E9%81%93%E4%B8%80%E5%A3%B0%E6%AD%89%E5%BE%88%E9%9A%BE%E4%B9%88",
+          "title": "丈母娘也开始抢AI人了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E6%AF%8D%E5%A8%98%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%8A%A2AI%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "车辆被撞报废安全气囊未弹 小鹏回应",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E8%BE%86%E8%A2%AB%E6%92%9E%E6%8A%A5%E5%BA%9F%E5%AE%89%E5%85%A8%E6%B0%94%E5%9B%8A%E6%9C%AA%E5%BC%B9+%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "02时14分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "小鹏",
+      "match_count": 2,
       "titles": [
         {
-          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 04时25分]"
-        },
-        {
-          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2514112",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 18时56分]"
-        },
-        {
-          "title": "但斌美股持仓曝光",
-          "url": "https://flash.jin10.com/detail/20261025222630070800",
-          "source": "金十数据",
+          "title": "言短意长｜小鹏还在“圆”，道一声歉很难么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34326329",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
+          "time_info": "02时14分"
+        },
         {
-          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
-          "url": "https://www.cls.cn/detail/2514116",
-          "source": "财联社热门",
+          "title": "言短意长｜与其纠结“老登”，小鹏汽车不如多关心自身安全性能",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328596",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 18时56分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         }
       ]
     }
