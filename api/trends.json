@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T06:58:44.332609+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-10-25T08:59:42.669092+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
@@ -63,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
@@ -72,11 +73,24 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
+        },
+        {
+          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+          "url": "https://www.cls.cn/detail/2514247",
+          "source": "财联社热门",
+          "ranks": [
+            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
@@ -85,55 +99,48 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
-        },
-        {
-          "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-          "url": "https://www.cls.cn/detail/2514247",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
           "url": "https://www.cls.cn/detail/2514203",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
           "url": "https://www.cls.cn/detail/2513542",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
           "url": "https://wallstreetcn.com/livenews/3185149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 08时59分]"
         },
         {
           "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -141,11 +148,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时24分 ~ 08时59分]"
         },
         {
           "title": "字节AI应用再整合：小云雀并入即梦",
@@ -163,11 +171,23 @@
           "url": "https://wallstreetcn.com/articles/3784380",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时59分]"
+        },
+        {
+          "title": "2026 年 10 月 Steam 新品节被指 AI 游戏过多，怎么全民做游戏的浪潮刚开始就人人喊打了？",
+          "url": "https://www.zhihu.com/question/2096210471389077623",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时58分"
+          "time_info": "08时59分"
         },
         {
           "title": "《过来人》和Yuri：两场AI音乐试验都在守“人味”",
@@ -179,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "AI泡沫或在2028年初破裂",
+          "url": "https://www.toutiao.com/trending/7699860703661788691/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -203,11 +234,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         }
       ]
     },
@@ -224,8 +256,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 08时59分]"
         }
       ]
     }
